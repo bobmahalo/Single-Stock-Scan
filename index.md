@@ -7,3 +7,4 @@ Welcome to the central hub for all deep-dive stock scans.
 - [MU Report](MU.html)
 - [NVDA Report](NVDA.html)
 - [SEZL Report](SEZL.html)
+- [SPCX Report](SPCX.html)
