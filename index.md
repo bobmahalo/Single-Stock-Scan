@@ -1,2 +1,7 @@
-# Single Stock Deep Dives
-Welcome to the Antigravity Deep Dive repository. Click on a ticker to view the report.
+# 🗂️ Antigravity: Single Stock Reports Directory
+Welcome to the central hub for all deep-dive stock scans.
+
+### Available Reports:
+- [GME Report](GME.html)
+- [GOOGL Report](GOOGL.html)
+- [SEZL Report](SEZL.html)
