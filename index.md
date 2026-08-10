@@ -8,5 +8,6 @@ Welcome to the central hub for all deep-dive stock scans.
 - [MU Report](MU.html)
 - [NFLX Report](NFLX.html)
 - [NVDA Report](NVDA.html)
+- [OKLO Report](OKLO.html)
 - [SEZL Report](SEZL.html)
 - [SPCX Report](SPCX.html)
