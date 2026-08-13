@@ -15,5 +15,6 @@ Welcome to the central hub for all deep-dive stock scans.
 - [OKLO Report](OKLO.html)
 - [SEZL Report](SEZL.html)
 - [SPCX Report](SPCX.html)
+- [TSLA Report](TSLA.html)
 - [UNH Report](UNH.html)
 - [WDAY Report](WDAY.html)
