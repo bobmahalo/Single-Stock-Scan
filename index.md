@@ -16,3 +16,4 @@ Welcome to the central hub for all deep-dive stock scans.
 - [SEZL Report](SEZL.html)
 - [SPCX Report](SPCX.html)
 - [UNH Report](UNH.html)
+- [WDAY Report](WDAY.html)
