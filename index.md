@@ -8,6 +8,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [EXEL Report](EXEL.html)
 - [GME Report](GME.html)
 - [GOOGL Report](GOOGL.html)
+- [KO Report](KO.html)
 - [MU Report](MU.html)
 - [NFLX Report](NFLX.html)
 - [NVDA Report](NVDA.html)
