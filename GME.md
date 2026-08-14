@@ -1,47 +1,97 @@
+# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: GME
+> Report Generated: 2026-08-14 06:39:55 HST
 
-================================================================================
- ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: GME
-================================================================================
-Fetching fundamental data... (This may take 15-20 seconds)
+## PRONG 1: THE COMPANY (Critical Fundamentals)
 
-================================================================================
- THE TRADING DASHBOARD (Macro & Options)
-================================================================================
-  [ MACRO EVENT RADAR (45-Day) ]
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 7 Days (2026-08-07)
-  ⚠️ Core CPI Inflation Data in 12 Days (2026-08-12)
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 35 Days (2026-09-04)
-  ⚠️ Core CPI Inflation Data in 42 Days (2026-09-11)
+- **Price:** $18.65
+- **Market Cap:** $8,368,091,648
+- **Next Earnings:** N/A
+- **Directly Registered:** 177,522 Shareholders *(High Conviction Base)*
 
-  [ GAMMA EXPOSURE (GEX) & EXPECTED MOVE ]
+### Valuation & Financial Health
+| Metric | Value |
+| :--- | :--- |
+| P/E Ratio | 14.22 |
+| PEG Ratio | None |
+| P/TBV | 1.43 |
+| Shareholder Yield | 0.00% (Div: 0.0% \| Buybacks: 0.0%) |
+| Altman Z-Score | **2.24** *(>3.0 is Safe)* |
+| Current Ratio | 12.40 |
+| Piotroski F-Score | 5 / 9 |
+| ROIC (Annualized) | 15.33% |
+| FCF Yield | 15.91% |
+
+### SEC Financial Trajectory
+- **Verdict:** ELIMINATE *(Score: 0)*
+- **FCF Grade:** A - Strong growth +127%, 71% quarters improving
+- **Net Income Grade:** A - Strong growth +21353%, 71% quarters improving
+- **Revenue Grade:** D - Mild decline -7%
+
+### Management & Board (Skin in the Game)
+- **Insider Score:** 93/100
+- **Net Insider Trade:** $20,354,636
+- **Comp Score:** 0/100 *(Equity vs Cash)*
+- **Overall Integrity:** 75/100
+
+## PRONG 2: THE MARKET (Structural & Derivatives)
+
+### Market Regime & Trend
+- **VIX Regime:** 🟢 CALM *(VIX: 14.47)*
+- **Trend Verdict:** 🟡 CONDITIONAL — Some signals good, watch the weak spots.
+
+### Accumulation / Distribution
+- **Verdict:** RED LIGHT (Distribution / Avoid)
+- **Insider Signal:** WHALE ACTIVITY
+- **Whale Alerts:** 13 Active 13D/A Filings Found!
+
+### Off-Exchange & Short Interest
+- **Avg Dark Short Vol:** 1,731,530 shares/day
+- **Avg Dark Short %:** 61.7% of Off-Exchange Volume
+
+## THE TRADING DASHBOARD (Macro & Options)
+
+### Macro Event Radar (45-Day)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 21 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 27 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 28 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 33 Days (2026-09-16)
+
+### Gamma Exposure (GEX) & Expected Move
+```text
 
 Initializing Schwab Client...
 Debug: Client initialized with Key: 2Hy2...
-Current Price of GME: $21.73
-Fetching options chain from 2026-07-31 to 2026-09-14...
+Current Price of GME: $18.65
+Fetching options chain from 2026-08-14 to 2026-09-28...
+Days to Earnings  : 25 Days (Date: 2026-09-08)
+Near-Term ATM IV  : 📈 50% `[████░░░░]`
 
 ================================================================================
  TACTICAL RADAR (0-14 DTE) FOR GME
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$21.00  <-- EM LOWER BOUND | 4622       | 2091       | -104,918     | 39,680       | -65,239     
-$21.50  <-- PRICE | 3767       | 9200       | -332,815     | 923,392      | 590,577     
-$22.00  <-- PRICE | 3457       | 24203      | -227,058     | 1,868,292    | 1,641,234   
-$22.50  <-- EM UPPER BOUND | 1060       | 15268      | -27,511      | 352,483      | 324,972     
-$23.00         | 1247       | 25493      | -19,240      | 327,205      | 307,965     
-$23.50         | 356        | 6443       | -2,712       | 63,002       | 60,289      
-$24.00         | 230        | 14461      | -1,708       | 95,995       | 94,287      
-$25.00         | 688        | 13409      | -3,945       | 53,378       | 49,433      
+$17.00         | 2614       | 484        | -26,543      | 4,239        | -22,305     
+$17.50         | 3962       | 382        | -58,032      | 5,696        | -52,336     
+$18.00  <-- EM LOWER BOUND | 6861       | 1356       | -198,518     | 36,179       | -162,339    
+$18.50  <-- PRICE | 4813       | 4290       | -533,786     | 508,238      | -25,548     
+$19.00  <-- PRICE | 11666      | 14441      | -595,053     | 798,276      | 203,224     
+$19.50  <-- EM UPPER BOUND | 2530       | 12543      | -67,443      | 253,238      | 185,795     
+$20.00         | 4044       | 25628      | -68,984      | 358,450      | 289,466     
+$20.50         | 399        | 4421       | -5,141       | 34,155       | 29,014      
+$21.00         | 5709       | 12674      | -56,368      | 100,600      | 44,232      
+$22.00         | 6179       | 24257      | -35,466      | 121,181      | 85,715      
+$23.00         | 1304       | 12391      | -4,137       | 36,722       | 32,585      
+$25.00         | 342        | 22234      | -621         | 37,961       | 37,340      
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $0.76
-Expected Range: $20.98 to $22.49
+Calculated EM: +/- $0.73
+Expected Range: $17.92 to $19.39
 
 [ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $21.50 (Put GEX: -332,815)
-Major Resistance (Upper Bound) : $22.00 (Call GEX: 1,868,292)
+Major Support (Lower Bound)    : $18.50 (Put GEX: -533,786)
+Major Resistance (Upper Bound) : $19.00 (Call GEX: 798,276)
 
 Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
 ================================================================================
@@ -54,223 +104,134 @@ Action: Monitor these levels for immediate volatility and Gamma squeeze potentia
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$19.00         | 63         | 0          | -402         | 0            | -402        
-$20.00  <-- EM LOWER BOUND | 87         | 1          | -957         | 11           | -946        
-$21.00  <-- PRICE | 60         | 24         | -1,103       | 413          | -690        
-$21.50  <-- PRICE | 94         | 13         | -2,181       | 273          | -1,908      
-$22.00  <-- PRICE | 109        | 191        | -2,511       | 3,873        | 1,362       
-$22.50  <-- PRICE | 6          | 48         | -139         | 931          | 793         
-$23.00         | 56         | 733        | -1,477       | 14,660       | 13,183      
-$23.50  <-- EM UPPER BOUND | 57         | 75         | -1,226       | 1,208        | -18         
-$24.00         | 25         | 705        | -373         | 9,658        | 9,286       
-$25.00         | 1          | 450        | -8           | 4,405        | 4,397       
-$27.00         | 0          | 71         | 0            | 390          | 390         
-$28.00         | 0          | 174        | 0            | 766          | 766         
-$32.00         | 0          | 209        | 0            | 752          | 752         
-$35.00         | 0          | 268        | 0            | 509          | 509         
+$15.00         | 3091       | 1738       | -13,601      | 7,661        | -5,940      
+$16.00         | 1050       | 7497       | -8,081       | 57,727       | 49,646      
+$17.00  <-- EM LOWER BOUND | 2720       | 593        | -32,604      | 7,116        | -25,488     
+$18.00  <-- PRICE | 10144      | 2257       | -161,656     | 35,744       | -125,912    
+$19.00  <-- PRICE | 8689       | 2949       | -133,897     | 45,415       | -88,482     
+$20.00         | 10260      | 8804       | -139,556     | 120,615      | -18,941     
+$21.00  <-- EM UPPER BOUND | 7489       | 6278       | -81,636      | 69,908       | -11,728     
+$22.00         | 5321       | 7179       | -43,137      | 61,909       | 18,772      
+$23.00         | 1824       | 5078       | -10,779      | 34,624       | 23,845      
+$24.00         | 708        | 4210       | -2,905       | 22,771       | 19,867      
+$25.00         | 1450       | 9674       | -3,915       | 42,600       | 38,685      
+$26.00         | 667        | 2726       | -1,134       | 10,091       | 8,957       
+$27.00         | 225        | 4924       | -158         | 15,286       | 15,129      
+$28.00         | 288        | 9432       | 0            | 25,470       | 25,470      
+$30.00         | 55         | 10665      | 0            | 22,437       | 22,437      
+$32.00         | 42         | 3391       | 0            | 5,765        | 5,765       
+$35.00         | 3          | 9039       | 0            | 10,917       | 10,917      
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $1.65
-Expected Range: $20.09 to $23.38
+Calculated EM: +/- $1.91
+Expected Range: $16.75 to $20.56
 
 [ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $21.50 (Put GEX: -2,181)
-Major Resistance (Upper Bound) : $23.00 (Call GEX: 14,660)
+Major Support (Lower Bound)    : $18.00 (Put GEX: -161,656)
+Major Resistance (Upper Bound) : $20.00 (Call GEX: 120,615)
 
 Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
 ================================================================================
 
 [+] Successfully exported clean data to gex_structural.csv
 
-Debug: Client initialized with Key: 2Hy2...
+```
 
-================================================================================
- TACTICAL BWB (BROKEN WING BUTTERFLY) FOR GME
-================================================================================
-  *What is this? We find the invisible Gamma Wall where Market Makers will defend
-  the stock from crashing. We build a trap right at that wall. If it crashes,
-  we collect max profit. If it goes up instead, the trap breaks and we still
-  keep a small credit. You literally cannot lose money on the upside.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-07-31 (0-DTE)
-  Implied Volatility (ATM): 50.56%
-  Tactical Expected Move: ±$0.58
-  Mathematical Danger Zone (Lower Bound): $21.16
-  Short-Term Gamma Support (MM Wall): $21.50
-
-  [ SUGGESTED TACTICAL BWB SETUP ]
-  BUY  1x  $22.50 Put
-  SELL 2x  $21.50 Put  <-- (Pinned at Gamma Wall)
-  BUY  1x  $19.50 Put  <-- (Broken Wing for Credit)
-
-  *Note: Ensure this is entered for a NET CREDIT.*
-================================================================================
+## OPTIONS STRATEGIES
 
 Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- CASH-SECURED PUTS (14-45 DTE) FOR GME
-================================================================================
-  *What is this? You sign a contract promising to buy this stock next month
-  if it drops in price, but you get paid cash right now for that promise.
-  If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
---------------------------------------------------------------------------------
-
-  [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-  SELL 1x 2026-08-28 (28-DTE) $20.00 Put
-  Premium Collected: $0.14
-  Annualized Yield : 9.1%
-  Safety Margin    : 8.6% (Breakeven: $19.86)
-  Max Pain Anchor  : $22.00 (Strike is protected)
-
-  [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-  SELL 1x 2026-08-21 (21-DTE) $21.00 Put
-  Premium Collected: $0.26
-  Annualized Yield : 21.5%
-  Safety Margin    : 4.6% (Breakeven: $20.74)
-================================================================================
-
+---
+### CASH-SECURED PUTS (14-45 DTE) FOR GME
+---
+*What is this? You sign a contract promising to buy this stock next month
+if it drops in price, but you get paid cash right now for that promise.
+If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
+### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
+SELL 1x 2026-09-18 (35-DTE) $16.00 Put
+Premium Collected: $0.16
+Annualized Yield : 10.4%
+Safety Margin    : 15.1% (Breakeven: $15.84)
+Max Pain Anchor  : $20.00 (Strike is protected)
+### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
+SELL 1x 2026-09-18 (35-DTE) $18.00 Put
+Premium Collected: $0.60
+Annualized Yield : 34.8%
+Safety Margin    : 6.7% (Breakeven: $17.40)
+---
 Debug: Client initialized with Key: 2Hy2...
 Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- THE BULL RISK REVERSAL (ZEBRA) FOR GME
-================================================================================
-  *What is this? You sell a Put at the exact floor where Market Makers are
-  defending the stock, getting paid cash. You immediately use that cash to
-  buy a Call at the ceiling. If the stock crashes, you buy it on sale at the
-  floor. If it rips through the ceiling, you have unlimited profit for zero cost.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-04 (35-DTE)
-
-  [ SUGGESTED RISK REVERSAL SETUP ]
-  SELL 1x  $21.50 Put  (Credit: $0.04)  <-- Gamma Support Wall
-  BUY  1x  $35.00 Call (Debit : $0.21)  <-- Gamma Resistance Wall
-  Total Net Cost   : $0.17 (Could not find a zero-cost setup)
-  Capital Required : $2,150.00 (To secure the put assignment if it crashes)
-  Max Upside Profit: UNLIMITED
-================================================================================
-
+---
+### THE BULL RISK REVERSAL FOR GME
+---
+*What is this? You sell a Put at a calculated optimal support floor, getting
+paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
+If the stock crashes, you buy it on sale. If it rips through the ceiling, you
+have unlimited profit for zero cost.*
+[!] NO SAFE RISK REVERSAL FOUND.
+The required Long Call is too far OTM (>15%) to be funded by the $17.00 Put.
+---
 Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- JADE LIZARD SETUP (30-45 DTE) FOR GME
-================================================================================
-  *What is this? You collect massive income from selling a put, and use that
-  cash to fully finance a call spread above the stock. Zero upside risk.
-  If the stock crashes, you buy it on sale. If it rips to the moon,
-  you still make money even if the call spread blows up.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-11 (42-DTE)
+---
+### JADE LIZARD SETUP (30-45 DTE) FOR GME
+---
+*What is this? You collect massive income from selling a put, and use that
+cash to fully finance a call spread above the stock. Zero upside risk.
+If the stock crashes, you buy it on sale. If it rips to the moon,
+you still make money even if the call spread blows up.*
+Target Expiration: 2026-09-25 (42-DTE)
 
   [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
-  *Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
-================================================================================
-
+*Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
+---
 Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- LEAPS HUNTER (300+ DTE) FOR GME
-================================================================================
-  *What is this? Instead of paying $32,000 to buy 100 shares of stock, you
-  pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
-  your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
---------------------------------------------------------------------------------
-  Target Expiration: 2028-12-15 (868-DTE)
+---
+### LEAPS HUNTER (300+ DTE) FOR GME
+---
+*What is this? Instead of paying $32,000 to buy 100 shares of stock, you
+pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
+your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
+Target Expiration: 2028-12-15 (854-DTE)
 
   [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-  BUY 1x $13.00 Call (Price: $11.65)
-  Delta: 0.87 (Moves 1:1 with stock)
-  Leverage: 1.9x (Cheaper than 100 shares)
-  Time Rent (Extrinsic): 13.41%
-  Breakeven: $24.65
-
-  [!] No suitable Lottery Ticket LEAPS found.
-================================================================================
-
+BUY 1x $3.00 Call (Price: $15.95)
+Delta: 0.98 (Moves 1:1 with stock)
+Leverage: 1.2x (Cheaper than 100 shares)
+Time Rent (Extrinsic): 1.61%
+Breakeven: $18.95
+### [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
+BUY 1x $40.00 Call (Price: $2.00)
+Delta: 0.30 (Explosive Convexity)
+Leverage: 9.3x
+*Note: High probability of expiring worthless. Small size only.*
+---
 Debug: Client initialized with Key: 2Hy2...
+---
+### VOLATILITY ARBITRAGE & SPECULATIVE PLAYS FOR GME
+---
+*What is this? We compare Implied Volatility (IV) to Historical Volatility (HV).
+If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
+we act as the casino and sell an Iron Butterfly to collect bloated premium.*
+[ VOLATILITY METRICS ]
+Historical Volatility (30-Day) : 38.26%
+Implied Volatility (ATM)       : 40.71%
+Premium Ratio (IV/HV)          : 1.06
 
-================================================================================
- HIGHLY SPECULATIVE PLAYS FOR GME (HIGH RISK / HIGH REWARD)
-================================================================================
-  *What is this? Pure directional lottery tickets. You are betting that the
-  stock explodes violently, or that it breaks a resistance wall forcing
-  Market Makers to panic buy millions of shares to cover their short calls.*
---------------------------------------------------------------------------------
+  [!] NO VOLATILITY EDGE FOUND.
+IV and HV are priced fairly (Ratio: 1.06). Avoid volatility trades.
+### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
+Identified Resistance Wall: 11,098 Open Contracts at $20.00
+Target Expiration: 2026-08-21 (7-DTE)
+BUY 1x $20.00 Call (Price: $0.07)
+*Logic: If the stock breaks $20.00, Market Makers must aggressively buy shares.*
+*Warning: Extremely high probability of 100% loss. Size accordingly.*
+---
 
-  [ VOLATILITY ERUPTION: THE ATM STRADDLE ]
-  Target Expiration: 2026-08-14 (14-DTE)
-  BUY 1x $21.50 Call (Price: $0.59)
-  BUY 1x $21.50 Put  (Price: $0.34)
-  Total Premium Risk: $0.93
-  Implied Move Needed: ±4.30%
-  Breakevens: < $20.57 OR > $22.43
-  *Logic: You don't care about direction, only velocity. Best played before earnings.*
+---
 
-  [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-  Identified Resistance Wall: 7,434 Open Contracts at $23.00
-  Target Expiration: 2026-08-07 (7-DTE)
-  BUY 1x $23.00 Call (Price: $0.08)
-  *Logic: If the stock breaks $23.00, Market Makers must aggressively buy shares.*
-  *Warning: Extremely high probability of 100% loss. Size accordingly.*
-================================================================================
+<details>
+<summary><strong>▶ Click here to view the V2 Master Methodology</strong></summary>
 
-
-================================================================================
- PRONG 1: THE COMPANY (Critical Fundamentals)
-================================================================================
-  Price:             $21.73
-  Market Cap:        $9,752,304,640
-  Next Earnings:     N/A
-  Directly Registered: 177,522 Shareholders (High Conviction Base)
-
-  [ VALUATION & GROWTH ]
-  P/E Ratio:         16.56
-  PEG Ratio:         None
-  P/TBV:             1.67
-  Shareholder Yield: 0.00% (Div: 0.0% | Buybacks: 0.0%)
-
-  [ FINANCIAL HEALTH ]
-  Altman Z-Score:    2.41 (>3.0 is Safe)
-  Current Ratio:     12.40
-  Piotroski F-Score: 5 / 9
-  ROIC (Annualized): 15.33%
-  FCF Yield:         13.65%
-
-  [ SEC FINANCIAL TRAJECTORY ]
-  Verdict:           ELIMINATE (Score: 0)
-  FCF Grade:         A - Strong growth +127%, 71% quarters improving
-  Net Income Grade:  A - Strong growth +21353%, 71% quarters improving
-  Revenue Grade:     D - Mild decline -7%
-
-  [ MANAGEMENT & BOARD (SKIN IN THE GAME) ]
-  Insider Score:     93/100
-  Net Insider Trade: $20,354,636
-  Comp Score:        0/100 (Equity vs Cash)
-  Overall Integrity: 75/100
-
-================================================================================
- PRONG 2: THE MARKET (Structural & Derivatives)
-================================================================================
-
-  [ MARKET REGIME & TREND ]
-  [ MARKET REGIME & TREND ]
-  VIX Regime:        🟡 NORMAL (VIX: 17.32)
-  Trend Verdict:     ❌ PASS — Scanner likes it, but the trend engine says no.
-
-  [ ACCUMULATION / DISTRIBUTION ]
-  Verdict:           HOLD / WATCH
-  Insider Signal:    WHALE ACTIVITY
-  Whale Alerts:      13 Active 13D/A Filings Found!
-
-  [ OFF-EXCHANGE & SHORT INTEREST ]
-  Avg Dark Short Vol: 966,218 shares/day
-  Avg Dark Short %:   66.7% of Off-Exchange Volume
-
-================================================================================
- APPENDIX: HOW TO READ THIS REPORT (THE PLUMBER'S VERSION)
-================================================================================
 # SINGLE STOCK ENGINE V2 — MASTER METHODOLOGY
 
 This document outlines every section of the `Single_Stock_Engine_V2.py` report, providing both a "Plumber's Version" (simple terms) and the "Meat & Potatoes" (technical mechanics) for each engine.
@@ -297,14 +258,19 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 
 ---
 
-## 3. THE BULL RISK REVERSAL / ZEBRA (30-45 DTE)
+## 3. THE BULL RISK REVERSAL (30-45 DTE)
 **Goal:** Pure directional leverage funded by market makers, with zero upfront cost.
-**The Play:** Sell an OTM Put exactly at the Gamma Support Wall. Use 100% of the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
-**The Logic:** If you believe in a stock and want to own it, you shouldn't mind being assigned on a short put. By selling that put, you generate cash. Instead of keeping the cash, you buy a lottery ticket (Long Call) on the upside.
-*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support wall.
+**The Play:** Sell an OTM Put at the calculated optimal support buffer. Use the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
+**The Logic:** 
+*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support buffer.
 *   **If it stays flat:** Both options expire worthless. You lose nothing, because the short put paid for the long call.
 *   **If it rips:** You capture infinite upside from the Long Call, exactly as if you owned 100 shares, but you paid $0.00 to enter the trade.
-*   **Note:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost.
+
+**Meat & Potatoes (Technical Mechanics):**
+*   **Optimal Strike Buffer:** The engine calculates a "Midpoint Target" exactly halfway between the Gamma Support Wall and the Expected Move Lower Bound. This provides a deep margin of safety.
+*   **Anti-Lottery Ticket Rule:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost. However, if it has to push the Long Call strike further than 15% Out-Of-The-Money to achieve this, it triggers a circuit breaker and aborts to prevent buying worthless lottery tickets.
+
+---
 
 ## 4. JADE LIZARD (30-45 DTE)
 **The Plumber's Version:** You want to collect income from a stock you think will trade sideways or go up, but you are terrified of it ripping higher and blowing up your short call. A Jade Lizard solves this. You sell a Put to collect fat premium, and use that cash to fully finance a Call spread above the stock. If the stock crashes, you buy it at a discount. If the stock rips to the moon, the premium you collected is mathematically larger than the width of the Call spread, meaning you still make money even if the spread blows up. Zero upside risk.
@@ -326,12 +292,15 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 
 ---
 
-## 6. SPECULATIVE PLAYS
-**The Plumber's Version (Straddle):** You don't know if the stock is going to moon or crash, but you know it's going to do *something* massive (like earnings). You bet on both horses. As long as the stock explodes in one direction, the winning horse pays for the losing horse and then some.
+## 6. VOLATILITY ARBITRAGE & SPECULATIVE PLAYS
+**The Plumber's Version (Volatility Arbitrage):** You act as the casino. If the market is sleepy (premium is cheap), you buy a Straddle to catch the inevitable breakout. If the market is panicking (premium is bloated), you sell an Iron Butterfly to collect the inflated cash while safely capping your risk.
 **The Plumber's Version (Gamma Squeeze):** You find the massive wall Market Makers built above the stock. You buy a cheap lottery ticket right below the wall. If retail pushes the stock hard enough to break the wall, the Market Makers panic, buy millions of shares to cover their asses, and accidentally launch your lottery ticket to the moon.
 
 **Meat & Potatoes (Technical Mechanics):**
-*   **Straddle (14-30 DTE):** Dynamically finds the cheapest At-The-Money Call and Put. Combines them into a Straddle and calculates exactly how much of a percentage move is required to break even. Highly reliant on Volatility Expansion.
+*   **Volatility Arbitrage:** The engine dynamically compares Implied Volatility (IV) from the options chain to the stock's 30-Day Historical Volatility (HV, derived from std dev of daily log returns). 
+    *   **Long Straddle:** Triggers if Premium Ratio (IV/HV) < 0.80.
+    *   **Short Iron Butterfly:** Triggers if Premium Ratio (IV/HV) >= 1.25. Uses 4x Expected Move wings to strictly cap downside.
+    *   **No Edge:** Aborts if ratio is between 0.80 and 1.25.
 *   **Gamma Squeeze (0-14 DTE):** Scans the short-term options chain for massive OTM Call Open Interest walls. Targets a cheap call slightly below the wall to front-run the MM delta-hedging feedback loop (Gamma Squeeze).
 
 ---
@@ -347,8 +316,4 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 *   **SEC Trajectory:** Scrapes actual SEC EDGAR filings to grade the multi-year trajectory of Revenue, Net Income, and Free Cash Flow.
 
 
-================================================================================
- SCAN COMPLETE.
- Report Saved: ~/Desktop/antigravity/Single_Stock_Pipeline/reports/GME_V2_Master_Report.md
-================================================================================
-
+</details>
