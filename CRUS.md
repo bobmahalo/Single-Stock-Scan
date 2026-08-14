@@ -2,7 +2,7 @@
 ================================================================================
  ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: CRUS
 ================================================================================
-Report Generated: 2026-08-14 05:20:37 HST
+Report Generated: 2026-08-14 05:29:24 HST
 
 Fetching fundamental data... (This may take 15-20 seconds)
 
@@ -19,20 +19,81 @@ Fetching fundamental data... (This may take 15-20 seconds)
 
 Initializing Schwab Client...
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
+Current Price of CRUS: $120.65
+Fetching options chain from 2026-08-14 to 2026-09-28...
+Days to Earnings  : 81 Days (Date: 2026-11-03)
+Near-Term ATM IV  : 📉 34% `[██░░░░░░]`
 
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
+================================================================================
+ TACTICAL RADAR (0-14 DTE) FOR CRUS
+================================================================================
+Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
+--------------------------------------------------------------------------------
+$100.00        | 12         | 30         | -10          | 24           | 14          
+$110.00        | 10         | 39         | -19          | 74           | 55          
+$115.00  <-- EM LOWER BOUND | 42         | 0          | -147         | 0            | -147        
+$120.00  <-- PRICE | 112        | 16         | -818         | 104          | -714        
+$125.00  <-- EM UPPER BOUND | 22         | 16         | -198         | 99           | -99         
+$130.00        | 124        | 12         | 0            | 38           | 38          
+$135.00        | 24         | 24         | 0            | 43           | 43          
+$140.00        | 5          | 103        | -10          | 154          | 145         
+$145.00        | 33         | 32         | 0            | 32           | 32          
+$150.00        | 2          | 27         | 0            | 19           | 19          
+$165.00        | 0          | 111        | 0            | 33           | 33          
+================================================================================
 
-Could not fetch price for CRUS. Check symbol or API keys.
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $3.68
+Expected Range: $116.97 to $124.33
+
+[ SUGGESTED STRIKES (TACTICAL) ]
+Major Support (Lower Bound)    : $120.00 (Put GEX: -818)
+Major Resistance (Upper Bound) : $140.00 (Call GEX: 154)
+
+Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
+================================================================================
+
+[+] Successfully exported clean data to gex_tactical.csv
+
+
+================================================================================
+ STRUCTURAL ANCHOR (30-45 DTE) FOR CRUS
+================================================================================
+Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
+--------------------------------------------------------------------------------
+$100.00        | 9          | 17         | -6           | 12           | 6           
+$105.00        | 38         | 6          | -49          | 7            | -42         
+$110.00  <-- EM LOWER BOUND | 7          | 14         | -13          | 25           | 13          
+$115.00        | 13         | 8          | -31          | 19           | -12         
+$120.00  <-- PRICE | 77         | 54         | -254         | 167          | -87         
+$125.00        | 16         | 30         | -48          | 84           | 36          
+$130.00  <-- EM UPPER BOUND | 32         | 40         | -93          | 104          | 11          
+$135.00        | 80         | 92         | -192         | 184          | -8          
+$140.00        | 5          | 26         | -9           | 42           | 33          
+$145.00        | 14         | 14         | -21          | 18           | -3          
+$150.00        | 4          | 88         | -5           | 97           | 92          
+$155.00        | 4          | 39         | 0            | 23           | 23          
+$160.00        | 0          | 117        | 0            | 70           | 70          
+$170.00        | 1          | 55         | 0            | 22           | 22          
+$180.00        | 0          | 93         | 0            | 28           | 28          
+$185.00        | 0          | 32         | 0            | 10           | 10          
+$230.00        | 0          | 101        | 0            | 20           | 20          
+================================================================================
+
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $9.07
+Expected Range: $111.59 to $129.72
+
+[ SUGGESTED STRIKES (STRUCTURAL) ]
+Major Support (Lower Bound)    : $120.00 (Put GEX: -254)
+Major Resistance (Upper Bound) : $135.00 (Call GEX: 184)
+
+Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
+================================================================================
+
+[+] Successfully exported clean data to gex_structural.csv
+
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 
 ================================================================================
  TACTICAL BWB (BROKEN WING BUTTERFLY) FOR CRUS
@@ -42,14 +103,21 @@ Please run 'Setup_Schwab.command' to log in again.
   we collect max profit. If it goes up instead, the trap breaks and we still
   keep a small credit. You literally cannot lose money on the upside.*
 --------------------------------------------------------------------------------
-  [!] No short-term options chain found for CRUS within 7 days.
+  Target Expiration: 2026-08-21 (7-DTE)
+  Implied Volatility (ATM): 34.45%
+  Tactical Expected Move: ±$5.75
+  Mathematical Danger Zone (Lower Bound): $114.85
+  Short-Term Gamma Support (MM Wall): $120.00
+
+  [ SUGGESTED TACTICAL BWB SETUP ]
+  BUY  1x  $125.00 Put
+  SELL 2x  $120.00 Put  <-- (Pinned at Gamma Wall)
+  BUY  1x  $110.00 Put  <-- (Broken Wing for Credit)
+
+  *Note: Ensure this is entered for a NET CREDIT.*
+================================================================================
+
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 
 ================================================================================
  CASH-SECURED PUTS (14-45 DTE) FOR CRUS
@@ -58,16 +126,19 @@ Please run 'Setup_Schwab.command' to log in again.
   if it drops in price, but you get paid cash right now for that promise.
   If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
 --------------------------------------------------------------------------------
-  [!] No valid PUT chain found for CRUS.
+
+  [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
+  SELL 1x 2026-09-18 (35-DTE) $115.00 Put
+  Premium Collected: $1.70
+  Annualized Yield : 15.4%
+  Safety Margin    : 6.1% (Breakeven: $113.30)
+  Max Pain Anchor  : $130.00 (Strike is protected)
+
+  *Note: The High-Yield scanner identified the exact same strike as the optimal setup.*
+================================================================================
+
 Debug: Client initialized with Key: 2Hy2...
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
-Could not fetch price for CRUS. Check symbol or API keys.
 
 ================================================================================
  THE BULL RISK REVERSAL (ZEBRA) FOR CRUS
@@ -77,14 +148,17 @@ Could not fetch price for CRUS. Check symbol or API keys.
   buy a Call at the ceiling. If the stock crashes, you buy it on sale at the
   floor. If it rips through the ceiling, you have unlimited profit for zero cost.*
 --------------------------------------------------------------------------------
-  [!] Could not locate Gamma Walls for CRUS.
+  Target Expiration: 2026-09-18 (35-DTE)
+
+  [ SUGGESTED RISK REVERSAL SETUP ]
+  SELL 1x  $120.00 Put  (Credit: $3.10)  <-- Gamma Support Wall
+  BUY  1x  $145.00 Call (Debit : $2.95)  <-- Gamma Resistance Wall
+  Total Net Credit : $0.15 (You get PAID to enter this)
+  Capital Required : $12,000.00 (To secure the put assignment if it crashes)
+  Max Upside Profit: UNLIMITED
+================================================================================
+
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 
 ================================================================================
  JADE LIZARD SETUP (30-45 DTE) FOR CRUS
@@ -94,14 +168,13 @@ Please run 'Setup_Schwab.command' to log in again.
   If the stock crashes, you buy it on sale. If it rips to the moon,
   you still make money even if the call spread blows up.*
 --------------------------------------------------------------------------------
-  [!] No valid 45-DTE chain found for CRUS.
+  Target Expiration: 2026-09-18 (35-DTE)
+
+  [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
+  *Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
+================================================================================
+
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 
 ================================================================================
  LEAPS HUNTER (300+ DTE) FOR CRUS
@@ -112,18 +185,6 @@ Please run 'Setup_Schwab.command' to log in again.
 --------------------------------------------------------------------------------
   [!] No valid LEAPS (>300 DTE) found for CRUS.
 Debug: Client initialized with Key: 2Hy2...
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
-Debug: Token expired, refreshing...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 
 ================================================================================
  HIGHLY SPECULATIVE PLAYS FOR CRUS (HIGH RISK / HIGH REWARD)
@@ -133,32 +194,44 @@ Please run 'Setup_Schwab.command' to log in again.
   Market Makers to panic buy millions of shares to cover their short calls.*
 --------------------------------------------------------------------------------
 
-  [!] No valid Straddle setup found.
+  [ VOLATILITY ERUPTION: THE ATM STRADDLE ]
+  Target Expiration: 2026-09-18 (35-DTE)
+  BUY 1x $120.00 Call (Price: $6.60)
+  BUY 1x $120.00 Put  (Price: $4.15)
+  Total Premium Risk: $10.75
+  Implied Move Needed: ±8.91%
+  Breakevens: < $109.25 OR > $130.75
+  *Logic: You don't care about direction, only velocity. Best played before earnings.*
 
-  [!] No valid Gamma Squeeze target found.
+  [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
+  Identified Resistance Wall: 24 Open Contracts at $135.00
+  Target Expiration: 2026-08-21 (7-DTE)
+  BUY 1x $135.00 Call (Price: $0.38)
+  *Logic: If the stock breaks $135.00, Market Makers must aggressively buy shares.*
+  *Warning: Extremely high probability of 100% loss. Size accordingly.*
 ================================================================================
 
 
 ================================================================================
  PRONG 1: THE COMPANY (Critical Fundamentals)
 ================================================================================
-  Price:             $121.03
-  Market Cap:        $6,065,728,000
+  Price:             $120.60
+  Market Cap:        $6,044,177,408
   Next Earnings:     N/A
   Directly Registered: 281 Shareholders (High Conviction Base)
 
   [ VALUATION & GROWTH ]
-  P/E Ratio:         14.8
-  PEG Ratio:         3.69
-  P/TBV:             3.50
-  Shareholder Yield: 4.06% (Div: 0.0% | Buybacks: 3.8%)
+  P/E Ratio:         14.75
+  PEG Ratio:         3.68
+  P/TBV:             3.49
+  Shareholder Yield: 4.08% (Div: 0.0% | Buybacks: 3.8%)
 
   [ FINANCIAL HEALTH ]
-  Altman Z-Score:    10.83 (>3.0 is Safe)
+  Altman Z-Score:    10.79 (>3.0 is Safe)
   Current Ratio:     7.58
   Piotroski F-Score: 7 / 9
   ROIC (Annualized): 20.44%
-  FCF Yield:         3.21%
+  FCF Yield:         3.22%
 
   [ SEC FINANCIAL TRAJECTORY ]
   Verdict:           PASS (Score: 63.0)
@@ -178,7 +251,7 @@ Please run 'Setup_Schwab.command' to log in again.
 
   [ MARKET REGIME & TREND ]
   [ MARKET REGIME & TREND ]
-  VIX Regime:        🟢 CALM (VIX: 14.47)
+  VIX Regime:        🟢 CALM (VIX: 14.5)
   Trend Verdict:     ❌ PASS — Scanner likes it, but the trend engine says no.
 
   [ ACCUMULATION / DISTRIBUTION ]
