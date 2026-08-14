@@ -4,6 +4,7 @@ Welcome to the central hub for all deep-dive stock scans.
 ### Available Reports:
 - [AAPL Report](AAPL.html)
 - [BBY Report](BBY.html)
+- [CRUS Report](CRUS.html)
 - [DOW Report](DOW.html)
 - [EXEL Report](EXEL.html)
 - [GME Report](GME.html)
