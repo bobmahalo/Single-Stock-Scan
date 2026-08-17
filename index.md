@@ -15,6 +15,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [NFLX Report](NFLX.html)
 - [NVDA Report](NVDA.html)
 - [OKLO Report](OKLO.html)
+- [PBI Report](PBI.html)
 - [SEZL Report](SEZL.html)
 - [SPCX Report](SPCX.html)
 - [TSLA Report](TSLA.html)
