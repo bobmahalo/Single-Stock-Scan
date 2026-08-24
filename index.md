@@ -6,6 +6,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [ACN Report](ACN.html)
 - [AMN Report](AMN.html)
 - [BBY Report](BBY.html)
+- [CE Report](CE.html)
 - [CRUS Report](CRUS.html)
 - [DECK Report](DECK.html)
 - [DOW Report](DOW.html)
