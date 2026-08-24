@@ -3,6 +3,7 @@ Welcome to the central hub for all deep-dive stock scans.
 
 ### Available Reports:
 - [AAPL Report](AAPL.html)
+- [ACN Report](ACN.html)
 - [BBY Report](BBY.html)
 - [CRUS Report](CRUS.html)
 - [DECK Report](DECK.html)
