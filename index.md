@@ -7,6 +7,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [AMN Report](AMN.html)
 - [BBY Report](BBY.html)
 - [CE Report](CE.html)
+- [CNXC Report](CNXC.html)
 - [CRUS Report](CRUS.html)
 - [DECK Report](DECK.html)
 - [DOW Report](DOW.html)
