@@ -12,6 +12,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [DECK Report](DECK.html)
 - [DOW Report](DOW.html)
 - [EXEL Report](EXEL.html)
+- [GCO Report](GCO.html)
 - [GME Report](GME.html)
 - [GOOGL Report](GOOGL.html)
 - [KO Report](KO.html)
