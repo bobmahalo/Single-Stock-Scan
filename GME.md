@@ -1,31 +1,40 @@
-# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: GME
-> Report Generated: 2026-08-14 06:49:53 HST
+# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: GME
+> Report Generated: 2026-08-26 08:18:52 HST
 
 ## PRONG 1: THE COMPANY (Critical Fundamentals)
 
-- **Price:** $18.64
-- **Market Cap:** $8,364,816,896
+### GameStop Corporation (Consumer Cyclical — Specialty Retail)
+> *GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads. It also sells collectibles comprising apparel, toys, trading cards, gadgets, and other retail products for pop culture and technology enthusiasts. The company operates stores and e-commerce sites under the GameStop, EB Games, and Micromania brands; and pop culture themed stores that sell collectibles, apparel, gadgets, electronics, toys, and other retail products under the Zing Pop Culture brand. The company was formerly known as GSC Holdings Corp. GameStop Corp. was founded in 1996 and is based in Grapevine, Texas.*
+
+- **Price:** $17.90
+- **Market Cap:** $8,031,573,504
 - **Next Earnings:** 2026-09-08
 - **Directly Registered:** 177,522 Shareholders *(High Conviction Base)*
 
 ### Valuation & Financial Health
 | Metric | Value |
 | :--- | :--- |
-| P/E Ratio | 14.2 |
+| P/E Ratio | 13.64 |
 | PEG Ratio | None |
-| P/TBV | 1.43 |
+| P/TBV | 1.37 |
 | Shareholder Yield | 0.00% (Div: 0.0% \| Buybacks: 0.0%) |
-| Altman Z-Score | **2.24** *(>3.0 is Safe)* |
+| Altman Z-Score | **2.21** *(>3.0 is Safe)* |
 | Current Ratio | 12.40 |
 | Piotroski F-Score | 5 / 9 |
 | ROIC (Annualized) | 15.33% |
-| FCF Yield | 15.92% |
+| FCF Yield | 16.58% |
 
 ### SEC Financial Trajectory
 - **Verdict:** ELIMINATE *(Score: 0)*
 - **FCF Grade:** A - Strong growth +127%, 71% quarters improving
 - **Net Income Grade:** A - Strong growth +21353%, 71% quarters improving
 - **Revenue Grade:** D - Mild decline -7%
+
+### SEC Fraud Forensics
+- **Overall Verdict:** ✅ CLEAN
+- **Bad Debt (AR vs Allowance):** ✅ PASS - Insufficient AR/Allowance data.
+- **Revenue Acceleration (DSO):** ✅ PASS - Insufficient AR/Revenue data.
+- **Operating Expense Cap (WorldCom):** ✅ PASS - Insufficient OpEx/CapEx data.
 
 ### Management & Board (Skin in the Game)
 - **Insider Score:** 93/100
@@ -36,7 +45,7 @@
 ## PRONG 2: THE MARKET (Structural & Derivatives)
 
 ### Market Regime & Trend
-- **VIX Regime:** 🟢 CALM *(VIX: 14.47)*
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.41)*
 - **Trend Verdict:** 🟡 CONDITIONAL — Some signals good, watch the weak spots.
 
 ### Accumulation / Distribution
@@ -45,53 +54,66 @@
 - **Whale Alerts:** 13 Active 13D/A Filings Found!
 
 ### Off-Exchange & Short Interest
-- **Avg Dark Short Vol:** 1,731,530 shares/day
-- **Avg Dark Short %:** 61.7% of Off-Exchange Volume
+- **Avg Dark Short Vol:** 1,263,393 shares/day
+- **Avg Dark Short %:** 54.0% of Off-Exchange Volume
 
 ## THE TRADING DASHBOARD (Macro & Options)
 
+
+### ⚓ The Harbor Master's Verdict
+> **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 95/100. Market Weather is Bullish [⚠️ HIGH OW ANOMALIES]. | 🚨 Congressional Whale Trades Detected!**
+
+*<small>The Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
+
 ### Macro Event Radar (45-Day)
-- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 21 Days (2026-09-04)
-- ⚠️ PPI Inflation Data in 27 Days (2026-09-10)
-- ⚠️ Core CPI Inflation Data in 28 Days (2026-09-11)
-- ⚠️ FOMC Rate Decision & Press Conference in 33 Days (2026-09-16)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 9 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 15 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 16 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 21 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 23 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 37 Days (2026-10-02)
 
 ### Gamma Exposure (GEX) & Expected Move
+Debug: Client initialized with Key: 2Hy2...
+- *Failed to fetch master options chain: type object 'datetime.datetime' has no attribute 'timedelta'*
 ```text
 
 Initializing Schwab Client...
 Debug: Client initialized with Key: 2Hy2...
-Current Price of GME: $18.64
-Fetching options chain from 2026-08-14 to 2026-09-28...
-Days to Earnings  : 25 Days (Date: 2026-09-08)
-Near-Term ATM IV  : 📉 49% `[███░░░░░]`
+Current Price of GME: $17.91
+Fetching options chain from 2026-08-26 to 2026-10-10...
+Days to Earnings  : 13 Days (Date: 2026-09-08)
+Near-Term ATM IV  : 📉 36% `[██░░░░░░]`
 
 ================================================================================
  TACTICAL RADAR (0-14 DTE) FOR GME
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$17.00         | 2614       | 484        | -26,793      | 4,427        | -22,366     
-$17.50         | 3962       | 382        | -58,639      | 5,857        | -52,782     
-$18.00  <-- EM LOWER BOUND | 6861       | 1356       | -200,793     | 37,052       | -163,741    
-$18.50  <-- PRICE | 4813       | 4290       | -558,531     | 533,261      | -25,270     
-$19.00  <-- PRICE | 11666      | 14441      | -586,028     | 782,019      | 195,991     
-$19.50  <-- EM UPPER BOUND | 2530       | 12543      | -66,586      | 250,600      | 184,014     
-$20.00         | 4044       | 25628      | -68,306      | 356,563      | 288,257     
-$20.50         | 399        | 4421       | -5,071       | 34,084       | 29,012      
-$21.00         | 5709       | 12674      | -55,297      | 100,273      | 44,976      
-$22.00         | 6179       | 24257      | -33,714      | 119,638      | 85,924      
-$23.00         | 1304       | 12391      | -4,282       | 38,989       | 34,708      
-$25.00         | 342        | 22234      | -513         | 37,961       | 37,448      
+$17.00  <-- PRICE | 3205       | 189        | -69,542      | 4,192        | -65,351     
+$17.50  <-- EM LOWER BOUND | 3983       | 1572       | -180,264     | 80,586       | -99,678     
+$18.00  <-- PRICE | 5270       | 7348       | -317,800     | 541,852      | 224,052     
+$18.50  <-- EM UPPER BOUND | 1947       | 9048       | -82,970      | 374,531      | 291,561     
+$19.00         | 2540       | 15496      | -58,756      | 345,170      | 286,414     
+$19.50         | 555        | 5634       | -6,694       | 75,963       | 69,269      
+$20.00         | 1595       | 12441      | -8,212       | 111,653      | 103,441     
+$20.50         | 135        | 4289       | -442         | 26,048       | 25,606      
+$21.00         | 464        | 5451       | -586         | 27,293       | 26,708      
+$22.00         | 839        | 7174       | -422         | 27,336       | 26,914      
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $0.73
-Expected Range: $17.91 to $19.37
+Calculated EM: +/- $0.63
+Expected Range: $17.28 to $18.53
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 942,384
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $20.50
 
 [ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $18.50 (Put GEX: -558,531)
-Major Resistance (Upper Bound) : $19.00 (Call GEX: 782,019)
+Major Support (Lower Bound)    : $17.50 (Put GEX: -180,264)
+Major Resistance (Upper Bound) : $18.00 (Call GEX: 541,852)
 
 Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
 ================================================================================
@@ -104,32 +126,43 @@ Action: Monitor these levels for immediate volatility and Gamma squeeze potentia
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$15.00         | 3091       | 1738       | -13,910      | 7,833        | -6,077      
-$16.00         | 1050       | 7497       | -8,081       | 57,727       | 49,646      
-$17.00  <-- EM LOWER BOUND | 2720       | 593        | -32,604      | 7,116        | -25,488     
-$18.00  <-- PRICE | 10144      | 2257       | -161,656     | 35,964       | -125,692    
-$19.00  <-- PRICE | 8689       | 2949       | -134,766     | 45,415       | -89,351     
-$20.00         | 10260      | 8804       | -140,580     | 120,615      | -19,965     
-$21.00  <-- EM UPPER BOUND | 7489       | 6278       | -82,385      | 69,908       | -12,477     
-$22.00         | 5321       | 7179       | -43,669      | 61,909       | 18,240      
-$23.00         | 1824       | 5078       | -10,962      | 34,624       | 23,662      
-$24.00         | 708        | 4210       | -2,975       | 22,771       | 19,796      
-$25.00         | 1450       | 9674       | -4,060       | 42,600       | 38,540      
-$26.00         | 667        | 2726       | -1,201       | 10,091       | 8,890       
-$27.00         | 225        | 4924       | -180         | 15,286       | 15,106      
-$28.00         | 288        | 9432       | 0            | 25,471       | 25,471      
-$30.00         | 55         | 10665      | 0            | 22,437       | 22,437      
-$32.00         | 42         | 3391       | 0            | 5,765        | 5,765       
-$35.00         | 3          | 9039       | 0            | 10,917       | 10,917      
+$16.00  <-- EM LOWER BOUND | 29         | 28         | -317         | 303          | -14         
+$17.00  <-- PRICE | 104        | 25         | -1,522       | 374          | -1,148      
+$17.50  <-- PRICE | 142        | 146        | -2,258       | 2,262        | 4           
+$18.00  <-- PRICE | 329        | 910        | -5,320       | 13,288       | 7,967       
+$18.50  <-- PRICE | 278        | 445        | -4,055       | 6,318        | 2,262       
+$19.00         | 263        | 247        | -3,765       | 3,327        | -438        
+$19.50         | 32         | 183        | -359         | 2,139        | 1,780       
+$20.00  <-- EM UPPER BOUND | 506        | 2216       | -5,576       | 24,813       | 19,237      
+$20.50         | 10         | 171        | -102         | 1,714        | 1,612       
+$21.00         | 181        | 783        | -1,590       | 7,228        | 5,638       
+$21.50         | 37         | 272        | -282         | 2,223        | 1,941       
+$22.00         | 48         | 912        | -315         | 6,566        | 6,252       
+$22.50         | 130        | 359        | -716         | 2,301        | 1,586       
+$23.00         | 75         | 854        | -358         | 4,975        | 4,616       
+$23.50         | 10         | 147        | -42          | 806          | 764         
+$24.00         | 2          | 305        | -6           | 1,475        | 1,468       
+$25.00         | 0          | 725        | 0            | 2,914        | 2,914       
+$26.00         | 2          | 224        | -2           | 744          | 742         
+$27.00         | 11         | 274        | -24          | 924          | 899         
+$28.00         | 0          | 359        | 0            | 1,112        | 1,112       
+$29.00         | 4          | 368        | -5           | 1,136        | 1,131       
+$30.00         | 0          | 1413       | 0            | 3,225        | 3,225       
+$35.00         | 0          | 2671       | 0            | 3,763        | 3,763       
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $1.91
-Expected Range: $16.73 to $20.55
+Calculated EM: +/- $1.96
+Expected Range: $15.95 to $19.86
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 67,548
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $17.50
 
 [ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $18.00 (Put GEX: -161,656)
-Major Resistance (Upper Bound) : $20.00 (Call GEX: 120,615)
+Major Support (Lower Bound)    : $17.50 (Put GEX: -2,258)
+Major Resistance (Upper Bound) : $20.00 (Call GEX: 24,813)
 
 Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
 ================================================================================
@@ -137,6 +170,10 @@ Action: Sell the Put spread below the support, and sell the Call spread above th
 [+] Successfully exported clean data to gex_structural.csv
 
 ```
+
+### 🚨 Harbor Master Regime Verdict
+> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
+> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
 
 ## OPTIONS STRATEGIES
 
@@ -148,16 +185,16 @@ Debug: Client initialized with Key: 2Hy2...
 if it drops in price, but you get paid cash right now for that promise.
 If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
 ### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-SELL 1x 2026-09-18 (35-DTE) $16.00 Put
-Premium Collected: $0.16
-Annualized Yield : 10.4%
-Safety Margin    : 15.0% (Breakeven: $15.84)
+SELL 1x 2026-09-18 (23-DTE) $15.00 Put
+Premium Collected: $0.08
+Annualized Yield : 8.5%
+Safety Margin    : 16.6% (Breakeven: $14.92)
 Max Pain Anchor  : $20.00 (Strike is protected)
 ### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-SELL 1x 2026-09-18 (35-DTE) $18.00 Put
-Premium Collected: $0.61
-Annualized Yield : 35.3%
-Safety Margin    : 6.7% (Breakeven: $17.39)
+SELL 1x 2026-09-11 (16-DTE) $17.50 Put
+Premium Collected: $0.52
+Annualized Yield : 67.8%
+Safety Margin    : 5.1% (Breakeven: $16.98)
 ---
 Debug: Client initialized with Key: 2Hy2...
 Debug: Client initialized with Key: 2Hy2...
@@ -168,9 +205,7 @@ Debug: Client initialized with Key: 2Hy2...
 paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
 If the stock crashes, you buy it on sale. If it rips through the ceiling, you
 have unlimited profit for zero cost.*
-[!] NO SAFE RISK REVERSAL FOUND.
-The required Long Call is too far OTM (>15%) to be funded by the $17.00 Put.
----
+[!] Bid/Ask data is zero. Market may be closed or strikes are illiquid.
 Debug: Client initialized with Key: 2Hy2...
 ---
 ### JADE LIZARD SETUP (30-45 DTE) FOR GME
@@ -179,7 +214,7 @@ Debug: Client initialized with Key: 2Hy2...
 cash to fully finance a call spread above the stock. Zero upside risk.
 If the stock crashes, you buy it on sale. If it rips to the moon,
 you still make money even if the call spread blows up.*
-Target Expiration: 2026-09-25 (42-DTE)
+Target Expiration: 2026-10-16 (51-DTE)
 
   [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
 *Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
@@ -191,18 +226,18 @@ Debug: Client initialized with Key: 2Hy2...
 *What is this? Instead of paying $32,000 to buy 100 shares of stock, you
 pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
 your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
-Target Expiration: 2028-12-15 (854-DTE)
+Target Expiration: 2028-12-15 (842-DTE)
 
   [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-BUY 1x $3.00 Call (Price: $15.95)
+BUY 1x $3.00 Call (Price: $15.45)
 Delta: 0.98 (Moves 1:1 with stock)
 Leverage: 1.2x (Cheaper than 100 shares)
-Time Rent (Extrinsic): 1.65%
-Breakeven: $18.95
+Time Rent (Extrinsic): 3.07%
+Breakeven: $18.45
 ### [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
-BUY 1x $40.00 Call (Price: $2.02)
-Delta: 0.30 (Explosive Convexity)
-Leverage: 9.2x
+BUY 1x $40.00 Call (Price: $1.88)
+Delta: 0.29 (Explosive Convexity)
+Leverage: 9.5x
 *Note: High probability of expiring worthless. Small size only.*
 ---
 Debug: Client initialized with Key: 2Hy2...
@@ -213,17 +248,17 @@ Debug: Client initialized with Key: 2Hy2...
 If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
 we act as the casino and sell an Iron Butterfly to collect bloated premium.*
 [ VOLATILITY METRICS ]
-Historical Volatility (30-Day) : 38.25%
-Implied Volatility (ATM)       : 41.68%
-Premium Ratio (IV/HV)          : 1.09
+Historical Volatility (30-Day) : 38.21%
+Implied Volatility (ATM)       : 47.25%
+Premium Ratio (IV/HV)          : 1.24
 
   [!] NO VOLATILITY EDGE FOUND.
-IV and HV are priced fairly (Ratio: 1.09). Avoid volatility trades.
+IV and HV are priced fairly (Ratio: 1.24). Avoid volatility trades.
 ### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-Identified Resistance Wall: 11,098 Open Contracts at $20.00
-Target Expiration: 2026-08-21 (7-DTE)
-BUY 1x $20.00 Call (Price: $0.07)
-*Logic: If the stock breaks $20.00, Market Makers must aggressively buy shares.*
+Identified Resistance Wall: 7,267 Open Contracts at $18.50
+Target Expiration: 2026-08-28 (2-DTE)
+BUY 1x $18.50 Call (Price: $0.06)
+*Logic: If the stock breaks $18.50, Market Makers must aggressively buy shares.*
 *Warning: Extremely high probability of 100% loss. Size accordingly.*
 ---
 
@@ -235,6 +270,16 @@ BUY 1x $20.00 Call (Price: $0.07)
 # SINGLE STOCK ENGINE V2 — MASTER METHODOLOGY
 
 This document outlines every section of the `Single_Stock_Engine_V2.py` report, providing both a "Plumber's Version" (simple terms) and the "Meat & Potatoes" (technical mechanics) for each engine.
+
+---
+
+## 0. THE HARBOR MASTER (Macro Orchestration)
+**The Plumber's Version:** You are the captain of a cargo ship. You don't just blindly sail out of port because someone told you to deliver cargo. First, you look up at the Harbor Master's tower. The Harbor Master has been listening to weather radios, checking radar, and watching the tides (our Rainman bots). If the Harbor Master sees a hurricane coming, he raises the red flag and you stay in port, no matter how profitable the delivery might be. If it's sunny, he gives you the green light and you sail. 
+
+**Meat & Potatoes (Technical Mechanics):**
+*   **The Data Lake (Layer 1):** We have a fleet of autonomous bots (The Rainman Bots) constantly scraping raw environmental data (e.g., Hidden Markov Regime, 10-Year Yields, Crude Oil, Congressional Whale Trades). They dump this data blindly into a "Sandbox."
+*   **The Orchestrator (Layer 4):** The `master_orchestrator.py` script acts as the Harbor Master. It sweeps the entire Sandbox and calculates a mathematical **Conviction Score (0-100)**. (e.g., An inverted yield curve nukes the score by 50 points. A massive insider buy adds 5 points).
+*   **The Decoupled UI:** This report (`Single_Stock_Engine_V2`) never touches the raw data. It simply reads the final `orchestrator_verdict.json` generated by the Harbor Master and prints the final Conviction Score. If the score is too low, the pipeline shuts down to protect your capital.
 
 ---
 
