@@ -1,31 +1,40 @@
-# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: DECK
-> Report Generated: 2026-08-17 03:56:10 HST
+# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: DECK
+> Report Generated: 2026-08-26 08:24:09 HST
 
 ## PRONG 1: THE COMPANY (Critical Fundamentals)
 
-- **Price:** $90.09
-- **Market Cap:** $12,269,304,832
+### Deckers Outdoor Corporation (Consumer Cyclical — Footwear & Accessories)
+> *Deckers Outdoor Corporation, together with its subsidiaries, designs, markets, and distributes footwear, apparel, and accessories for casual lifestyle use and high-performance activities in the United States and internationally. The company offers footwear, apparel, and accessories under the UGG brand; footwear, such as running, trail, hiking, fitness, and lifestyle shoes, as well as apparel and accessories under the HOKA brand; and sandals, shoes, and boots under the Teva brand name. It also provides a casual footwear fashion line under the Koolaburra brand name; and footwear products under the AHNU brand name. The company sells its products through domestic and international retailers, international distributors, and directly to its consumers through its direct-to-consumer business, which includes e-commerce websites and retail stores. Deckers Outdoor Corporation was founded in 1973 and is headquartered in Goleta, California.*
+
+- **Price:** $88.90
+- **Market Cap:** $12,106,567,680
 - **Next Earnings:** 2026-10-22
 - **Directly Registered:** 27 Shareholders *(High Conviction Base)*
 
 ### Valuation & Financial Health
 | Metric | Value |
 | :--- | :--- |
-| P/E Ratio | 12.79 |
-| PEG Ratio | 1.03 |
-| P/TBV | 5.40 |
-| Shareholder Yield | 10.08% (Div: 0.0% \| Buybacks: 4.3%) |
-| Altman Z-Score | **6.42** *(>3.0 is Safe)* |
+| P/E Ratio | 12.61 |
+| PEG Ratio | 1.01 |
+| P/TBV | 5.33 |
+| Shareholder Yield | 10.21% (Div: 0.0% \| Buybacks: 4.3%) |
+| Altman Z-Score | **6.36** *(>3.0 is Safe)* |
 | Current Ratio | 2.75 |
 | Piotroski F-Score | 7 / 9 |
 | ROIC (Annualized) | 44.97% |
-| FCF Yield | 1.07% |
+| FCF Yield | 1.08% |
 
 ### SEC Financial Trajectory
 - **Verdict:** PASS *(Score: 73.0)*
 - **FCF Grade:** B - Good growth +270%, mixed consistency
 - **Net Income Grade:** B - Moderate growth +8%, 57% quarters improving
 - **Revenue Grade:** B - Moderate growth +9%, 57% quarters improving
+
+### SEC Fraud Forensics
+- **Overall Verdict:** ✅ CLEAN
+- **Bad Debt (AR vs Allowance):** ✅ PASS - AR YoY: -29.8% | Allowance YoY: -54.8%
+- **Revenue Acceleration (DSO):** ✅ PASS - DSO YoY Change: -4.9%
+- **Operating Expense Cap (WorldCom):** ✅ PASS - Insufficient OpEx/CapEx data.
 
 ### Management & Board (Skin in the Game)
 - **Insider Score:** 0/100
@@ -36,83 +45,82 @@
 ## PRONG 2: THE MARKET (Structural & Derivatives)
 
 ### Market Regime & Trend
-- **VIX Regime:** 🟡 NORMAL *(VIX: 15.04)*
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.4)*
 - **Trend Verdict:** 🟡 CONDITIONAL — Some signals good, watch the weak spots.
 
 ### Accumulation / Distribution
 - **Verdict:** HOLD / WATCH
 - **Insider Signal:** WHALE ACTIVITY
-- **Whale Alerts:** 5 Active 13D/A Filings Found!
+- **Whale Alerts:** 4 Active 13D/A Filings Found!
 
 ### Off-Exchange & Short Interest
-- **Avg Dark Short Vol:** 570,991 shares/day
-- **Avg Dark Short %:** 54.5% of Off-Exchange Volume
+- **Avg Dark Short Vol:** 681,026 shares/day
+- **Avg Dark Short %:** 60.4% of Off-Exchange Volume
 
 ## THE TRADING DASHBOARD (Macro & Options)
 
 
 ### ⚓ The Harbor Master's Verdict
-> **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 75/100. Market Weather is Bullish. | 🚨 Congressional Whale Trades Detected!**
+> **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 95/100. Market Weather is Bullish [⚠️ HIGH OW ANOMALIES]. | 🚨 Congressional Whale Trades Detected!**
 
 *<small>The Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
 
 ### Macro Event Radar (45-Day)
-- ⚠️ Monthly OPEX in 4 Days (2026-08-21)
-- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 18 Days (2026-09-04)
-- ⚠️ PPI Inflation Data in 24 Days (2026-09-10)
-- ⚠️ Core CPI Inflation Data in 25 Days (2026-09-11)
-- ⚠️ FOMC Rate Decision & Press Conference in 30 Days (2026-09-16)
-- ⚠️ Quarterly OPEX (Triple Witching) in 32 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 9 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 15 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 16 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 21 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 23 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 37 Days (2026-10-02)
 
 ### Gamma Exposure (GEX) & Expected Move
+Debug: Client initialized with Key: 2Hy2...
+- *Failed to fetch master options chain: type object 'datetime.datetime' has no attribute 'timedelta'*
 ```text
 
 Initializing Schwab Client...
 Debug: Client initialized with Key: 2Hy2...
-Current Price of DECK: $90.16
-Fetching options chain from 2026-08-17 to 2026-10-01...
-Days to Earnings  : 66 Days (Date: 2026-10-22)
-Near-Term ATM IV  : 📉 48% `[███░░░░░]`
+Current Price of DECK: $88.86
+Fetching options chain from 2026-08-26 to 2026-10-10...
+Days to Earnings  : 57 Days (Date: 2026-10-22)
+Near-Term ATM IV  : 📉 38% `[███░░░░░]`
 
 ================================================================================
  TACTICAL RADAR (0-14 DTE) FOR DECK
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$80.00         | 413        | 2          | -747         | 4            | -743        
-$84.00         | 2          | 88         | -7           | 294          | 287         
-$85.00         | 440        | 76         | -1,648       | 294          | -1,354      
-$86.00  <-- EM LOWER BOUND | 14         | 211        | -69          | 1,053        | 983         
-$87.00         | 58         | 426        | -361         | 2,501        | 2,139       
-$88.00         | 102        | 239        | -802         | 1,532        | 730         
-$89.00         | 91         | 138        | -810         | 1,036        | 226         
-$90.00  <-- PRICE | 649        | 121        | -5,451       | 1,012        | -4,439      
-$91.00  <-- PRICE | 111        | 17         | -1,311       | 167          | -1,145      
-$92.00         | 326        | 10         | -2,290       | 80           | -2,209      
-$93.00         | 116        | 33         | -881         | 233          | -647        
-$94.00  <-- EM UPPER BOUND | 173        | 107        | -1,623       | 767          | -856        
-$95.00         | 370        | 413        | -2,427       | 2,293        | -134        
-$96.00         | 52         | 42         | -49          | 183          | 133         
-$97.00         | 85         | 44         | -437         | 171          | -266        
-$98.00         | 88         | 45         | -337         | 145          | -192        
-$99.00         | 67         | 50         | -208         | 151          | -57         
-$100.00        | 170        | 212        | -43          | 479          | 436         
-$101.00        | 47         | 213        | -121         | 504          | 383         
-$102.00        | 77         | 213        | -104         | 179          | 74          
-$103.00        | 51         | 21         | -106         | 44           | -62         
-$105.00        | 46         | 644        | -11          | 654          | 643         
-$110.00        | 41         | 357        | -57          | 536          | 478         
-$115.00        | 14         | 590        | 0            | 375          | 375         
-$120.00        | 1          | 688        | 0            | 292          | 292         
+$82.00         | 107        | 79         | -252         | 175          | -78         
+$83.00         | 30         | 111        | -108         | 393          | 285         
+$84.00         | 52         | 133        | -230         | 534          | 304         
+$85.00  <-- EM LOWER BOUND | 119        | 159        | -640         | 782          | 141         
+$86.00         | 169        | 92         | -1,226       | 662          | -564        
+$87.00         | 380        | 293        | -3,998       | 3,047        | -951        
+$88.00  <-- PRICE | 911        | 259        | -8,999       | 3,537        | -5,462      
+$89.00  <-- PRICE | 344        | 145        | -5,516       | 2,191        | -3,325      
+$90.00         | 293        | 95         | -4,198       | 1,292        | -2,906      
+$91.00         | 89         | 140        | -1,164       | 1,631        | 466         
+$92.00  <-- EM UPPER BOUND | 289        | 106        | -3,655       | 820          | -2,835      
+$93.00         | 139        | 158        | -1,187       | 1,013        | -175        
+$94.00         | 80         | 122        | -114         | 554          | 440         
+$95.00         | 181        | 235        | -62          | 762          | 700         
+$96.00         | 85         | 74         | -104         | 172          | 68          
+$99.00         | 13         | 120        | -29          | 334          | 305         
+$101.00        | 12         | 201        | -29          | 450          | 422         
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $4.34
-Expected Range: $85.82 to $94.50
+Calculated EM: +/- $3.45
+Expected Range: $85.41 to $92.31
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: -12,657
+Current Regime: NEGATIVE (Trend / Volatility - Dealer Amplified)
+Zero Gamma Level (ZGL): $96.00
 
 [ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $90.00 (Put GEX: -5,451)
-Major Resistance (Upper Bound) : $95.00 (Call GEX: 2,293)
+Major Support (Lower Bound)    : $88.00 (Put GEX: -8,999)
+Major Resistance (Upper Bound) : $89.00 (Call GEX: 2,191)
 
 Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
 ================================================================================
@@ -125,33 +133,44 @@ Action: Monitor these levels for immediate volatility and Gamma squeeze potentia
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$60.00         | 487        | 5          | -244         | 2            | -241        
-$70.00         | 151        | 18         | -136         | 16           | -120        
-$75.00         | 726        | 26         | -657         | 23           | -634        
-$80.00  <-- EM LOWER BOUND | 369        | 32         | -738         | 64           | -674        
-$85.00         | 414        | 55         | -1,475       | 193          | -1,282      
-$88.00         | 19         | 0          | -80          | 0            | -80         
-$90.00  <-- PRICE | 804        | 82         | -3,367       | 344          | -3,022      
-$95.00         | 580        | 413        | -2,260       | 1,563        | -696        
-$100.00  <-- EM UPPER BOUND | 627        | 404        | -1,879       | 1,130        | -750        
-$105.00        | 157        | 319        | -314         | 606          | 292         
-$110.00        | 195        | 558        | -214         | 614          | 399         
-$115.00        | 93         | 378        | -74          | 378          | 304         
-$120.00        | 1          | 517        | -0           | 414          | 413         
-$125.00        | 0          | 263        | 0            | 132          | 132         
-$130.00        | 0          | 291        | 0            | 233          | 233         
-$135.00        | 0          | 164        | 0            | 82           | 82          
-$140.00        | 0          | 404        | 0            | 242          | 242         
-$150.00        | 0          | 725        | 0            | 218          | 218         
+$70.00         | 9          | 0          | -9           | 0            | -9          
+$75.00         | 16         | 0          | -18          | 0            | -18         
+$80.00         | 28         | 1          | -67          | 2            | -65         
+$81.00         | 5          | 0          | -14          | 0            | -14         
+$82.00  <-- EM LOWER BOUND | 24         | 0          | -74          | 0            | -74         
+$83.00         | 12         | 0          | -42          | 0            | -42         
+$84.00         | 9          | 0          | -33          | 0            | -33         
+$85.00         | 110        | 0          | -419         | 0            | -419        
+$86.00         | 2          | 1          | -9           | 4            | -5          
+$87.00         | 13         | 0          | -60          | 0            | -60         
+$88.00  <-- PRICE | 57         | 11         | -263         | 51           | -212        
+$89.00  <-- PRICE | 2          | 6          | -9           | 27           | 17          
+$90.00         | 37         | 2          | -158         | 9            | -149        
+$91.00         | 6          | 5          | -26          | 21           | -5          
+$92.00         | 11         | 10         | -47          | 43           | -4          
+$93.00         | 8          | 13         | -32          | 52           | 20          
+$94.00         | 4          | 3          | -15          | 11           | -4          
+$95.00         | 2          | 18         | -7           | 60           | 54          
+$96.00  <-- EM UPPER BOUND | 1          | 3          | -3           | 10           | 7           
+$97.00         | 0          | 12         | 0            | 34           | 34          
+$98.00         | 0          | 26         | 0            | 75           | 75          
+$100.00        | 8          | 9          | -19          | 22           | 3           
+$102.00        | 0          | 5          | 0            | 11           | 11          
+$103.00        | 0          | 7          | 0            | 14           | 14          
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $8.34
-Expected Range: $81.82 to $98.50
+Calculated EM: +/- $7.30
+Expected Range: $81.56 to $96.16
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: -856
+Current Regime: NEGATIVE (Trend / Volatility - Dealer Amplified)
+Zero Gamma Level (ZGL): $100.00
 
 [ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $90.00 (Put GEX: -3,367)
-Major Resistance (Upper Bound) : $95.00 (Call GEX: 1,563)
+Major Support (Lower Bound)    : $85.00 (Put GEX: -419)
+Major Resistance (Upper Bound) : $98.00 (Call GEX: 75)
 
 Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
 ================================================================================
@@ -159,6 +178,10 @@ Action: Sell the Put spread below the support, and sell the Call spread above th
 [+] Successfully exported clean data to gex_structural.csv
 
 ```
+
+### 🚨 Harbor Master Regime Verdict
+> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
+> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
 
 ## OPTIONS STRATEGIES
 
@@ -170,16 +193,16 @@ Debug: Client initialized with Key: 2Hy2...
 if it drops in price, but you get paid cash right now for that promise.
 If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
 ### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-SELL 1x 2026-09-25 (39-DTE) $85.00 Put
-Premium Collected: $1.55
-Annualized Yield : 17.1%
-Safety Margin    : 7.4% (Breakeven: $83.45)
-Max Pain Anchor  : $93.00 (Strike is protected)
+SELL 1x 2026-09-25 (30-DTE) $82.00 Put
+Premium Collected: $0.90
+Annualized Yield : 13.4%
+Safety Margin    : 8.8% (Breakeven: $81.10)
+Max Pain Anchor  : $92.00 (Strike is protected)
 ### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-SELL 1x 2026-09-04 (18-DTE) $88.00 Put
-Premium Collected: $1.55
-Annualized Yield : 35.7%
-Safety Margin    : 4.0% (Breakeven: $86.45)
+SELL 1x 2026-09-25 (30-DTE) $87.00 Put
+Premium Collected: $2.30
+Annualized Yield : 32.2%
+Safety Margin    : 4.7% (Breakeven: $84.70)
 ---
 Debug: Client initialized with Key: 2Hy2...
 Debug: Client initialized with Key: 2Hy2...
@@ -190,8 +213,15 @@ Debug: Client initialized with Key: 2Hy2...
 paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
 If the stock crashes, you buy it on sale. If it rips through the ceiling, you
 have unlimited profit for zero cost.*
-[!] NO SAFE RISK REVERSAL FOUND.
-The required Long Call is too far OTM (>15%) to be funded by the $85.00 Put.
+Target Expiration: 2026-09-25 (30-DTE)
+Calculated Midpoint Target: $82.71
+
+[ SUGGESTED RISK REVERSAL SETUP ]
+SELL 1x  $83.00 Put  (Credit: $1.10)  <-- Optimal Support Buffer
+BUY  1x  $99.00 Call (Debit : $1.10)  <-- Long Resistance Target
+Total Net Credit : $0.00 (Literally a free trade)
+Capital Required : $8,300.00 (To secure the put assignment if it crashes)
+Max Upside Profit: UNLIMITED
 ---
 Debug: Client initialized with Key: 2Hy2...
 ---
@@ -201,7 +231,7 @@ Debug: Client initialized with Key: 2Hy2...
 cash to fully finance a call spread above the stock. Zero upside risk.
 If the stock crashes, you buy it on sale. If it rips to the moon,
 you still make money even if the call spread blows up.*
-Target Expiration: 2026-10-02 (46-DTE)
+Target Expiration: 2026-10-16 (51-DTE)
 
   [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
 *Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
@@ -213,18 +243,18 @@ Debug: Client initialized with Key: 2Hy2...
 *What is this? Instead of paying $32,000 to buy 100 shares of stock, you
 pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
 your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
-Target Expiration: 2028-01-21 (522-DTE)
+Target Expiration: 2028-01-21 (513-DTE)
 
   [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-BUY 1x $45.00 Call (Price: $50.25)
+BUY 1x $45.00 Call (Price: $48.90)
 Delta: 0.95 (Moves 1:1 with stock)
 Leverage: 1.8x (Cheaper than 100 shares)
-Time Rent (Extrinsic): 5.72%
-Breakeven: $95.25
+Time Rent (Extrinsic): 5.62%
+Breakeven: $93.90
 ### [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
-BUY 1x $175.00 Call (Price: $4.55)
-Delta: 0.20 (Explosive Convexity)
-Leverage: 19.8x
+BUY 1x $180.00 Call (Price: $3.20)
+Delta: 0.16 (Explosive Convexity)
+Leverage: 27.8x
 *Note: High probability of expiring worthless. Small size only.*
 ---
 Debug: Client initialized with Key: 2Hy2...
@@ -235,16 +265,16 @@ Debug: Client initialized with Key: 2Hy2...
 If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
 we act as the casino and sell an Iron Butterfly to collect bloated premium.*
 [ VOLATILITY METRICS ]
-Historical Volatility (30-Day) : 40.37%
-Implied Volatility (ATM)       : 35.67%
-Premium Ratio (IV/HV)          : 0.88
+Historical Volatility (30-Day) : 39.87%
+Implied Volatility (ATM)       : 33.28%
+Premium Ratio (IV/HV)          : 0.83
 
   [!] NO VOLATILITY EDGE FOUND.
-IV and HV are priced fairly (Ratio: 0.88). Avoid volatility trades.
+IV and HV are priced fairly (Ratio: 0.83). Avoid volatility trades.
 ### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-Identified Resistance Wall: 362 Open Contracts at $95.00
-Target Expiration: 2026-08-21 (4-DTE)
-BUY 1x $95.00 Call (Price: $0.25)
+Identified Resistance Wall: 226 Open Contracts at $95.00
+Target Expiration: 2026-08-28 (2-DTE)
+BUY 1x $95.00 Call (Price: $0.07)
 *Logic: If the stock breaks $95.00, Market Makers must aggressively buy shares.*
 *Warning: Extremely high probability of 100% loss. Size accordingly.*
 ---
