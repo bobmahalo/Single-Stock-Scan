@@ -2,6 +2,7 @@
 Welcome to the central hub for all deep-dive stock scans.
 
 ### Available Reports:
+- [AAL Report](AAL.html)
 - [AAPL Report](AAPL.html)
 - [ACN Report](ACN.html)
 - [AMN Report](AMN.html)
