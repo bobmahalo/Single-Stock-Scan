@@ -1,59 +1,119 @@
+# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: AAPL
+> Report Generated: 2026-08-27 03:43:53 HST
 
-================================================================================
- ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: AAPL
-================================================================================
-Report Generated: 2026-08-07 09:15:09 HST
+## PRONG 1: THE COMPANY (Critical Fundamentals)
 
-Fetching fundamental data... (This may take 15-20 seconds)
+### Apple Inc. (Technology — Consumer Electronics)
+> *Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allows customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.*
 
-================================================================================
- THE TRADING DASHBOARD (Macro & Options)
-================================================================================
-  [ MACRO EVENT RADAR (45-Day) ]
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment TODAY (2026-08-07)
-  ⚠️ Core CPI Inflation Data in 5 Days (2026-08-12)
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 28 Days (2026-09-04)
-  ⚠️ Core CPI Inflation Data in 35 Days (2026-09-11)
-  ⚠️ FOMC Rate Decision & Press Conference in 40 Days (2026-09-16)
+- **Price:** $310.64
+- **Market Cap:** $4,533,536,161,792
+- **Next Earnings:** 2026-10-29
+- **Directly Registered:** 22,429 Shareholders *(High Conviction Base)*
 
-  [ GAMMA EXPOSURE (GEX) & EXPECTED MOVE ]
+### Valuation & Financial Health
+| Metric | Value |
+| :--- | :--- |
+| P/E Ratio | 35.59 |
+| PEG Ratio | 2.61 |
+| P/TBV | 42.16 |
+| Shareholder Yield | 2.16% (Div: 0.3% \| Buybacks: 2.6%) |
+| Altman Z-Score | **10.50** *(>3.0 is Safe)* |
+| Current Ratio | 1.00 |
+| Piotroski F-Score | 7 / 9 |
+| ROIC (Annualized) | 76.99% |
+| FCF Yield | 2.82% |
+
+### SEC Financial Trajectory
+- **Verdict:** PASS *(Score: 70.0)*
+- **FCF Grade:** B - Moderate growth +12%, 71% quarters improving
+- **Net Income Grade:** C - Mild growth +18%, inconsistent
+- **Revenue Grade:** C - Mild growth +16%, inconsistent
+
+### SEC Fraud Forensics
+- **Overall Verdict:** ✅ CLEAN
+- **Bad Debt (AR vs Allowance):** ✅ PASS - No abnormal divergence detected.
+- **Revenue Acceleration (DSO):** ✅ PASS - Revenue collection cycle is stable.
+- **Operating Expense Cap (WorldCom):** ✅ PASS - OpEx and CapEx relationship is normal.
+
+### Management & Board (Skin in the Game)
+- **Insider Score:** 0/100
+- **Net Insider Trade:** $-192,115,368
+- **Comp Score:** 100/100 *(Equity vs Cash)*
+- **Overall Integrity:** 40/100
+
+## PRONG 2: THE MARKET (Structural & Derivatives)
+
+### Market Regime & Trend
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.04)*
+- **Trend Verdict:** ❌ PASS — Scanner likes it, but the trend engine says no.
+
+### Accumulation / Distribution
+- **Verdict:** GREEN LIGHT (Strong Accumulation)
+- **Insider Signal:** NEUTRAL
+- **Whale Alerts:** 3 Active 13D/A Filings Found!
+
+### Off-Exchange & Short Interest
+- **Avg Dark Short Vol:** 5,675,778 shares/day
+- **Avg Dark Short %:** 49.7% of Off-Exchange Volume
+
+## THE TRADING DASHBOARD (Macro & Options)
+
+
+### 🌍 MACRO Harbor Master (Global Environment)
+> **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 95/100. Market Weather is Bullish [⚠️ HIGH OW ANOMALIES]. | 🚨 Congressional Whale Trades Detected!**
+
+*<small>The MACRO Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
+
+### Macro Event Radar (45-Day)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 8 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 14 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 15 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 20 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 22 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 36 Days (2026-10-02)
+
+### Gamma Exposure (GEX) & Expected Move
+- *Fetching master options chain (0 to 1000 DTE)...*
+```text
 
 Initializing Schwab Client...
-Debug: Client initialized with Key: 2Hy2...
-Current Price of AAPL: $312.87
-Fetching options chain from 2026-08-07 to 2026-09-21...
-Days to Earnings  : 83 Days (Date: 2026-10-29)
-Near-Term ATM IV  : 📉 27% `[██░░░░░░]`
+Current Price of AAPL: $310.94
+Days to Earnings  : 63 Days (Date: 2026-10-29)
+Near-Term ATM IV  : 📉 29% `[██░░░░░░]`
 
 ================================================================================
  TACTICAL RADAR (0-14 DTE) FOR AAPL
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$290.00        | 23214      | 10102      | -12,463      | 5,057        | -7,406      
-$295.00        | 24079      | 8577       | -19,695      | 8,171        | -11,524     
-$300.00        | 62651      | 20663      | -73,916      | 28,503       | -45,413     
-$305.00  <-- EM LOWER BOUND | 21382      | 22727      | -34,728      | 34,502       | -226        
-$307.50        | 11452      | 16575      | -25,701      | 39,236       | 13,535      
-$310.00        | 23023      | 60682      | -85,254      | 198,632      | 113,377     
-$312.50  <-- PRICE | 7881       | 20222      | -215,117     | 504,474      | 289,357     
-$315.00        | 28645      | 52202      | -112,161     | 257,946      | 145,785     
-$317.50        | 1420       | 28100      | -3,233       | 75,348       | 72,116      
-$320.00        | 15563      | 80038      | -36,744      | 137,411      | 100,668     
-$322.50  <-- EM UPPER BOUND | 1225       | 19413      | -2,690       | 21,874       | 19,184      
-$325.00        | 13391      | 46939      | -20,879      | 66,895       | 46,016      
-$330.00        | 9989       | 46562      | -13,197      | 49,764       | 36,567      
-$335.00        | 4511       | 25314      | -3,916       | 15,927       | 12,011      
-$340.00        | 3827       | 53480      | -2,094       | 27,206       | 25,113      
+$295.00        | 8081       | 708        | -6,524       | 634          | -5,890      
+$300.00  <-- EM LOWER BOUND | 14267      | 2222       | -23,112      | 3,605        | -19,507     
+$302.50        | 4276       | 950        | -10,624      | 2,321        | -8,303      
+$305.00        | 10201      | 5789       | -37,977      | 20,604       | -17,374     
+$307.50        | 6443       | 2205       | -36,716      | 11,621       | -25,095     
+$310.00  <-- PRICE | 17813      | 30139      | -119,186     | 197,532      | 78,346      
+$312.50        | 5639       | 7604       | -35,354      | 46,345       | 10,991      
+$315.00        | 7352       | 22436      | -34,794      | 109,278      | 74,484      
+$317.50        | 760        | 12152      | -2,652       | 43,272       | 40,619      
+$320.00        | 4077       | 39504      | -8,169       | 93,836       | 85,667      
+$322.50  <-- EM UPPER BOUND | 1392       | 12376      | -1,218       | 17,916       | 16,698      
+$325.00        | 1928       | 25651      | -1,671       | 27,014       | 25,343      
+$330.00        | 3934       | 25289      | -3,468       | 14,356       | 10,888      
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $10.27
-Expected Range: $302.60 to $323.14
+Calculated EM: +/- $10.75
+Expected Range: $300.19 to $321.69
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 270,143
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $295.00
 
 [ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $312.50 (Put GEX: -215,117)
-Major Resistance (Upper Bound) : $315.00 (Call GEX: 257,946)
+Major Support (Lower Bound)    : $310.00 (Put GEX: -119,186)
+Major Resistance (Upper Bound) : $315.00 (Call GEX: 109,278)
 
 Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
 ================================================================================
@@ -66,246 +126,165 @@ Action: Monitor these levels for immediate volatility and Gamma squeeze potentia
 ================================================================================
 Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
 --------------------------------------------------------------------------------
-$255.00        | 9147       | 3052       | -1,829       | 0            | -1,829      
-$260.00        | 7610       | 4938       | -1,522       | 0            | -1,522      
-$265.00        | 7889       | 6535       | -2,367       | 654          | -1,713      
-$270.00        | 11457      | 6124       | -4,557       | 1,836        | -2,721      
-$275.00        | 10563      | 4318       | -5,282       | 1,727        | -3,554      
-$280.00        | 9112       | 7607       | -5,467       | 4,546        | -921        
-$285.00        | 8542       | 6057       | -6,834       | 4,843        | -1,990      
-$290.00        | 10113      | 9280       | -10,113      | 9,280        | -833        
-$295.00  <-- EM LOWER BOUND | 8142       | 13156      | -9,770       | 15,787       | 6,017       
-$300.00        | 22026      | 27961      | -30,836      | 39,145       | 8,309       
-$305.00        | 5751       | 19030      | -8,646       | 28,658       | 20,012      
-$310.00        | 6348       | 20183      | -10,211      | 32,655       | 22,444      
-$315.00        | 6201       | 8424       | -8,719       | 11,899       | 3,180       
-$320.00        | 3780       | 40040      | -5,295       | 56,174       | 50,879      
-$325.00        | 2804       | 15346      | -3,932       | 21,529       | 17,597      
-$330.00  <-- EM UPPER BOUND | 4724       | 25038      | -5,687       | 30,086       | 24,399      
-$335.00        | 1602       | 8001       | -1,762       | 8,801        | 7,039       
-$340.00        | 4157       | 14917      | -4,157       | 14,917       | 10,760      
-$345.00        | 726        | 7539       | -581         | 6,031        | 5,450       
-$350.00        | 280        | 32255      | -194         | 22,494       | 22,300      
-$355.00        | 260        | 4111       | -130         | 2,056        | 1,926       
-$360.00        | 193        | 8439       | -77          | 3,376        | 3,298       
-$370.00        | 63         | 4682       | -19          | 1,404        | 1,385       
+$260.00        | 548        | 6          | -110         | 1            | -108        
+$275.00        | 192        | 23         | -96          | 12           | -84         
+$280.00        | 329        | 43         | -230         | 30           | -200        
+$285.00        | 241        | 16         | -217         | 14           | -202        
+$290.00  <-- EM LOWER BOUND | 447        | 40         | -492         | 44           | -448        
+$295.00        | 514        | 48         | -668         | 62           | -606        
+$300.00        | 610        | 78         | -915         | 117          | -798        
+$305.00        | 257        | 124        | -411         | 198          | -213        
+$310.00  <-- PRICE | 155        | 1084       | -264         | 1,843        | 1,579       
+$315.00        | 74         | 404        | -118         | 646          | 528         
+$320.00        | 29         | 463        | -44          | 694          | 651         
+$325.00        | 12         | 255        | -17          | 357          | 340         
+$330.00  <-- EM UPPER BOUND | 3          | 1044       | -4           | 1,357        | 1,354       
+$335.00        | 8          | 704        | -9           | 774          | 766         
+$340.00        | 3          | 1395       | -2           | 1,256        | 1,253       
+$345.00        | 10         | 779        | -6           | 545          | 539         
+$350.00        | 10         | 508        | -5           | 305          | 300         
+$355.00        | 0          | 261        | 0            | 104          | 104         
+$360.00        | 0          | 234        | 0            | 70           | 70          
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $18.57
-Expected Range: $294.30 to $331.44
+Calculated EM: +/- $18.67
+Expected Range: $292.27 to $329.61
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 4,835
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $360.00
 
 [ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $300.00 (Put GEX: -30,836)
-Major Resistance (Upper Bound) : $320.00 (Call GEX: 56,174)
+Major Support (Lower Bound)    : $300.00 (Put GEX: -915)
+Major Resistance (Upper Bound) : $330.00 (Call GEX: 1,357)
 
 Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
 ================================================================================
 
 [+] Successfully exported clean data to gex_structural.csv
 
-Debug: Client initialized with Key: 2Hy2...
+```
 
-================================================================================
- TACTICAL BWB (BROKEN WING BUTTERFLY) FOR AAPL
-================================================================================
-  *What is this? We find the invisible Gamma Wall where Market Makers will defend
-  the stock from crashing. We build a trap right at that wall. If it crashes,
-  we collect max profit. If it goes up instead, the trap breaks and we still
-  keep a small credit. You literally cannot lose money on the upside.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-08-07 (0-DTE)
-  Implied Volatility (ATM): 27.48%
-  Tactical Expected Move: ±$4.50
-  Mathematical Danger Zone (Lower Bound): $308.36
-  Short-Term Gamma Support (MM Wall): $312.50
+### 🕵️ MICRO Harbor Master (Single Stock Confluence)
+> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
+> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
 
-  [ SUGGESTED TACTICAL BWB SETUP ]
-  BUY  1x  $322.50 Put
-  SELL 2x  $312.50 Put  <-- (Pinned at Gamma Wall)
-  BUY  1x  $292.50 Put  <-- (Broken Wing for Credit)
+## OPTIONS STRATEGIES
 
-  *Note: Ensure this is entered for a NET CREDIT.*
-================================================================================
+---
+### CASH-SECURED PUTS (14-45 DTE) FOR AAPL
+---
+*What is this? You sign a contract promising to buy this stock next month
+if it drops in price, but you get paid cash right now for that promise.
+If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
+### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
+SELL 1x 2026-10-02 (36-DTE) $285.00 Put
+Premium Collected: $1.78
+Annualized Yield : 6.3%
+Safety Margin    : 8.8% (Breakeven: $283.22)
+Max Pain Anchor  : $305.00 (Strike is protected)
+### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
+SELL 1x 2026-09-18 (22-DTE) $302.50 Put
+Premium Collected: $3.85
+Annualized Yield : 21.1%
+Safety Margin    : 3.9% (Breakeven: $298.65)
+---
+---
+### THE BULL RISK REVERSAL FOR AAPL
+---
+*What is this? You sell a Put at a calculated optimal support floor, getting
+paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
+If the stock crashes, you buy it on sale. If it rips through the ceiling, you
+have unlimited profit for zero cost.*
+Target Expiration: 2026-10-02 (36-DTE)
+Calculated Midpoint Target: $293.86
 
-Debug: Client initialized with Key: 2Hy2...
+[ SUGGESTED RISK REVERSAL SETUP ]
+SELL 1x  $295.00 Put  (Credit: $3.45)  <-- Optimal Support Buffer
+BUY  1x  $330.00 Call (Debit : $3.45)  <-- Long Resistance Target
+Total Net Credit : $0.00 (Literally a free trade)
+Capital Required : $29,500.00 (To secure the put assignment if it crashes)
+Max Upside Profit: UNLIMITED
+---
+---
+### JADE LIZARD SETUP (30-45 DTE) FOR AAPL
+---
+*What is this? You collect massive income from selling a put, and use that
+cash to fully finance a call spread above the stock. Zero upside risk.
+If the stock crashes, you buy it on sale. If it rips to the moon,
+you still make money even if the call spread blows up.*
+Target Expiration: 2026-10-09 (43-DTE)
 
-================================================================================
- CASH-SECURED PUTS (14-45 DTE) FOR AAPL
-================================================================================
-  *What is this? You sign a contract promising to buy this stock next month
-  if it drops in price, but you get paid cash right now for that promise.
-  If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
---------------------------------------------------------------------------------
-
-  [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-  SELL 1x 2026-09-18 (42-DTE) $285.00 Put
-  Premium Collected: $1.86
-  Annualized Yield : 5.7%
-  Safety Margin    : 9.5% (Breakeven: $283.14)
-  Max Pain Anchor  : $290.00 (Strike is protected)
-
-  [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-  SELL 1x 2026-08-28 (21-DTE) $305.00 Put
-  Premium Collected: $3.55
-  Annualized Yield : 20.2%
-  Safety Margin    : 3.6% (Breakeven: $301.45)
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- THE BULL RISK REVERSAL (ZEBRA) FOR AAPL
-================================================================================
-  *What is this? You sell a Put at the exact floor where Market Makers are
-  defending the stock, getting paid cash. You immediately use that cash to
-  buy a Call at the ceiling. If the stock crashes, you buy it on sale at the
-  floor. If it rips through the ceiling, you have unlimited profit for zero cost.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-11 (35-DTE)
-
-  [ SUGGESTED RISK REVERSAL SETUP ]
-  SELL 1x  $300.00 Put  (Credit: $4.00)  <-- Gamma Support Wall
-  BUY  1x  $330.00 Call (Debit : $3.70)  <-- Gamma Resistance Wall
-  Total Net Credit : $0.30 (You get PAID to enter this)
-  Capital Required : $30,000.00 (To secure the put assignment if it crashes)
-  Max Upside Profit: UNLIMITED
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- JADE LIZARD SETUP (30-45 DTE) FOR AAPL
-================================================================================
-  *What is this? You collect massive income from selling a put, and use that
-  cash to fully finance a call spread above the stock. Zero upside risk.
-  If the stock crashes, you buy it on sale. If it rips to the moon,
-  you still make money even if the call spread blows up.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-18 (42-DTE)
-
-  [ SUGGESTED JADE LIZARD SETUP (ZERO UPSIDE RISK) ]
-  SELL 1x  $300.00 Put   (Credit: $4.75)
-  SELL 1x  $325.00 Call
-  BUY  1x  $330.00 Call
-  Call Spread Credit: $1.30
-
-  Total Premium Collected : $6.05
-  Max Call Spread Risk    : $5.00
-  Net Upside Edge         : +$1.05 (Guaranteed profit if stock rips upward!)
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- LEAPS HUNTER (300+ DTE) FOR AAPL
-================================================================================
-  *What is this? Instead of paying $32,000 to buy 100 shares of stock, you
-  pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
-  your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
---------------------------------------------------------------------------------
-  Target Expiration: 2028-12-15 (861-DTE)
+  [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
+*Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
+---
+---
+### LEAPS HUNTER (300+ DTE) FOR AAPL
+---
+*What is this? Instead of paying $32,000 to buy 100 shares of stock, you
+pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
+your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
+Target Expiration: 2028-12-15 (841-DTE)
 
   [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-  BUY 1x $5.00 Call (Price: $307.90)
-  Delta: 1.00 (Moves 1:1 with stock)
-  Leverage: 1.0x (Cheaper than 100 shares)
-  Time Rent (Extrinsic): 0.01%
-  Breakeven: $312.90
+BUY 1x $5.00 Call (Price: $306.00)
+Delta: 1.00 (Moves 1:1 with stock)
+Leverage: 1.0x (Cheaper than 100 shares)
+Time Rent (Extrinsic): 0.12%
+Breakeven: $311.00
+### [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
+BUY 1x $560.00 Call (Price: $10.32)
+Delta: 0.16 (Explosive Convexity)
+Leverage: 30.1x
+*Note: High probability of expiring worthless. Small size only.*
+---
+---
+### VOLATILITY ARBITRAGE & SPECULATIVE PLAYS FOR AAPL
+---
+*What is this? We compare Implied Volatility (IV) to Historical Volatility (HV).
+If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
+we act as the casino and sell an Iron Butterfly to collect bloated premium.*
+[ VOLATILITY METRICS ]
+Historical Volatility (30-Day) : 31.51%
+Implied Volatility (ATM)       : 23.62%
+Premium Ratio (IV/HV)          : 0.75
 
-  [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
-  BUY 1x $570.00 Call (Price: $10.18)
-  Delta: 0.16 (Explosive Convexity)
-  Leverage: 30.7x
-  *Note: High probability of expiring worthless. Small size only.*
-================================================================================
+  [ VOLATILITY EDGE: LONG STRADDLE ]
+*Options are CHEAP. Buying volatility for potential expansion.*
+Target Expiration: 2026-09-25 (29-DTE)
+BUY 1x $310.00 Call (Price: $9.65)
+BUY 1x $310.00 Put  (Price: $7.85)
+Total Premium Risk: $17.50
+Implied Move Needed: ±5.63%
+Breakevens: < $292.50 OR > $327.50
+### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
+Identified Resistance Wall: 19,206 Open Contracts at $320.00
+Target Expiration: 2026-08-28 (1-DTE)
+BUY 1x $320.00 Call (Price: $0.17)
+*Logic: If the stock breaks $320.00, Market Makers must aggressively buy shares.*
+*Warning: Extremely high probability of 100% loss. Size accordingly.*
+---
 
-Debug: Client initialized with Key: 2Hy2...
+---
 
-================================================================================
- HIGHLY SPECULATIVE PLAYS FOR AAPL (HIGH RISK / HIGH REWARD)
-================================================================================
-  *What is this? Pure directional lottery tickets. You are betting that the
-  stock explodes violently, or that it breaks a resistance wall forcing
-  Market Makers to panic buy millions of shares to cover their short calls.*
---------------------------------------------------------------------------------
+<details>
+<summary><strong>▶ Click here to view the V2 Master Methodology</strong></summary>
 
-  [ VOLATILITY ERUPTION: THE ATM STRADDLE ]
-  Target Expiration: 2026-08-21 (14-DTE)
-  BUY 1x $312.50 Call (Price: $6.00)
-  BUY 1x $312.50 Put  (Price: $5.42)
-  Total Premium Risk: $11.43
-  Implied Move Needed: ±3.65%
-  Breakevens: < $301.07 OR > $323.93
-  *Logic: You don't care about direction, only velocity. Best played before earnings.*
-
-  [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-  Identified Resistance Wall: 40,654 Open Contracts at $340.00
-  Target Expiration: 2026-08-21 (14-DTE)
-  BUY 1x $340.00 Call (Price: $0.31)
-  *Logic: If the stock breaks $340.00, Market Makers must aggressively buy shares.*
-  *Warning: Extremely high probability of 100% loss. Size accordingly.*
-================================================================================
-
-
-================================================================================
- PRONG 1: THE COMPANY (Critical Fundamentals)
-================================================================================
-  Price:             $312.86
-  Market Cap:        $4,565,882,634,240
-  Next Earnings:     N/A
-  Directly Registered: 22,429 Shareholders (High Conviction Base)
-
-  [ VALUATION & GROWTH ]
-  P/E Ratio:         35.87
-  PEG Ratio:         2.64
-  P/TBV:             42.47
-  Shareholder Yield: 2.14% (Div: 0.3% | Buybacks: 2.6%)
-
-  [ FINANCIAL HEALTH ]
-  Altman Z-Score:    10.57 (>3.0 is Safe)
-  Current Ratio:     1.00
-  Piotroski F-Score: 7 / 9
-  ROIC (Annualized): 76.99%
-  FCF Yield:         2.80%
-
-  [ SEC FINANCIAL TRAJECTORY ]
-  Verdict:           PASS (Score: 70.0)
-  FCF Grade:         B - Moderate growth +12%, 71% quarters improving
-  Net Income Grade:  C - Mild growth +18%, inconsistent
-  Revenue Grade:     C - Mild growth +16%, inconsistent
-
-  [ MANAGEMENT & BOARD (SKIN IN THE GAME) ]
-  Insider Score:     0/100
-  Net Insider Trade: $-199,002,085
-  Comp Score:        100/100 (Equity vs Cash)
-  Overall Integrity: 40/100
-
-================================================================================
- PRONG 2: THE MARKET (Structural & Derivatives)
-================================================================================
-
-  [ MARKET REGIME & TREND ]
-  [ MARKET REGIME & TREND ]
-  VIX Regime:        🟢 CALM (VIX: 14.84)
-  Trend Verdict:     ❌ PASS — Scanner likes it, but the trend engine says no.
-
-  [ ACCUMULATION / DISTRIBUTION ]
-  Verdict:           HOLD / WATCH
-  Insider Signal:    WHALE ACTIVITY
-  Whale Alerts:      3 Active 13D/A Filings Found!
-
-  [ OFF-EXCHANGE & SHORT INTEREST ]
-  Avg Dark Short Vol: 12,928,373 shares/day
-  Avg Dark Short %:   49.8% of Off-Exchange Volume
-
-================================================================================
- APPENDIX: HOW TO READ THIS REPORT (THE PLUMBER'S VERSION)
-================================================================================
 # SINGLE STOCK ENGINE V2 — MASTER METHODOLOGY
 
 This document outlines every section of the `Single_Stock_Engine_V2.py` report, providing both a "Plumber's Version" (simple terms) and the "Meat & Potatoes" (technical mechanics) for each engine.
+
+---
+
+## 0. THE HARBOR MASTER (Macro Orchestration)
+**The Plumber's Version:** You are the captain of a cargo ship. You don't just blindly sail out of port because someone told you to deliver cargo. First, you look up at the Harbor Master's tower. The Harbor Master has been listening to weather radios, checking radar, and watching the tides (our Rainman bots). If the Harbor Master sees a hurricane coming, he raises the red flag and you stay in port, no matter how profitable the delivery might be. If it's sunny, he gives you the green light and you sail. 
+
+**Meat & Potatoes (Technical Mechanics):**
+*   **The Data Lake (Layer 1):** We have a fleet of autonomous bots (The Rainman Bots) constantly scraping raw environmental data (e.g., Hidden Markov Regime, 10-Year Yields, Crude Oil, Congressional Whale Trades). They dump this data blindly into a "Sandbox."
+*   **The Orchestrator (Layer 4):** The `master_orchestrator.py` script acts as the Harbor Master. It sweeps the entire Sandbox and calculates a mathematical **Conviction Score (0-100)**. (e.g., An inverted yield curve nukes the score by 50 points. A massive insider buy adds 5 points).
+*   **The Decoupled UI:** This report (`Single_Stock_Engine_V2`) never touches the raw data. It simply reads the final `orchestrator_verdict.json` generated by the Harbor Master and prints the final Conviction Score. If the score is too low, the pipeline shuts down to protect your capital.
 
 ---
 
@@ -329,14 +308,19 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 
 ---
 
-## 3. THE BULL RISK REVERSAL / ZEBRA (30-45 DTE)
+## 3. THE BULL RISK REVERSAL (30-45 DTE)
 **Goal:** Pure directional leverage funded by market makers, with zero upfront cost.
-**The Play:** Sell an OTM Put exactly at the Gamma Support Wall. Use 100% of the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
-**The Logic:** If you believe in a stock and want to own it, you shouldn't mind being assigned on a short put. By selling that put, you generate cash. Instead of keeping the cash, you buy a lottery ticket (Long Call) on the upside.
-*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support wall.
+**The Play:** Sell an OTM Put at the calculated optimal support buffer. Use the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
+**The Logic:** 
+*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support buffer.
 *   **If it stays flat:** Both options expire worthless. You lose nothing, because the short put paid for the long call.
 *   **If it rips:** You capture infinite upside from the Long Call, exactly as if you owned 100 shares, but you paid $0.00 to enter the trade.
-*   **Note:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost.
+
+**Meat & Potatoes (Technical Mechanics):**
+*   **Optimal Strike Buffer:** The engine calculates a "Midpoint Target" exactly halfway between the Gamma Support Wall and the Expected Move Lower Bound. This provides a deep margin of safety.
+*   **Anti-Lottery Ticket Rule:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost. However, if it has to push the Long Call strike further than 15% Out-Of-The-Money to achieve this, it triggers a circuit breaker and aborts to prevent buying worthless lottery tickets.
+
+---
 
 ## 4. JADE LIZARD (30-45 DTE)
 **The Plumber's Version:** You want to collect income from a stock you think will trade sideways or go up, but you are terrified of it ripping higher and blowing up your short call. A Jade Lizard solves this. You sell a Put to collect fat premium, and use that cash to fully finance a Call spread above the stock. If the stock crashes, you buy it at a discount. If the stock rips to the moon, the premium you collected is mathematically larger than the width of the Call spread, meaning you still make money even if the spread blows up. Zero upside risk.
@@ -358,12 +342,15 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 
 ---
 
-## 6. SPECULATIVE PLAYS
-**The Plumber's Version (Straddle):** You don't know if the stock is going to moon or crash, but you know it's going to do *something* massive (like earnings). You bet on both horses. As long as the stock explodes in one direction, the winning horse pays for the losing horse and then some.
+## 6. VOLATILITY ARBITRAGE & SPECULATIVE PLAYS
+**The Plumber's Version (Volatility Arbitrage):** You act as the casino. If the market is sleepy (premium is cheap), you buy a Straddle to catch the inevitable breakout. If the market is panicking (premium is bloated), you sell an Iron Butterfly to collect the inflated cash while safely capping your risk.
 **The Plumber's Version (Gamma Squeeze):** You find the massive wall Market Makers built above the stock. You buy a cheap lottery ticket right below the wall. If retail pushes the stock hard enough to break the wall, the Market Makers panic, buy millions of shares to cover their asses, and accidentally launch your lottery ticket to the moon.
 
 **Meat & Potatoes (Technical Mechanics):**
-*   **Straddle (14-30 DTE):** Dynamically finds the cheapest At-The-Money Call and Put. Combines them into a Straddle and calculates exactly how much of a percentage move is required to break even. Highly reliant on Volatility Expansion.
+*   **Volatility Arbitrage:** The engine dynamically compares Implied Volatility (IV) from the options chain to the stock's 30-Day Historical Volatility (HV, derived from std dev of daily log returns). 
+    *   **Long Straddle:** Triggers if Premium Ratio (IV/HV) < 0.80.
+    *   **Short Iron Butterfly:** Triggers if Premium Ratio (IV/HV) >= 1.25. Uses 4x Expected Move wings to strictly cap downside.
+    *   **No Edge:** Aborts if ratio is between 0.80 and 1.25.
 *   **Gamma Squeeze (0-14 DTE):** Scans the short-term options chain for massive OTM Call Open Interest walls. Targets a cheap call slightly below the wall to front-run the MM delta-hedging feedback loop (Gamma Squeeze).
 
 ---
@@ -379,8 +366,4 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 *   **SEC Trajectory:** Scrapes actual SEC EDGAR filings to grade the multi-year trajectory of Revenue, Net Income, and Free Cash Flow.
 
 
-================================================================================
- SCAN COMPLETE.
- Report Saved: ~/Desktop/antigravity/Single_Stock_Pipeline/reports/AAPL_V2_Master_Report.md
-================================================================================
-
+</details>
