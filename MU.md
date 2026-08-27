@@ -1,213 +1,309 @@
+# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: MU
+> Report Generated: 2026-08-27 03:46:30 HST
 
-================================================================================
- ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: MU
-================================================================================
-Report Generated: 2026-08-05 06:56:42 HST
+## PRONG 1: THE COMPANY (Critical Fundamentals)
 
-Fetching fundamental data... (This may take 15-20 seconds)
+### Micron Technology, Inc. (Technology — Semiconductors)
+> *Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference tools; UFSparm; SSD firmware; software and drivers; storage executive software; and obsolete part catalogs. It markets its semiconductor memory and storage products under the Micron and Crucial brands. The company serves the data center, PC, graphics, networking, automotive, industrial, and consumer embedded markets, as well as the smartphone and other mobile-device markets. It sells its products through its direct sales force, independent sales representatives, distributors, and retailers; web-based customer direct sales channel; and channel and distribution partners. Micron Technology, Inc. was founded in 1978 and is headquartered in Boise, Idaho.*
 
-================================================================================
- THE TRADING DASHBOARD (Macro & Options)
-================================================================================
-  [ MACRO EVENT RADAR (45-Day) ]
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 2 Days (2026-08-07)
-  ⚠️ Core CPI Inflation Data in 7 Days (2026-08-12)
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 30 Days (2026-09-04)
-  ⚠️ Core CPI Inflation Data in 37 Days (2026-09-11)
-  ⚠️ FOMC Rate Decision & Press Conference in 42 Days (2026-09-16)
+- **Price:** $941.17
+- **Market Cap:** $1,062,956,564,480
+- **Next Earnings:** 2026-09-30
+- **Directly Registered:** 1,443 Shareholders *(High Conviction Base)*
 
-  [ GAMMA EXPOSURE (GEX) & EXPECTED MOVE ]
+### Valuation & Financial Health
+| Metric | Value |
+| :--- | :--- |
+| P/E Ratio | 21.24 |
+| PEG Ratio | 0.03 |
+| P/TBV | 10.73 |
+| Shareholder Yield | 0.11% (Div: 0.1% \| Buybacks: 0.0%) |
+| Altman Z-Score | **21.64** *(>3.0 is Safe)* |
+| Current Ratio | 3.42 |
+| Piotroski F-Score | 7 / 9 |
+| ROIC (Annualized) | 137.55% |
+| FCF Yield | 6.61% |
+
+### SEC Financial Trajectory
+- **Verdict:** ELIMINATE *(Score: 0)*
+- **FCF Grade:** F - Severe decline -44%
+- **Net Income Grade:** A - Strong growth +974%, 71% quarters improving
+- **Revenue Grade:** A - Strong growth +50%, 100% quarters improving
+
+### SEC Fraud Forensics
+- **Overall Verdict:** ✅ CLEAN
+- **Bad Debt (AR vs Allowance):** ✅ PASS - No abnormal divergence detected.
+- **Revenue Acceleration (DSO):** ✅ PASS - Revenue collection cycle is stable.
+- **Operating Expense Cap (WorldCom):** ✅ PASS - Insufficient OpEx/CapEx data.
+
+### Management & Board (Skin in the Game)
+- **Insider Score:** 1/100
+- **Net Insider Trade:** $-386,296,078
+- **Comp Score:** 0/100 *(Equity vs Cash)*
+- **Overall Integrity:** 20/100
+
+## PRONG 2: THE MARKET (Structural & Derivatives)
+
+### Market Regime & Trend
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.05)*
+- **Trend Verdict:** 🟡 CONDITIONAL — Some signals good, watch the weak spots.
+
+### Accumulation / Distribution
+- **Verdict:** GREEN LIGHT (Strong Accumulation)
+- **Insider Signal:** NEUTRAL
+- **Whale Alerts:** 4 Active 13D/A Filings Found!
+
+### Off-Exchange & Short Interest
+- **Avg Dark Short Vol:** 5,338,112 shares/day
+- **Avg Dark Short %:** 48.1% of Off-Exchange Volume
+
+## THE TRADING DASHBOARD (Macro & Options)
+
+
+### 🌍 MACRO Harbor Master (Global Environment)
+> **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 95/100. Market Weather is Bullish [⚠️ HIGH OW ANOMALIES]. | 🚨 Congressional Whale Trades Detected!**
+
+*<small>The MACRO Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
+
+### Macro Event Radar (45-Day)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 8 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 14 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 15 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 20 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 22 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 36 Days (2026-10-02)
+
+### Gamma Exposure (GEX) & Expected Move
+- *Fetching master options chain (0 to 1000 DTE)...*
+Chain Fetch Failed: 502 - {"fault":{"faultstring":"Body buffer overflow","detail":{"errorcode":"protocol.http.TooBigBody"}}}
+```text
 
 Initializing Schwab Client...
-Debug: Client initialized with Key: 2Hy2...
-Current Price of MU: $925.16
-Fetching options chain from 2026-08-05 to 2026-09-19...
+Current Price of MU: $938.44
+Fetching options chain from 2026-08-27 to 2026-10-11...
+Days to Earnings  : 34 Days (Date: 2026-09-30)
+Near-Term ATM IV  : 📈 75% `[██████░░]`
+
+================================================================================
+ TACTICAL RADAR (0-14 DTE) FOR MU
+================================================================================
+Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
+--------------------------------------------------------------------------------
+$850.00  <-- EM LOWER BOUND | 6604       | 758        | -882         | 88           | -795        
+$870.00        | 2904       | 239        | -686         | 59           | -627        
+$880.00        | 1949       | 452        | -640         | 138          | -501        
+$890.00        | 2071       | 460        | -986         | 187          | -800        
+$900.00        | 4800       | 2882       | -2,647       | 1,624        | -1,023      
+$905.00        | 1078       | 514        | -619         | 318          | -301        
+$910.00        | 2196       | 1848       | -1,425       | 1,227        | -198        
+$915.00        | 1082       | 686        | -707         | 481          | -226        
+$920.00        | 2061       | 1227       | -1,457       | 910          | -547        
+$925.00        | 1655       | 749        | -1,269       | 572          | -697        
+$930.00        | 2973       | 2084       | -2,486       | 1,488        | -998        
+$935.00        | 1688       | 1826       | -1,476       | 1,551        | 76          
+$937.50  <-- PRICE | 405        | 344        | -405         | 344          | -61         
+$940.00        | 2017       | 2548       | -1,663       | 2,204        | 541         
+$945.00        | 868        | 1636       | -683         | 1,160        | 477         
+$950.00        | 3166       | 5366       | -2,156       | 4,151        | 1,994       
+$955.00        | 442        | 1327       | -298         | 938          | 640         
+$960.00        | 611        | 2139       | -430         | 1,603        | 1,173       
+$965.00        | 580        | 1378       | -399         | 943          | 544         
+$970.00        | 728        | 4261       | -454         | 2,631        | 2,177       
+$975.00        | 331        | 1557       | -210         | 996          | 785         
+$980.00        | 524        | 3027       | -287         | 1,738        | 1,451       
+$985.00        | 220        | 1316       | -105         | 641          | 536         
+$990.00        | 310        | 1691       | -147         | 819          | 672         
+$995.00        | 185        | 1585       | -75          | 656          | 581         
+$1000.00       | 1451       | 14542      | -580         | 5,805        | 5,224       
+$1005.00       | 539        | 1943       | -186         | 679          | 493         
+$1010.00       | 222        | 4615       | -70          | 1,447        | 1,377       
+$1025.00  <-- EM UPPER BOUND | 65         | 4202       | -15          | 879          | 864         
+$1050.00       | 217        | 6762       | -30          | 845          | 815         
+================================================================================
+
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $79.35
+Expected Range: $859.09 to $1017.79
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 12,773
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $937.50
+
+[ SUGGESTED STRIKES (TACTICAL) ]
+Major Support (Lower Bound)    : $900.00 (Put GEX: -2,647)
+Major Resistance (Upper Bound) : $1000.00 (Call GEX: 5,805)
+
+Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
+================================================================================
+
+[+] Successfully exported clean data to gex_tactical.csv
+
+
+================================================================================
+ STRUCTURAL ANCHOR (30-45 DTE) FOR MU
+================================================================================
+Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
+--------------------------------------------------------------------------------
+$700.00        | 140        | 3          | -14          | 0            | -14         
+$750.00  <-- EM LOWER BOUND | 182        | 0          | -18          | 0            | -18         
+$790.00        | 153        | 5          | -15          | 0            | -15         
+$800.00        | 505        | 9          | -50          | 1            | -50         
+$815.00        | 66         | 2          | -13          | 0            | -13         
+$820.00        | 122        | 26         | -24          | 5            | -19         
+$835.00        | 126        | 1          | -25          | 0            | -25         
+$850.00        | 170        | 9          | -34          | 2            | -32         
+$900.00        | 249        | 149        | -50          | 30           | -20         
+$910.00        | 18         | 111        | -4           | 22           | 19          
+$920.00        | 23         | 48         | -5           | 10           | 5           
+$930.00        | 34         | 46         | -7           | 9            | 2           
+$935.00        | 59         | 28         | -12          | 6            | -6          
+$940.00        | 58         | 308        | -12          | 62           | 50          
+$950.00        | 74         | 204        | -15          | 41           | 26          
+$955.00        | 13         | 65         | -3           | 13           | 10          
+$960.00        | 57         | 179        | -11          | 36           | 24          
+$965.00        | 45         | 75         | -9           | 15           | 6           
+$970.00        | 40         | 107        | -8           | 21           | 13          
+$980.00        | 57         | 128        | -11          | 26           | 14          
+$990.00        | 6          | 97         | -1           | 19           | 18          
+$995.00        | 34         | 55         | -7           | 11           | 4           
+$1000.00       | 33         | 245        | -7           | 49           | 42          
+$1010.00       | 9          | 50         | -2           | 10           | 8           
+$1050.00       | 16         | 447        | -3           | 89           | 86          
+$1075.00       | 7          | 95         | -1           | 19           | 18          
+$1090.00       | 13         | 57         | -3           | 11           | 9           
+$1100.00  <-- EM UPPER BOUND | 7          | 197        | -1           | 39           | 38          
+$1120.00       | 28         | 133        | -3           | 27           | 24          
+$1200.00       | 12         | 144        | -1           | 14           | 13          
+================================================================================
+
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $168.44
+Expected Range: $770.00 to $1106.88
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 189
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $930.00
+
+[ SUGGESTED STRIKES (STRUCTURAL) ]
+Major Support (Lower Bound)    : $800.00 (Put GEX: -50)
+Major Resistance (Upper Bound) : $1050.00 (Call GEX: 89)
+
+Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
+================================================================================
+
+[+] Successfully exported clean data to gex_structural.csv
+
+```
+
+### 🕵️ MICRO Harbor Master (Single Stock Confluence)
+> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
+> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
+
+## OPTIONS STRATEGIES
+
+---
+### CASH-SECURED PUTS (14-45 DTE) FOR MU
+---
+*What is this? You sign a contract promising to buy this stock next month
+if it drops in price, but you get paid cash right now for that promise.
+If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
+### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
+SELL 1x 2026-10-02 (36-DTE) $825.00 Put
+Premium Collected: $27.35
+Annualized Yield : 33.6%
+Safety Margin    : 15.2% (Breakeven: $797.65)
+Max Pain Anchor  : $940.00 (Strike is protected)
+### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
+SELL 1x 2026-10-02 (36-DTE) $920.00 Put
+Premium Collected: $62.60
+Annualized Yield : 69.0%
+Safety Margin    : 8.9% (Breakeven: $857.40)
+---
 Chain Fetch Failed: 502 - {"fault":{"faultstring":"Body buffer overflow","detail":{"errorcode":"protocol.http.TooBigBody"}}}
-Failed to fetch options chain or empty response.
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- TACTICAL BWB (BROKEN WING BUTTERFLY) FOR MU
-================================================================================
-  *What is this? We find the invisible Gamma Wall where Market Makers will defend
-  the stock from crashing. We build a trap right at that wall. If it crashes,
-  we collect max profit. If it goes up instead, the trap breaks and we still
-  keep a small credit. You literally cannot lose money on the upside.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-08-05 (0-DTE)
-  Implied Volatility (ATM): 110.23%
-  Tactical Expected Move: ±$53.39
-  Mathematical Danger Zone (Lower Bound): $871.99
-  Short-Term Gamma Support (MM Wall): $900.00
-
-  [ SUGGESTED TACTICAL BWB SETUP ]
-  BUY  1x  $925.00 Put
-  SELL 2x  $900.00 Put  <-- (Pinned at Gamma Wall)
-  BUY  1x  $850.00 Put  <-- (Broken Wing for Credit)
-
-  *Note: Ensure this is entered for a NET CREDIT.*
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- CASH-SECURED PUTS (14-45 DTE) FOR MU
-================================================================================
-  *What is this? You sign a contract promising to buy this stock next month
-  if it drops in price, but you get paid cash right now for that promise.
-  If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
---------------------------------------------------------------------------------
-
-  [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-  SELL 1x 2026-09-18 (44-DTE) $690.00 Put
-  Premium Collected: $22.25
-  Annualized Yield : 26.7%
-  Safety Margin    : 27.8% (Breakeven: $667.75)
-  Max Pain Anchor  : $700.00 (Strike is protected)
-
-  [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-  SELL 1x 2026-08-21 (16-DTE) $895.00 Put
-  Premium Collected: $54.25
-  Annualized Yield : 138.3%
-  Safety Margin    : 9.1% (Breakeven: $840.75)
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-Debug: Client initialized with Key: 2Hy2...
-Chain Fetch Failed: 502 - {"fault":{"faultstring":"Body buffer overflow","detail":{"errorcode":"protocol.http.TooBigBody"}}}
-Failed to fetch options chain or empty response.
-
-================================================================================
- THE BULL RISK REVERSAL (ZEBRA) FOR MU
-================================================================================
-  *What is this? You sell a Put at the exact floor where Market Makers are
-  defending the stock, getting paid cash. You immediately use that cash to
-  buy a Call at the ceiling. If the stock crashes, you buy it on sale at the
-  floor. If it rips through the ceiling, you have unlimited profit for zero cost.*
---------------------------------------------------------------------------------
-  [!] Could not locate Gamma Walls for MU.
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- JADE LIZARD SETUP (30-45 DTE) FOR MU
-================================================================================
-  *What is this? You collect massive income from selling a put, and use that
-  cash to fully finance a call spread above the stock. Zero upside risk.
-  If the stock crashes, you buy it on sale. If it rips to the moon,
-  you still make money even if the call spread blows up.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-18 (44-DTE)
+---
+### THE BULL RISK REVERSAL FOR MU
+---
+*What is this? You sell a Put at a calculated optimal support floor, getting
+paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
+If the stock crashes, you buy it on sale. If it rips through the ceiling, you
+have unlimited profit for zero cost.*
+[!] No valid option chain found for MU.
+---
+### JADE LIZARD SETUP (30-45 DTE) FOR MU
+---
+*What is this? You collect massive income from selling a put, and use that
+cash to fully finance a call spread above the stock. Zero upside risk.
+If the stock crashes, you buy it on sale. If it rips to the moon,
+you still make money even if the call spread blows up.*
+Target Expiration: 2026-10-09 (43-DTE)
 
   [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
-  *Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- LEAPS HUNTER (300+ DTE) FOR MU
-================================================================================
-  *What is this? Instead of paying $32,000 to buy 100 shares of stock, you
-  pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
-  your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
---------------------------------------------------------------------------------
-  Target Expiration: 2028-12-15 (863-DTE)
+*Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
+---
+---
+### LEAPS HUNTER (300+ DTE) FOR MU
+---
+*What is this? Instead of paying $32,000 to buy 100 shares of stock, you
+pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
+your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
+Target Expiration: 2028-12-15 (841-DTE)
 
   [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-  BUY 1x $10.00 Call (Price: $914.85)
-  Delta: 1.00 (Moves 1:1 with stock)
-  Leverage: 1.0x (Cheaper than 100 shares)
-  Time Rent (Extrinsic): 0.00%
-  Breakeven: $924.85
+BUY 1x $15.00 Call (Price: $924.00)
+Delta: 1.01 (Moves 1:1 with stock)
+Leverage: 1.0x (Cheaper than 100 shares)
+Time Rent (Extrinsic): 0.00%
+Breakeven: $939.00
 
   [!] No suitable Lottery Ticket LEAPS found.
-================================================================================
+---
+---
+### VOLATILITY ARBITRAGE & SPECULATIVE PLAYS FOR MU
+---
+*What is this? We compare Implied Volatility (IV) to Historical Volatility (HV).
+If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
+we act as the casino and sell an Iron Butterfly to collect bloated premium.*
+[ VOLATILITY METRICS ]
+Historical Volatility (30-Day) : 88.60%
+Implied Volatility (ATM)       : 59.04%
+Premium Ratio (IV/HV)          : 0.67
 
-Debug: Client initialized with Key: 2Hy2...
+  [ VOLATILITY EDGE: LONG STRADDLE ]
+*Options are CHEAP. Buying volatility for potential expansion.*
+Target Expiration: 2026-09-25 (29-DTE)
+BUY 1x $940.00 Call (Price: $63.60)
+BUY 1x $940.00 Put  (Price: $64.15)
+Total Premium Risk: $127.75
+Implied Move Needed: ±13.57%
+Breakevens: < $812.25 OR > $1067.75
+### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
+Identified Resistance Wall: 10,115 Open Contracts at $1000.00
+Target Expiration: 2026-08-28 (1-DTE)
+BUY 1x $1000.00 Call (Price: $1.40)
+*Logic: If the stock breaks $1000.00, Market Makers must aggressively buy shares.*
+*Warning: Extremely high probability of 100% loss. Size accordingly.*
+---
 
-================================================================================
- HIGHLY SPECULATIVE PLAYS FOR MU (HIGH RISK / HIGH REWARD)
-================================================================================
-  *What is this? Pure directional lottery tickets. You are betting that the
-  stock explodes violently, or that it breaks a resistance wall forcing
-  Market Makers to panic buy millions of shares to cover their short calls.*
---------------------------------------------------------------------------------
+---
 
-  [ VOLATILITY ERUPTION: THE ATM STRADDLE ]
-  Target Expiration: 2026-08-19 (14-DTE)
-  BUY 1x $925.00 Call (Price: $64.78)
-  BUY 1x $925.00 Put  (Price: $64.68)
-  Total Premium Risk: $129.45
-  Implied Move Needed: ±13.99%
-  Breakevens: < $795.55 OR > $1054.45
-  *Logic: You don't care about direction, only velocity. Best played before earnings.*
+<details>
+<summary><strong>▶ Click here to view the V2 Master Methodology</strong></summary>
 
-  [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-  Identified Resistance Wall: 8,636 Open Contracts at $1000.00
-  Target Expiration: 2026-08-07 (2-DTE)
-  BUY 1x $1000.00 Call (Price: $8.60)
-  *Logic: If the stock breaks $1000.00, Market Makers must aggressively buy shares.*
-  *Warning: Extremely high probability of 100% loss. Size accordingly.*
-================================================================================
-
-
-================================================================================
- PRONG 1: THE COMPANY (Critical Fundamentals)
-================================================================================
-  Price:             $925.38
-  Market Cap:        $1,044,903,231,488
-  Next Earnings:     N/A
-  Directly Registered: 1,443 Shareholders (High Conviction Base)
-
-  [ VALUATION & GROWTH ]
-  P/E Ratio:         20.95
-  PEG Ratio:         0.03
-  P/TBV:             10.54
-  Shareholder Yield: 0.12% (Div: 0.1% | Buybacks: 0.0%)
-
-  [ FINANCIAL HEALTH ]
-  Altman Z-Score:    21.31 (>3.0 is Safe)
-  Current Ratio:     3.42
-  Piotroski F-Score: 7 / 9
-  ROIC (Annualized): 137.55%
-  FCF Yield:         6.72%
-
-  [ SEC FINANCIAL TRAJECTORY ]
-  Verdict:           ELIMINATE (Score: 0)
-  FCF Grade:         F - Severe decline -44%
-  Net Income Grade:  A - Strong growth +974%, 71% quarters improving
-  Revenue Grade:     A - Strong growth +50%, 100% quarters improving
-
-  [ MANAGEMENT & BOARD (SKIN IN THE GAME) ]
-  Insider Score:     2/100
-  Net Insider Trade: $-333,525,566
-  Comp Score:        0/100 (Equity vs Cash)
-  Overall Integrity: 21/100
-
-================================================================================
- PRONG 2: THE MARKET (Structural & Derivatives)
-================================================================================
-
-  [ MARKET REGIME & TREND ]
-  [ MARKET REGIME & TREND ]
-  VIX Regime:        🟡 NORMAL (VIX: 16.01)
-  Trend Verdict:     ❌ PASS — Scanner likes it, but the trend engine says no.
-
-  [ ACCUMULATION / DISTRIBUTION ]
-  Verdict:           HOLD / WATCH
-  Insider Signal:    WHALE ACTIVITY
-  Whale Alerts:      4 Active 13D/A Filings Found!
-
-  [ OFF-EXCHANGE & SHORT INTEREST ]
-  Avg Dark Short Vol: 9,673,431 shares/day
-  Avg Dark Short %:   41.9% of Off-Exchange Volume
-
-================================================================================
- APPENDIX: HOW TO READ THIS REPORT (THE PLUMBER'S VERSION)
-================================================================================
 # SINGLE STOCK ENGINE V2 — MASTER METHODOLOGY
 
 This document outlines every section of the `Single_Stock_Engine_V2.py` report, providing both a "Plumber's Version" (simple terms) and the "Meat & Potatoes" (technical mechanics) for each engine.
+
+---
+
+## 0. THE HARBOR MASTER (Macro Orchestration)
+**The Plumber's Version:** You are the captain of a cargo ship. You don't just blindly sail out of port because someone told you to deliver cargo. First, you look up at the Harbor Master's tower. The Harbor Master has been listening to weather radios, checking radar, and watching the tides (our Rainman bots). If the Harbor Master sees a hurricane coming, he raises the red flag and you stay in port, no matter how profitable the delivery might be. If it's sunny, he gives you the green light and you sail. 
+
+**Meat & Potatoes (Technical Mechanics):**
+*   **The Data Lake (Layer 1):** We have a fleet of autonomous bots (The Rainman Bots) constantly scraping raw environmental data (e.g., Hidden Markov Regime, 10-Year Yields, Crude Oil, Congressional Whale Trades). They dump this data blindly into a "Sandbox."
+*   **The Orchestrator (Layer 4):** The `master_orchestrator.py` script acts as the Harbor Master. It sweeps the entire Sandbox and calculates a mathematical **Conviction Score (0-100)**. (e.g., An inverted yield curve nukes the score by 50 points. A massive insider buy adds 5 points).
+*   **The Decoupled UI:** This report (`Single_Stock_Engine_V2`) never touches the raw data. It simply reads the final `orchestrator_verdict.json` generated by the Harbor Master and prints the final Conviction Score. If the score is too low, the pipeline shuts down to protect your capital.
 
 ---
 
@@ -231,14 +327,19 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 
 ---
 
-## 3. THE BULL RISK REVERSAL / ZEBRA (30-45 DTE)
+## 3. THE BULL RISK REVERSAL (30-45 DTE)
 **Goal:** Pure directional leverage funded by market makers, with zero upfront cost.
-**The Play:** Sell an OTM Put exactly at the Gamma Support Wall. Use 100% of the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
-**The Logic:** If you believe in a stock and want to own it, you shouldn't mind being assigned on a short put. By selling that put, you generate cash. Instead of keeping the cash, you buy a lottery ticket (Long Call) on the upside.
-*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support wall.
+**The Play:** Sell an OTM Put at the calculated optimal support buffer. Use the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
+**The Logic:** 
+*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support buffer.
 *   **If it stays flat:** Both options expire worthless. You lose nothing, because the short put paid for the long call.
 *   **If it rips:** You capture infinite upside from the Long Call, exactly as if you owned 100 shares, but you paid $0.00 to enter the trade.
-*   **Note:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost.
+
+**Meat & Potatoes (Technical Mechanics):**
+*   **Optimal Strike Buffer:** The engine calculates a "Midpoint Target" exactly halfway between the Gamma Support Wall and the Expected Move Lower Bound. This provides a deep margin of safety.
+*   **Anti-Lottery Ticket Rule:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost. However, if it has to push the Long Call strike further than 15% Out-Of-The-Money to achieve this, it triggers a circuit breaker and aborts to prevent buying worthless lottery tickets.
+
+---
 
 ## 4. JADE LIZARD (30-45 DTE)
 **The Plumber's Version:** You want to collect income from a stock you think will trade sideways or go up, but you are terrified of it ripping higher and blowing up your short call. A Jade Lizard solves this. You sell a Put to collect fat premium, and use that cash to fully finance a Call spread above the stock. If the stock crashes, you buy it at a discount. If the stock rips to the moon, the premium you collected is mathematically larger than the width of the Call spread, meaning you still make money even if the spread blows up. Zero upside risk.
@@ -260,12 +361,15 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 
 ---
 
-## 6. SPECULATIVE PLAYS
-**The Plumber's Version (Straddle):** You don't know if the stock is going to moon or crash, but you know it's going to do *something* massive (like earnings). You bet on both horses. As long as the stock explodes in one direction, the winning horse pays for the losing horse and then some.
+## 6. VOLATILITY ARBITRAGE & SPECULATIVE PLAYS
+**The Plumber's Version (Volatility Arbitrage):** You act as the casino. If the market is sleepy (premium is cheap), you buy a Straddle to catch the inevitable breakout. If the market is panicking (premium is bloated), you sell an Iron Butterfly to collect the inflated cash while safely capping your risk.
 **The Plumber's Version (Gamma Squeeze):** You find the massive wall Market Makers built above the stock. You buy a cheap lottery ticket right below the wall. If retail pushes the stock hard enough to break the wall, the Market Makers panic, buy millions of shares to cover their asses, and accidentally launch your lottery ticket to the moon.
 
 **Meat & Potatoes (Technical Mechanics):**
-*   **Straddle (14-30 DTE):** Dynamically finds the cheapest At-The-Money Call and Put. Combines them into a Straddle and calculates exactly how much of a percentage move is required to break even. Highly reliant on Volatility Expansion.
+*   **Volatility Arbitrage:** The engine dynamically compares Implied Volatility (IV) from the options chain to the stock's 30-Day Historical Volatility (HV, derived from std dev of daily log returns). 
+    *   **Long Straddle:** Triggers if Premium Ratio (IV/HV) < 0.80.
+    *   **Short Iron Butterfly:** Triggers if Premium Ratio (IV/HV) >= 1.25. Uses 4x Expected Move wings to strictly cap downside.
+    *   **No Edge:** Aborts if ratio is between 0.80 and 1.25.
 *   **Gamma Squeeze (0-14 DTE):** Scans the short-term options chain for massive OTM Call Open Interest walls. Targets a cheap call slightly below the wall to front-run the MM delta-hedging feedback loop (Gamma Squeeze).
 
 ---
@@ -281,8 +385,4 @@ This document outlines every section of the `Single_Stock_Engine_V2.py` report, 
 *   **SEC Trajectory:** Scrapes actual SEC EDGAR filings to grade the multi-year trajectory of Revenue, Net Income, and Free Cash Flow.
 
 
-================================================================================
- SCAN COMPLETE.
- Report Saved: ~/Desktop/antigravity/Single_Stock_Pipeline/reports/MU_V2_Master_Report.md
-================================================================================
-
+</details>
