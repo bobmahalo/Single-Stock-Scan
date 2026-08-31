@@ -15,6 +15,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [CRUS Report](CRUS.html)
 - [DECK Report](DECK.html)
 - [DOW Report](DOW.html)
+- [EIX Report](EIX.html)
 - [EXEL Report](EXEL.html)
 - [F Report](F.html)
 - [GCO Report](GCO.html)
