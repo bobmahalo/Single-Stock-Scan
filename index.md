@@ -6,6 +6,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [AAPL Report](AAPL.html)
 - [ACN Report](ACN.html)
 - [AMN Report](AMN.html)
+- [APLD Report](APLD.html)
 - [BB Report](BB.html)
 - [BBY Report](BBY.html)
 - [BEAT Report](BEAT.html)
