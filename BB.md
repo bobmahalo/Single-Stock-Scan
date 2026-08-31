@@ -1,24 +1,24 @@
 # ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: BB
-> Report Generated: 2026-08-27 03:44:44 HST
+> Report Generated: 2026-08-31 07:05:02 HST
 
 ## PRONG 1: THE COMPANY (Critical Fundamentals)
 
 ### BlackBerry Limited (Technology — Software - Infrastructure)
 > *BlackBerry Limited provides intelligent software and services to enterprises and governments worldwide. The company operates through three segments: Secure Communications, QNX, and Licensing. The company offers BlackBerry Dynamics, a development platform and secure container for mobile applications; BlackBerry Workspaces a secure Enterprise File Sync and Share (EFSS) solution; BlackBerry Messenger (BBM) Enterprise, an enterprise-grade secure instant messaging solution for messaging, voice, and video; BlackBerry SecuSUITE, a multi-OS voice and text messaging solution; BlackBerry AtHoc, a secure networked critical event management solution; and BlackBerry unified endpoint management (UEM) solutions. It also provides BlackBerry Certicom, a patented elliptic curve cryptography, which provides device security, anti-counterfeiting, and product authentication solutions; BlackBerry Radar offers asset monitoring and telematics solutions for transportation and logistics; and BlackBerry Development Platform, an enterprise-grade toolset. In addition, the company offers enterprise consulting and engineering consulting services. Further, it is involved in patent licensing. The company was formerly known as Research In Motion Limited and changed its name to BlackBerry Limited in July 2013. BlackBerry Limited was incorporated in 1984 and is headquartered in Waterloo, Canada.*
 
-- **Price:** $8.30
-- **Market Cap:** $4,864,692,224
+- **Price:** $8.09
+- **Market Cap:** $4,738,621,952
 - **Next Earnings:** 2026-09-24
 - **Directly Registered:** 1,051 Shareholders *(High Conviction Base)*
 
 ### Valuation & Financial Health
 | Metric | Value |
 | :--- | :--- |
-| P/E Ratio | 85.25 |
+| P/E Ratio | 83.13 |
 | PEG Ratio | None |
-| P/TBV | 20.87 |
-| Shareholder Yield | 1.19% (Div: 0.0% \| Buybacks: 0.0%) |
-| Altman Z-Score | **3.98** *(>3.0 is Safe)* |
+| P/TBV | 20.33 |
+| Shareholder Yield | 1.23% (Div: 0.0% \| Buybacks: 0.0%) |
+| Altman Z-Score | **3.83** *(>3.0 is Safe)* |
 | Current Ratio | 2.20 |
 | Piotroski F-Score | 5 / 9 |
 | ROIC (Annualized) | 4.47% |
@@ -45,7 +45,7 @@
 ## PRONG 2: THE MARKET (Structural & Derivatives)
 
 ### Market Regime & Trend
-- **VIX Regime:** 🟡 NORMAL *(VIX: 15.04)*
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.16)*
 - **Trend Verdict:** ❌ PASS — Scanner likes it, but the trend engine says no.
 
 ### Accumulation / Distribution
@@ -54,8 +54,8 @@
 - **Whale Alerts:** 4 Active 13D/A Filings Found!
 
 ### Off-Exchange & Short Interest
-- **Avg Dark Short Vol:** 1,054,197 shares/day
-- **Avg Dark Short %:** 34.2% of Off-Exchange Volume
+- **Avg Dark Short Vol:** 1,626,786 shares/day
+- **Avg Dark Short %:** 37.7% of Off-Exchange Volume
 
 ## THE TRADING DASHBOARD (Macro & Options)
 
@@ -66,181 +66,63 @@
 *<small>The MACRO Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
 
 ### Macro Event Radar (45-Day)
-- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 8 Days (2026-09-04)
-- ⚠️ PPI Inflation Data in 14 Days (2026-09-10)
-- ⚠️ Core CPI Inflation Data in 15 Days (2026-09-11)
-- ⚠️ FOMC Rate Decision & Press Conference in 20 Days (2026-09-16)
-- ⚠️ Quarterly OPEX (Triple Witching) in 22 Days (2026-09-18)
-- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 36 Days (2026-10-02)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 4 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 10 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 11 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 16 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 18 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 32 Days (2026-10-02)
+- ⚠️ Core CPI Inflation Data in 43 Days (2026-10-13)
+- ⚠️ PPI Inflation Data in 44 Days (2026-10-14)
 
 ### Gamma Exposure (GEX) & Expected Move
 - *Fetching master options chain (0 to 1000 DTE)...*
+Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
+
+[CRITICAL]: Your Refresh Token has expired or is invalid.
+Please run 'Setup_Schwab.command' to log in again.
+
 ```text
 
 Initializing Schwab Client...
-Current Price of BB: $8.30
-Days to Earnings  : 28 Days (Date: 2026-09-24)
-Near-Term ATM IV  : 📈 83% `[██████░░]`
+Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
 
-================================================================================
- TACTICAL RADAR (0-14 DTE) FOR BB
-================================================================================
-Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
---------------------------------------------------------------------------------
-$7.50  <-- PRICE | 2457       | 401        | -67,277      | 10,829       | -56,448     
-$8.00  <-- EM LOWER BOUND | 1685       | 4999       | -116,967     | 331,201      | 214,234     
-$8.50  <-- PRICE | 1236       | 13087      | -98,685      | 1,110,336    | 1,011,651   
-$9.00  <-- EM UPPER BOUND | 343        | 2779       | -10,653      | 88,357       | 77,704      
-$9.50          | 82         | 1896       | -1,758       | 41,600       | 39,841      
-================================================================================
+[CRITICAL]: Your Refresh Token has expired or is invalid.
+Please run 'Setup_Schwab.command' to log in again.
 
-[ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $0.53
-Expected Range: $7.77 to $8.84
-
-[ GEX REGIME & ZERO GAMMA ]
-Total Net GEX: 1,308,777
-Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
-Zero Gamma Level (ZGL): $9.50
-
-[ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $8.00 (Put GEX: -116,967)
-Major Resistance (Upper Bound) : $8.50 (Call GEX: 1,110,336)
-
-Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
-================================================================================
-
-[+] Successfully exported clean data to gex_tactical.csv
-
-
-================================================================================
- STRUCTURAL ANCHOR (30-45 DTE) FOR BB
-================================================================================
-Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
---------------------------------------------------------------------------------
-$7.00  <-- EM LOWER BOUND | 154        | 151        | -2,125       | 2,084        | -41         
-$8.00  <-- PRICE | 1548       | 1749       | -32,663      | 37,254       | 4,591       
-$8.50  <-- PRICE | 18         | 150        | -351         | 2,955        | 2,604       
-$9.00  <-- PRICE | 25         | 3597       | -395         | 57,192       | 56,797      
-$9.50          | 203        | 57         | -3,370       | 952          | -2,418      
-$10.00         | 45         | 374        | -711         | 5,947        | 5,236       
-$11.50  <-- EM UPPER BOUND | 0          | 308        | 0            | 2,988        | 2,988       
-================================================================================
-
-[ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $2.46
-Expected Range: $5.84 to $10.77
-
-[ GEX REGIME & ZERO GAMMA ]
-Total Net GEX: 70,425
-Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
-Zero Gamma Level (ZGL): $7.00
-
-[ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $8.00 (Put GEX: -32,663)
-Major Resistance (Upper Bound) : $9.00 (Call GEX: 57,192)
-
-Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
-================================================================================
-
-[+] Successfully exported clean data to gex_structural.csv
-
+Could not fetch price for BB. Check symbol or API keys.
 ```
 
 ### 🕵️ MICRO Harbor Master (Single Stock Confluence)
-> **PERFECT BULL CONFLUENCE.** Options, Insiders, and Dark Pools all align for a genuine upward trajectory. The whales are riding this.
-> **Recommendation:** *Deploy Directional Leverage. (Bull Risk Reversal, LEAPS Hunter).*
+> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
+> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
 
 ## OPTIONS STRATEGIES
 
+Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
+
+[CRITICAL]: Your Refresh Token has expired or is invalid.
+Please run 'Setup_Schwab.command' to log in again.
+
 ---
-### CASH-SECURED PUTS (14-45 DTE) FOR BB
+### THE WHEEL: CASH-SECURED PUTS (14-45 DTE) FOR BB
 ---
 *What is this? You sign a contract promising to buy this stock next month
 if it drops in price, but you get paid cash right now for that promise.
 If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
-### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-SELL 1x 2026-10-02 (36-DTE) $7.00 Put
-Premium Collected: $0.20
-Annualized Yield : 29.0%
-Safety Margin    : 18.1% (Breakeven: $6.80)
-Max Pain Anchor  : $8.00 (Strike is protected)
-### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-SELL 1x 2026-09-25 (29-DTE) $7.50 Put
-Premium Collected: $0.26
-Annualized Yield : 43.6%
-Safety Margin    : 12.8% (Breakeven: $7.24)
----
----
-### THE BULL RISK REVERSAL FOR BB
----
-*What is this? You sell a Put at a calculated optimal support floor, getting
-paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
-If the stock crashes, you buy it on sale. If it rips through the ceiling, you
-have unlimited profit for zero cost.*
-[!] NO SAFE RISK REVERSAL FOUND.
-The required Long Call is too far OTM (>15%) to be funded by the $7.00 Put.
----
----
-### JADE LIZARD SETUP (30-45 DTE) FOR BB
----
-*What is this? You collect massive income from selling a put, and use that
-cash to fully finance a call spread above the stock. Zero upside risk.
-If the stock crashes, you buy it on sale. If it rips to the moon,
-you still make money even if the call spread blows up.*
-Target Expiration: 2026-10-09 (43-DTE)
+[!] No valid PUT chain found for BB.
+Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
 
-  [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
-*Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
----
----
-### LEAPS HUNTER (300+ DTE) FOR BB
----
-*What is this? Instead of paying $32,000 to buy 100 shares of stock, you
-pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
-your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
-Target Expiration: 2028-01-21 (512-DTE)
+[CRITICAL]: Your Refresh Token has expired or is invalid.
+Please run 'Setup_Schwab.command' to log in again.
 
-  [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-BUY 1x $0.50 Call (Price: $6.90)
-Delta: 1.00 (Moves 1:1 with stock)
-Leverage: 1.2x (Cheaper than 100 shares)
-Time Rent (Extrinsic): 0.00%
-Breakeven: $7.40
-### [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
-BUY 1x $25.00 Call (Price: $0.92)
-Delta: 0.28 (Explosive Convexity)
-Leverage: 9.0x
-*Note: High probability of expiring worthless. Small size only.*
 ---
+### THE WHEEL: COVERED CALLS (14-45 DTE) FOR BB
 ---
-### VOLATILITY ARBITRAGE & SPECULATIVE PLAYS FOR BB
----
-*What is this? We compare Implied Volatility (IV) to Historical Volatility (HV).
-If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
-we act as the casino and sell an Iron Butterfly to collect bloated premium.*
-[ VOLATILITY METRICS ]
-Historical Volatility (30-Day) : 69.07%
-Implied Volatility (ATM)       : 88.08%
-Premium Ratio (IV/HV)          : 1.28
-
-  [ VOLATILITY EDGE: SHORT IRON BUTTERFLY ]
-*Options are EXPENSIVE. Selling bloated premium with defined risk.*
-Target Expiration: 2026-09-25 (29-DTE)
-Expected Move (EM): ±$2.06
-SELL 1x $8.50 Call (Credit: $0.70)
-SELL 1x $8.50 Put  (Credit: $0.96)
-BUY  1x $17.00 Call (Debit : $0.48)  <-- 4x EM Wing
-BUY  1x $4.00 Put  (Debit : $0.47)  <-- 4x EM Wing
-Total Net Credit : $0.71
-Max Risk (Margin): $779.50
-### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-Identified Resistance Wall: 12,341 Open Contracts at $8.50
-Target Expiration: 2026-08-28 (1-DTE)
-BUY 1x $8.50 Call (Price: $0.08)
-*Logic: If the stock breaks $8.50, Market Makers must aggressively buy shares.*
-*Warning: Extremely high probability of 100% loss. Size accordingly.*
----
+*What is this? You already own 100 shares. You sign a contract promising
+to sell them at a higher price, getting paid cash right now for the promise.
+If it rips, you sell at a profit. If it doesn't, you keep the shares and the cash.*
+[!] No valid CALL chain found for BB.
 
 ---
 
