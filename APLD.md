@@ -1,13 +1,13 @@
 # ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: APLD
-> Report Generated: 2026-08-31 07:06:10 HST
+> Report Generated: 2026-08-31 07:20:34 HST
 
 ## PRONG 1: THE COMPANY (Critical Fundamentals)
 
 ### Applied Digital Corporation (Technology — Information Technology Services)
 > *Applied Digital Corporation designs, develops, and operates digital infrastructure solutions to high-performance computing (HPC) and artificial intelligence industries in North America. It operates through: Data Center Hosting, and HPC Hosting Business. The company provides energized infrastructure services to crypto mining customers; and cloud services to customers, such as AI and machine learning developers. It also engages in the designing, constructing, and operating of data centers to provide computing power and support HPC applications. The company was formerly known as Applied Blockchain, Inc. and changed its name to Applied Digital Corporation in November 2022. Applied Digital Corporation is based in Dallas, Texas.*
 
-- **Price:** $25.10
-- **Market Cap:** $7,136,025,600
+- **Price:** $25.16
+- **Market Cap:** $7,154,050,560
 - **Next Earnings:** 2026-10-08
 - **Directly Registered:** 91 Shareholders *(High Conviction Base)*
 
@@ -16,13 +16,13 @@
 | :--- | :--- |
 | P/E Ratio | None |
 | PEG Ratio | None |
-| P/TBV | 4.51 |
+| P/TBV | 4.52 |
 | Shareholder Yield | 0.09% (Div: 0.0% \| Buybacks: 0.0%) |
 | Altman Z-Score | **nan** *(>3.0 is Safe)* |
 | Current Ratio | 2.38 |
 | Piotroski F-Score | 4 / 9 |
 | ROIC (Annualized) | nan% |
-| FCF Yield | -40.37% |
+| FCF Yield | -40.27% |
 
 ### SEC Financial Trajectory
 - **Verdict:** ELIMINATE *(Score: 0)*
@@ -77,20 +77,96 @@
 
 ### Gamma Exposure (GEX) & Expected Move
 - *Fetching master options chain (0 to 1000 DTE)...*
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 ```text
 
 Initializing Schwab Client...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
+Current Price of APLD: $25.11
+Days to Earnings  : 38 Days (Date: 2026-10-08)
+Near-Term ATM IV  : 📈 77% `[██████░░]`
 
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
+### TACTICAL RADAR (0-5 DTE) FOR APLD
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $22.00 | 320 | 307 | -1,728 | 1,658 | -70 |
+| $23.00 | 399 | 24 | -4,030 | 242 | -3,788 |
+| $23.50  <-- EM LOWER BOUND | 328 | 11 | -4,264 | 143 | -4,121 |
+| $24.00 | 1169 | 50 | -18,470 | 785 | -17,685 |
+| $24.50  <-- PRICE | 3564 | 123 | -63,439 | 2,189 | -61,250 |
+| $25.00  <-- PRICE | 1888 | 465 | -36,250 | 8,928 | -27,322 |
+| $25.50  <-- PRICE | 594 | 528 | -11,405 | 10,085 | -1,320 |
+| $26.00  <-- PRICE | 4618 | 896 | -84,971 | 16,307 | -68,664 |
+| $26.50  <-- EM UPPER BOUND | 450 | 996 | -7,425 | 16,235 | 8,810 |
+| $27.00 | 576 | 757 | -8,064 | 10,522 | 2,458 |
+| $27.50 | 800 | 1959 | -9,120 | 22,333 | 13,213 |
+| $28.00 | 1106 | 1194 | -9,512 | 10,627 | 1,115 |
+| $28.50 | 161 | 577 | -950 | 3,924 | 2,974 |
+| $29.00 | 390 | 1159 | -1,326 | 5,795 | 4,469 |
+| $29.50 | 198 | 452 | -317 | 1,763 | 1,446 |
+| $30.00 | 784 | 2110 | 0 | 6,119 | 6,119 |
+| $31.00 | 139 | 1160 | 0 | 2,668 | 2,668 |
+| $32.00 | 68 | 2166 | 0 | 3,249 | 3,249 |
+================================================================================
 
-Could not fetch price for APLD. Check symbol or API keys.
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $1.45
+Expected Range: $23.67 to $26.56
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: -132,010
+Current Regime: NEGATIVE (Trend / Volatility - Dealer Amplified)
+Zero Gamma Level (ZGL): $22.00
+
+[ SUGGESTED STRIKES (TACTICAL) ]
+Major Support (Lower Bound)    : $24.50 (Put GEX: -63,439)
+Major Resistance (Upper Bound) : $27.50 (Call GEX: 22,333)
+
+Action: Monitor these near-term levels for immediate volatility and Gamma pinning.
+================================================================================
+
+[+] Successfully exported clean data to gex_tactical.csv
+Chart successfully saved to reports/APLD_TACTICAL_chart.png
+[+] Successfully generated chart: reports/APLD_TACTICAL_chart.png
+
+
+### STRUCTURAL ANCHOR (30-45 DTE) FOR APLD
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $21.00  <-- EM LOWER BOUND | 177 | 1 | -830 | 5 | -826 |
+| $22.00 | 233 | 32 | -1,311 | 178 | -1,134 |
+| $23.00 | 6058 | 9 | -39,347 | 58 | -39,289 |
+| $24.00 | 308 | 24 | -1,991 | 163 | -1,828 |
+| $25.00  <-- PRICE | 495 | 48 | -3,697 | 356 | -3,341 |
+| $26.00  <-- PRICE | 255 | 214 | -1,671 | 1,498 | -173 |
+| $27.00 | 125 | 146 | -849 | 986 | 137 |
+| $28.00 | 519 | 129 | -2,871 | 842 | -2,030 |
+| $29.00 | 264 | 87 | -1,476 | 538 | -938 |
+| $30.00  <-- EM UPPER BOUND | 62 | 799 | -344 | 4,437 | 4,092 |
+| $32.00 | 19 | 163 | -81 | 725 | 644 |
+| $34.00 | 3 | 799 | -10 | 2,938 | 2,928 |
+| $35.00 | 10 | 273 | -27 | 808 | 781 |
+| $37.00 | 11 | 3048 | -22 | 6,707 | 6,685 |
+================================================================================
+
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $4.98
+Expected Range: $20.13 to $30.09
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: -33,540
+Current Regime: NEGATIVE (Trend / Volatility - Dealer Amplified)
+Zero Gamma Level (ZGL): $27.00
+
+[ SUGGESTED STRIKES (STRUCTURAL) ]
+Major Support (Lower Bound)    : $23.00 (Put GEX: -39,347)
+Major Resistance (Upper Bound) : $37.00 (Call GEX: 6,707)
+
+Action: Use these massive Structural Walls to strike your Wheel Trades (CSP support & CC resistance).
+================================================================================
+
+[+] Successfully exported clean data to gex_structural.csv
+Chart successfully saved to reports/APLD_STRUCTURAL_chart.png
+[+] Successfully generated chart: reports/APLD_STRUCTURAL_chart.png
+
 ```
 
 ### 🕵️ MICRO Harbor Master (Single Stock Confluence)
@@ -99,30 +175,44 @@ Could not fetch price for APLD. Check symbol or API keys.
 
 ## OPTIONS STRATEGIES
 
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 ---
 ### THE WHEEL: CASH-SECURED PUTS (14-45 DTE) FOR APLD
 ---
 *What is this? You sign a contract promising to buy this stock next month
 if it drops in price, but you get paid cash right now for that promise.
 If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
-[!] No valid PUT chain found for APLD.
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
+### [ CAPITAL PRESERVATION: THE STATISTICALLY SAFE CSP ]
+*Priced outside the 1 Standard Deviation Expected Move (+/- $4.00)*
+SELL 1x 2026-09-18 (18-DTE) $21.00 Put
+Premium Collected: $0.25
+Annualized Yield : 24.1%
+Safety Margin    : 17.5% (Breakeven: $20.75)
+### [ INCOME ACCUMULATOR: THE AGGRESSIVE CSP ]
+*Warning: Strike is inside the Expected Move.*
+SELL 1x 2026-09-18 (18-DTE) $25.00 Put
+Premium Collected: $1.46
+Annualized Yield : 118.4%
+Safety Margin    : 6.5% (Breakeven: $23.54)
+---
 ---
 ### THE WHEEL: COVERED CALLS (14-45 DTE) FOR APLD
 ---
 *What is this? You already own 100 shares. You sign a contract promising
 to sell them at a higher price, getting paid cash right now for the promise.
 If it rips, you sell at a profit. If it doesn't, you keep the shares and the cash.*
-[!] No valid CALL chain found for APLD.
+### [ SHARE PRESERVATION: THE STATISTICALLY SAFE CC ]
+*Priced outside the 1 Standard Deviation Expected Move (+/- $4.01)*
+SELL 1x 2026-09-18 (18-DTE) $29.50 Call
+Premium Collected: $0.39
+Annualized Yield : 31.4%
+Max Total Return : 18.8% (If called away at $29.50)
+### [ INCOME ACCUMULATOR: THE AGGRESSIVE CC ]
+*Warning: Strike is inside the Expected Move. High risk of shares being called away.*
+SELL 1x 2026-09-18 (18-DTE) $25.50 Call
+Premium Collected: $1.46
+Annualized Yield : 117.7%
+Max Total Return : 7.1% (If called away at $25.50)
+---
 
 ---
 
