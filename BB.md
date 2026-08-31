@@ -1,24 +1,24 @@
 # ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: BB
-> Report Generated: 2026-08-31 07:05:02 HST
+> Report Generated: 2026-08-31 07:19:22 HST
 
 ## PRONG 1: THE COMPANY (Critical Fundamentals)
 
 ### BlackBerry Limited (Technology — Software - Infrastructure)
 > *BlackBerry Limited provides intelligent software and services to enterprises and governments worldwide. The company operates through three segments: Secure Communications, QNX, and Licensing. The company offers BlackBerry Dynamics, a development platform and secure container for mobile applications; BlackBerry Workspaces a secure Enterprise File Sync and Share (EFSS) solution; BlackBerry Messenger (BBM) Enterprise, an enterprise-grade secure instant messaging solution for messaging, voice, and video; BlackBerry SecuSUITE, a multi-OS voice and text messaging solution; BlackBerry AtHoc, a secure networked critical event management solution; and BlackBerry unified endpoint management (UEM) solutions. It also provides BlackBerry Certicom, a patented elliptic curve cryptography, which provides device security, anti-counterfeiting, and product authentication solutions; BlackBerry Radar offers asset monitoring and telematics solutions for transportation and logistics; and BlackBerry Development Platform, an enterprise-grade toolset. In addition, the company offers enterprise consulting and engineering consulting services. Further, it is involved in patent licensing. The company was formerly known as Research In Motion Limited and changed its name to BlackBerry Limited in July 2013. BlackBerry Limited was incorporated in 1984 and is headquartered in Waterloo, Canada.*
 
-- **Price:** $8.09
-- **Market Cap:** $4,738,621,952
+- **Price:** $8.07
+- **Market Cap:** $4,732,760,576
 - **Next Earnings:** 2026-09-24
 - **Directly Registered:** 1,051 Shareholders *(High Conviction Base)*
 
 ### Valuation & Financial Health
 | Metric | Value |
 | :--- | :--- |
-| P/E Ratio | 83.13 |
+| P/E Ratio | 82.99 |
 | PEG Ratio | None |
-| P/TBV | 20.33 |
+| P/TBV | 20.30 |
 | Shareholder Yield | 1.23% (Div: 0.0% \| Buybacks: 0.0%) |
-| Altman Z-Score | **3.83** *(>3.0 is Safe)* |
+| Altman Z-Score | **3.82** *(>3.0 is Safe)* |
 | Current Ratio | 2.20 |
 | Piotroski F-Score | 5 / 9 |
 | ROIC (Annualized) | 4.47% |
@@ -45,7 +45,7 @@
 ## PRONG 2: THE MARKET (Structural & Derivatives)
 
 ### Market Regime & Trend
-- **VIX Regime:** 🟡 NORMAL *(VIX: 15.16)*
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.17)*
 - **Trend Verdict:** ❌ PASS — Scanner likes it, but the trend engine says no.
 
 ### Accumulation / Distribution
@@ -77,32 +77,85 @@
 
 ### Gamma Exposure (GEX) & Expected Move
 - *Fetching master options chain (0 to 1000 DTE)...*
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
 ```text
 
 Initializing Schwab Client...
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
+Current Price of BB: $8.08
+Days to Earnings  : 24 Days (Date: 2026-09-24)
+Near-Term ATM IV  : 📈 61% `[████░░░░]`
 
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
+### TACTICAL RADAR (0-5 DTE) FOR BB
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $7.50  <-- PRICE | 723 | 130 | -27,836 | 4,810 | -23,026 |
+| $8.00  <-- EM LOWER BOUND | 712 | 1767 | -52,546 | 130,405 | 77,859 |
+| $8.50  <-- EM UPPER BOUND | 521 | 1126 | -28,759 | 62,155 | 33,396 |
+| $9.00  <-- PRICE | 82 | 6203 | -2,091 | 158,176 | 156,086 |
+| $9.50 | 24 | 935 | -314 | 12,248 | 11,934 |
+| $10.00 | 36 | 1358 | -277 | 10,457 | 10,179 |
+================================================================================
 
-Could not fetch price for BB. Check symbol or API keys.
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $0.30
+Expected Range: $7.78 to $8.38
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 266,814
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $10.00
+
+[ SUGGESTED STRIKES (TACTICAL) ]
+Major Support (Lower Bound)    : $8.00 (Put GEX: -52,546)
+Major Resistance (Upper Bound) : $9.00 (Call GEX: 158,176)
+
+Action: Monitor these near-term levels for immediate volatility and Gamma pinning.
+================================================================================
+
+[+] Successfully exported clean data to gex_tactical.csv
+Chart successfully saved to reports/BB_TACTICAL_chart.png
+[+] Successfully generated chart: reports/BB_TACTICAL_chart.png
+
+
+### STRUCTURAL ANCHOR (30-45 DTE) FOR BB
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $7.00  <-- EM LOWER BOUND | 295 | 160 | -5,045 | 2,736 | -2,309 |
+| $8.00  <-- PRICE | 2835 | 1920 | -63,187 | 42,810 | -20,377 |
+| $8.50  <-- PRICE | 1315 | 293 | -28,051 | 6,300 | -21,752 |
+| $9.00  <-- PRICE | 26 | 6133 | -523 | 125,130 | 124,607 |
+| $9.50  <-- EM UPPER BOUND | 203 | 340 | -3,512 | 6,052 | 2,540 |
+| $10.00 | 50 | 548 | -715 | 8,439 | 7,724 |
+| $11.50 | 0 | 317 | 0 | 3,138 | 3,138 |
+| $12.00 | 0 | 3205 | 0 | 24,358 | 24,358 |
+================================================================================
+
+[ STATISTICAL EXPECTED MOVE ]
+Calculated EM: +/- $1.27
+Expected Range: $6.81 to $9.35
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: 118,287
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)
+Zero Gamma Level (ZGL): $7.00
+
+[ SUGGESTED STRIKES (STRUCTURAL) ]
+Major Support (Lower Bound)    : $8.00 (Put GEX: -63,187)
+Major Resistance (Upper Bound) : $9.00 (Call GEX: 125,130)
+
+Action: Use these massive Structural Walls to strike your Wheel Trades (CSP support & CC resistance).
+================================================================================
+
+[+] Successfully exported clean data to gex_structural.csv
+Chart successfully saved to reports/BB_STRUCTURAL_chart.png
+[+] Successfully generated chart: reports/BB_STRUCTURAL_chart.png
+
 ```
 
 ### 🕵️ MICRO Harbor Master (Single Stock Confluence)
-> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
-> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
+> **PERFECT BULL CONFLUENCE.** Options, Insiders, and Dark Pools all align for a genuine upward trajectory. The whales are riding this.
+> **Recommendation:** *Deploy Directional Leverage. (Bull Risk Reversal, LEAPS Hunter).*
 
 ## OPTIONS STRATEGIES
-
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
 
 ---
 ### THE WHEEL: CASH-SECURED PUTS (14-45 DTE) FOR BB
@@ -110,19 +163,38 @@ Please run 'Setup_Schwab.command' to log in again.
 *What is this? You sign a contract promising to buy this stock next month
 if it drops in price, but you get paid cash right now for that promise.
 If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
-[!] No valid PUT chain found for BB.
-Refresh Failed: 400 - {"error":"unsupported_token_type","error_description":"400 Bad Request: \"{\"error_description\":\"Refresh token is invalid, expired or revoked\",\"error\":\"invalid_grant\"}\""}
-
-[CRITICAL]: Your Refresh Token has expired or is invalid.
-Please run 'Setup_Schwab.command' to log in again.
-
+### [ CAPITAL PRESERVATION: THE STATISTICALLY SAFE CSP ]
+*Priced outside the 1 Standard Deviation Expected Move (+/- $1.04)*
+SELL 1x 2026-09-18 (18-DTE) $7.00 Put
+Premium Collected: $0.05
+Annualized Yield : 14.5%
+Safety Margin    : 13.9% (Breakeven: $6.95)
+### [ INCOME ACCUMULATOR: THE AGGRESSIVE CSP ]
+*Warning: Strike is inside the Expected Move.*
+SELL 1x 2026-09-25 (25-DTE) $8.00 Put
+Premium Collected: $0.56
+Annualized Yield : 102.2%
+Safety Margin    : 7.9% (Breakeven: $7.44)
+---
 ---
 ### THE WHEEL: COVERED CALLS (14-45 DTE) FOR BB
 ---
 *What is this? You already own 100 shares. You sign a contract promising
 to sell them at a higher price, getting paid cash right now for the promise.
 If it rips, you sell at a profit. If it doesn't, you keep the shares and the cash.*
-[!] No valid CALL chain found for BB.
+### [ SHARE PRESERVATION: THE STATISTICALLY SAFE CC ]
+*Priced outside the 1 Standard Deviation Expected Move (+/- $1.69)*
+SELL 1x 2026-09-25 (25-DTE) $10.00 Call
+Premium Collected: $0.17
+Annualized Yield : 30.7%
+Max Total Return : 25.9% (If called away at $10.00)
+### [ INCOME ACCUMULATOR: THE AGGRESSIVE CC ]
+*Warning: Strike is inside the Expected Move. High risk of shares being called away.*
+SELL 1x 2026-09-25 (25-DTE) $8.50 Call
+Premium Collected: $0.46
+Annualized Yield : 83.2%
+Max Total Return : 11.0% (If called away at $8.50)
+---
 
 ---
 
