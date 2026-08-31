@@ -19,6 +19,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [F Report](F.html)
 - [GCO Report](GCO.html)
 - [GME Report](GME.html)
+- [GOOG Report](GOOG.html)
 - [GOOGL Report](GOOGL.html)
 - [KO Report](KO.html)
 - [MU Report](MU.html)
