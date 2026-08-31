@@ -1,28 +1,28 @@
 # ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: GOOGL
-> Report Generated: 2026-08-26 05:58:59 HST
+> Report Generated: 2026-08-31 07:22:33 HST
 
 ## PRONG 1: THE COMPANY (Critical Fundamentals)
 
 ### Alphabet Inc. (Communication Services — Internet Content & Information)
 > *Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in Google Play and YouTube; and devices, as well as the provision of YouTube consumer subscription services, such as YouTube TV, YouTube Music and Premium, NFL Sunday Ticket, and Google One. The Google Cloud segment offers consumption-based fees and subscriptions for AI solutions, including AI infrastructure, Vertex AI platform, and Gemini enterprise. It also provides cybersecurity, and data and analytics services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet; and other enterprise services. The Other Bets segment sells transportation and internet services. Alphabet Inc. was incorporated in 1998 and is headquartered in Mountain View, California.*
 
-- **Price:** $341.54
-- **Market Cap:** $4,177,256,513,536
+- **Price:** $338.49
+- **Market Cap:** $4,139,710,676,992
 - **Next Earnings:** 2026-10-28
 - **Directly Registered:** 5,861 Shareholders *(High Conviction Base)*
 
 ### Valuation & Financial Health
 | Metric | Value |
 | :--- | :--- |
-| P/E Ratio | 17.16 |
-| PEG Ratio | 1.25 |
-| P/TBV | 7.28 |
-| Shareholder Yield | 0.66% (Div: 0.2% \| Buybacks: 1.6%) |
-| Altman Z-Score | **10.57** *(>3.0 is Safe)* |
+| P/E Ratio | 17.01 |
+| PEG Ratio | 1.23 |
+| P/TBV | 7.22 |
+| Shareholder Yield | 0.67% (Div: 0.2% \| Buybacks: 1.6%) |
+| Altman Z-Score | **10.49** *(>3.0 is Safe)* |
 | Current Ratio | 2.72 |
 | Piotroski F-Score | 5 / 9 |
 | ROIC (Annualized) | 64.95% |
-| FCF Yield | -0.56% |
+| FCF Yield | -0.57% |
 
 ### SEC Financial Trajectory
 - **Verdict:** PASS *(Score: 70.0)*
@@ -45,7 +45,7 @@
 ## PRONG 2: THE MARKET (Structural & Derivatives)
 
 ### Market Regime & Trend
-- **VIX Regime:** 🟡 NORMAL *(VIX: 15.46)*
+- **VIX Regime:** 🟡 NORMAL *(VIX: 15.16)*
 - **Trend Verdict:** ❌ PASS — Scanner likes it, but the trend engine says no.
 
 ### Accumulation / Distribution
@@ -53,230 +53,172 @@
 - **Insider Signal:** NEUTRAL
 
 ### Off-Exchange & Short Interest
-- **Avg Dark Short Vol:** 2,512,620 shares/day
-- **Avg Dark Short %:** 34.1% of Off-Exchange Volume
+- **Avg Dark Short Vol:** 3,285,991 shares/day
+- **Avg Dark Short %:** 42.2% of Off-Exchange Volume
 
 ## THE TRADING DASHBOARD (Macro & Options)
 
 
-### ⚓ The Harbor Master's Verdict
+### 🌍 MACRO Harbor Master (Global Environment)
 > **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 95/100. Market Weather is Bullish [⚠️ HIGH OW ANOMALIES]. | 🚨 Congressional Whale Trades Detected!**
 
-*<small>The Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
+*<small>The MACRO Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
 
 ### Macro Event Radar (45-Day)
-- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 9 Days (2026-09-04)
-- ⚠️ PPI Inflation Data in 15 Days (2026-09-10)
-- ⚠️ Core CPI Inflation Data in 16 Days (2026-09-11)
-- ⚠️ FOMC Rate Decision & Press Conference in 21 Days (2026-09-16)
-- ⚠️ Quarterly OPEX (Triple Witching) in 23 Days (2026-09-18)
-- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 37 Days (2026-10-02)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 4 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 10 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 11 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 16 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 18 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 32 Days (2026-10-02)
+- ⚠️ Core CPI Inflation Data in 43 Days (2026-10-13)
+- ⚠️ PPI Inflation Data in 44 Days (2026-10-14)
 
 ### Gamma Exposure (GEX) & Expected Move
-Debug: Client initialized with Key: 2Hy2...
-- *Failed to fetch master options chain: type object 'datetime.datetime' has no attribute 'timedelta'*
+- *Fetching master options chain (0 to 1000 DTE)...*
 ```text
 
 Initializing Schwab Client...
-Debug: Client initialized with Key: 2Hy2...
-Current Price of GOOGL: $341.50
-Fetching options chain from 2026-08-26 to 2026-10-10...
-Days to Earnings  : 63 Days (Date: 2026-10-28)
-Near-Term ATM IV  : 📉 30% `[██░░░░░░]`
+Current Price of GOOGL: $338.51
+Days to Earnings  : 58 Days (Date: 2026-10-28)
+Near-Term ATM IV  : 📉 34% `[██░░░░░░]`
 
-================================================================================
- TACTICAL RADAR (0-14 DTE) FOR GOOGL
-================================================================================
-Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
---------------------------------------------------------------------------------
-$315.00        | 3878       | 388        | -1,463       | 143          | -1,321      
-$320.00        | 3373       | 3699       | -2,201       | 2,780        | 579         
-$325.00        | 3123       | 599        | -3,278       | 597          | -2,681      
-$330.00  <-- EM LOWER BOUND | 5414       | 1524       | -9,414       | 2,710        | -6,704      
-$332.50        | 1930       | 39         | -4,225       | 88           | -4,137      
-$335.00        | 6964       | 2992       | -20,429      | 9,381        | -11,048     
-$337.50        | 7670       | 329        | -32,971      | 1,337        | -31,633     
-$340.00        | 5270       | 3136       | -32,036      | 12,078       | -19,959     
-$342.50        | 3936       | 1235       | -26,512      | 7,317        | -19,195     
-$345.00        | 7003       | 8656       | -31,494      | 39,151       | 7,657       
-$347.50        | 2129       | 11908      | -2,624       | 36,233       | 33,609      
-$350.00        | 2465       | 13280      | -5,716       | 25,708       | 19,992      
-$352.50        | 675        | 7656       | -1,328       | 11,432       | 10,104      
-$355.00  <-- EM UPPER BOUND | 1378       | 21994      | -2,073       | 29,771       | 27,698      
-$357.50        | 177        | 3303       | -117         | 3,024        | 2,906       
-$360.00        | 1207       | 11612      | -982         | 10,032       | 9,051       
-$362.50        | 82         | 2893       | -51          | 1,476        | 1,425       
-$365.00        | 359        | 9587       | -252         | 4,244        | 3,992       
-$370.00        | 373        | 6227       | -158         | 2,260        | 2,102       
-$375.00        | 692        | 5232       | -342         | 2,019        | 1,677       
+### TACTICAL RADAR (0-5 DTE) FOR GOOGL
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $320.00 | 1969 | 3146 | -1,456 | 1,554 | 98 |
+| $322.50 | 1341 | 26 | -1,475 | 26 | -1,449 |
+| $325.00 | 2248 | 248 | -2,702 | 322 | -2,380 |
+| $327.50 | 2174 | 7 | -4,565 | 15 | -4,551 |
+| $330.00 | 3945 | 439 | -7,657 | 1,048 | -6,609 |
+| $332.50  <-- EM LOWER BOUND | 767 | 19 | -2,531 | 63 | -2,468 |
+| $335.00 | 3799 | 604 | -17,926 | 2,613 | -15,313 |
+| $337.50 | 2148 | 176 | -25,943 | 1,345 | -24,597 |
+| $340.00 | 3209 | 2499 | -21,278 | 15,113 | -6,165 |
+| $342.50 | 2696 | 1792 | -11,123 | 7,473 | -3,650 |
+| $345.00  <-- EM UPPER BOUND | 7646 | 9330 | -14,368 | 25,657 | 11,289 |
+| $347.50 | 1531 | 6986 | -1,271 | 10,481 | 9,210 |
+| $350.00 | 1124 | 10444 | -2,017 | 17,860 | 15,843 |
+| $352.50 | 427 | 8240 | -591 | 12,176 | 11,584 |
+| $355.00 | 674 | 7311 | -796 | 7,575 | 6,779 |
+| $357.50 | 103 | 2102 | -16 | 1,617 | 1,602 |
+| $360.00 | 527 | 6671 | -359 | 3,592 | 3,233 |
+| $365.00 | 255 | 2989 | -102 | 1,048 | 946 |
+| $370.00 | 191 | 4155 | -57 | 1,088 | 1,030 |
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $12.85
-Expected Range: $328.65 to $354.35
+Calculated EM: +/- $7.09
+Expected Range: $331.41 to $345.61
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: -4,751
+Current Regime: NEGATIVE (Trend / Volatility - Dealer Amplified)
+Zero Gamma Level (ZGL): $320.00
 
 [ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $337.50 (Put GEX: -32,971)
-Major Resistance (Upper Bound) : $345.00 (Call GEX: 39,151)
+Major Support (Lower Bound)    : $337.50 (Put GEX: -25,943)
+Major Resistance (Upper Bound) : $345.00 (Call GEX: 25,657)
 
-Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
+Action: Monitor these near-term levels for immediate volatility and Gamma pinning.
 ================================================================================
 
 [+] Successfully exported clean data to gex_tactical.csv
+Chart successfully saved to reports/GOOGL_TACTICAL_chart.png
+[+] Successfully generated chart: reports/GOOGL_TACTICAL_chart.png
 
 
-================================================================================
- STRUCTURAL ANCHOR (30-45 DTE) FOR GOOGL
-================================================================================
-Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
---------------------------------------------------------------------------------
-$295.00        | 484        | 0          | -152         | 0            | -152        
-$300.00        | 644        | 76         | -270         | 33           | -237        
-$305.00        | 263        | 0          | -143         | 0            | -143        
-$310.00        | 464        | 8          | -325         | 6            | -319        
-$315.00        | 490        | 16         | -392         | 13           | -379        
-$320.00  <-- EM LOWER BOUND | 925        | 40         | -925         | 40           | -885        
-$325.00        | 758        | 51         | -885         | 59           | -826        
-$330.00        | 581        | 70         | -745         | 86           | -659        
-$335.00        | 456        | 300        | -663         | 430          | -233        
-$340.00        | 2249       | 297        | -3,333       | 440          | -2,894      
-$345.00        | 560        | 474        | -754         | 644          | -109        
-$350.00        | 199        | 1162       | -272         | 1,541        | 1,269       
-$355.00        | 92         | 2140       | -118         | 2,779        | 2,662       
-$360.00        | 68         | 1367       | -79          | 1,619        | 1,540       
-$365.00  <-- EM UPPER BOUND | 31         | 597        | -33          | 645          | 612         
-$370.00        | 60         | 684        | -54          | 616          | 562         
-$375.00        | 15         | 764        | -12          | 611          | 599         
-$380.00        | 30         | 625        | -18          | 438          | 419         
-$385.00        | 26         | 373        | -13          | 224          | 211         
-$390.00        | 8          | 293        | -2           | 125          | 122         
-$400.00        | 0          | 1036       | 0            | 336          | 336         
-$410.00        | 0          | 310        | 0            | 77           | 77          
-$415.00        | 0          | 739        | 0            | 148          | 148         
+### STRUCTURAL ANCHOR (30-45 DTE) FOR GOOGL
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $295.00 | 109 | 0 | -44 | 0 | -44 |
+| $300.00 | 177 | 24 | -88 | 10 | -79 |
+| $305.00 | 196 | 1 | -118 | 1 | -117 |
+| $310.00 | 1818 | 3 | -1,454 | 2 | -1,452 |
+| $315.00  <-- EM LOWER BOUND | 381 | 2 | -343 | 2 | -341 |
+| $320.00 | 464 | 24 | -495 | 26 | -469 |
+| $325.00 | 356 | 27 | -460 | 35 | -425 |
+| $330.00 | 197 | 63 | -275 | 88 | -187 |
+| $335.00 | 178 | 111 | -265 | 166 | -99 |
+| $340.00 | 1372 | 131 | -1,921 | 183 | -1,737 |
+| $345.00 | 223 | 360 | -312 | 502 | 190 |
+| $350.00 | 57 | 554 | -74 | 716 | 642 |
+| $355.00 | 25 | 72 | -30 | 86 | 56 |
+| $360.00  <-- EM UPPER BOUND | 25 | 365 | -27 | 400 | 373 |
+| $365.00 | 17 | 233 | -17 | 233 | 216 |
+| $370.00 | 12 | 275 | -10 | 220 | 210 |
+| $375.00 | 4 | 324 | -3 | 227 | 224 |
+| $380.00 | 6 | 288 | -4 | 173 | 169 |
+| $385.00 | 1 | 221 | -0 | 113 | 112 |
+| $390.00 | 1 | 239 | -0 | 109 | 108 |
+| $400.00 | 0 | 375 | 0 | 112 | 112 |
 ================================================================================
 
 [ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $22.34
-Expected Range: $319.16 to $363.84
+Calculated EM: +/- $22.09
+Expected Range: $316.42 to $360.60
+
+[ GEX REGIME & ZERO GAMMA ]
+Total Net GEX: -2,454
+Current Regime: NEGATIVE (Trend / Volatility - Dealer Amplified)
+Zero Gamma Level (ZGL): $295.00
 
 [ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $340.00 (Put GEX: -3,333)
-Major Resistance (Upper Bound) : $355.00 (Call GEX: 2,779)
+Major Support (Lower Bound)    : $310.00 (Put GEX: -1,454)
+Major Resistance (Upper Bound) : $350.00 (Call GEX: 716)
 
-Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
+Action: Use these massive Structural Walls to strike your Wheel Trades (CSP support & CC resistance).
 ================================================================================
 
 [+] Successfully exported clean data to gex_structural.csv
+Chart successfully saved to reports/GOOGL_STRUCTURAL_chart.png
+[+] Successfully generated chart: reports/GOOGL_STRUCTURAL_chart.png
 
 ```
 
+### 🕵️ MICRO Harbor Master (Single Stock Confluence)
+> **CONFLICTING NOISE.** The three pillars (Options, Dark Pools, Insiders) are producing mixed signals. Institutional capital is fragmented or hedging.
+> **Recommendation:** *Deploy Structural Income (Jade Lizard, Cash-Secured Puts, BWB). Trade the volatility structure, not the direction.*
+
 ## OPTIONS STRATEGIES
 
-Debug: Client initialized with Key: 2Hy2...
 ---
-### CASH-SECURED PUTS (14-45 DTE) FOR GOOGL
+### THE WHEEL: CASH-SECURED PUTS (14-45 DTE) FOR GOOGL
 ---
 *What is this? You sign a contract promising to buy this stock next month
 if it drops in price, but you get paid cash right now for that promise.
 If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
-### [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-SELL 1x 2026-10-02 (37-DTE) $315.00 Put
-Premium Collected: $2.84
-Annualized Yield : 8.9%
-Safety Margin    : 8.6% (Breakeven: $312.16)
-Max Pain Anchor  : $340.00 (Strike is protected)
-### [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-SELL 1x 2026-09-18 (23-DTE) $332.50 Put
-Premium Collected: $4.80
-Annualized Yield : 22.9%
-Safety Margin    : 4.1% (Breakeven: $327.70)
+### [ CAPITAL PRESERVATION: THE STATISTICALLY SAFE CSP ]
+*Priced outside the 1 Standard Deviation Expected Move (+/- $19.07)*
+SELL 1x 2026-09-18 (18-DTE) $317.50 Put
+Premium Collected: $1.36
+Annualized Yield : 8.7%
+Safety Margin    : 6.6% (Breakeven: $316.14)
+### [ INCOME ACCUMULATOR: THE AGGRESSIVE CSP ]
+*Warning: Strike is inside the Expected Move.*
+SELL 1x 2026-09-18 (18-DTE) $337.50 Put
+Premium Collected: $6.95
+Annualized Yield : 41.8%
+Safety Margin    : 2.3% (Breakeven: $330.55)
 ---
-Debug: Client initialized with Key: 2Hy2...
-Debug: Client initialized with Key: 2Hy2...
 ---
-### THE BULL RISK REVERSAL FOR GOOGL
+### THE WHEEL: COVERED CALLS (14-45 DTE) FOR GOOGL
 ---
-*What is this? You sell a Put at a calculated optimal support floor, getting
-paid cash. You immediately use that cash to buy a Call at the resistance ceiling.
-If the stock crashes, you buy it on sale. If it rips through the ceiling, you
-have unlimited profit for zero cost.*
-Target Expiration: 2026-09-25 (30-DTE)
-Calculated Midpoint Target: $327.96
-
-[ SUGGESTED RISK REVERSAL SETUP ]
-SELL 1x  $330.00 Put  (Credit: $5.40)  <-- Optimal Support Buffer
-BUY  1x  $360.00 Call (Debit : $4.70)  <-- Long Resistance Target
-Total Net Credit : $0.70 (You get PAID to enter this)
-Capital Required : $33,000.00 (To secure the put assignment if it crashes)
-Max Upside Profit: UNLIMITED
----
-Debug: Client initialized with Key: 2Hy2...
----
-### JADE LIZARD SETUP (30-45 DTE) FOR GOOGL
----
-*What is this? You collect massive income from selling a put, and use that
-cash to fully finance a call spread above the stock. Zero upside risk.
-If the stock crashes, you buy it on sale. If it rips to the moon,
-you still make money even if the call spread blows up.*
-Target Expiration: 2026-10-16 (51-DTE)
-
-  [ SUGGESTED JADE LIZARD SETUP (ZERO UPSIDE RISK) ]
-SELL 1x  $330.00 Put   (Credit: $8.85)
-SELL 1x  $360.00 Call
-BUY  1x  $365.00 Call
-Call Spread Credit: $1.15
-
-  Total Premium Collected : $10.00
-Max Call Spread Risk    : $5.00
-Net Upside Edge         : +$5.00 (Guaranteed profit if stock rips upward!)
----
-Debug: Client initialized with Key: 2Hy2...
----
-### LEAPS HUNTER (300+ DTE) FOR GOOGL
----
-*What is this? Instead of paying $32,000 to buy 100 shares of stock, you
-pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
-your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
-Target Expiration: 2028-12-15 (842-DTE)
-
-  [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-BUY 1x $5.00 Call (Price: $337.00)
-Delta: 1.01 (Moves 1:1 with stock)
-Leverage: 1.0x (Cheaper than 100 shares)
-Time Rent (Extrinsic): 0.13%
-Breakeven: $342.00
-### [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
-BUY 1x $770.00 Call (Price: $12.52)
-Delta: 0.15 (Explosive Convexity)
-Leverage: 27.3x
-*Note: High probability of expiring worthless. Small size only.*
----
-Debug: Client initialized with Key: 2Hy2...
----
-### VOLATILITY ARBITRAGE & SPECULATIVE PLAYS FOR GOOGL
----
-*What is this? We compare Implied Volatility (IV) to Historical Volatility (HV).
-If IV is cheap (Ratio < 0.80), we buy a Straddle. If IV is expensive (Ratio >= 1.25),
-we act as the casino and sell an Iron Butterfly to collect bloated premium.*
-[ VOLATILITY METRICS ]
-Historical Volatility (30-Day) : 38.79%
-Implied Volatility (ATM)       : 26.16%
-Premium Ratio (IV/HV)          : 0.67
-
-  [ VOLATILITY EDGE: LONG STRADDLE ]
-*Options are CHEAP. Buying volatility for potential expansion.*
-Target Expiration: 2026-09-25 (30-DTE)
-BUY 1x $340.00 Call (Price: $12.15)
-BUY 1x $340.00 Put  (Price: $9.38)
-Total Premium Risk: $21.52
-Implied Move Needed: ±6.30%
-Breakevens: < $318.48 OR > $361.52
-### [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-Identified Resistance Wall: 17,567 Open Contracts at $355.00
-Target Expiration: 2026-08-28 (2-DTE)
-BUY 1x $355.00 Call (Price: $0.27)
-*Logic: If the stock breaks $355.00, Market Makers must aggressively buy shares.*
-*Warning: Extremely high probability of 100% loss. Size accordingly.*
+*What is this? You already own 100 shares. You sign a contract promising
+to sell them at a higher price, getting paid cash right now for the promise.
+If it rips, you sell at a profit. If it doesn't, you keep the shares and the cash.*
+### [ SHARE PRESERVATION: THE STATISTICALLY SAFE CC ]
+*Priced outside the 1 Standard Deviation Expected Move (+/- $19.07)*
+SELL 1x 2026-09-18 (18-DTE) $360.00 Call
+Premium Collected: $1.76
+Annualized Yield : 10.5%
+Max Total Return : 6.9% (If called away at $360.00)
+### [ INCOME ACCUMULATOR: THE AGGRESSIVE CC ]
+*Warning: Strike is inside the Expected Move. High risk of shares being called away.*
+SELL 1x 2026-09-18 (18-DTE) $340.00 Call
+Premium Collected: $7.40
+Annualized Yield : 44.3%
+Max Total Return : 2.6% (If called away at $340.00)
 ---
 
 ---
