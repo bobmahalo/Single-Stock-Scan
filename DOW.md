@@ -1,364 +1,186 @@
+# ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V3 | TARGET: DOW
+> Report Generated: 2026-09-01 13:35:40 HST
 
-================================================================================
- ANTIGRAVITY PIPELINE: SINGLE STOCK ENGINE V2 | TARGET: DOW
-================================================================================
-Report Generated: 2026-08-11 05:09:20 HST
+## PRONG 1: THE COMPANY (Critical Fundamentals)
 
-Fetching fundamental data... (This may take 15-20 seconds)
+### Dow Inc. (Basic Materials — Chemicals)
+> *Dow Inc., through its subsidiaries, provides various materials science solutions for packaging, infrastructure, mobility, and consumer applications in the United States, Canada, Europe, the Middle East, Africa, India, the Asia Pacific, and Latin America. The company operates through Packaging & Specialty Plastics, Industrial Intermediates & Infrastructure, and Performance Materials & Coatings segments. The Packaging & Specialty Plastics segment provides ethylene, propylene, polyethylene, and aromatics products; and other ethylene derivatives, such as polyolefin elastomers, ethylene vinyl acetate, and ethylene propylene diene monomer rubber. The Industrial Intermediates & Infrastructure segment offers polyurethanes, including propylene oxide, propylene glycol, and polyether polyols; aromatic isocyanates and fully formulated polyurethane systems; and chlor-alkali and vinyl comprising chlorine and caustic soda, ethylene dichloride, and vinyl chloride monomer; and construction chemicals consisting of cellulose ethers, redispersible latex powders, and acrylic emulsions, as well as coatings, adhesives, sealants, elastomers, and composites. The Performance Materials & Coatings segment provides architectural paints and coatings, and industrial coatings; and acrylics-based building blocks, silicon metals, siloxanes, and intermediates. The company also engages in the property and casualty insurance, as well as reinsurance business. The company was founded in 1897 and is headquartered in Midland, Michigan.*
 
-================================================================================
- THE TRADING DASHBOARD (Macro & Options)
-================================================================================
-  [ MACRO EVENT RADAR (45-Day) ]
-  ⚠️ Core CPI Inflation Data TOMORROW (2026-08-12)
-  ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 24 Days (2026-09-04)
-  ⚠️ Core CPI Inflation Data in 31 Days (2026-09-11)
-  ⚠️ FOMC Rate Decision & Press Conference in 36 Days (2026-09-16)
+- **Price:** $30.46
+- **Market Cap:** $22,002,497,536
+- **Next Earnings:** 2026-10-22
 
-  [ GAMMA EXPOSURE (GEX) & EXPECTED MOVE ]
+### Valuation & Financial Health
 
-Initializing Schwab Client...
-Debug: Client initialized with Key: 2Hy2...
-Current Price of DOW: $31.21
-Fetching options chain from 2026-08-11 to 2026-09-25...
-Days to Earnings  : 72 Days (Date: 2026-10-22)
-Near-Term ATM IV  : 📉 43% `[███░░░░░]`
+| Metric | Value |
+|---|---|
+| P/E Ratio | None |
+| PEG Ratio | None |
+| P/TBV | 3.36 |
+| Shareholder Yield | 4.57% (Div: 4.6% \| Buybacks: 0.0%) |
+| Altman Z-Score | **1.10** *(>3.0 is Safe)* |
+| Short-Term Liquidity (Current Ratio) | 1.75 |
+| Piotroski F-Score | 2 / 9 |
+| ROIC (Annualized) | 12.62% |
+| FCF Yield | 12.71% |
 
-================================================================================
- TACTICAL RADAR (0-14 DTE) FOR DOW
-================================================================================
-Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
---------------------------------------------------------------------------------
-$27.50         | 4679       | 1973       | -21,553      | 9,077        | -12,477     
-$28.00         | 5028       | 75         | -29,216      | 348          | -28,867     
-$28.50         | 7946       | 197        | -63,530      | 1,497        | -62,033     
-$29.00         | 3032       | 667        | -29,602      | 6,168        | -23,434     
-$29.50  <-- EM LOWER BOUND | 972        | 308        | -11,918      | 3,400        | -8,517      
-$30.00         | 9345       | 16814      | -145,532     | 261,088      | 115,557     
-$30.50  <-- PRICE | 174        | 1306       | -3,298       | 29,797       | 26,498      
-$31.00  <-- PRICE | 197        | 1729       | -5,341       | 44,041       | 38,700      
-$31.50  <-- PRICE | 16         | 1386       | -296         | 38,157       | 37,861      
-$32.00  <-- PRICE | 1042       | 1328       | -17,994      | 27,741       | 9,747       
-$32.50         | 556        | 3933       | -8,618       | 62,683       | 54,065      
-$33.00  <-- EM UPPER BOUND | 17         | 1258       | -225         | 16,654       | 16,429      
-$35.00         | 1227       | 3407       | -5,234       | 19,363       | 14,128      
-================================================================================
+### SEC Financial Trajectory
+- **Verdict:** ELIMINATE *(Score: 0)*
+- **FCF Grade:** F - Severe decline -44%
+- **Net Income Grade:** F - Final quarter negative (-533,000,000)
+- **Revenue Grade:** D - Mild decline -7%
 
-[ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $1.54
-Expected Range: $29.68 to $32.75
+### SEC Fraud Forensics
+- **Overall Verdict:** ✅ CLEAN
+- **Bad Debt (AR vs Allowance):** ✅ PASS - AR YoY: -4.4% | Allowance YoY: -12.5%
+- **Revenue Acceleration (DSO):** ✅ PASS - DSO YoY Change: +12.3%
+- **Operating Expense Cap (WorldCom):** ✅ PASS - Insufficient OpEx/CapEx data.
 
-[ SUGGESTED STRIKES (TACTICAL) ]
-Major Support (Lower Bound)    : $30.00 (Put GEX: -145,532)
-Major Resistance (Upper Bound) : $32.50 (Call GEX: 62,683)
+### Management & Board (Skin in the Game)
+- **Insider Score:** 50/100
+- **Net Insider Trade:** $0
+- **Comp Score:** 0/100 *(Equity vs Cash)*
+- **Overall Integrity:** 50/100
 
-Action: Monitor these levels for immediate volatility and Gamma squeeze potential.
-================================================================================
+## PRONG 2: THE MARKET (Structural & Derivatives)
 
-[+] Successfully exported clean data to gex_tactical.csv
+### Market Regime & Trend
+- **VIX Regime:** 🟡 NORMAL *(VIX: 16.34)*
+- **Trend Verdict:** 🟡 CONDITIONAL — Some signals good, watch the weak spots.
 
+### Accumulation / Distribution
+- **Verdict:** YELLOW LIGHT (Stealth Accumulation)
+- **Insider Signal:** NEUTRAL
+- **Whale Alerts:** 3 Active 13D/A Filings Found!
 
-================================================================================
- STRUCTURAL ANCHOR (30-45 DTE) FOR DOW
-================================================================================
-Strike     | Put OI     | Call OI    | Put GEX      | Call GEX     | Net GEX     
---------------------------------------------------------------------------------
-$20.00         | 6027       | 479        | -4,219       | 0            | -4,219      
-$22.50         | 3139       | 305        | -3,767       | 0            | -3,767      
-$25.00         | 11471      | 2111       | -30,974      | 5,911        | -25,063     
-$27.50  <-- EM LOWER BOUND | 10559      | 3471       | -63,354      | 23,256       | -40,098     
-$30.00         | 9467       | 8937       | -87,108      | 87,692       | 584         
-$32.50         | 1995       | 4135       | -17,556      | 37,215       | 19,659      
-$35.00  <-- EM UPPER BOUND | 3781       | 9878       | -24,576      | 65,181       | 40,605      
-$37.50         | 2529       | 4095       | -9,610       | 15,561       | 5,951       
-$40.00         | 2779       | 6465       | -6,114       | 14,223       | 8,109       
-$42.50         | 251        | 5975       | -351         | 8,365        | 8,014       
-$45.00         | 27         | 6959       | -27          | 6,959        | 6,932       
-================================================================================
+### Off-Exchange & Short Interest
+- **Avg Dark Short Vol:** 1,570,454 shares/day
+- **Avg Dark Short %:** 54.6% of Off-Exchange Volume
 
-[ STATISTICAL EXPECTED MOVE ]
-Calculated EM: +/- $3.16
-Expected Range: $28.05 to $34.38
-
-[ SUGGESTED STRIKES (STRUCTURAL) ]
-Major Support (Lower Bound)    : $30.00 (Put GEX: -87,108)
-Major Resistance (Upper Bound) : $35.00 (Call GEX: 65,181)
-
-Action: Sell the Put spread below the support, and sell the Call spread above the resistance.
-================================================================================
-
-[+] Successfully exported clean data to gex_structural.csv
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- TACTICAL BWB (BROKEN WING BUTTERFLY) FOR DOW
-================================================================================
-  *What is this? We find the invisible Gamma Wall where Market Makers will defend
-  the stock from crashing. We build a trap right at that wall. If it crashes,
-  we collect max profit. If it goes up instead, the trap breaks and we still
-  keep a small credit. You literally cannot lose money on the upside.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-08-14 (3-DTE)
-  Implied Volatility (ATM): 43.73%
-  Tactical Expected Move: ±$1.24
-  Mathematical Danger Zone (Lower Bound): $29.97
-  Short-Term Gamma Support (MM Wall): $28.50
-
-  [ SUGGESTED TACTICAL BWB SETUP ]
-  BUY  1x  $29.50 Put
-  SELL 2x  $28.50 Put  <-- (Pinned at Gamma Wall)
-  BUY  1x  $26.50 Put  <-- (Broken Wing for Credit)
-
-  *Note: Ensure this is entered for a NET CREDIT.*
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- CASH-SECURED PUTS (14-45 DTE) FOR DOW
-================================================================================
-  *What is this? You sign a contract promising to buy this stock next month
-  if it drops in price, but you get paid cash right now for that promise.
-  If it drops, you buy the stock on sale. If it doesn't drop, you keep the cash.*
---------------------------------------------------------------------------------
-
-  [ CAPITAL PRESERVATION: THE ULTRA-SAFE CSP ]
-  SELL 1x 2026-09-18 (38-DTE) $27.50 Put
-  Premium Collected: $0.40
-  Annualized Yield : 14.0%
-  Safety Margin    : 13.2% (Breakeven: $27.10)
-  Max Pain Anchor  : $30.00 (Strike is protected)
-
-  [ INCOME ACCUMULATOR: THE HIGH-YIELD CSP ]
-  SELL 1x 2026-09-18 (38-DTE) $30.00 Put
-  Premium Collected: $1.15
-  Annualized Yield : 36.8%
-  Safety Margin    : 7.5% (Breakeven: $28.85)
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- THE BULL RISK REVERSAL (ZEBRA) FOR DOW
-================================================================================
-  *What is this? You sell a Put at the exact floor where Market Makers are
-  defending the stock, getting paid cash. You immediately use that cash to
-  buy a Call at the ceiling. If the stock crashes, you buy it on sale at the
-  floor. If it rips through the ceiling, you have unlimited profit for zero cost.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-11 (31-DTE)
-
-  [ SUGGESTED RISK REVERSAL SETUP ]
-  SELL 1x  $30.00 Put  (Credit: $0.80)  <-- Gamma Support Wall
-  BUY  1x  $35.00 Call (Debit : $0.50)  <-- Gamma Resistance Wall
-  Total Net Credit : $0.30 (You get PAID to enter this)
-  Capital Required : $3,000.00 (To secure the put assignment if it crashes)
-  Max Upside Profit: UNLIMITED
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- JADE LIZARD SETUP (30-45 DTE) FOR DOW
-================================================================================
-  *What is this? You collect massive income from selling a put, and use that
-  cash to fully finance a call spread above the stock. Zero upside risk.
-  If the stock crashes, you buy it on sale. If it rips to the moon,
-  you still make money even if the call spread blows up.*
---------------------------------------------------------------------------------
-  Target Expiration: 2026-09-25 (45-DTE)
-
-  [!] NO SAFE JADE LIZARD FOUND (Insufficient Premium).
-  *Mathematical Rule: Total premium collected must exceed call spread width to eliminate upside risk.*
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- LEAPS HUNTER (300+ DTE) FOR DOW
-================================================================================
-  *What is this? Instead of paying $32,000 to buy 100 shares of stock, you
-  pay $500 to rent the *rights* to 100 shares for two years. If it goes up,
-  your $500 agreement goes up exactly as if you owned the $32,000 in shares.*
---------------------------------------------------------------------------------
-  Target Expiration: 2028-01-21 (528-DTE)
-
-  [ CAPITAL PRESERVATION: STOCK REPLACEMENT (DITM) ]
-  BUY 1x $15.00 Call (Price: $15.62)
-  Delta: 1.00 (Moves 1:1 with stock)
-  Leverage: 2.0x (Cheaper than 100 shares)
-  Time Rent (Extrinsic): 0.00%
-  Breakeven: $30.62
-
-  [ HIGH REWARD: THE LOTTERY TICKET (OTM) ]
-  BUY 1x $55.00 Call (Price: $1.06)
-  Delta: 0.15 (Explosive Convexity)
-  Leverage: 29.3x
-  *Note: High probability of expiring worthless. Small size only.*
-================================================================================
-
-Debug: Client initialized with Key: 2Hy2...
-
-================================================================================
- HIGHLY SPECULATIVE PLAYS FOR DOW (HIGH RISK / HIGH REWARD)
-================================================================================
-  *What is this? Pure directional lottery tickets. You are betting that the
-  stock explodes violently, or that it breaks a resistance wall forcing
-  Market Makers to panic buy millions of shares to cover their short calls.*
---------------------------------------------------------------------------------
-
-  [ VOLATILITY ERUPTION: THE ATM STRADDLE ]
-  Target Expiration: 2026-08-28 (17-DTE)
-  BUY 1x $31.00 Call (Price: $1.27)
-  BUY 1x $31.00 Put  (Price: $0.99)
-  Total Premium Risk: $2.25
-  Implied Move Needed: ±7.23%
-  Breakevens: < $28.75 OR > $33.26
-  *Logic: You don't care about direction, only velocity. Best played before earnings.*
-
-  [ THE GAMMA SQUEEZE HUNTER (LOTTERY TICKET) ]
-  Identified Resistance Wall: 3,574 Open Contracts at $32.50
-  Target Expiration: 2026-08-21 (10-DTE)
-  BUY 1x $32.50 Call (Price: $0.40)
-  *Logic: If the stock breaks $32.50, Market Makers must aggressively buy shares.*
-  *Warning: Extremely high probability of 100% loss. Size accordingly.*
-================================================================================
+## THE TRADING DASHBOARD (Macro & Options)
 
 
-================================================================================
- PRONG 1: THE COMPANY (Critical Fundamentals)
-================================================================================
-  Price:             $31.20
-  Market Cap:        $22,540,642,304
-  Next Earnings:     N/A
-  Directly Registered: N/A
+### 🌍 MACRO Harbor Master (Global Environment)
+> **The Master Orchestrator has evaluated all Matrix Data Lake feeds. Conviction Score is 95/100. Market Weather is Bullish [⚠️ HIGH OW ANOMALIES]. | 🚨 Congressional Whale Trades Detected!**
 
-  [ VALUATION & GROWTH ]
-  P/E Ratio:         None
-  PEG Ratio:         None
-  P/TBV:             3.44
-  Shareholder Yield: 4.46% (Div: 4.6% | Buybacks: 0.0%)
+*<small>The MACRO Harbor Master is a Layer 4 overarching algorithm. It continuously sweeps a Data Lake of macro-environmental L1 feeds (Yield Curves, Dark Pools, Congressional Trading, etc.) to mathematically calculate a Conviction Score. It prevents the engine from trading into a macro storm.</small>*
 
-  [ FINANCIAL HEALTH ]
-  Altman Z-Score:    1.11 (>3.0 is Safe)
-  Current Ratio:     1.75
-  Piotroski F-Score: 2 / 9
-  ROIC (Annualized): 12.62%
-  FCF Yield:         12.40%
+### Macro Event Radar (45-Day)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 3 Days (2026-09-04)
+- ⚠️ PPI Inflation Data in 9 Days (2026-09-10)
+- ⚠️ Core CPI Inflation Data in 10 Days (2026-09-11)
+- ⚠️ FOMC Rate Decision & Press Conference in 15 Days (2026-09-16)
+- ⚠️ Quarterly OPEX (Triple Witching) in 17 Days (2026-09-18)
+- ⚠️ Non-Farm Payrolls (NFP) & Unemployment in 31 Days (2026-10-02)
+- ⚠️ Core CPI Inflation Data in 42 Days (2026-10-13)
+- ⚠️ PPI Inflation Data in 43 Days (2026-10-14)
+- ⚠️ Monthly OPEX in 45 Days (2026-10-16)
 
-  [ SEC FINANCIAL TRAJECTORY ]
-  Verdict:           ELIMINATE (Score: 0)
-  FCF Grade:         F - Severe decline -44%
-  Net Income Grade:  F - Final quarter negative (-533,000,000)
-  Revenue Grade:     D - Mild decline -7%
+### Gamma Exposure (GEX) & Expected Move
+Current Price of DOW: $30.53  
+Days to Earnings  : 51 Days (Date: 2026-10-22)  
+Near-Term ATM IV  : 📈 73% `[█████░░░]`  
 
-  [ MANAGEMENT & BOARD (SKIN IN THE GAME) ]
-  Insider Score:     50/100
-  Net Insider Trade: $0
-  Comp Score:        0/100 (Equity vs Cash)
-  Overall Integrity: 50/100
+### TACTICAL RADAR (0-5 DTE) FOR DOW
 
-================================================================================
- PRONG 2: THE MARKET (Structural & Derivatives)
-================================================================================
-
-  [ MARKET REGIME & TREND ]
-  [ MARKET REGIME & TREND ]
-  VIX Regime:        🟡 NORMAL (VIX: 15.23)
-  Trend Verdict:     ❌ PASS — Scanner likes it, but the trend engine says no.
-
-  [ ACCUMULATION / DISTRIBUTION ]
-  Verdict:           YELLOW LIGHT (Stealth Accumulation)
-  Insider Signal:    WHALE ACTIVITY
-  Whale Alerts:      3 Active 13D/A Filings Found!
-
-  [ OFF-EXCHANGE & SHORT INTEREST ]
-  Avg Dark Short Vol: 2,364,548 shares/day
-  Avg Dark Short %:   71.6% of Off-Exchange Volume
-
-================================================================================
- APPENDIX: HOW TO READ THIS REPORT (THE PLUMBER'S VERSION)
-================================================================================
-# SINGLE STOCK ENGINE V2 — MASTER METHODOLOGY
-
-This document outlines every section of the `Single_Stock_Engine_V2.py` report, providing both a "Plumber's Version" (simple terms) and the "Meat & Potatoes" (technical mechanics) for each engine.
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $28.00 | 441 | 0 | -4,983 | 0 | -4,983 |
+| $28.50 | 181 | 0 | -2,661 | 0 | -2,661 |
+| $29.00 | 808 | 0 | -22,058 | 0 | -22,058 |
+| $29.50  (EM LOWER BOUND) | 112 | 0 | -5,163 | 0 | -5,163 |
+| $30.00  (PRICE) | 345 | 427 | -3,484 | 4,996 | 1,511 |
+| $30.50  (PRICE) | 192 | 550 | -3,571 | 13,420 | 9,849 |
+| $31.00  (PRICE) | 368 | 1134 | -6,587 | 25,515 | 18,928 |
+| $31.50  (PRICE) | 61 | 2355 | -884 | 40,742 | 39,857 |
+| $32.00  (EM UPPER BOUND) | 0 | 4787 | 0 | 59,838 | 59,838 |
+| $32.50 | 0 | 320 | 0 | 2,752 | 2,752 |
+| $33.00 | 57 | 726 | -245 | 3,340 | 3,094 |
 
 ---
 
-## 1. TACTICAL BWB (0-7 DTE)
-**The Plumber's Version:** Market Makers (the house) don't want to lose money. They build invisible walls (Gamma walls) to stop the stock from crashing. We build a trap right exactly at that wall. If the stock crashes, it hits the wall, bounces, and we collect maximum profit. If the stock goes up instead, the trap just breaks and we still keep a small credit. You literally can't lose money on the upside.
 
-**Meat & Potatoes (Technical Mechanics):**
-*   **Target:** 0-7 Days to Expiration (DTE).
-*   **Logic:** The engine calculates the Expected Move (EM) using At-The-Money (ATM) Implied Volatility (IV). It then scans the massive Put Gamma (GEX) data to find the largest negative GEX strike below the current price (the Market Maker support wall). 
-*   **Structure:** It constructs a Broken Wing Butterfly (BWB) by selling 2x Puts exactly at the Gamma wall, buying 1x closer Put for protection, and buying 1x further Put (the broken wing) to finance the trade. The trade must be entered for a net credit, eliminating all upside risk.
+**[ STATISTICAL EXPECTED MOVE ]**  
+Calculated EM: +/- $1.26  
+Expected Range: $29.27 to $31.79  
 
----
+**[ GEX REGIME & ZERO GAMMA ]**  
+Total Net GEX: 100,818  
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)  
+Zero Gamma Level (ZGL): $30.00  
 
-## 2. CASH-SECURED PUTS (14-45 DTE)
-**The Plumber's Version:** You want to buy a house, but you think the price is too high right now. Instead of buying it today, you sign a contract saying "I promise to buy this house next month if the price drops by 10%, but you have to pay me $500 right now for that promise." If the price drops, you buy the house on sale (which you wanted anyway). If it doesn't drop, you keep the $500 for free. 
+**[ SUGGESTED STRIKES (TACTICAL) ]**  
+- Major Support (Lower Bound)    : $29.00 (Put GEX: -22,058)  
+- Major Resistance (Upper Bound) : $32.00 (Call GEX: 59,838)  
 
-**Meat & Potatoes (Technical Mechanics):**
-*   **Target:** 14-45 DTE.
-*   **Logic (Ultra-Safe):** Mathematically optimizes for `Yield * Safety^2`. It hunts for the deepest Out-Of-The-Money put that still provides acceptable yield. It then cross-references the option chain's Max Pain level, applying a mathematical boost to strikes protected *below* the Max Pain wall.
-*   **Logic (High-Yield):** Optimizes for `Yield^2 * Safety` to find a strike closer to the money, maximizing the annualized yield for aggressive accumulation.
+> **Action:** Monitor these near-term levels for immediate volatility and Gamma pinning.
 
----
 
-## 3. THE BULL RISK REVERSAL / ZEBRA (30-45 DTE)
-**Goal:** Pure directional leverage funded by market makers, with zero upfront cost.
-**The Play:** Sell an OTM Put exactly at the Gamma Support Wall. Use 100% of the premium collected to immediately Buy an OTM Call at the Gamma Resistance Wall.
-**The Logic:** If you believe in a stock and want to own it, you shouldn't mind being assigned on a short put. By selling that put, you generate cash. Instead of keeping the cash, you buy a lottery ticket (Long Call) on the upside.
-*   **If it crashes:** You buy 100 shares of a company you love, on sale, at the support wall.
-*   **If it stays flat:** Both options expire worthless. You lose nothing, because the short put paid for the long call.
-*   **If it rips:** You capture infinite upside from the Long Call, exactly as if you owned 100 shares, but you paid $0.00 to enter the trade.
-*   **Note:** The engine explicitly forces a setup that results in a Net Credit or $0.00 cost.
+### STRUCTURAL ANCHOR (30-45 DTE) FOR DOW
 
-## 4. JADE LIZARD (30-45 DTE)
-**The Plumber's Version:** You want to collect income from a stock you think will trade sideways or go up, but you are terrified of it ripping higher and blowing up your short call. A Jade Lizard solves this. You sell a Put to collect fat premium, and use that cash to fully finance a Call spread above the stock. If the stock crashes, you buy it at a discount. If the stock rips to the moon, the premium you collected is mathematically larger than the width of the Call spread, meaning you still make money even if the spread blows up. Zero upside risk.
-
-**Meat & Potatoes (Technical Mechanics):**
-*   **Target:** 30-45 DTE.
-*   **Logic:** The engine finds the Expected Move (EM) boundaries. It sells an OTM Put below the stock to collect a large credit. It then builds a Call Credit Spread (selling a call at EM upper bound, buying a call further out). 
-*   **Safety Rule:** The algorithm strictly enforces that the total premium collected must be *greater* than the width of the Call Spread. This mathematically eliminates upside risk, creating a "Net Upside Edge."
+| Strike | Put OI | Call OI | Put GEX | Call GEX | Net GEX |
+|---|---|---|---|---|---|
+| $25.00 | 1301 | 49 | -4,037 | 152 | -3,885 |
+| $27.50 | 1280 | 0 | -8,320 | 0 | -8,320 |
+| $28.00  (EM LOWER BOUND) | 182 | 0 | -948 | 0 | -948 |
+| $30.00  (PRICE) | 953 | 1006 | -8,768 | 9,054 | 286 |
+| $31.00  (PRICE) | 0 | 131 | 0 | 1,376 | 1,376 |
+| $32.00 | 0 | 66 | 0 | 581 | 581 |
+| $32.50 | 0 | 2418 | 0 | 20,311 | 20,311 |
+| $33.00  (EM UPPER BOUND) | 0 | 148 | 0 | 1,436 | 1,436 |
+| $35.00 | 70 | 3495 | -497 | 22,478 | 21,981 |
+| $37.50 | 0 | 1204 | 0 | 4,455 | 4,455 |
 
 ---
 
-## 5. LEAPS HUNTER (300+ DTE)
-**The Plumber's Version:** Instead of paying $32,000 to buy 100 shares of Google, you pay $500 to rent the *rights* to 100 shares of Google for the next two years. If Google goes up, your $500 rent agreement goes up in value exactly as if you owned the $32,000 in shares. It's just massive leverage for pennies.
 
-**Meat & Potatoes (Technical Mechanics):**
-*   **Target:** 300+ DTE.
-*   **Logic (Stock Replacement):** Hunts for Deep In-The-Money (DITM) options with a Delta of 0.80 - 1.00. It calculates the "Time Rent" (Extrinsic Premium %) for every option in the chain, finding the exact strike that provides maximum leverage for the lowest cost of time decay.
-*   **Logic (Lottery Ticket):** Hunts Out-Of-The-Money (OTM) options (Delta 0.15 - 0.35) to find the absolute highest leverage possible for the lowest absolute cash outlay, providing asymmetric convexity.
+**[ STATISTICAL EXPECTED MOVE ]**  
+Calculated EM: +/- $2.74  
+Expected Range: $27.79 to $33.27  
 
----
+**[ GEX REGIME & ZERO GAMMA ]**  
+Total Net GEX: 36,890  
+Current Regime: POSITIVE (Mean Reversion - Dealer Suppressed)  
+Zero Gamma Level (ZGL): $30.00  
 
-## 6. SPECULATIVE PLAYS
-**The Plumber's Version (Straddle):** You don't know if the stock is going to moon or crash, but you know it's going to do *something* massive (like earnings). You bet on both horses. As long as the stock explodes in one direction, the winning horse pays for the losing horse and then some.
-**The Plumber's Version (Gamma Squeeze):** You find the massive wall Market Makers built above the stock. You buy a cheap lottery ticket right below the wall. If retail pushes the stock hard enough to break the wall, the Market Makers panic, buy millions of shares to cover their asses, and accidentally launch your lottery ticket to the moon.
+**[ SUGGESTED STRIKES (STRUCTURAL) ]**  
+- Major Support (Lower Bound)    : $30.00 (Put GEX: -8,768)  
+- Major Resistance (Upper Bound) : $35.00 (Call GEX: 22,478)  
 
-**Meat & Potatoes (Technical Mechanics):**
-*   **Straddle (14-30 DTE):** Dynamically finds the cheapest At-The-Money Call and Put. Combines them into a Straddle and calculates exactly how much of a percentage move is required to break even. Highly reliant on Volatility Expansion.
-*   **Gamma Squeeze (0-14 DTE):** Scans the short-term options chain for massive OTM Call Open Interest walls. Targets a cheap call slightly below the wall to front-run the MM delta-hedging feedback loop (Gamma Squeeze).
+> **Action:** Use these massive Structural Walls to strike your Wheel Trades (CSP support & CC resistance).
 
----
+  [>] Fetching Live CBOE OPRA Feed for GEX Walls...
+  [>] Calculating 1-Year Volume Profile (Elephant Footprints)...
+  [>] Scanning OPRA Options Chain for 30-45 DTE...
 
-## 7. THE FUNDAMENTALS
-**The Plumber's Version:** You are kicking the tires on a used car before you buy it. You check the engine (ROIC), make sure it's not leaking oil (Piotroski Score), ensure the dealer isn't going bankrupt next week (Altman Z-Score), and check if the previous owners actually liked the car (Insider Buying).
+### TACTICAL DESK: YIELD HARVESTING (CSP) for DOW
 
-**Meat & Potatoes (Technical Mechanics):**
-*   **Altman Z-Score:** A 5-factor model predicting bankruptcy risk. Anything > 3.0 is exceptionally safe.
-*   **Piotroski F-Score:** A 9-point accounting checklist scoring profitability, leverage, and operating efficiency. 
-*   **ROIC:** Return on Invested Capital. The ultimate moat metric.
-*   **Shareholder Yield:** Dividend Yield + Buyback Yield. Shows if management is returning capital to owners.
-*   **SEC Trajectory:** Scrapes actual SEC EDGAR filings to grade the multi-year trajectory of Revenue, Net Income, and Free Cash Flow.
+**1. Volatility Environment**
+- **Historical Vol Rank (HV20):** 23.8% `███░░░░░░░░░░░░`
+- **Event Gravity:** None (Multiplier: 1.0)
+- **Target Yield:** 15.0% under max 0.25 Delta
 
+**2. Structural Support (Convergence)**
+- **Gamma Regime:** POSITIVE (Volatility Suppressed)
+- **Major Put Wall:** N/A
+- **Convergence Validated:** ❌ NO (Ghost Wall)
 
-================================================================================
- SCAN COMPLETE.
- Report Saved: ~/Desktop/antigravity/Single_Stock_Pipeline/reports/DOW_V2_Master_Report.md
-================================================================================
+**3. Optimal Contract Executable**
+```text
+Action        : SELL TO OPEN (Cash-Secured Put)
+Expiration    : 2026-10-16 (45 DTE)
+Strike Price  : $27.50
+Premium/Mark  : $0.52 (Collect $52.00)
+Delta         : -0.205
+Ann. Yield    : 15.3%
+Breakeven     : $26.98 (Safety Margin: 11.4%)
+Capital Req   : $2,750.00
+```
+
+**4. Strict Management Matrix**
+```text
+[EARLY EXIT]   : If profit hits +$13.00 (25%) within 3-5 days -> CLOSE.
+[STANDARD EXIT]: If profit hits +$26.00 (50%) before 21 DTE -> CLOSE.
+[GAMMA EJECT]  : If trade is open at 21 DTE -> CLOSE OR ROLL.
+```
 
