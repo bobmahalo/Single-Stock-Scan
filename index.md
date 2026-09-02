@@ -33,6 +33,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [PBI Report](PBI.html)
 - [RICK Report](RICK.html)
 - [SEZL Report](SEZL.html)
+- [SLDE Report](SLDE.html)
 - [SPCX Report](SPCX.html)
 - [TSLA Report](TSLA.html)
 - [UNH Report](UNH.html)
