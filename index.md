@@ -14,6 +14,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [CE Report](CE.html)
 - [CNXC Report](CNXC.html)
 - [CRUS Report](CRUS.html)
+- [DCBO Report](DCBO.html)
 - [DECK Report](DECK.html)
 - [DLO Report](DLO.html)
 - [DOW Report](DOW.html)
