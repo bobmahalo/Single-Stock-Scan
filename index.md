@@ -22,6 +22,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [EXEL Report](EXEL.html)
 - [F Report](F.html)
 - [GCO Report](GCO.html)
+- [GLND Report](GLND.html)
 - [GME Report](GME.html)
 - [GOOG Report](GOOG.html)
 - [GOOGL Report](GOOGL.html)
