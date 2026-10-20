@@ -17,4 +17,5 @@ Welcome to the central hub for all deep-dive stock scans.
 - [STRT Report](STRT.html)
 - [TTWO Report](TTWO.html)
 - [UEIC Report](UEIC.html)
+- [ULS Report](ULS.html)
 - [ZUMZ Report](ZUMZ.html)
