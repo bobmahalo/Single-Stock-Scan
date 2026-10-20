@@ -6,6 +6,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [CRON Report](CRON.html)
 - [CRUS Report](CRUS.html)
 - [CRWS Report](CRWS.html)
+- [CULP Report](CULP.html)
 - [DLTH Report](DLTH.html)
 - [DOW Report](DOW.html)
 - [GLND Report](GLND.html)
