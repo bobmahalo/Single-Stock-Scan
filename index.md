@@ -4,6 +4,7 @@ Welcome to the central hub for all deep-dive stock scans.
 ### Available Reports:
 - [BB Report](BB.html)
 - [CRUS Report](CRUS.html)
+- [CRWS Report](CRWS.html)
 - [DOW Report](DOW.html)
 - [GLND Report](GLND.html)
 - [GME Report](GME.html)
