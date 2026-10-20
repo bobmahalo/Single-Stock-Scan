@@ -10,6 +10,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [GLND Report](GLND.html)
 - [GME Report](GME.html)
 - [IZEA Report](IZEA.html)
+- [LOVE Report](LOVE.html)
 - [NRDS Report](NRDS.html)
 - [PYPL Report](PYPL.html)
 - [RR Report](RR.html)
