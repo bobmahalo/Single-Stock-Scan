@@ -28,6 +28,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [KO Report](KO.html)
 - [MU Report](MU.html)
 - [NFLX Report](NFLX.html)
+- [NRDS Report](NRDS.html)
 - [NVDA Report](NVDA.html)
 - [OKLO Report](OKLO.html)
 - [PBI Report](PBI.html)
