@@ -34,6 +34,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [OKLO Report](OKLO.html)
 - [PBI Report](PBI.html)
 - [RICK Report](RICK.html)
+- [RR Report](RR.html)
 - [SEZL Report](SEZL.html)
 - [SLDE Report](SLDE.html)
 - [SPCX Report](SPCX.html)
