@@ -33,6 +33,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [NVDA Report](NVDA.html)
 - [OKLO Report](OKLO.html)
 - [PBI Report](PBI.html)
+- [PYPL Report](PYPL.html)
 - [RICK Report](RICK.html)
 - [RR Report](RR.html)
 - [SEZL Report](SEZL.html)
