@@ -16,3 +16,4 @@ Welcome to the central hub for all deep-dive stock scans.
 - [RR Report](RR.html)
 - [STRT Report](STRT.html)
 - [TTWO Report](TTWO.html)
+- [UEIC Report](UEIC.html)
