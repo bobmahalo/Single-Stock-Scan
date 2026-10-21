@@ -1,7 +1,7 @@
 # ULS — Executive Investment Card
 ### UL Solutions Inc.
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$73.13` | **Market Cap:** `$14.70B` | **Enterprise Value:** `$14.57B`  
 > **TTM Free Cash Flow Yield:** **`3.0%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$-1.32/sh** | `-1.8%` | Negative net current asset value |
 | **Tangible Book Value** | **$4.54/sh** | `6.2%` | Hard physical net worth covers 6.2% of price |
 | **Zero-Growth DCF Floor** | **$25.42** | `34.8%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$48.59 – $78.71** | `94th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -205,7 +206,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$48.59 – $78.71`** | `[$48.59 ──────────────────●─ $78.71] (93th %-tile)`
+- **52-Week Price Range:** `$64.18 – $78.71` | **Cycle Regime:** `⚠️ Late Cycle / Momentum Zone (Top Quintile)`
+- **Primary Valuation Multiple:** **`36.8x`** P/FCF vs. 5-Year Median `50.6x` (`10th %-tile` — 💎 Deep Value Compression)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`36.8x`** | `34.3x – 50.6x – 60.4x` | `10%` | **$100.39** | `+37.3%` | 💎 Deep Value Compression |
+| **P/EBIT** | **`28.4x`** | `24.6x – 28.7x – 36.8x` | `42%` | **$73.91** | `+1.1%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`24.5x`** | `22.8x – 26.4x – 50.0x` | `19%` | **$78.73** | `+7.7%` | 💎 Deep Value Compression |
+| **P/S** | **`4.9x`** | `4.0x – 4.7x – 5.1x` | `81%` | **$70.66** | `-3.4%` | ⚠️ Multiple Expansion |
+
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** ULS trades at `36.8x` P/FCF (10th percentile of 5-year history). Mean reversion to historical median multiple (`50.6x`) yields an implied intrinsic target of **$100.39** (`+37.3%` upside) without relying on speculative future growth.
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 8734)</b></summary>
@@ -225,7 +256,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `Held in Street Name / NR` direct registered shareholders.
@@ -239,7 +270,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -267,7 +298,7 @@
 
 # Single Stock Report (SSR v1): ULS
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

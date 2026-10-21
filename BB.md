@@ -1,7 +1,7 @@
 # BB — Executive Investment Card
 ### BLACKBERRY Ltd
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$8.69` | **Market Cap:** `$5.10B` | **Enterprise Value:** `$4.92B`  
 > **TTM Free Cash Flow Yield:** **`1.8%`**
 
@@ -40,7 +40,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10`</nobr> | • **Piotroski:** `7/9`<br>• **Altman Z:** `5.15` (SAFE (> 2.99))<br>• **Beneish M:** `-2.47` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **FCF Yield:** `1.8%`<br>• **Net Cash:** `$0.31/sh` (3.6% of price)<br>• **Graham NCAV:** `$0.15/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **1Y Shares:** `+1.0%` (Dilution)<br>• **SBC % OCF:** `26.0%`<br>• **Insiders:** `$-7.2M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **1Y Shares:** `+1.0%` (Dilution)<br>• **SBC % OCF:** `26.0%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$0.15/sh** | `1.7%` | Net liquid assets cover 1.7% of stock price |
 | **Tangible Book Value** | **$0.46/sh** | `5.3%` | Hard physical net worth covers 5.3% of price |
 | **Zero-Growth DCF Floor** | **$2.10** | `24.2%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$8.16 – $10.57** | `6th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -203,7 +204,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$8.16 – $10.57`** | `[$8.16 ─●────────────────── $10.57] (7th %-tile)`
+- **52-Week Price Range:** `$8.16 – $9.59` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
+- **Primary Valuation Multiple:** **`111.7x`** P/FCF vs. 5-Year Median `110.6x` (`57th %-tile` — ⚖️ Historical Fair Value)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`111.7x`** | `72.1x – 110.6x – 117.7x` | `57%` | **$8.61** | `-0.9%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`107.5x`** | `104.5x – 108.5x – 113.3x` | `33%` | **$8.77** | `+0.9%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`19.5x`** | `8.1x – 17.7x – 22.4x` | `71%` | **$7.91** | `-9.0%` | ⚖️ Historical Fair Value |
+| **P/S** | **`9.5x`** | `6.0x – 9.4x – 12.0x` | `52%` | **$8.62** | `-0.8%` | ⚖️ Historical Fair Value |
+
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** BB trades at `111.7x` P/FCF (57th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `110.6x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7372)</b></summary>
@@ -223,8 +254,8 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
-- **12-Month Form 4 Open-Market Insider Flow:** **`$-7.2M`**
+### 6. Smart Money & Insider Conviction Signals
+- **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `1,051` direct registered shareholders.
 
@@ -237,7 +268,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -265,7 +296,7 @@
 
 # Single Stock Report (SSR v1): BB
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-30 -> 2026-08-31`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
@@ -298,21 +329,7 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 30 | 0 (0 C-Suite) | No | `$0` | `$7,209,070` | **`$-7,209,070`** |
-
-#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
-| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
-| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-10-09` | `2026-10-13` | **Armstrong-Owen Jennifer** | SVP, Chief People Officer | `S - Sale+OE` | 3,379 | `$8.36` | `$28,248` |
-| `2026-10-09` | `2026-10-13` | **Foote Tim** | CFO | `S - Sale+OE` | 8,441 | `$8.36` | `$70,567` |
-| `2026-10-09` | `2026-10-13` | **Giamatteo John Joseph** | CEO, Pres, Secure Comm. | `S - Sale+OE` | 27,004 | `$8.36` | `$225,753` |
-| `2026-10-09` | `2026-10-13` | **Kurtz Philip S.** | CLO, Corp. Secretary | `S - Sale+OE` | 6,164 | `$8.45` | `$52,086` |
-| `2026-10-02` | `2026-10-05` | **Kurtz Philip S.** | CLO, Corp. Secretary | `S - Sale+OE` | 4,168 | `$9.18` | `$38,262` |
-| `2026-10-02` | `2026-10-05` | **Giamatteo John Joseph** | CEO, Pres, Secure Comm. | `S - Sale+OE` | 29,272 | `$9.20` | `$269,302` |
-| `2026-10-02` | `2026-10-05` | **Foote Tim** | CFO | `S - Sale+OE` | 3,269 | `$9.20` | `$30,075` |
-| `2026-10-02` | `2026-10-05` | **Wall John Christopher** | Pres, QNX | `S - Sale+OE` | 3,474 | `$9.18` | `$31,891` |
-| `2026-10-02` | `2026-10-05` | **Armstrong-Owen Jennifer** | SVP, Chief People Officer | `S - Sale+OE` | 2,590 | `$9.20` | `$23,828` |
-| `2026-10-01` | `2026-10-02` | **Foote Tim** | CFO | `S - Sale` | 16,672 | `$9.14` | `$152,382` |
+| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
 
 ## 2. Income Statement
 

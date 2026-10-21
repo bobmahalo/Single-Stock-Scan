@@ -1,7 +1,7 @@
 # CRUS — Executive Investment Card
 ### CIRRUS LOGIC, INC.
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$110.04` | **Market Cap:** `$5.51B` | **Enterprise Value:** `$4.62B`  
 > **TTM Free Cash Flow Yield:** **`10.4%`**
 
@@ -40,7 +40,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `11.05` (SAFE (> 2.99))<br>• **Beneish M:** `-2.93` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `10.4%`<br>• **Net Cash:** `$17.78/sh` (16.2% of price)<br>• **Graham NCAV:** `$21.99/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **1Y Shares:** `-4.4%` (Cannibal Buyback)<br>• **SBC % OCF:** `13.6%`<br>• **Insiders:** `$-13.6M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **1Y Shares:** `-4.4%` (Cannibal Buyback)<br>• **SBC % OCF:** `13.6%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$21.99/sh** | `20.0%` | Net liquid assets cover 20.0% of stock price |
 | **Tangible Book Value** | **$34.60/sh** | `31.4%` | Hard physical net worth covers 31.4% of price |
 | **Zero-Growth DCF Floor** | **$148.07** | `134.6%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$99.76 – $118.83** | `62th %-tile` | Elevated Cycle Range |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -204,7 +205,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$99.76 – $118.83`** | `[$99.76 ────────────●─────── $118.83] (62th %-tile)`
+- **52-Week Price Range:** `$101.05 – $118.83` | **Cycle Regime:** `Elevated Cycle Range`
+- **Primary Valuation Multiple:** **`9.1x`** P/FCF vs. 5-Year Median `16.5x` (`4th %-tile` — 💎 Deep Value Compression)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`9.1x`** | `8.8x – 16.5x – 67.5x` | `4%` | **$199.22** | `+81.0%` | 💎 Deep Value Compression |
+| **P/EBIT** | **`12.6x`** | `12.1x – 17.5x – 28.4x` | `4%` | **$152.16** | `+38.3%` | 💎 Deep Value Compression |
+| **P/TBV** | **`3.4x`** | `3.3x – 4.6x – 6.1x` | `4%` | **$147.24** | `+33.8%` | 💎 Deep Value Compression |
+| **P/S** | **`2.9x`** | `2.8x – 3.3x – 4.9x` | `4%` | **$125.95** | `+14.5%` | 💎 Deep Value Compression |
+
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** CRUS trades at `9.1x` P/FCF (4th percentile of 5-year history). Mean reversion to historical median multiple (`16.5x`) yields an implied intrinsic target of **$199.22** (`+81.0%` upside) without relying on speculative future growth.
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 3674)</b></summary>
@@ -224,8 +255,8 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
-- **12-Month Form 4 Open-Market Insider Flow:** **`$-13.6M`**
+### 6. Smart Money & Insider Conviction Signals
+- **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `281` direct registered shareholders.
 
@@ -238,7 +269,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -266,7 +297,7 @@
 
 # Single Stock Report (SSR v1): CRUS
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-27 -> 2026-06-27`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
@@ -299,21 +330,7 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 22 | 0 (0 C-Suite) | No | `$0` | `$13,585,675` | **`$-13,585,675`** |
-
-#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
-| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
-| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-09-21` | `2026-09-23` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale` | 1,166 | `$119.00` | `$138,754` |
-| `2026-08-20` | `2026-08-24` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale` | 1,166 | `$117.89` | `$137,460` |
-| `2026-07-20` | `2026-07-21` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale` | 1,166 | `$138.57` | `$161,573` |
-| `2026-07-01` | `2026-07-02` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale+OE` | 1,458 | `$145.97` | `$212,824` |
-| `2026-06-29` | `2026-06-30` | **Brannan Andrew** | EVP, Worldwide Sales | `S - Sale+OE` | 6,464 | `$144.71` | `$935,405` |
-| `2026-06-22` | `2026-06-24` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale` | 1,170 | `$168.23` | `$196,829` |
-| `2026-06-03` | `2026-06-04` | **Thomas Scott** | EVP, GC | `S - Sale+OE` | 1,300 | `$180.04` | `$234,052` |
-| `2026-06-02` | `2026-06-04` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale+OE` | 3,907 | `$168.54` | `$658,486` |
-| `2026-05-29` | `2026-06-02` | **Brannan Andrew** | EVP, Worldwide Sales | `S - Sale` | 1,645 | `$175.75` | `$289,109` |
-| `2026-05-29` | `2026-06-02` | **Baumgartner Jeffrey W** | EVP, R, D | `S - Sale+OE` | 11,171 | `$171.65` | `$1,917,502` |
+| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
 
 ## 2. Income Statement
 

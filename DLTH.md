@@ -1,7 +1,7 @@
 # DLTH — Executive Investment Card
 ### DULUTH HOLDINGS INC.
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$147.6M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`**
 
@@ -74,6 +74,7 @@
 | **Graham NCAV Floor** | **$-0.99/sh** | `-24.8%` | Negative net current asset value |
 | **Tangible Book Value** | **$4.87/sh** | `121.8%` | Hard physical net worth covers 121.8% of price |
 | **Zero-Growth DCF Floor** | **$18.00** | `450.0%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$3.35 – $4.30** | `91th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -205,7 +206,36 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$3.35 – $4.30`** | `[$3.35 ─────────────────●── $4.30] (91th %-tile)`
+- **52-Week Price Range:** `$3.64 – $4.30` | **Cycle Regime:** `⚠️ Late Cycle / Momentum Zone (Top Quintile)`
+- **Primary Valuation Multiple:** **`8.4x`** P/FCF vs. 5-Year Median `1.5x` (`88th %-tile` — ⚠️ Multiple Expansion)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`8.4x`** | `1.4x – 1.5x – 8.6x` | `88%` | **$0.74** | `-81.5%` | ⚠️ Multiple Expansion |
+| **P/TBV** | **`0.8x`** | `0.5x – 0.6x – 0.8x` | `96%` | **$2.75** | `-31.2%` | ⚠️ Multiple Expansion |
+| **P/S** | **`0.2x`** | `0.2x – 0.2x – 0.3x` | `95%` | **$3.17** | `-20.8%` | ⚠️ Multiple Expansion |
+
+> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (88th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`1.5x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 5600)</b></summary>
@@ -225,7 +255,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`+$0.1M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `Held in Street Name / NR` direct registered shareholders.
@@ -239,7 +269,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -267,7 +297,7 @@
 
 # Single Stock Report (SSR v1): DLTH
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-02 -> 2026-08-02`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

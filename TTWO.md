@@ -1,7 +1,7 @@
 # TTWO — Executive Investment Card
 ### TAKE TWO INTERACTIVE SOFTWARE INC
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$205.46` | **Market Cap:** `$38.42B` | **Enterprise Value:** `$39.11B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`**
 
@@ -40,7 +40,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10`</nobr> | • **Piotroski:** `7/9`<br>• **Altman Z:** `3.79` (SAFE (> 2.99))<br>• **Beneish M:** `-2.90` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **FCF Yield:** `0.9%`<br>• **Net Cash:** `$-3.71/sh` (-1.8% of price)<br>• **Graham NCAV:** `$-13.36/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+5.0%` (Dilution)<br>• **SBC % OCF:** `70.1%`<br>• **Insiders:** `$-164.6M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+5.0%` (Dilution)<br>• **SBC % OCF:** `70.1%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$-13.36/sh** | `-6.5%` | Negative net current asset value |
 | **Tangible Book Value** | **$5.64/sh** | `2.7%` | Hard physical net worth covers 2.7% of price |
 | **Zero-Growth DCF Floor** | **$16.89** | `8.2%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$191.68 – $264.64** | `3th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -206,7 +207,36 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$191.68 – $264.64`** | `[$191.68 ─●────────────────── $264.64] (3th %-tile)`
+- **52-Week Price Range:** `$191.68 – $228.73` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
+- **Primary Valuation Multiple:** **`81.9x`** P/FCF vs. 5-Year Median `80.4x` (`57th %-tile` — ⚖️ Historical Fair Value)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`81.9x`** | `32.3x – 80.4x – 86.3x` | `57%` | **$201.76** | `-1.8%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`15.4x`** | `8.5x – 16.3x – 36.4x` | `32%` | **$216.51** | `+5.4%` | ⚖️ Historical Fair Value |
+| **P/S** | **`5.7x`** | `5.5x – 7.0x – 8.7x` | `3%` | **$254.39** | `+23.8%` | 💎 Deep Value Compression |
+
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** TTWO trades at `81.9x` P/FCF (57th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `80.4x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7372)</b></summary>
@@ -226,8 +256,8 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
-- **12-Month Form 4 Open-Market Insider Flow:** **`$-164.6M`**
+### 6. Smart Money & Insider Conviction Signals
+- **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `269` direct registered shareholders.
 
@@ -240,7 +270,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -268,7 +298,7 @@
 
 # Single Stock Report (SSR v1): TTWO
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
@@ -301,21 +331,7 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 40 | 0 (0 C-Suite) | No | `$0` | `$164,592,958` | **`$-164,592,958`** |
-
-#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
-| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
-| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-10-15` | `2026-10-16` | **Siminoff Ellen F** | Dir | `S - Sale` | 334 | `$202.92` | `$67,775` |
-| `2026-10-02` | `2026-10-05` | **Sheresky Michael** | Dir | `S - Sale` | 484 | `$203.69` | `$98,586` |
-| `2026-09-29` | `2026-10-01` | **Gordon William B** | Dir | `S - Sale` | 10,000 | `$202.39` | `$2,023,896` |
-| `2026-09-15` | `2026-09-16` | **Siminoff Ellen F** | Dir | `S - Sale` | 334 | `$219.53` | `$73,323` |
-| `2026-09-02` | `2026-09-04` | **Emerson Daniel P** | GC | `S - Sale` | 1,661 | `$217.37` | `$361,055` |
-| `2026-09-02` | `2026-09-04` | **Goldstein Lainie** | CFO | `S - Sale` | 1,335 | `$217.65` | `$290,563` |
-| `2026-08-14` | `2026-08-18` | **Siminoff Ellen F** | Dir | `S - Sale` | 334 | `$242.34` | `$80,942` |
-| `2026-08-17` | `2026-08-18` | **Srinivasan Laverne Evans** | Dir | `S - Sale` | 362 | `$245.01` | `$88,694` |
-| `2026-08-17` | `2026-08-18` | **Sheresky Michael** | Dir | `S - Sale` | 127 | `$245.01` | `$31,116` |
-| `2026-08-10` | `2026-08-11` | **Zelnick Strauss** | COB, CEO | `S - Sale` | 40,000 | `$252.64` | `$10,105,592` |
+| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
 
 ## 2. Income Statement
 

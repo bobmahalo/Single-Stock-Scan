@@ -1,7 +1,7 @@
 # ZUMZ — Executive Investment Card
 ### Zumiez Inc
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$14.44` | **Market Cap:** `$221.4M` | **Enterprise Value:** `$126.7M`  
 > **TTM Free Cash Flow Yield:** **`11.3%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$-3.40/sh** | `-23.5%` | Negative net current asset value |
 | **Tangible Book Value** | **$16.20/sh** | `112.2%` | Hard physical net worth covers 112.2% of price |
 | **Zero-Growth DCF Floor** | **$24.85** | `172.1%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$13.41 – $16.93** | `7th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -203,7 +204,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$13.41 – $16.93`** | `[$13.41 ─●────────────────── $16.93] (7th %-tile)`
+- **52-Week Price Range:** `$13.41 – $15.75` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
+- **Primary Valuation Multiple:** **`5.9x`** P/FCF vs. 5-Year Median `5.9x` (`50th %-tile` — ⚖️ Historical Fair Value)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`5.9x`** | `3.0x – 5.9x – 51.1x` | `50%` | **$14.40** | `-0.3%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`14.6x`** | `2.3x – 9.7x – 149.2x` | `63%` | **$9.60** | `-33.5%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`0.8x`** | `0.8x – 0.9x – 1.0x` | `8%` | **$15.52** | `+7.5%` | 💎 Deep Value Compression |
+| **P/S** | **`0.3x`** | `0.3x – 0.3x – 0.4x` | `5%` | **$17.12** | `+18.6%` | 💎 Deep Value Compression |
+
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZUMZ trades at `5.9x` P/FCF (50th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `5.9x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 5600)</b></summary>
@@ -223,7 +254,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$-1.5M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `11` direct registered shareholders.
@@ -237,7 +268,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -265,7 +296,7 @@
 
 # Single Stock Report (SSR v1): ZUMZ
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-01 -> 2026-08-01`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

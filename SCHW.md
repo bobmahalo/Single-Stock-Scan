@@ -1,7 +1,7 @@
 # SCHW — Executive Investment Card
 ### SCHWAB CHARLES CORP
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$94.16` | **Market Cap:** `$162.83B` | **Enterprise Value:** `$161.97B`  
 > **TTM Free Cash Flow Yield:** **`6.6%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **N/A/sh** | `N/A` | Data unavailable |
 | **Tangible Book Value** | **$17.68/sh** | `18.8%` | Hard physical net worth covers 18.8% of price |
 | **Zero-Growth DCF Floor** | **$71.71** | `76.2%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$87.11 – $125.46** | `5th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -204,7 +205,36 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$87.11 – $125.46`** | `[$87.11 ─●────────────────── $125.46] (5th %-tile)`
+- **52-Week Price Range:** `$87.11 – $105.09` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
+- **Primary Valuation Multiple:** **`19.4x`** P/FCF vs. 5-Year Median `19.7x` (`43th %-tile` — ⚖️ Historical Fair Value)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`19.4x`** | `9.7x – 19.7x – 93.4x` | `43%` | **$95.63** | `+1.6%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`4.5x`** | `3.7x – 5.1x – 8.9x` | `9%` | **$104.71** | `+11.2%` | 💎 Deep Value Compression |
+| **P/S** | **`7.1x`** | `6.9x – 9.9x – 14.8x` | `5%` | **$131.40** | `+39.5%` | 💎 Deep Value Compression |
+
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** SCHW trades at `19.4x` P/FCF (43th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `19.7x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 6211)</b></summary>
@@ -224,7 +254,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `4,132` direct registered shareholders.
@@ -238,7 +268,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -266,7 +296,7 @@
 
 # Single Stock Report (SSR v1): SCHW
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

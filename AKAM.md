@@ -1,7 +1,7 @@
 # AKAM — Executive Investment Card
 ### AKAMAI TECHNOLOGIES INC
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$92.32` | **Market Cap:** `$13.27B` | **Enterprise Value:** `$17.48B`  
 > **TTM Free Cash Flow Yield:** **`7.2%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$-39.49/sh** | `-42.8%` | Negative net current asset value |
 | **Tangible Book Value** | **$6.83/sh** | `7.4%` | Hard physical net worth covers 7.4% of price |
 | **Zero-Growth DCF Floor** | **$46.66** | `50.5%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$62.69 – $98.83** | `98th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -205,7 +206,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$62.69 – $98.83`** | `[$62.69 ───────────────────● $98.83] (98th %-tile)`
+- **52-Week Price Range:** `$81.94 – $98.83` | **Cycle Regime:** `⚠️ Late Cycle / Momentum Zone (Top Quintile)`
+- **Primary Valuation Multiple:** **`13.4x`** P/FCF vs. 5-Year Median `12.0x` (`75th %-tile` — ⚖️ Historical Fair Value)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`13.4x`** | `10.2x – 12.0x – 16.2x` | `75%` | **$82.67** | `-10.5%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`23.9x`** | `14.0x – 19.5x – 26.5x` | `81%` | **$75.18** | `-18.6%` | ⚠️ Multiple Expansion |
+| **P/TBV** | **`7.7x`** | `4.2x – 7.4x – 8.2x` | `78%` | **$89.00** | `-3.6%` | ⚠️ Multiple Expansion |
+| **P/S** | **`3.2x`** | `3.0x – 3.3x – 3.6x` | `25%` | **$95.17** | `+3.1%` | ⚖️ Historical Fair Value |
+
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** AKAM trades at `13.4x` P/FCF (75th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `12.0x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7389)</b></summary>
@@ -225,7 +256,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `185` direct registered shareholders.
@@ -239,7 +270,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -267,7 +298,7 @@
 
 # Single Stock Report (SSR v1): AKAM
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

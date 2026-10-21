@@ -1,7 +1,7 @@
 # NRDS — Executive Investment Card
 ### NERDWALLET, INC.
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$10.03` | **Market Cap:** `$640.7M` | **Enterprise Value:** `$578.7M`  
 > **TTM Free Cash Flow Yield:** **`25.5%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$1.71/sh** | `17.0%` | Net liquid assets cover 17.0% of stock price |
 | **Tangible Book Value** | **$2.67/sh** | `26.6%` | Hard physical net worth covers 26.6% of price |
 | **Zero-Growth DCF Floor** | **$30.17** | `300.8%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$9.28 – $11.24** | `23th %-tile` | Accumulation Zone (Below Median) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -204,7 +205,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$9.28 – $11.24`** | `[$9.28 ────●─────────────── $11.24] (23th %-tile)`
+- **52-Week Price Range:** `$9.28 – $10.91` | **Cycle Regime:** `Accumulation Zone (Below Median)`
+- **Primary Valuation Multiple:** **`5.8x`** P/FCF vs. 5-Year Median `11.3x` (`7th %-tile` — 💎 Deep Value Compression)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`5.8x`** | `5.6x – 11.3x – 114.4x` | `7%` | **$19.48** | `+94.2%` | 💎 Deep Value Compression |
+| **P/EBIT** | **`11.7x`** | `11.3x – 82.1x – 88.4x` | `19%` | **$70.55** | `+603.4%` | 💎 Deep Value Compression |
+| **P/TBV** | **`3.0x`** | `2.4x – 3.1x – 15.5x` | `34%` | **$10.22** | `+1.9%` | ⚖️ Historical Fair Value |
+| **P/S** | **`0.9x`** | `0.9x – 1.3x – 2.5x` | `7%` | **$14.57** | `+45.3%` | 💎 Deep Value Compression |
+
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** NRDS trades at `5.8x` P/FCF (7th percentile of 5-year history). Mean reversion to historical median multiple (`11.3x`) yields an implied intrinsic target of **$19.48** (`+94.2%` upside) without relying on speculative future growth.
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7374)</b></summary>
@@ -224,7 +255,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `99` direct registered shareholders.
@@ -238,7 +269,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -266,7 +297,7 @@
 
 # Single Stock Report (SSR v1): NRDS
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

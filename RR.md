@@ -1,7 +1,7 @@
 # RR — Executive Investment Card
 ### RICHTECH ROBOTICS INC.
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$1.25` | **Market Cap:** `$280.4M` | **Enterprise Value:** `$-59.0M`  
 > **TTM Free Cash Flow Yield:** **`-10.4%`**
 
@@ -74,6 +74,7 @@
 | **Graham NCAV Floor** | **$1.52/sh** | `121.6%` | Trades below net liquidation value (Graham Net-Net) |
 | **Tangible Book Value** | **$1.64/sh** | `131.2%` | Hard physical net worth covers 131.2% of price |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
+| **5-Year Price Corridor** | **$1.15 – $1.41** | `19th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -203,7 +204,35 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$1.15 – $1.41`** | `[$1.15 ────●─────────────── $1.41] (19th %-tile)`
+- **52-Week Price Range:** `$1.15 – $1.36` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
+- **Primary Valuation Multiple:** **`0.6x`** P/TBV vs. 5-Year Median `2.2x` (`9th %-tile` — 💎 Deep Value Compression)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/TBV** | **`0.6x`** | `0.6x – 2.2x – 18.4x` | `9%` | **$4.52** | `+261.6%` | 💎 Deep Value Compression |
+| **P/S** | **`30.2x`** | `8.1x – 20.2x – 31.7x` | `83%` | **$0.84** | `-32.8%` | ⚠️ Multiple Expansion |
+
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** RR trades at `0.6x` P/TBV (9th percentile of 5-year history). Mean reversion to historical median multiple (`2.2x`) yields an implied intrinsic target of **$4.52** (`+261.6%` upside) without relying on speculative future growth.
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 3569)</b></summary>
@@ -223,7 +252,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `9` direct registered shareholders.
@@ -237,7 +266,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -265,7 +294,7 @@
 
 # Single Stock Report (SSR v1): RR
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

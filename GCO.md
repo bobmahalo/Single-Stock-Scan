@@ -1,7 +1,7 @@
 # GCO — Executive Investment Card
 ### GENESCO INC
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$37.42` | **Market Cap:** `$404.9M` | **Enterprise Value:** `$363.6M`  
 > **TTM Free Cash Flow Yield:** **`18.2%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$-25.04/sh** | `-66.9%` | Negative net current asset value |
 | **Tangible Book Value** | **$48.12/sh** | `128.6%` | Hard physical net worth covers 128.6% of price |
 | **Zero-Growth DCF Floor** | **$81.71** | `218.4%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$24.55 – $39.89** | `97th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -204,7 +205,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$24.55 – $39.89`** | `[$24.55 ──────────────────●─ $39.89] (97th %-tile)`
+- **52-Week Price Range:** `$33.13 – $39.89` | **Cycle Regime:** `⚠️ Late Cycle / Momentum Zone (Top Quintile)`
+- **Primary Valuation Multiple:** **`4.7x`** P/FCF vs. 5-Year Median `7.6x` (`46th %-tile` — ⚖️ Historical Fair Value)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`4.7x`** | `2.1x – 7.6x – 11.3x` | `46%` | **$59.73** | `+59.6%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`23.0x`** | `2.5x – 4.3x – 28.9x` | `70%` | **$6.93** | `-81.5%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`0.7x`** | `0.6x – 0.7x – 0.8x` | `75%` | **$36.26** | `-3.1%` | ⚠️ Multiple Expansion |
+| **P/S** | **`0.2x`** | `0.1x – 0.2x – 0.2x` | `56%` | **$37.22** | `-0.5%` | ⚖️ Historical Fair Value |
+
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** GCO trades at `4.7x` P/FCF (46th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `7.6x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 5661)</b></summary>
@@ -224,7 +255,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `Held in Street Name / NR` direct registered shareholders.
@@ -238,7 +269,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -266,7 +297,7 @@
 
 # Single Stock Report (SSR v1): GCO
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-01 -> 2026-08-01`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

@@ -1,7 +1,7 @@
 # AAPL — Executive Investment Card
 ### Apple Inc.
 
-> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$342.00` | **Market Cap:** `$4,991.21B` | **Enterprise Value:** `$5,011.16B`  
 > **TTM Free Cash Flow Yield:** **`2.7%`**
 
@@ -73,6 +73,7 @@
 | **Graham NCAV Floor** | **$-8.63/sh** | `-2.5%` | Negative net current asset value |
 | **Tangible Book Value** | **$5.23/sh** | `1.5%` | Hard physical net worth covers 1.5% of price |
 | **Zero-Growth DCF Floor** | **$105.53** | `30.9%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$229.25 – $361.26** | `96th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -206,7 +207,37 @@
 
 </details>
 
-### 4. SIC Industry Peer Benchmarking & Relative Scale
+### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
+- **5-Year Price Corridor:** **`$229.25 – $361.26`** | `[$229.25 ──────────────────●─ $361.26] (97th %-tile)`
+- **52-Week Price Range:** `$301.52 – $361.26` | **Cycle Regime:** `⚠️ Late Cycle / Momentum Zone (Top Quintile)`
+- **Primary Valuation Multiple:** **`52.0x`** P/FCF vs. 5-Year Median `45.8x` (`96th %-tile` — ⚠️ Multiple Expansion)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
+
+| Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
+| :--- | ---: | :---: | ---: | ---: | ---: | :--- |
+| **P/FCF** | **`52.0x`** | `37.2x – 45.8x – 52.8x` | `96%` | **$301.58** | `-11.8%` | ⚠️ Multiple Expansion |
+| **P/EBIT** | **`38.6x`** | `34.7x – 38.7x – 43.2x` | `48%` | **$343.26** | `+0.4%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`75.4x`** | `52.8x – 75.4x – 113.2x` | `50%` | **$342.00** | `+0.0%` | ⚖️ Historical Fair Value |
+| **P/S** | **`12.3x`** | `10.5x – 11.9x – 13.2x` | `84%` | **$329.23** | `-3.7%` | ⚠️ Multiple Expansion |
+
+> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** AAPL trades at `52.0x` P/FCF (96th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`45.8x`).
+
+</details>
+
+<details>
+<summary>💡 <b>Why the 5-Year Valuation Corridor Matters (Mean Reversion vs. DCF Fantasies)</b></summary>
+
+> **The Empirical Multiple Anchor:**
+> Traditional Wall Street analysis relies on speculative 10-year DCF projections with made-up terminal growth rates. We anchor to cold empirical history: where does the current multiple trade relative to how the market has valued this exact business over the last 5 years?
+> - **💎 Multiple Compression (< 25th %-tile):** The business trades at a steep discount to its own historical multiple norms. Multiple expansion back toward median provides asymmetric upside without needing heroic future growth.
+> - **⚖️ Fair Value Corridor (25th–75th %-tile):** Valuation aligns with multi-year historical norms. Investment returns depend primarily on underlying organic cash flow and book value compounding.
+> - **⚠️ Multiple Expansion (> 75th %-tile):** The valuation multiple is historically stretched. Even if earnings grow, multiple contraction can erode investment returns.
+
+</details>
+
+### 5. SIC Industry Peer Benchmarking & Relative Scale
 
 <details>
 <summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 3571)</b></summary>
@@ -226,7 +257,7 @@
 
 </details>
 
-### 5. Smart Money & Insider Conviction Signals
+### 6. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `22,429` direct registered shareholders.
@@ -240,7 +271,7 @@
 
 </details>
 
-### 6. Volume & Social Quiet (Silent Accumulation Zone)
+### 7. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -268,7 +299,7 @@
 
 # Single Stock Report (SSR v1): AAPL
 
-- **Generated:** `2026-10-21 15:38 UTC`
+- **Generated:** `2026-10-21 16:07 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-27 -> 2026-06-27`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
