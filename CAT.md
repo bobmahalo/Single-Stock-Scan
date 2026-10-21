@@ -1,7 +1,7 @@
 # CAT — Executive Investment Card
 ### CATERPILLAR INC
 
-> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 15:38 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$735.64` | **Market Cap:** `$338.16B` | **Enterprise Value:** `$367.65B`  
 > **TTM Free Cash Flow Yield:** **`3.2%`**
 
@@ -56,10 +56,11 @@
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
 
 > **The 4 Investment Archetypes & Portfolio Weighting Disciplines:**
-> 1. **Core Operating Compounder (Target 65%–70% of Portfolio):** A structural cash-printing machine. Earnings come from genuine customer revenues at expanding operating margins, the balance sheet holds net cash with zero structural debt, and management aggressively eats its own shares via share buybacks (cannibal compounders). Time is your friend.
-> 2. **Micro-Turnaround & Activist Catalyst (Target 20%–25% of Portfolio):** A beaten-down, unloved company where smart capital is aggressively stepping in: verified C-suite executive cluster buying (paying with personal cash) or activist hedge funds filing Schedule 13D stakes to force capital returns.
-> 3. **Graham Net-Net & Speculative Asset Play (Capped Strictly at ≤ 5% of Portfolio):** The classic Benjamin Graham *cigar butt*. Trading at a steep discount to Net Current Asset Value (NCAV) or holding negative Enterprise Value (cash in the bank exceeds market cap). Because many of these businesses suffer operational burn, **time is your enemy**; strictly capping this basket under 5% captures asymmetric upside while immunizing the fund against bankruptcy losses.
-> 4. **Quarantined / Accounting Trap (Excluded or Capped < 2%):** Warning: Looks cheap on trailing metrics, but the plumbing is leaking. Operating income is negative, cash flow is artificially manufactured by dumping inventory or stiffing suppliers, or capex is starved.
+> 1. **Core Operating Compounder (Target 65%–70% Sleeve | 5.5% Target / 7.0% Hard Cap per name):** A structural cash-printing machine. Earnings come from genuine customer revenues at expanding operating margins, the balance sheet holds net cash with zero structural debt, and management aggressively eats its own shares via share buybacks (cannibal compounders). Time is your friend.
+> 2. **Micro-Turnaround & Activist Catalyst (Target 20%–25% Sleeve | 2.8% Target / 3.5% Hard Cap per name):** A beaten-down, unloved company where smart capital is aggressively stepping in: verified C-suite executive cluster buying (paying with personal cash) or activist hedge funds filing Schedule 13D stakes to force capital returns.
+> 3. **Graham Net-Net & Speculative Asset Play (Capped Strictly at ≤ 5% Sleeve | 1.0% Target / 1.5% Hard Cap per name):** The classic Benjamin Graham *cigar butt*. Trading at a steep discount to Net Current Asset Value (NCAV) or holding negative Enterprise Value (cash in the bank exceeds market cap). Because many of these businesses suffer operational burn, **time is your enemy**; strictly capping this basket under 5% captures asymmetric upside while immunizing the fund against bankruptcy losses.
+> 4. **Quarantined / Accounting Trap (Excluded or Capped Strictly at ≤ 1.0% per name):** Warning: Looks cheap on trailing metrics, but the plumbing is leaking. Operating income is negative, cash flow is artificially manufactured by dumping inventory or stiffing suppliers, or capex is starved.
+> - **T-Bills / Cash (10% Portfolio Reserve):** Unallocated dry powder reserve maintained for collateral against cash-secured puts (CSP) and opportunistic capitulation wicks.
 
 </details>
 
@@ -89,14 +90,14 @@
 
 ### B. Deterministic 3-Tranche Limit Order Ladder
 
-> **Position Sizing Benchmark:** `$12,500.00` allocation.  
+> **Position Sizing Benchmark:** `$5,500.00` (5.5% portfolio target | Hard risk ceiling: 7.0%).  
 > **Rule:** Never market-buy 100% at once. Establish baseline immediately; let panic sell-offs fill your lower bids.
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$735.64** | $4,166.25 (33.3%) | 5 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$691.50** | $4,166.25 (33.3%) | 6 | -6.0% Support Retest (Patient Accumulation Limit) |
-| **T3** | `LIMIT` | **$643.68** | $4,167.50 (33.3%) | 6 | -12.5% Capitulation Wick / Liquidity Flush (Panic Bid Limit) |
+| **T1** | `MARKET` | **$735.64** | $1,833.15 (33.3%) | 2 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$691.50** | $1,833.15 (33.3%) | 2 | -6.0% Support Retest (Patient Accumulation Limit) |
+| **T3** | `LIMIT` | **$643.68** | $1,833.70 (33.3%) | 2 | -12.5% Capitulation Wick / Liquidity Flush (Panic Bid Limit) |
 
 <details>
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -172,9 +173,27 @@
 
 </details>
 
-### 3. Share Count Cannibalization vs. Dilution (The Pizza Check)
+### 3. 5-Year Cumulative Capital Allocation & Share Cannibalization
 - **1-Year Share Count Trend:** `-3.5%` — **Retired 3.5% of shares** (Cannibal Buyback)
-- **Stock-Based Compensation (SBC):** Management option add-backs audited in Level 3 statements.
+- **5-Year Cumulative Operating Cash Flow:** **`$51.62B`** across 5 fiscal years (FY2021–FY2025 (5 Years))
+- **Capital Allocation Posture:** 💰 **Cannibal & Cash Return Engine** (72.6% returned to shareholders via buybacks/dividends, 17.0% capex)
+
+<details>
+<summary>🔎 <b>Click to Expand 5-Year Cumulative Capital Allocation Ledger & Shareholder Return Receipts</b></summary>
+
+| Capital Allocation Stream | Cumulative USD | % of 5Y OCF | Strategic Capital Function |
+| :--- | ---: | ---: | :--- |
+| **Operating Cash Flow (Inflow)** | **$51.62B** | `100.0%` | Primary organic cash generation engine |
+| **Capital Expenditures (CapEx)** | $8.79B | `17.0%` | Maintenance & growth of physical plant & equipment |
+| **Share Repurchases (Buybacks)** | $24.76B | `48.0%` | Direct share cannibalization & per-share equity compounding |
+| **Dividends Paid** | $12.73B | `24.7%` | Direct cash yield returned to equity holders |
+| **Acquisitions (M&A)** | $734.0M | `1.4%` | External bolt-on or strategic acquisitions |
+| **Retained Surplus / (Net Draw)** | $4.60B | `+8.9%` | Balance sheet cash fortress accumulation & debt reduction |
+| **Equity Issuance (Dilution)** | $202.0M | `N/A (Inflow)` | New shares sold into market (equity financing) |
+
+> **Forensic Verdict:** **Aggressive Shareholder Return Anchor.** Management returns 72.6% of organic operating cash flow to shareholders via buybacks and dividends while funding necessary capital expenditures (17.0%).
+
+</details>
 
 <details>
 <summary>💡 <b>The Pizza Analogy: Share Cannibalization vs. Dilution</b></summary>
@@ -248,7 +267,7 @@
 
 # Single Stock Report (SSR v1): CAT
 
-- **Generated:** `2026-10-21 14:45 UTC`
+- **Generated:** `2026-10-21 15:38 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
