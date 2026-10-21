@@ -1,8 +1,8 @@
 # CAT — Executive Investment Card
 ### CATERPILLAR INC
 
-> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
-> **Current Price:** `$735.64` | **Market Cap:** `$338.16B` | **Enterprise Value:** `$367.65B`  
+> **Generated:** `2026-10-21 16:29 UTC` | **CIK:** `N/A`  
+> **Current Price:** `$736.33` | **Market Cap:** `$338.47B` | **Enterprise Value:** `$367.97B`  
 > **TTM Free Cash Flow Yield:** **`3.2%`**
 
 ---
@@ -15,9 +15,9 @@
 │                   VERDICT: ESTABLISHED OPERATING BUSINESS                    │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Unfavorable Skew <1.0x)*              │
-│ • Downside to Tangible Book Floor:   -96.1% ($28.53 vs $735.64)*             │
-│ • Upside to Intrinsic Fair Value:    +20.0% ($882.77 Target 1)               │
-│ • Catalytic Convergence Target:      +38.0% ($1,015.19 Target 2)             │
+│ • Downside to Tangible Book Floor:   -96.1% ($28.53 vs $736.33)*             │
+│ • Upside to Intrinsic Fair Value:    +20.0% ($883.60 Target 1)               │
+│ • Catalytic Convergence Target:      +38.0% ($1,016.14 Target 2)             │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -68,7 +68,7 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$735.64** | `100.0%` | Baseline entry quote |
+| **Current Market Price** | **$736.33** | `100.0%` | Baseline entry quote |
 | **Net Cash Floor (Ex-Debt)** | **$-64.17/sh** | `-8.7%` | Net debt obligations exceed cash |
 | **Graham NCAV Floor** | **$-62.58/sh** | `-8.5%` | Negative net current asset value |
 | **Tangible Book Value** | **$28.53/sh** | `3.9%` | Hard physical net worth covers 3.9% of price |
@@ -96,9 +96,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$735.64** | $1,833.15 (33.3%) | 2 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$691.50** | $1,833.15 (33.3%) | 2 | -6.0% Support Retest (Patient Accumulation Limit) |
-| **T3** | `LIMIT` | **$643.68** | $1,833.70 (33.3%) | 2 | -12.5% Capitulation Wick / Liquidity Flush (Panic Bid Limit) |
+| **T1** | `MARKET` | **$736.33** | $1,833.15 (33.3%) | 2 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$692.15** | $1,833.15 (33.3%) | 2 | -6.0% Support Retest (Patient Accumulation Limit) |
+| **T3** | `LIMIT` | **$644.29** | $1,833.70 (33.3%) | 2 | -12.5% Capitulation Wick / Liquidity Flush (Panic Bid Limit) |
 
 <details>
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -118,9 +118,9 @@
 
 ### C. Deterministic Exit & Take-Profit Targets
 
-- **Target 1 (Lock in Capital):** **$882.77** (`+20.0%` upside) — Tangible Book Recovery Target (Exit 75% Position)
-- **Target 2 (Full Fair Value):** **$1,015.19** (`+38.0%` upside) — Speculative Liquidation Cleanout (Exit 100%)
-- **Safety Stop Loss:** **$625.29** — Liquidation Burn Trap Stop (-15% threshold)
+- **Target 1 (Lock in Capital):** **$883.60** (`+20.0%` upside) — Tangible Book Recovery Target (Exit 75% Position)
+- **Target 2 (Full Fair Value):** **$1,016.14** (`+38.0%` upside) — Speculative Liquidation Cleanout (Exit 100%)
+- **Safety Stop Loss:** **$625.88** — Liquidation Burn Trap Stop (-15% threshold)
 - **Frenzy Exit Trigger:** Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation.
 
 <details>
@@ -209,19 +209,19 @@
 ### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
 - **5-Year Price Corridor:** **`$679.17 – $966.85`** | `[$679.17 ─●────────────────── $966.85] (6th %-tile)`
 - **52-Week Price Range:** `$679.17 – $821.96` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
-- **Primary Valuation Multiple:** **`39.0x`** P/FCF vs. 5-Year Median `40.0x` (`40th %-tile` — ⚖️ Historical Fair Value)
+- **Primary Valuation Multiple:** **`39.0x`** P/FCF vs. 5-Year Median `40.0x` (`41th %-tile` — ⚖️ Historical Fair Value)
 
 <details>
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`39.0x`** | `35.2x – 40.0x – 94.9x` | `40%` | **$755.82** | `+2.7%` | ⚖️ Historical Fair Value |
-| **P/EBIT** | **`31.2x`** | `27.5x – 32.7x – 111.5x` | `27%` | **$772.45** | `+5.0%` | ⚖️ Historical Fair Value |
-| **P/TBV** | **`21.7x`** | `20.9x – 29.4x – 49.6x` | `6%` | **$994.14** | `+35.1%` | 💎 Deep Value Compression |
-| **P/S** | **`5.1x`** | `5.0x – 6.3x – 12.2x` | `5%` | **$900.07** | `+22.4%` | 💎 Deep Value Compression |
+| **P/FCF** | **`39.0x`** | `35.2x – 40.0x – 94.9x` | `41%` | **$755.82** | `+2.6%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`31.2x`** | `27.5x – 32.7x – 111.5x` | `28%` | **$772.45** | `+4.9%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`21.7x`** | `20.9x – 29.4x – 49.6x` | `6%` | **$994.14** | `+35.0%` | 💎 Deep Value Compression |
+| **P/S** | **`5.1x`** | `5.0x – 6.3x – 12.2x` | `6%` | **$900.07** | `+22.2%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** CAT trades at `39.0x` P/FCF (40th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `40.0x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** CAT trades at `39.0x` P/FCF (41th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `40.0x`).
 
 </details>
 
@@ -246,7 +246,7 @@
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **CAT** (CATERPILLAR INC) | `[Industry Leader]` | **$338.2B** | **3.2%** | **-$64.17** | **6/9** | **4.72 (Safe)** |
+| **CAT** (CATERPILLAR INC) | `[Industry Leader]` | **$338.5B** | **3.2%** | **-$64.17** | **6/9** | **4.72 (Safe)** |
 | **CNH** (CNH Industrial N.V.) | `[Smaller Peer: <0.1x]` | $14.8B | N/A | +$1.51 | 5/9 | N/A |
 | **PLOW** (DOUGLAS DYNAMICS, INC) | `[Smaller Peer: <0.1x]` | $915.2M | 5.4% | -$8.63 | 7/9 | 3.16 (Safe) |
 | **ASTE** (ASTEC INDUSTRIES INC) | `[Smaller Peer: <0.1x]` | $896.1M | 3.6% | -$12.97 | 5/9 | 2.95 (Grey) |
@@ -271,9 +271,9 @@
 </details>
 
 ### 7. Volume & Social Quiet (Silent Accumulation Zone)
-- **Silent Accumulation Status:** `PASS`
-- **30-Day Volume / 90-Day Average:** `1.0x` normal volume
-- **Signal Detail:** Normal trading activity in silent accumulation zone.
+- **Silent Accumulation Status:** `PASS (Silent Accumulation Bonus +1)`
+- **30-Day Volume / 90-Day Average:** `0.94x` normal volume
+- **Signal Detail:** Volume is dry and quiet (0.94x 90d avg). Zero retail mania.
 
 <details>
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -298,7 +298,7 @@
 
 # Single Stock Report (SSR v1): CAT
 
-- **Generated:** `2026-10-21 16:07 UTC`
+- **Generated:** `2026-10-21 16:29 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
@@ -513,7 +513,7 @@
 | **ROCE Pct** | 12.99% | 15.68% | 24.58% | 23.56% | 17.98% | 20.84% |
 | **ROIC Pct** | 14.00% | 14.89% | 24.50% | 23.68% | 17.83% | `NR` |
 | **Total Shareholder Return USD** | $4,865.0M | $6,619.0M | $7,526.0M | $10,323.0M | $7,939.0M | $10,036.0M |
-| **Shareholder Yield Pct** | 1.44% | 1.96% | 2.23% | 3.05% | 2.35% | 2.97% |
+| **Shareholder Yield Pct** | 1.44% | 1.96% | 2.22% | 3.05% | 2.35% | 2.97% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
@@ -542,7 +542,7 @@
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **3.16%** | **3.21%** | **3.88%** | **22.10%** | **3.56%** | **2.91%** |
+| **3.16%** | **3.20%** | **3.87%** | **22.08%** | **3.56%** | **2.91%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
@@ -552,7 +552,7 @@
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $10,698.0M | $367,652.2M | `+15.07%` | **`$201.46`** |
+| $10,698.0M | $367,969.4M | `+15.08%` | **`$201.46`** |
 
 ---
 
