@@ -1,7 +1,7 @@
 # DLTH — Executive Investment Card
 ### DULUTH HOLDINGS INC.
 
-> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:59 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$147.6M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`**
 
@@ -11,14 +11,15 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #3f1d24; color: #f87171; border: 1px solid #ef4444; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🔴 QUARANTINED / SPECULATIVE RESTRUCTURING</span></div>
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│              VERDICT: QUARANTINED / SPECULATIVE RESTRUCTURING              │
-├────────────────────────────────────────────────────────────────────────────┤
-│ ASYMMETRIC PAYOFF PROFILE: >10.0x : 1.0 (Pure Cash Arbitrage Cushion)      │
-│ • Downside to Tangible Book Floor:   +21.8% Surplus ($4.87 vs $4.00)       │
-│ • Upside to Intrinsic Fair Value:    +21.8% ($4.87 Target 1)               │
-│ • Catalytic Convergence Target:      +40.0% ($5.60 Target 2)               │
-└────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│               VERDICT: QUARANTINED / SPECULATIVE RESTRUCTURING               │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: >10.0x : 1.0 (Pure Cash Arbitrage Cushion)        │
+│ • Downside to Tangible Book Floor:   +21.8% Surplus ($4.87 vs $4.00)         │
+│ • Upside to Intrinsic Fair Value:    +21.8% ($4.87 Target 1)                 │
+│ • Catalytic Convergence Target:      +40.0% ($5.60 Target 2)                 │
+│ • AUDIT CHECK: Spot < Cash Floor. Verify debt & burn in Vault before sizing. │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
@@ -205,7 +206,7 @@
 
 # Single Stock Report (SSR v1): DLTH
 
-- **Generated:** `2026-10-21 12:48 UTC`
+- **Generated:** `2026-10-21 12:59 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-02 -> 2026-08-02`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

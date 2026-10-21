@@ -1,7 +1,7 @@
 # CRUS — Executive Investment Card
 ### CIRRUS LOGIC, INC.
 
-> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:59 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$110.04` | **Market Cap:** `$5.51B` | **Enterprise Value:** `$4.62B`  
 > **TTM Free Cash Flow Yield:** **`10.4%`**
 
@@ -11,14 +11,14 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #1e3a29; color: #4ade80; border: 1px solid #22c55e; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🟢 CORE STRUCTURAL OPERATING COMPOUNDER</span></div>
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│               VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                │
-├────────────────────────────────────────────────────────────────────────────┤
-│ ASYMMETRIC PAYOFF PROFILE: 0.4x : 1.0 (Reward-to-Risk)                     │
-│ • Downside to Net Cash Floor:        -83.8% ($17.78 vs $110.04)            │
-│ • Upside to Intrinsic Fair Value:    +30.0% ($143.05 Target 1)             │
-│ • Catalytic Convergence Target:      +65.0% ($181.57 Target 2)             │
-└────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.4x : 1.0 (Reward-to-Risk)                       │
+│ • Downside to Net Cash Floor:        -83.8% ($17.78 vs $110.04)              │
+│ • Upside to Intrinsic Fair Value:    +30.0% ($143.05 Target 1)               │
+│ • Catalytic Convergence Target:      +65.0% ($181.57 Target 2)               │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
@@ -205,7 +205,7 @@
 
 # Single Stock Report (SSR v1): CRUS
 
-- **Generated:** `2026-10-21 12:48 UTC`
+- **Generated:** `2026-10-21 12:59 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-27 -> 2026-06-27`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

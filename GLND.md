@@ -1,7 +1,7 @@
 # GLND — Executive Investment Card
 ### Greenland Energy Co
 
-> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:59 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.19` | **Market Cap:** `$139.5M` | **Enterprise Value:** `$102.1M`  
 > **TTM Free Cash Flow Yield:** `N/A`
 
@@ -11,14 +11,14 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #262626; color: #e5e5e5; border: 1px solid #525252; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">⚪ ESTABLISHED OPERATING BUSINESS</span></div>
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│                  VERDICT: ESTABLISHED OPERATING BUSINESS                   │
-├────────────────────────────────────────────────────────────────────────────┤
-│ ASYMMETRIC PAYOFF PROFILE: 0.3x : 1.0 (Reward-to-Risk)                     │
-│ • Downside to Net Cash Floor:        -73.0% ($0.86 vs $3.19)               │
-│ • Upside to Intrinsic Fair Value:    +20.1% ($3.83 Target 1)               │
-│ • Catalytic Convergence Target:      +37.9% ($4.40 Target 2)               │
-└────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                   VERDICT: ESTABLISHED OPERATING BUSINESS                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.3x : 1.0 (Reward-to-Risk)                       │
+│ • Downside to Net Cash Floor:        -73.0% ($0.86 vs $3.19)                 │
+│ • Upside to Intrinsic Fair Value:    +20.1% ($3.83 Target 1)                 │
+│ • Catalytic Convergence Target:      +37.9% ($4.40 Target 2)                 │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
@@ -205,7 +205,7 @@
 
 # Single Stock Report (SSR v1): GLND
 
-- **Generated:** `2026-10-21 12:48 UTC`
+- **Generated:** `2026-10-21 12:59 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-06-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

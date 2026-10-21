@@ -1,7 +1,7 @@
 # LOVE — Executive Investment Card
 ### Lovesac Co
 
-> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:59 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$14.75` | **Market Cap:** `$212.7M` | **Enterprise Value:** `$235.9M`  
 > **TTM Free Cash Flow Yield:** **`21.3%`**
 
@@ -11,14 +11,14 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #1e293b; color: #38bdf8; border: 1px solid #0284c7; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🔵 HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST</span></div>
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│          VERDICT: HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST          │
-├────────────────────────────────────────────────────────────────────────────┤
-│ ASYMMETRIC PAYOFF PROFILE: 13.2x : 1.0 (Reward-to-Risk)                    │
-│ • Downside to Tangible Book Floor:   -2.6% ($14.36 vs $14.75)              │
-│ • Upside to Intrinsic Fair Value:    +35.0% ($19.91 Target 1)              │
-│ • Catalytic Convergence Target:      +75.5% ($25.88 Target 2)              │
-└────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│           VERDICT: HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST           │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 13.2x : 1.0 (Reward-to-Risk)                      │
+│ • Downside to Tangible Book Floor:   -2.6% ($14.36 vs $14.75)                │
+│ • Upside to Intrinsic Fair Value:    +35.0% ($19.91 Target 1)                │
+│ • Catalytic Convergence Target:      +75.5% ($25.88 Target 2)                │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
@@ -205,7 +205,7 @@
 
 # Single Stock Report (SSR v1): LOVE
 
-- **Generated:** `2026-10-21 12:48 UTC`
+- **Generated:** `2026-10-21 12:59 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-02 -> 2026-08-02`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
