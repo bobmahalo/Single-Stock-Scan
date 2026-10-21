@@ -1,7 +1,7 @@
 # IZEA — Executive Investment Card
 ### IZEA Worldwide, Inc.
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$2.31` | **Market Cap:** `$40.2M` | **Enterprise Value:** `$-6.4M`  
 > **TTM Free Cash Flow Yield:** **`5.9%`**
 
@@ -187,7 +187,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7310)</b></summary>
+
+> **Industry Context: SIC 7310 — Services-Advertising**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **IZEA** (IZEA Worldwide, Inc.) | `[Subject Firm]` | **$40.2M** | **5.9%** | **+$2.67** | **7/9** | **2.17 (Grey)** |
+| **IBTA** (Ibotta, Inc.) | `[Industry Leader: 28x larger]` | $1.1B | 6.5% | +$6.36 | 5/9 | 3.38 (Safe) |
+| **ANGI** (Angi Inc.) | `[Industry Leader: 6.5x larger]` | $261.4M | -33.8% | -$5.18 | 3/9 | 0.08 (Distress) |
+| **NCMI** (National CineMedia, Inc.) | `[Industry Leader: 5.3x larger]` | $211.7M | 9.3% | +$0.33 | 6/9 | 2.30 (Grey) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `115` direct registered shareholders.
@@ -201,7 +221,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -229,7 +249,7 @@
 
 # Single Stock Report (SSR v1): IZEA
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

@@ -1,7 +1,7 @@
 # GME — Executive Investment Card
 ### GameStop Corp.
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$26.34` | **Market Cap:** `$13.29B` | **Enterprise Value:** `$12.40B`  
 > **TTM Free Cash Flow Yield:** **`5.2%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 5734)</b></summary>
+
+> **Industry Context: SIC 5734 — Retail-Computer & Computer Software Stores**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **GME** (GameStop Corp.) | `[Subject Firm]` | **$13.3B** | **5.2%** | **+$1.77** | **6/9** | **2.73 (Grey)** |
+| **WSM** (WILLIAMS SONOMA INC) | `[Direct Peer: ~2.2x]` | $29.7B | 4.5% | +$8.74 | 5/9 | 8.26 (Safe) |
+| **BBY** (BEST BUY CO INC) | `[Direct Peer: ~1.5x]` | $19.8B | 8.9% | +$5.18 | 7/9 | 4.21 (Safe) |
+| **RH** (RH) | `[Smaller Peer: 0.2x]` | $2.2B | 11.2% | +$11.89 | 6/9 | 1.10 (Distress) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `177,522` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): GME
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-01 -> 2026-08-01`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

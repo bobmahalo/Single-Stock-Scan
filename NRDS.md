@@ -1,7 +1,7 @@
 # NRDS — Executive Investment Card
 ### NERDWALLET, INC.
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$10.03` | **Market Cap:** `$640.7M` | **Enterprise Value:** `$578.7M`  
 > **TTM Free Cash Flow Yield:** **`25.5%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7374)</b></summary>
+
+> **Industry Context: SIC 7374 — Services-Computer Processing & Data Preparation**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **NRDS** (NERDWALLET, INC.) | `[Subject Firm]` | **$640.7M** | **25.5%** | **+$0.97** | **9/9** | **6.43 (Safe)** |
+| **ADP** (AUTOMATIC DATA PROCESS..) | `[Industry Leader: 177x larger]` | $113.5B | N/A | -$1.85 | 6/9 | 2.46 (Grey) |
+| **WDAY** (Workday, Inc.) | `[Industry Leader: 76x larger]` | $48.4B | 5.9% | +$1.68 | 6/9 | 3.94 (Safe) |
+| **RDDT** (Reddit, Inc.) | `[Industry Leader: 50x larger]` | $32.2B | 3.2% | +$13.79 | 7/9 | 57.50 (Safe) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `99` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): NRDS
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

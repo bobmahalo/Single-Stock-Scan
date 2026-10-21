@@ -1,7 +1,7 @@
 # STRT — Executive Investment Card
 ### STRATTEC SECURITY CORP
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$61.98` | **Market Cap:** `$247.0M` | **Enterprise Value:** `$138.7M`  
 > **TTM Free Cash Flow Yield:** **`15.8%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 3714)</b></summary>
+
+> **Industry Context: SIC 3714 — Motor Vehicle Parts & Accessories**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **STRT** (STRATTEC SECURITY CORP) | `[Subject Firm]` | **$247.0M** | **15.8%** | **+$27.16** | **9/9** | **4.58 (Safe)** |
+| **BWA** (BORGWARNER INC) | `[Industry Leader: 48x larger]` | $11.9B | 7.9% | -$7.62 | 4/9 | 3.11 (Safe) |
+| **APTV** (Aptiv PLC) | `[Industry Leader: 38x larger]` | $9.4B | 7.3% | -$22.12 | 8/9 | 2.47 (Grey) |
+| **ALSN** (Allison Transmission H..) | `[Industry Leader: 38x larger]` | $9.3B | 7.9% | -$44.99 | 6/9 | 1.83 (Grey) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `718` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): STRT
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-28 -> 2026-06-28`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

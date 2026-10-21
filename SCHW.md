@@ -1,7 +1,7 @@
 # SCHW — Executive Investment Card
 ### SCHWAB CHARLES CORP
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$94.16` | **Market Cap:** `$162.83B` | **Enterprise Value:** `$161.97B`  
 > **TTM Free Cash Flow Yield:** **`6.6%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 6211)</b></summary>
+
+> **Industry Context: SIC 6211 — Security Brokers, Dealers & Flotation Companies**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **SCHW** (SCHWAB CHARLES CORP) | `[Subject Firm]` | **$162.8B** | **6.6%** | **+$0.50** | **⚠️ N/A*** | **⚠️ N/A*** |
+| **MS** (MORGAN STANLEY) | `[Direct Peer: ~1.8x]` | $286.0B | N/A | -$157.43 | ⚠️ N/A* | ⚠️ N/A* |
+| **GS** (GOLDMAN SACHS GROUP INC) | `[Direct Peer: ~1.6x]` | $259.5B | -16.0% | -$406.87 | ⚠️ N/A* | ⚠️ N/A* |
+| **BLK** (BlackRock, Inc.) | `[Direct Peer: ~1.1x]` | $173.7B | 2.0% | -$14.53 | ⚠️ N/A* | ⚠️ N/A* |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `4,132` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): SCHW
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

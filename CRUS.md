@@ -1,7 +1,7 @@
 # CRUS — Executive Investment Card
 ### CIRRUS LOGIC, INC.
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$110.04` | **Market Cap:** `$5.51B` | **Enterprise Value:** `$4.62B`  
 > **TTM Free Cash Flow Yield:** **`10.4%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 3674)</b></summary>
+
+> **Industry Context: SIC 3674 — Semiconductors & Related Devices**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **CRUS** (CIRRUS LOGIC, INC.) | `[Subject Firm]` | **$5.5B** | **10.4%** | **+$17.78** | **8/9** | **11.05 (Safe)** |
+| **NVDA** (NVIDIA CORP) | `[Industry Leader: 949x larger]` | $5,235.2B | 2.4% | +$0.98 | 4/9 | 38.93 (Safe) |
+| **AVGO** (Broadcom Inc.) | `[Industry Leader: 298x larger]` | $1,643.7B | 2.4% | -$7.42 | 8/9 | 12.74 (Safe) |
+| **MU** (MICRON TECHNOLOGY INC) | `[Industry Leader: 191x larger]` | $1,053.6B | 5.6% | +$35.49 | 8/9 | 14.68 (Safe) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$-13.6M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `281` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): CRUS
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-27 -> 2026-06-27`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

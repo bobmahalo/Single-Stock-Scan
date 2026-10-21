@@ -1,7 +1,7 @@
 # DOW — Executive Investment Card
 ### DOW INC.
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$30.07` | **Market Cap:** `$21.67B` | **Enterprise Value:** `$34.67B`  
 > **TTM Free Cash Flow Yield:** **`-1.1%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 2821)</b></summary>
+
+> **Industry Context: SIC 2821 — Plastic Materials, Synth Resins & Nonvulcan Elastomers**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **DOW** (DOW INC.) | `[Industry Leader]` | **$21.7B** | **-1.1%** | **-$18.03** | **3/9** | **N/A** |
+| **DD** (DuPont de Nemours, Inc.) | `[Direct Peer: ~0.8x]` | $17.8B | -0.4% | -$10.26 | 4/9 | N/A |
+| **ALB** (ALBEMARLE CORP) | `[Direct Peer: ~0.5x]` | $11.6B | 11.6% | -$2.08 | 5/9 | 2.27 (Grey) |
+| **EMN** (EASTMAN CHEMICAL CO) | `[Smaller Peer: 0.3x]` | $7.3B | 7.4% | -$39.57 | 5/9 | N/A |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `Held in Street Name / NR` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): DOW
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-06-30 -> 2026-03-31`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

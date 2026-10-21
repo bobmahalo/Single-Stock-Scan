@@ -1,7 +1,7 @@
 # ZUMZ — Executive Investment Card
 ### Zumiez Inc
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$14.44` | **Market Cap:** `$221.4M` | **Enterprise Value:** `$126.7M`  
 > **TTM Free Cash Flow Yield:** **`11.3%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 5600)</b></summary>
+
+> **Industry Context: SIC 5600 — Retail-Apparel & Accessory Stores**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **ZUMZ** (Zumiez Inc) | `[Subject Firm]` | **$221.4M** | **11.3%** | **+$6.18** | **8/9** | **2.39 (Grey)** |
+| **CTRN** (Citi Trends Inc) | `[Direct Peer: ~1.9x]` | $416.5M | 1.6% | +$10.01 | 6/9 | 3.40 (Safe) |
+| **CURV** (Torrid Holdings Inc.) | `[Direct Peer: ~1.1x]` | $244.3M | -5.4% | -$2.43 | 2/9 | 1.56 (Distress) |
+| **VNCE** (VINCE HOLDING CORP.) | `[Direct Peer: ~0.8x]` | $172.6M | 10.5% | -$1.14 | 6/9 | -4.38 (Distress) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$-1.5M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `11` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): ZUMZ
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-01 -> 2026-08-01`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

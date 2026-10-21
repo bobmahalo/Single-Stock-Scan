@@ -1,7 +1,7 @@
 # TTWO — Executive Investment Card
 ### TAKE TWO INTERACTIVE SOFTWARE INC
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$205.46` | **Market Cap:** `$38.42B` | **Enterprise Value:** `$39.11B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 7372)</b></summary>
+
+> **Industry Context: SIC 7372 — Services-Prepackaged Software**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **TTWO** (TAKE TWO INTERACTIVE S..) | `[Subject Firm]` | **$38.4B** | **0.9%** | **-$3.71** | **7/9** | **3.79 (Safe)** |
+| **MSFT** (MICROSOFT CORP) | `[Industry Leader: 104x larger]` | $4,005.6B | 1.7% | +$4.92 | 6/9 | 9.39 (Safe) |
+| **PLTR** (Palantir Technologies ..) | `[Industry Leader: 13x larger]` | $481.8B | 0.7% | +$3.92 | 8/9 | 163.22 (Safe) |
+| **ORCL** (ORACLE CORP) | `[Industry Leader: 11x larger]` | $406.6B | -7.1% | -$30.72 | 5/9 | 1.55 (Distress) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$-164.6M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `269` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): TTWO
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

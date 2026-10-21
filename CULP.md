@@ -1,7 +1,7 @@
 # CULP — Executive Investment Card
 ### CULP INC
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.82` | **Market Cap:** `$48.6M` | **Enterprise Value:** `$48.2M`  
 > **TTM Free Cash Flow Yield:** **`-2.7%`**
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 2211)</b></summary>
+
+> **Industry Context: SIC 2211 — Broadwoven Fabric Mills, Cotton**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **CULP** (CULP INC) | `[Subject Firm]` | **$48.6M** | **-2.7%** | **+$0.03** | **6/9** | **2.86 (Grey)** |
+| **CRWS** (CROWN CRAFTS INC) | `[Direct Peer: ~0.5x]` | $26.1M | 29.1% | -$0.87 | 8/9 | 2.52 (Grey) |
+| **MHK** (MOHAWK INDUSTRIES INC) | `[Industry Leader: 173x larger]` | $8.4B | 9.7% | -$15.75 | 6/9 | 2.94 (Grey) |
+| **TILE** (INTERFACE INC) | `[Industry Leader: 43x larger]` | $2.1B | 6.0% | -$2.13 | 8/9 | 4.76 (Safe) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `Held in Street Name / NR` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Normal trading activity in silent accumulation zone.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): CULP
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-02 -> 2026-08-02`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

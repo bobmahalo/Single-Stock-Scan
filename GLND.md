@@ -1,7 +1,7 @@
 # GLND — Executive Investment Card
 ### Greenland Energy Co
 
-> **Generated:** `2026-10-21 14:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 14:45 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.19` | **Market Cap:** `$139.5M` | **Enterprise Value:** `$102.1M`  
 > **TTM Free Cash Flow Yield:** `N/A`
 
@@ -186,7 +186,27 @@
 
 </details>
 
-### 4. Smart Money & Insider Conviction Signals
+### 4. SIC Industry Peer Benchmarking & Relative Scale
+
+<details>
+<summary>👥 <b>Click to Expand SIC Industry Peer Factor Comparison (Top Competitors in SIC 1381)</b></summary>
+
+> **Industry Context: SIC 1381 — Drilling Oil & Gas Wells**  
+> Benchmarks valuation asymmetry, net debt cushions, and forensic health against the top market-cap competitors sharing the same primary SEC SIC industry classification.
+
+| Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
+| :--- | :---: | ---: | ---: | ---: | :---: | :---: |
+| **GLND** (Greenland Energy Co) | `[Subject Firm]` | **$139.5M** | **N/A** | **+$0.86** | **N/A** | **N/A** |
+| **NE** (Noble Corp plc) | `[Industry Leader: 49x larger]` | $6.9B | N/A | -$8.97 | 5/9 | 2.21 (Grey) |
+| **RIG** (Transocean Ltd.) | `[Industry Leader: 44x larger]` | $6.2B | 14.7% | -$3.72 | 5/9 | -0.01 (Distress) |
+| **VAL** (Valaris Ltd) | `[Industry Leader: 42x larger]` | $5.8B | -0.4% | -$7.87 | 7/9 | 2.82 (Grey) |
+
+> - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
+> - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
+
+</details>
+
+### 5. Smart Money & Insider Conviction Signals
 - **12-Month Form 4 Open-Market Insider Flow:** **`$0.0M`**
 - **C-Suite Cluster Buy Alert:** None detected in trailing 12 months
 - **10-K Item 5 Direct Registered Holders (DRS Census):** `Held in Street Name / NR` direct registered shareholders.
@@ -200,7 +220,7 @@
 
 </details>
 
-### 5. Volume & Social Quiet (Silent Accumulation Zone)
+### 6. Volume & Social Quiet (Silent Accumulation Zone)
 - **Silent Accumulation Status:** `PASS`
 - **30-Day Volume / 90-Day Average:** `1.0x` normal volume
 - **Signal Detail:** Volume is quiet. No retail mania detected.
@@ -228,7 +248,7 @@
 
 # Single Stock Report (SSR v1): GLND
 
-- **Generated:** `2026-10-21 14:29 UTC`
+- **Generated:** `2026-10-21 14:45 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-06-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
