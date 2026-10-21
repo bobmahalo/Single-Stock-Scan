@@ -1,7 +1,7 @@
 # CRWS — Executive Investment Card
 ### CROWN CRAFTS INC
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$2.43` | **Market Cap:** `$26.1M` | **Enterprise Value:** `$35.5M`  
 > **TTM Free Cash Flow Yield:** **`29.1%`**
 
@@ -13,14 +13,21 @@
 ```text
 ┌────────────────────────────────────────────────────────────────────────────┐
 │          VERDICT: HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST          │
-│ Price: $2.43  |  Downside Floor: $-0.87/sh  |  Fair Value Anchor: $3.17/sh │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 1.1x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Graham NCAV Floor:     -26.7% ($1.78 vs $2.43)               │
+│ • Upside to Intrinsic Fair Value:    +30.5% ($3.17 Target 1)               │
+│ • Catalytic Convergence Target:      +69.5% ($4.12 Target 2)               │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10` (Piotroski 8/9 | Grey-Zone Z 2.52 | Clean Beneish)
-- **Valuation Asymmetry:** `[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10` (29.1% FCF Yield (Deep Value) | Net Debt Position | NCAV 73.3% of Price)
-- **Capital Discipline:**  `[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10` (Share Dilution (+2.8%) | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10` | • **Piotroski:** `8/9`<br>• **Altman Z:** `2.52` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.15` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10` | • **FCF Yield:** `29.1%`<br>• **Net Cash:** `$-0.87/sh` (-35.8% of price)<br>• **Graham NCAV:** `$1.78/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10` | • **1Y Shares:** `+2.8%` (Dilution)<br>• **SBC % OCF:** `9.0%`<br>• **Insiders:** `+$96K` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): CRWS
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-28 -> 2026-06-28`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

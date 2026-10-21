@@ -1,7 +1,7 @@
 # UEIC — Executive Investment Card
 ### UNIVERSAL ELECTRONICS INC
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$5.17` | **Market Cap:** `$66.6M` | **Enterprise Value:** `$34.2M`  
 > **TTM Free Cash Flow Yield:** **`12.4%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #3b2d18; color: #fbbf24; border: 1px solid #f59e0b; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🟡 BENJAMIN GRAHAM NET-NET ARBITRAGE</span></div>
 ```text
-┌───────────────────────────────────────────────────────────────────────────┐
-│                 VERDICT: BENJAMIN GRAHAM NET-NET ARBITRAGE                │
-│ Price: $5.17  |  Downside Floor: $2.51/sh  |  Fair Value Anchor: $9.53/sh │
-└───────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                 VERDICT: BENJAMIN GRAHAM NET-NET ARBITRAGE                 │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.4x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Net Cash Floor:        -51.5% ($2.51 vs $5.17)               │
+│ • Upside to Intrinsic Fair Value:    +19.9% ($6.20 Target 1)               │
+│ • Catalytic Convergence Target:      +84.3% ($9.53 Target 2)               │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10` (Piotroski 8/9 | Grey-Zone Z 2.89 | Clean Beneish)
-- **Valuation Asymmetry:** `[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10` (12.4% FCF Yield | Net Cash 48.5% of Price | Graham Net-Net (< NCAV))
-- **Capital Discipline:**  `[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10` (Share Dilution (+1.6%) | 0 Insider Cluster | Capex Starvation Alert)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10` | • **Piotroski:** `8/9`<br>• **Altman Z:** `2.89` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.36` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10` | • **FCF Yield:** `12.4%`<br>• **Net Cash:** `$2.51/sh` (48.5% of price)<br>• **Graham NCAV:** `$6.20/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10` | • **1Y Shares:** `+1.6%` (Dilution)<br>• **SBC % OCF:** `25.8%`<br>• **Insiders:** `$-2.2M` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): UEIC
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

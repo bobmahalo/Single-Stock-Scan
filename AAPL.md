@@ -1,7 +1,7 @@
 # AAPL — Executive Investment Card
 ### Apple Inc.
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$342.00` | **Market Cap:** `$4,991.21B` | **Enterprise Value:** `$5,011.16B`  
 > **TTM Free Cash Flow Yield:** **`2.7%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #262626; color: #e5e5e5; border: 1px solid #525252; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">⚪ ESTABLISHED OPERATING BUSINESS</span></div>
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                   VERDICT: ESTABLISHED OPERATING BUSINESS                    │
-│ Price: $342.00  |  Downside Floor: $-1.37/sh  |  Fair Value Anchor: $5.23/sh │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                  VERDICT: ESTABLISHED OPERATING BUSINESS                   │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Tangible Book Floor:   -98.5% ($5.23 vs $342.00)             │
+│ • Upside to Intrinsic Fair Value:    +20.0% ($410.40 Target 1)             │
+│ • Catalytic Convergence Target:      +38.0% ($471.96 Target 2)             │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` (Piotroski 8/9 | Safe Z-Score 13.45 | Clean Beneish)
-- **Valuation Asymmetry:** `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` (Net Debt Position)
-- **Capital Discipline:**  `[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10` (Share Repurchases (-2.6%) | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` | • **Piotroski:** `8/9`<br>• **Altman Z:** `13.45` (SAFE (> 2.99))<br>• **Beneish M:** `-2.29` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` | • **FCF Yield:** `2.7%`<br>• **Net Cash:** `$-1.37/sh` (-0.4% of price)<br>• **Graham NCAV:** `$-8.63/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10` | • **1Y Shares:** `-2.6%` (Cannibal Buyback)<br>• **SBC % OCF:** `9.3%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): AAPL
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-27 -> 2026-06-27`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

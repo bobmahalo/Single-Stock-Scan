@@ -1,7 +1,7 @@
 # GLND — Executive Investment Card
 ### Greenland Energy Co
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.19` | **Market Cap:** `$139.5M` | **Enterprise Value:** `$102.1M`  
 > **TTM Free Cash Flow Yield:** `N/A`
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #262626; color: #e5e5e5; border: 1px solid #525252; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">⚪ ESTABLISHED OPERATING BUSINESS</span></div>
 ```text
-┌───────────────────────────────────────────────────────────────────────────┐
-│                  VERDICT: ESTABLISHED OPERATING BUSINESS                  │
-│ Price: $3.19  |  Downside Floor: $0.86/sh  |  Fair Value Anchor: $1.51/sh │
-└───────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                  VERDICT: ESTABLISHED OPERATING BUSINESS                   │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.3x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Net Cash Floor:        -73.0% ($0.86 vs $3.19)               │
+│ • Upside to Intrinsic Fair Value:    +20.1% ($3.83 Target 1)               │
+│ • Catalytic Convergence Target:      +37.9% ($4.40 Target 2)               │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` (Piotroski N/A)
-- **Valuation Asymmetry:** `[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10` (Net Cash 27.0% of Price)
-- **Capital Discipline:**  `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` (0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` | • **Piotroski:** `N/A`<br>• **Altman Z:** `N/A`<br>• **Beneish M:** `N/A` | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10` | • **FCF Yield:** `N/A`<br>• **Net Cash:** `$0.86/sh` (27.0% of price)<br>• **Graham NCAV:** `$0.84/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` | • **1Y Shares:** `N/A`<br>• **SBC % OCF:** `N/A`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): GLND
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-06-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

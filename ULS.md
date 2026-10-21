@@ -1,7 +1,7 @@
 # ULS — Executive Investment Card
 ### UL Solutions Inc.
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$73.13` | **Market Cap:** `$14.70B` | **Enterprise Value:** `$14.57B`  
 > **TTM Free Cash Flow Yield:** **`3.0%`**
 
@@ -13,14 +13,21 @@
 ```text
 ┌────────────────────────────────────────────────────────────────────────────┐
 │                  VERDICT: ESTABLISHED OPERATING BUSINESS                   │
-│ Price: $73.13  |  Downside Floor: $0.66/sh  |  Fair Value Anchor: $4.54/sh │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Net Cash Floor:        -99.1% ($0.66 vs $73.13)              │
+│ • Upside to Intrinsic Fair Value:    +20.0% ($87.76 Target 1)              │
+│ • Catalytic Convergence Target:      +38.0% ($100.92 Target 2)             │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` (Piotroski 7/9 | Safe Z-Score 7.97 | Clean Beneish)
-- **Valuation Asymmetry:** `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` (Modest Asymmetry Cushion)
-- **Capital Discipline:**  `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` (Stable Share Count | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` | • **Piotroski:** `7/9`<br>• **Altman Z:** `7.97` (SAFE (> 2.99))<br>• **Beneish M:** `-2.80` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` | • **FCF Yield:** `3.0%`<br>• **Net Cash:** `$0.66/sh` (0.9% of price)<br>• **Graham NCAV:** `$-1.32/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` | • **1Y Shares:** `+1.0%` (Dilution)<br>• **SBC % OCF:** `9.3%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): ULS
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

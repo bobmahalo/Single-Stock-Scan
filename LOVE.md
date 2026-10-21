@@ -1,7 +1,7 @@
 # LOVE — Executive Investment Card
 ### Lovesac Co
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$14.75` | **Market Cap:** `$212.7M` | **Enterprise Value:** `$235.9M`  
 > **TTM Free Cash Flow Yield:** **`21.3%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #1e293b; color: #38bdf8; border: 1px solid #0284c7; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🔵 HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST</span></div>
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│           VERDICT: HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST           │
-│ Price: $14.75  |  Downside Floor: $-1.61/sh  |  Fair Value Anchor: $14.36/sh │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│          VERDICT: HIGH-YIELD MICRO-TURNAROUND & ACTIVIST CATALYST          │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 13.2x : 1.0 (Reward-to-Risk)                    │
+│ • Downside to Tangible Book Floor:   -2.6% ($14.36 vs $14.75)              │
+│ • Upside to Intrinsic Fair Value:    +35.0% ($19.91 Target 1)              │
+│ • Catalytic Convergence Target:      +75.5% ($25.88 Target 2)              │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` (Piotroski 7/9 | Grey-Zone Z 2.03 | Clean Beneish)
-- **Valuation Asymmetry:** `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` (21.3% FCF Yield (Deep Value) | Net Debt Position)
-- **Capital Discipline:**  `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` (Aggressive Cannibal (-12.5%) | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` | • **Piotroski:** `7/9`<br>• **Altman Z:** `2.03` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.09` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` | • **FCF Yield:** `21.3%`<br>• **Net Cash:** `$-1.61/sh` (-10.9% of price)<br>• **Graham NCAV:** `$-6.25/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` | • **1Y Shares:** `-12.5%` (Cannibal Buyback)<br>• **SBC % OCF:** `6.1%`<br>• **Insiders:** `+$423K` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): LOVE
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-02 -> 2026-08-02`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

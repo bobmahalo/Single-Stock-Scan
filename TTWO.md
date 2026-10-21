@@ -1,7 +1,7 @@
 # TTWO — Executive Investment Card
 ### TAKE TWO INTERACTIVE SOFTWARE INC
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$205.46` | **Market Cap:** `$38.42B` | **Enterprise Value:** `$39.11B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #3f1d24; color: #f87171; border: 1px solid #ef4444; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🔴 QUARANTINED / ACCOUNTING MIRAGE RISK</span></div>
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                VERDICT: QUARANTINED / ACCOUNTING MIRAGE RISK                 │
-│ Price: $205.46  |  Downside Floor: $-3.71/sh  |  Fair Value Anchor: $5.64/sh │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│               VERDICT: QUARANTINED / ACCOUNTING MIRAGE RISK                │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Tangible Book Floor:   -97.3% ($5.64 vs $205.46)             │
+│ • Upside to Intrinsic Fair Value:    +20.0% ($246.55 Target 1)             │
+│ • Catalytic Convergence Target:      +38.0% ($283.53 Target 2)             │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` (Piotroski 7/9 | Safe Z-Score 3.79 | Clean Beneish)
-- **Valuation Asymmetry:** `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` (Net Debt Position)
-- **Capital Discipline:**  `[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10` (Share Dilution (+5.0%) | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` | • **Piotroski:** `7/9`<br>• **Altman Z:** `3.79` (SAFE (> 2.99))<br>• **Beneish M:** `-2.90` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` | • **FCF Yield:** `0.9%`<br>• **Net Cash:** `$-3.71/sh` (-1.8% of price)<br>• **Graham NCAV:** `$-13.36/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10` | • **1Y Shares:** `+5.0%` (Dilution)<br>• **SBC % OCF:** `70.1%`<br>• **Insiders:** `$-164.6M` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): TTWO
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

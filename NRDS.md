@@ -1,7 +1,7 @@
 # NRDS — Executive Investment Card
 ### NERDWALLET, INC.
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$10.03` | **Market Cap:** `$640.7M` | **Enterprise Value:** `$578.7M`  
 > **TTM Free Cash Flow Yield:** **`25.5%`**
 
@@ -13,14 +13,21 @@
 ```text
 ┌────────────────────────────────────────────────────────────────────────────┐
 │               VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                │
-│ Price: $10.03  |  Downside Floor: $0.97/sh  |  Fair Value Anchor: $2.67/sh │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.3x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Net Cash Floor:        -90.3% ($0.97 vs $10.03)              │
+│ • Upside to Intrinsic Fair Value:    +30.0% ($13.04 Target 1)              │
+│ • Catalytic Convergence Target:      +65.0% ($16.55 Target 2)              │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩]  10/10` (Piotroski 9/9 | Safe Z-Score 6.43 | Clean Beneish)
-- **Valuation Asymmetry:** `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` (25.5% FCF Yield (Deep Value))
-- **Capital Discipline:**  `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` (Share Repurchases (-3.8%) | 0 Insider Cluster | Capex Starvation Alert)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩]  10/10` | • **Piotroski:** `9/9`<br>• **Altman Z:** `6.43` (SAFE (> 2.99))<br>• **Beneish M:** `-3.29` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` | • **FCF Yield:** `25.5%`<br>• **Net Cash:** `$0.97/sh` (9.7% of price)<br>• **Graham NCAV:** `$1.71/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` | • **1Y Shares:** `-3.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `16.8%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): NRDS
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

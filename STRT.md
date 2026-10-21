@@ -1,7 +1,7 @@
 # STRT — Executive Investment Card
 ### STRATTEC SECURITY CORP
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$61.98` | **Market Cap:** `$247.0M` | **Enterprise Value:** `$138.7M`  
 > **TTM Free Cash Flow Yield:** **`15.8%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #1e3a29; color: #4ade80; border: 1px solid #22c55e; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🟢 CORE STRUCTURAL OPERATING COMPOUNDER</span></div>
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                 │
-│ Price: $61.98  |  Downside Floor: $27.16/sh  |  Fair Value Anchor: $59.88/sh │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│               VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.5x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Net Cash Floor:        -56.2% ($27.16 vs $61.98)             │
+│ • Upside to Intrinsic Fair Value:    +30.0% ($80.57 Target 1)              │
+│ • Catalytic Convergence Target:      +65.0% ($102.27 Target 2)             │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩]  10/10` (Piotroski 9/9 | Safe Z-Score 4.58 | Clean Beneish)
-- **Valuation Asymmetry:** `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` (15.8% FCF Yield | Net Cash 43.8% of Price | NCAV 70.6% of Price)
-- **Capital Discipline:**  `[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10` (Share Dilution (+1.1%) | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩]  10/10` | • **Piotroski:** `9/9`<br>• **Altman Z:** `4.58` (SAFE (> 2.99))<br>• **Beneish M:** `-2.87` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` | • **FCF Yield:** `15.8%`<br>• **Net Cash:** `$27.16/sh` (43.8% of price)<br>• **Graham NCAV:** `$43.74/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10` | • **1Y Shares:** `+1.1%` (Dilution)<br>• **SBC % OCF:** `7.1%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): STRT
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-28 -> 2026-06-28`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

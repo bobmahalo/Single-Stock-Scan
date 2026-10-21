@@ -1,7 +1,7 @@
 # DOW — Executive Investment Card
 ### DOW INC.
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$30.07` | **Market Cap:** `$21.67B` | **Enterprise Value:** `$34.67B`  
 > **TTM Free Cash Flow Yield:** **`-1.1%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #262626; color: #e5e5e5; border: 1px solid #525252; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">⚪ ESTABLISHED OPERATING BUSINESS</span></div>
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                   VERDICT: ESTABLISHED OPERATING BUSINESS                    │
-│ Price: $30.07  |  Downside Floor: $-18.03/sh  |  Fair Value Anchor: $8.15/sh │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                  VERDICT: ESTABLISHED OPERATING BUSINESS                   │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.3x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Tangible Book Floor:   -72.9% ($8.15 vs $30.07)              │
+│ • Upside to Intrinsic Fair Value:    +20.0% ($36.08 Target 1)              │
+│ • Catalytic Convergence Target:      +38.0% ($41.49 Target 2)              │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` (Piotroski 3/9 | Clean Beneish)
-- **Valuation Asymmetry:** `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` (Negative FCF | Net Debt Position)
-- **Capital Discipline:**  `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` (Stable Share Count | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` | • **Piotroski:** `3/9`<br>• **Altman Z:** `N/A`<br>• **Beneish M:** `-2.40` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` | • **FCF Yield:** `-1.1%`<br>• **Net Cash:** `$-18.03/sh` (-60.0% of price)<br>• **Graham NCAV:** `$-34.77/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` | • **1Y Shares:** `+0.9%` (Stable)<br>• **SBC % OCF:** `N/A`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): DOW
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-06-30 -> 2026-03-31`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.

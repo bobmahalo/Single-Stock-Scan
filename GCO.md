@@ -1,7 +1,7 @@
 # GCO — Executive Investment Card
 ### GENESCO INC
 
-> **Generated:** `2026-10-21 02:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 12:48 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$37.42` | **Market Cap:** `$404.9M` | **Enterprise Value:** `$363.6M`  
 > **TTM Free Cash Flow Yield:** **`18.2%`**
 
@@ -11,16 +11,23 @@
 
 <div style="margin-bottom: 12px;"><span style="background-color: #1e3a29; color: #4ade80; border: 1px solid #22c55e; padding: 4px 12px; border-radius: 9999px; font-weight: 700; font-size: 0.9em; letter-spacing: 0.05em; display: inline-block;">🟢 CORE STRUCTURAL OPERATING COMPOUNDER</span></div>
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                │
-│ Price: $37.42  |  Downside Floor: $3.82/sh  |  Fair Value Anchor: $48.12/sh │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│               VERDICT: CORE STRUCTURAL OPERATING COMPOUNDER                │
+├────────────────────────────────────────────────────────────────────────────┤
+│ ASYMMETRIC PAYOFF PROFILE: 0.3x : 1.0 (Reward-to-Risk)                     │
+│ • Downside to Net Cash Floor:        -89.8% ($3.82 vs $37.42)              │
+│ • Upside to Intrinsic Fair Value:    +30.0% ($48.65 Target 1)              │
+│ • Catalytic Convergence Target:      +65.0% ($61.74 Target 2)              │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 📊 3-PILLAR CONVERGENCE RADAR
-- **Financial Health:**    `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` (Piotroski 7/9 | Grey-Zone Z 2.41 | Clean Beneish)
-- **Valuation Asymmetry:** `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` (18.2% FCF Yield | Net Cash 10.2% of Price)
-- **Capital Discipline:**  `[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10` (Share Repurchases (-2.0%) | 0 Insider Cluster | Maintained Capex)
+### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
+
+| Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
+| :--- | :---: | :--- | :--- |
+| **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10` | • **Piotroski:** `7/9`<br>• **Altman Z:** `2.41` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.04` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
+| **💎 Valuation Asymmetry:** | `[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10` | • **FCF Yield:** `18.2%`<br>• **Net Cash:** `$3.82/sh` (10.2% of price)<br>• **Graham NCAV:** `$-25.04/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10` | • **1Y Shares:** `-2.0%` (Cannibal Buyback)<br>• **SBC % OCF:** `8.9%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -198,7 +205,7 @@
 
 # Single Stock Report (SSR v1): GCO
 
-- **Generated:** `2026-10-21 02:36 UTC`
+- **Generated:** `2026-10-21 12:48 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-11-01 -> 2026-08-01`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
