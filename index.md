@@ -17,6 +17,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [GME Report](GME.html)
 - [IZEA Report](IZEA.html)
 - [LOVE Report](LOVE.html)
+- [MU Report](MU.html)
 - [NRDS Report](NRDS.html)
 - [OKLO Report](OKLO.html)
 - [PYPL Report](PYPL.html)
