@@ -1,8 +1,8 @@
 # TTWO — Executive Investment Card
 ### TAKE TWO INTERACTIVE SOFTWARE INC
 
-> **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
-> **Current Price:** `$205.46` | **Market Cap:** `$38.42B` | **Enterprise Value:** `$39.11B`  
+> **Generated:** `2026-10-21 16:30 UTC` | **CIK:** `N/A`  
+> **Current Price:** `$205.93` | **Market Cap:** `$38.50B` | **Enterprise Value:** `$39.20B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`**
 
 ---
@@ -15,9 +15,9 @@
 │                VERDICT: QUARANTINED / ACCOUNTING MIRAGE RISK                 │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Unfavorable Skew <1.0x)*              │
-│ • Downside to Tangible Book Floor:   -97.3% ($5.64 vs $205.46)*              │
-│ • Upside to Intrinsic Fair Value:    +20.0% ($246.55 Target 1)               │
-│ • Catalytic Convergence Target:      +38.0% ($283.53 Target 2)               │
+│ • Downside to Tangible Book Floor:   -97.3% ($5.64 vs $205.93)*              │
+│ • Upside to Intrinsic Fair Value:    +20.0% ($247.12 Target 1)               │
+│ • Catalytic Convergence Target:      +38.0% ($284.19 Target 2)               │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -68,12 +68,12 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$205.46** | `100.0%` | Baseline entry quote |
+| **Current Market Price** | **$205.93** | `100.0%` | Baseline entry quote |
 | **Net Cash Floor (Ex-Debt)** | **$-3.71/sh** | `-1.8%` | Net debt obligations exceed cash |
 | **Graham NCAV Floor** | **$-13.36/sh** | `-6.5%` | Negative net current asset value |
 | **Tangible Book Value** | **$5.64/sh** | `2.7%` | Hard physical net worth covers 2.7% of price |
 | **Zero-Growth DCF Floor** | **$16.89** | `8.2%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$191.68 – $264.64** | `3th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
+| **5-Year Price Corridor** | **$191.68 – $264.64** | `4th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details>
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -96,9 +96,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$205.46** | $333.30 (33.3%) | 1 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$193.13** | $333.30 (33.3%) | 1 | -6.0% Support Retest (Patient Accumulation Limit) |
-| **T3** | `LIMIT` | **$179.78** | $333.40 (33.3%) | 1 | -12.5% Capitulation Wick / Liquidity Flush (Panic Bid Limit) |
+| **T1** | `MARKET` | **$205.93** | $333.30 (33.3%) | 1 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$193.57** | $333.30 (33.3%) | 1 | -6.0% Support Retest (Patient Accumulation Limit) |
+| **T3** | `LIMIT` | **$180.19** | $333.40 (33.3%) | 1 | -12.5% Capitulation Wick / Liquidity Flush (Panic Bid Limit) |
 
 <details>
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -118,9 +118,9 @@
 
 ### C. Deterministic Exit & Take-Profit Targets
 
-- **Target 1 (Lock in Capital):** **$246.55** (`+20.0%` upside) — Tangible Book Recovery Target (Exit 75% Position)
-- **Target 2 (Full Fair Value):** **$283.53** (`+38.0%` upside) — Speculative Liquidation Cleanout (Exit 100%)
-- **Safety Stop Loss:** **$174.64** — Liquidation Burn Trap Stop (-15% threshold)
+- **Target 1 (Lock in Capital):** **$247.12** (`+20.0%` upside) — Tangible Book Recovery Target (Exit 75% Position)
+- **Target 2 (Full Fair Value):** **$284.19** (`+38.0%` upside) — Speculative Liquidation Cleanout (Exit 100%)
+- **Safety Stop Loss:** **$175.04** — Liquidation Burn Trap Stop (-15% threshold)
 - **Frenzy Exit Trigger:** Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation.
 
 <details>
@@ -208,20 +208,20 @@
 </details>
 
 ### 4. 5-Year Historical Valuation Corridor & Multiple Mean Reversion
-- **5-Year Price Corridor:** **`$191.68 – $264.64`** | `[$191.68 ─●────────────────── $264.64] (3th %-tile)`
+- **5-Year Price Corridor:** **`$191.68 – $264.64`** | `[$191.68 ─●────────────────── $264.64] (4th %-tile)`
 - **52-Week Price Range:** `$191.68 – $228.73` | **Cycle Regime:** `💎 Deep Cycle Bottom (Bottom Quintile)`
-- **Primary Valuation Multiple:** **`81.9x`** P/FCF vs. 5-Year Median `80.4x` (`57th %-tile` — ⚖️ Historical Fair Value)
+- **Primary Valuation Multiple:** **`82.1x`** P/FCF vs. 5-Year Median `80.4x` (`61th %-tile` — ⚖️ Historical Fair Value)
 
 <details>
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`81.9x`** | `32.3x – 80.4x – 86.3x` | `57%` | **$201.76** | `-1.8%` | ⚖️ Historical Fair Value |
-| **P/TBV** | **`15.4x`** | `8.5x – 16.3x – 36.4x` | `32%` | **$216.51** | `+5.4%` | ⚖️ Historical Fair Value |
-| **P/S** | **`5.7x`** | `5.5x – 7.0x – 8.7x` | `3%` | **$254.39** | `+23.8%` | 💎 Deep Value Compression |
+| **P/FCF** | **`82.1x`** | `32.3x – 80.4x – 86.3x` | `61%` | **$201.76** | `-2.0%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`15.5x`** | `8.5x – 16.3x – 36.4x` | `33%` | **$216.51** | `+5.1%` | ⚖️ Historical Fair Value |
+| **P/S** | **`5.7x`** | `5.5x – 7.0x – 8.7x` | `4%` | **$254.39** | `+23.5%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** TTWO trades at `81.9x` P/FCF (57th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `80.4x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** TTWO trades at `82.1x` P/FCF (61th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `80.4x`).
 
 </details>
 
@@ -246,7 +246,7 @@
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **TTWO** (TAKE TWO INTERACTIVE S..) | `[Subject Firm]` | **$38.4B** | **0.9%** | **-$3.71** | **7/9** | **3.79 (Safe)** |
+| **TTWO** (TAKE TWO INTERACTIVE S..) | `[Subject Firm]` | **$38.5B** | **0.9%** | **-$3.71** | **7/9** | **3.79 (Safe)** |
 | **MSFT** (MICROSOFT CORP) | `[Industry Leader: 104x larger]` | $4,005.6B | 1.7% | +$4.92 | 6/9 | 9.39 (Safe) |
 | **PLTR** (Palantir Technologies ..) | `[Industry Leader: 13x larger]` | $481.8B | 0.7% | +$3.92 | 8/9 | 163.22 (Safe) |
 | **ORCL** (ORACLE CORP) | `[Industry Leader: 11x larger]` | $406.6B | -7.1% | -$30.72 | 5/9 | 1.55 (Distress) |
@@ -271,9 +271,9 @@
 </details>
 
 ### 7. Volume & Social Quiet (Silent Accumulation Zone)
-- **Silent Accumulation Status:** `PASS`
-- **30-Day Volume / 90-Day Average:** `1.0x` normal volume
-- **Signal Detail:** Normal trading activity in silent accumulation zone.
+- **Silent Accumulation Status:** `PASS (Silent Accumulation Bonus +1)`
+- **30-Day Volume / 90-Day Average:** `0.94x` normal volume
+- **Signal Detail:** Volume is dry and quiet (0.94x 90d avg). Zero retail mania.
 
 <details>
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -298,7 +298,7 @@
 
 # Single Stock Report (SSR v1): TTWO
 
-- **Generated:** `2026-10-21 16:07 UTC`
+- **Generated:** `2026-10-21 16:30 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
@@ -513,7 +513,7 @@
 | **ROCE Pct** | 10.66% | -9.70% | -36.60% | -78.91% | -1.53% | -2.57% |
 | **ROIC Pct** | 33.83% | -8.29% | -35.57% | -80.05% | -2.04% | -2.96% |
 | **Total Shareholder Return USD** | $180.3M | $-65.4M | $-39.4M | $-77.3M | $-1,247.5M | $-59.7M |
-| **Shareholder Yield Pct** | 0.47% | -0.17% | -0.10% | -0.20% | -3.25% | -0.16% |
+| **Shareholder Yield Pct** | 0.47% | -0.17% | -0.10% | -0.20% | -3.24% | -0.16% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
@@ -542,7 +542,7 @@
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **0.88%** | **-0.83%** | **2.74%** | **17.41%** | **-0.41%** | **0.86%** |
+| **0.88%** | **-0.83%** | **2.74%** | **17.37%** | **-0.41%** | **0.86%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
@@ -552,7 +552,7 @@
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $337.5M | $39,110.1M | `+32.01%` | **`$16.89`** |
+| $337.5M | $39,198.0M | `+32.05%` | **`$16.89`** |
 
 ---
 
