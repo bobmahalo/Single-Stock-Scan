@@ -1,7 +1,7 @@
 # ULS — Executive Investment Card
 ### UL Solutions Inc.
 
-> **Generated:** `2026-10-21 12:59 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-21 13:32 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$73.13` | **Market Cap:** `$14.70B` | **Enterprise Value:** `$14.57B`  
 > **TTM Free Cash Flow Yield:** **`3.0%`**
 
@@ -14,12 +14,25 @@
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                   VERDICT: ESTABLISHED OPERATING BUSINESS                    │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Reward-to-Risk)                       │
-│ • Downside to Net Cash Floor:        -99.1% ($0.66 vs $73.13)                │
+│ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Unfavorable Skew <1.0x)*              │
+│ • Downside to Net Cash Floor:        -99.1% ($0.66 vs $73.13)*               │
 │ • Upside to Intrinsic Fair Value:    +20.0% ($87.76 Target 1)                │
 │ • Catalytic Convergence Target:      +38.0% ($100.92 Target 2)               │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
+
+<details>
+<summary>💡 <b>[*] What does Asymmetry ($R\text{x} : 1.0$) and Downside Floor mean?</b></summary>
+
+> **The Forensic Reward-to-Risk Expectancy Hurdle:**
+> - **Cold Expectancy Arithmetic:** Measures potential capital upside to Intrinsic Target 1 versus maximum loss to the fundamental downside floor.
+> - **💎 High Asymmetry ($\ge 2.5\text{x}$):** Upside is at least $2.5\text{x}$ greater than liquidation downside. Favorable long-term risk posture.
+> - **⚖️ Moderate Asymmetry ($1.0\text{x} - 2.5\text{x}$):** Upside exceeds liquidation risk, but disciplined position sizing is required.
+> - **⚠️ Unfavorable Skew ($< 1.0\text{x}$):** Downside to the hard liquidation floor exceeds upside to Target 1. For asset-light operating compounders with high ROIC, downside protection comes from stable operating franchise earnings rather than liquidation floors.
+> - **N/A (No Hard Balance-Sheet Floor):** When a company holds net debt and negative tangible equity from aggressive share repurchases, balance-sheet liquidation models yield no positive floor. Valuation relies on structural operating cash flow stability rather than liquidation cushions.
+> - **🚨 Audit Check (Spot < Cash Floor):** Flagged whenever market price trades at or below net cash per share to ensure unpopulated or delayed XBRL debt disclosures in SEC filings are verified in the audit vault before capital deployment.
+
+</details>
 
 ### 📊 3-PILLAR CONVERGENCE RADAR & FACTOR SCORECARD
 
@@ -28,6 +41,16 @@
 | **🛡️ Financial Health:** | `[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10` | • **Piotroski:** `7/9`<br>• **Altman Z:** `7.97` (SAFE (> 2.99))<br>• **Beneish M:** `-2.80` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski $\ge 7$<br>• Altman $Z \ge 3.0$ (Safe Zone)<br>• Beneish $M < -1.78$ (Clean) |
 | **💎 Valuation Asymmetry:** | `[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10` | • **FCF Yield:** `3.0%`<br>• **Net Cash:** `$0.66/sh` (0.9% of price)<br>• **Graham NCAV:** `$-1.32/sh` | • FCF Yield $\ge 10.0\%$<br>• Net Cash $> \$0$ (Ex-Debt)<br>• Price $\le$ NCAV (Net-Net) |
 | **🏛️ Capital Discipline:** | `[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10` | • **1Y Shares:** `+1.0%` (Dilution)<br>• **SBC % OCF:** `9.3%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks $\le 0.0\%$ Dilution<br>• $\text{SBC} \le 30.0\%$ of OCF<br>• C-Suite Cluster Buying |
+
+<details>
+<summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
+
+> **Forensic Audit & Red Flag Disciplines:**
+> - **⚠️ Dilutive Burn (OCF $\le \$0$):** When operating cash flow is negative or zero, stock-based compensation cannot be evaluated as an operating expense ratio. It is a pure dilution drain subsidizing payroll with shareholder equity.
+> - **⚠️ Bank/REIT Structure:** Altman Z and Piotroski F scores were calibrated for industrial manufacturing firms. Financial institutions and REITs operate with high structural balance sheet leverage and debt liabilities by design; applying standard manufacturing distress formulas produces false insolvency signals.
+> - **Beneish M-Score ($< -1.78$ Clean):** A mathematical forensic index tracking aggressive accruals, asset quality, and revenue inflation to flag earnings manipulation.
+
+</details>
 
 <details>
 <summary>💡 <b>What does this category archetype mean? (The Munger / Graham Allocation Rules)</b></summary>
@@ -205,7 +228,7 @@
 
 # Single Stock Report (SSR v1): ULS
 
-- **Generated:** `2026-10-21 12:59 UTC`
+- **Generated:** `2026-10-21 13:32 UTC`
 - **TTM Window (4 Discrete Quarters):** `2025-09-30 -> 2026-06-30`
 - **Display Units:** USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`.
 - **Cell Codes:** `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) | `NR` = Not Reported in SEC XBRL | `NA` = Mathematically Not Applicable.
