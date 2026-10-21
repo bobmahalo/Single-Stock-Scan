@@ -2,7 +2,10 @@
 Welcome to the central hub for all deep-dive stock scans.
 
 ### Available Reports:
+- [AAPL Report](AAPL.html)
+- [AKAM Report](AKAM.html)
 - [BB Report](BB.html)
+- [CAT Report](CAT.html)
 - [CRON Report](CRON.html)
 - [CRUS Report](CRUS.html)
 - [CRWS Report](CRWS.html)
@@ -15,9 +18,11 @@ Welcome to the central hub for all deep-dive stock scans.
 - [IZEA Report](IZEA.html)
 - [LOVE Report](LOVE.html)
 - [NRDS Report](NRDS.html)
+- [OKLO Report](OKLO.html)
 - [PYPL Report](PYPL.html)
 - [RR Report](RR.html)
 - [SBH Report](SBH.html)
+- [SCHW Report](SCHW.html)
 - [STRT Report](STRT.html)
 - [TTWO Report](TTWO.html)
 - [UEIC Report](UEIC.html)
