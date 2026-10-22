@@ -1,6 +1,8 @@
 # 🗂️ Antigravity: Single Stock Reports Directory
 Welcome to the central hub for all deep-dive stock scans.
 
+> **🏛️ True Stock Ownership & Custody Education:** Holding shares in broker "Street Name" means you only hold a beneficial entitlement while Cede & Co. holds legal title. Learn how Direct Registration (DRS) protects your shares from broker insolvency and short-lending at **[WhyDRS.org](https://www.whydrs.org)** ([Advocacy](https://www.whydrs.org/advocacy) | [Free Resources](https://www.whydrs.org/free-resources)).
+
 ### Available Reports:
 - [AAPL Report](AAPL.html)
 - [AKAM Report](AKAM.html)
