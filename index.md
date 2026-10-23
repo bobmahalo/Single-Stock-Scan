@@ -30,6 +30,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [MU Report](MU.html)
 - [NRDS Report](NRDS.html)
 - [OKLO Report](OKLO.html)
+- [PCRX Report](PCRX.html)
 - [PYPL Report](PYPL.html)
 - [RR Report](RR.html)
 - [SBH Report](SBH.html)
