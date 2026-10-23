@@ -23,6 +23,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [GCO Report](GCO.html)
 - [GLND Report](GLND.html)
 - [GME Report](GME.html)
+- [HOG Report](HOG.html)
 - [IZEA Report](IZEA.html)
 - [LOVE Report](LOVE.html)
 - [MU Report](MU.html)
