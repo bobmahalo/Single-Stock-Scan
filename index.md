@@ -26,6 +26,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [HOG Report](HOG.html)
 - [IZEA Report](IZEA.html)
 - [LOVE Report](LOVE.html)
+- [MMS Report](MMS.html)
 - [MU Report](MU.html)
 - [NRDS Report](NRDS.html)
 - [OKLO Report](OKLO.html)
