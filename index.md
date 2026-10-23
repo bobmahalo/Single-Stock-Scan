@@ -19,6 +19,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [CULP Report](CULP.html)
 - [DLTH Report](DLTH.html)
 - [DOW Report](DOW.html)
+- [EXE Report](EXE.html)
 - [GCO Report](GCO.html)
 - [GLND Report](GLND.html)
 - [GME Report](GME.html)
