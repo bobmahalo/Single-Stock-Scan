@@ -35,6 +35,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [RR Report](RR.html)
 - [SBH Report](SBH.html)
 - [SCHW Report](SCHW.html)
+- [SND Report](SND.html)
 - [STRT Report](STRT.html)
 - [TTWO Report](TTWO.html)
 - [UEIC Report](UEIC.html)
