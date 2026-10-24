@@ -1,6 +1,8 @@
 # PCRX — Executive Investment Card
 ### Pacira BioSciences, Inc.
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-23 16:00 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$36.35` | **Market Cap:** `$1.45B` | **Enterprise Value:** `$1.56B`  
 > **TTM Free Cash Flow Yield:** **`12.4%`**

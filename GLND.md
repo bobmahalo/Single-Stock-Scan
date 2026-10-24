@@ -1,6 +1,8 @@
 # GLND — Executive Investment Card
 ### Greenland Energy Co
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.19` | **Market Cap:** `$139.5M` | **Enterprise Value:** `$102.1M`  
 > **TTM Free Cash Flow Yield:** `N/A`

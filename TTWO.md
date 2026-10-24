@@ -1,6 +1,8 @@
 # TTWO — Executive Investment Card
 ### TAKE TWO INTERACTIVE SOFTWARE INC
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:30 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$205.93` | **Market Cap:** `$38.50B` | **Enterprise Value:** `$39.20B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`**

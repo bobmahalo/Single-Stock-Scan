@@ -1,6 +1,8 @@
 # CRON — Executive Investment Card
 ### Cronos Group Inc.
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.20` | **Market Cap:** `$1.18B` | **Enterprise Value:** `$381.9M`  
 > **TTM Free Cash Flow Yield:** **`4.2%`**

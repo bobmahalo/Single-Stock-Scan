@@ -1,6 +1,8 @@
 # CULP — Executive Investment Card
 ### CULP INC
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.82` | **Market Cap:** `$48.6M` | **Enterprise Value:** `$48.2M`  
 > **TTM Free Cash Flow Yield:** **`-2.7%`**

@@ -1,6 +1,8 @@
 # CRUS — Executive Investment Card
 ### CIRRUS LOGIC, INC.
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:30 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$110.31` | **Market Cap:** `$5.53B` | **Enterprise Value:** `$4.64B`  
 > **TTM Free Cash Flow Yield:** **`10.3%`**

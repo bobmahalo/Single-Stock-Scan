@@ -1,6 +1,8 @@
 # SND — Executive Investment Card
 ### Smart Sand, Inc.
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-23 16:00 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$4.86` | **Market Cap:** `$206.1M` | **Enterprise Value:** `$210.5M`  
 > **TTM Free Cash Flow Yield:** **`16.8%`**

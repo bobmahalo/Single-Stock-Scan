@@ -1,6 +1,8 @@
 # STRT — Executive Investment Card
 ### STRATTEC SECURITY CORP
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:07 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$61.98` | **Market Cap:** `$247.0M` | **Enterprise Value:** `$138.7M`  
 > **TTM Free Cash Flow Yield:** **`15.8%`**

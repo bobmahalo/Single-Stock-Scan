@@ -1,6 +1,8 @@
 # GME — Executive Investment Card
 ### GameStop Corp.
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:29 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$26.80` | **Market Cap:** `$13.52B` | **Enterprise Value:** `$12.63B`  
 > **TTM Free Cash Flow Yield:** **`5.1%`**

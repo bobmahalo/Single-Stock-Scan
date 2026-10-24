@@ -1,6 +1,8 @@
 # OKLO — Executive Investment Card
 ### Oklo Inc.
 
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+
 > **Generated:** `2026-10-21 16:30 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$27.81` | **Market Cap:** `$5.17B` | **Enterprise Value:** `$2.71B`  
 > **TTM Free Cash Flow Yield:** **`-5.3%`**
