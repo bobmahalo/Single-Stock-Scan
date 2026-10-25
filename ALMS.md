@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$6.78` | **Market Cap:** `$865.7M` | **Enterprise Value:** `$399.9M`  
 > **TTM Free Cash Flow Yield:** **`-40.6%`** (SBC-Adjusted: **`-45.8%`**)
 
@@ -335,7 +335,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -359,8 +359,8 @@
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| **FY 2025** | `2026-03-19` | `0001847367-26-000006` | **47** | `NR` | ``NR`` | Holders of Common Stock As of March 12, 2026, there were 47 stockholders of record of our voting common stock and 2 stockholders of our non-voting common stock. |
-| **FY 2024** | `2025-03-19` | `0001847367-25-000012` | **67** | `NR` | ``NR`` | Holders of Common Stock As of March 12, 2025, there were 67 stockholders of record of our voting common stock and 2 stockholders of our non-voting common stock. |
+| **FY 2025** | `2026-03-19` | `0001847367-26-000006` | **47** | `NR` | `NR` | Holders of Common Stock As of March 12, 2026, there were 47 stockholders of record of our voting common stock and 2 stockholders of our non-voting common stock. |
+| **FY 2024** | `2025-03-19` | `0001847367-25-000012` | **67** | `NR` | `NR` | Holders of Common Stock As of March 12, 2025, there were 67 stockholders of record of our voting common stock and 2 stockholders of our non-voting common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
@@ -612,7 +612,7 @@
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $-351.8M | $399.9M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| -$351.8M | $399.9M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 

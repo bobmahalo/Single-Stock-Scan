@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$74.86` | **Market Cap:** `$15.05B` | **Enterprise Value:** `$15.09B`  
 > **TTM Free Cash Flow Yield:** **`2.9%`** (SBC-Adjusted: **`2.5%`**)
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -364,8 +364,8 @@
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| **FY 2025** | `2026-02-19` | `0001901440-26-000005` | **`NR`** | 200.00M | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2024** | `2025-02-20` | `0001901440-25-000012` | **`NR`** | 200.00M | ``NR`` | NR (Not disclosed or held via street name) |
+| **FY 2025** | `2026-02-19` | `0001901440-26-000005` | **`NR`** | 200.00M | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2024** | `2025-02-20` | `0001901440-25-000012` | **`NR`** | 200.00M | `NR` | NR (Not disclosed or held via street name) |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |

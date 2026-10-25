@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.82` | **Market Cap:** `$48.6M` | **Enterprise Value:** `$49.9M`  
 > **TTM Free Cash Flow Yield:** **`-2.7%`** (SBC-Adjusted: **`-4.0%`**)
 
@@ -335,7 +335,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -595,7 +595,7 @@ _No 10-K Item 5 record holder history loaded._
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $-1.3M | $49.9M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| -$1.3M | $49.9M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 

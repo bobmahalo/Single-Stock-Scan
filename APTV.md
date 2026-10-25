@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$42.21` | **Market Cap:** `$8.76B` | **Enterprise Value:** `$13.69B`  
 > **TTM Free Cash Flow Yield:** **`7.8%`** (SBC-Adjusted: **`6.4%`**)
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -364,8 +364,8 @@
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| **FY 2025** | `2026-02-06` | `0001521332-26-000009` | **`NR`** | 212.75M | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2024** | `2025-02-07` | `0001521332-25-000010` | **`NR`** | 229.45M | ``NR`` | NR (Not disclosed or held via street name) |
+| **FY 2025** | `2026-02-06` | `0001521332-26-000009` | **`NR`** | 212.75M | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2024** | `2025-02-07` | `0001521332-25-000010` | **`NR`** | 229.45M | `NR` | NR (Not disclosed or held via street name) |
 | **FY 2023** | `2024-02-06` | `0001521332-24-000011` | **2** | 279.04M | `0.01` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES The Company’s ordinary shares are publicly traded on the New York Stock Exchange under the symbol “APTV.” As of February 2, 2024, there were 2 shareholders of record of our ordinary shares. |
 | **FY 2022** | `2023-02-08` | `0001521332-23-000013` | **2** | 270.95M | `0.01` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES The Company’s ordinary shares are publicly traded on the New York Stock Exchange under the symbol “APTV.” As of February 3, 2023, there were 2 shareholders of record of our ordinary shares. |
 | **FY 2021** | `2022-02-07` | `0001521332-22-000010` | **2** | 270.51M | `0.01` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Our ordinary shares have been publicly traded since November 17, 2011 when our ordinary shares were listed and began trading on the New York Stock Exchange (“NYSE”) under the symbol “DLPH.” On December 4, 2017, following the spin-off of Delphi Technologies, the Company changed its name to Aptiv PLC and its NYSE symbol to “APTV.” As of January 28, 2022, there were 2 shareholders of record of our ordinary shares. |

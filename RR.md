@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$1.25` | **Market Cap:** `$280.4M` | **Enterprise Value:** `$-58.3M`  
 > **TTM Free Cash Flow Yield:** **`-10.4%`** (SBC-Adjusted: **`-13.7%`**)
 
@@ -336,7 +336,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -360,8 +360,8 @@
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| **FY 2025** | `2026-01-20` | `0001213900-26-005343` | **9** | `NR` | ``NR`` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our Class B common stock trades on the Nasdaq Stock Market under the symbol “RR.” Holders of Record As of January 9, 2025, we had approximately 9 holders of record of our Class A common stock and 37 holders of record of our Class B common stock. |
-| **FY 2024** | `2025-01-14` | `0001213900-25-003458` | **3** | `NR` | ``NR`` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our Class B common stock trades on the Nasdaq Stock Market under the symbol “RR.” Holders of Record As of January 10, 2025, we had approximately 3 holders of record of our Class A common stock and 14 holders of record of our Class B common stock. |
+| **FY 2025** | `2026-01-20` | `0001213900-26-005343` | **9** | `NR` | `NR` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our Class B common stock trades on the Nasdaq Stock Market under the symbol “RR.” Holders of Record As of January 9, 2025, we had approximately 9 holders of record of our Class A common stock and 37 holders of record of our Class B common stock. |
+| **FY 2024** | `2025-01-14` | `0001213900-25-003458` | **3** | `NR` | `NR` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our Class B common stock trades on the Nasdaq Stock Market under the symbol “RR.” Holders of Record As of January 10, 2025, we had approximately 3 holders of record of our Class A common stock and 14 holders of record of our Class B common stock. |
 | **FY 2023** | `2024-01-11` | `0001213900-24-003044` | **8** | 21.29M | `0.38` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our Class B common stock trades on the Nasdaq Stock Market under the symbol “RR.” Holders of Record As of January 11, 2024, we had approximately 8 holders of record of our Class A common stock and 30 holders of record of our Class B common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
@@ -600,7 +600,7 @@
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $-29.1M | $-58.3M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| -$29.1M | -$58.3M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 

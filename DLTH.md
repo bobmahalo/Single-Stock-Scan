@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$235.5M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`** (SBC-Adjusted: **`37.6%`**)
 
@@ -339,7 +339,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -363,11 +363,11 @@
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| **FY 2026** | `2026-03-20` | `0001193125-26-117508` | **`NR`** | `NR` | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2025** | `2025-03-24` | `0001649744-25-000006` | **107** | `NR` | ``NR`` | Shareholders of Record Based upon data provided by our transfer agent, as of March 21, 2025 , there were approximately 107 holders of record of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
-| **FY 2024** | `2024-03-22` | `0001649744-24-000006` | **107** | `NR` | ``NR`` | Shareholders of Record As of March 5, 2024, there were approximately 107 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
-| **FY 2023** | `2023-03-17` | `0001649744-23-000008` | **76** | `NR` | ``NR`` | Shareholders of Record As of March 7, 2023, there were approximately 76 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
-| **FY 2022** | `2022-03-25` | `0001649744-22-000008` | **82** | `NR` | ``NR`` | Shareholders of Record As of March 15, 2022, there were approximately 82 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
+| **FY 2026** | `2026-03-20` | `0001193125-26-117508` | **`NR`** | `NR` | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2025** | `2025-03-24` | `0001649744-25-000006` | **107** | `NR` | `NR` | Shareholders of Record Based upon data provided by our transfer agent, as of March 21, 2025 , there were approximately 107 holders of record of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
+| **FY 2024** | `2024-03-22` | `0001649744-24-000006` | **107** | `NR` | `NR` | Shareholders of Record As of March 5, 2024, there were approximately 107 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
+| **FY 2023** | `2023-03-17` | `0001649744-23-000008` | **76** | `NR` | `NR` | Shareholders of Record As of March 7, 2023, there were approximately 76 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
+| **FY 2022** | `2022-03-25` | `0001649744-22-000008` | **82** | `NR` | `NR` | Shareholders of Record As of March 15, 2022, there were approximately 82 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$94.16` | **Market Cap:** `$162.83B` | **Enterprise Value:** `$162.88B`  
 > **TTM Free Cash Flow Yield:** **`6.6%`** (SBC-Adjusted: **`6.4%`**)
 
@@ -335,7 +335,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -361,9 +361,9 @@
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2025** | `2026-02-25` | `0000316709-26-000009` | **4,132** | 1,752.21M | `2.36` | The number of common stockholders of record as of January 30, 2026, was 4,132. |
 | **FY 2024** | `2025-02-26` | `0000316709-25-000010` | **4,341** | 1,813.57M | `2.39` | The number of common stockholders of record as of February 12, 2025, was 4,341. |
-| **FY 2023** | `2024-02-23` | `0000316709-24-000018` | **5,045** | `NR` | ``NR`` | The number of common stockholders of record as of January 31, 2024, was 5,045. |
-| **FY 2022** | `2023-02-24` | `0000316709-23-000009` | **5,255** | `NR` | ``NR`` | The number of common stockholders of record as of January 31, 2023, was 5,255. |
-| **FY 2021** | `2022-02-24` | `0000316709-22-000009` | **5,451** | `NR` | ``NR`` | The number of common stockholders of record as of January 31, 2022, was 5,451. |
+| **FY 2023** | `2024-02-23` | `0000316709-24-000018` | **5,045** | `NR` | `NR` | The number of common stockholders of record as of January 31, 2024, was 5,045. |
+| **FY 2022** | `2023-02-24` | `0000316709-23-000009` | **5,255** | `NR` | `NR` | The number of common stockholders of record as of January 31, 2023, was 5,255. |
+| **FY 2021** | `2022-02-24` | `0000316709-22-000009` | **5,451** | `NR` | `NR` | The number of common stockholders of record as of January 31, 2022, was 5,451. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |

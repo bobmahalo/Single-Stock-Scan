@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$26.80` | **Market Cap:** `$13.52B` | **Enterprise Value:** `$16.96B`  
 > **TTM Free Cash Flow Yield:** **`5.1%`** (SBC-Adjusted: **`4.9%`**)
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -366,7 +366,7 @@
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2026** | `2026-03-24` | `0001326380-26-000013` | **177,522** | 448.38M | `395.92` | As of March 18, 2026 , there were 177,522 record holders of our Class A Common Stock. |
 | **FY 2025** | `2025-03-25` | `0001628280-25-014731` | **190,074** | 447.08M | `425.14` | As of March 19, 2025, there were 190,074 record holders of our Class A Common Stock. |
-| **FY 2024** | `2024-03-26` | `0001326380-24-000012` | **`NR`** | 305.87M | ``NR`` | NR (Not disclosed or held via street name) |
+| **FY 2024** | `2024-03-26` | `0001326380-24-000012` | **`NR`** | 305.87M | `NR` | NR (Not disclosed or held via street name) |
 | **FY 2023** | `2023-03-28` | `0001326380-23-000019` | **197,058** | 304.68M | `646.78` | As of March 22, 2023, there were 197,058 record holders of our Class A Common Stock. |
 | **FY 2022** | `2022-03-17` | `0001326380-22-000021` | **125,543** | 76.34M | `1,644.54` | MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Our Class A Common Stock is traded on the New York Stock Exchange (“NYSE”) under the symbol “GME.” As of March 11, 2022, there were approximately 125,543 record holders of our Class A Common Stock. |
 

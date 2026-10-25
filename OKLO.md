@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$27.81` | **Market Cap:** `$5.17B` | **Enterprise Value:** `$2.71B`  
 > **TTM Free Cash Flow Yield:** **`-5.3%`** (SBC-Adjusted: **`-6.5%`**)
 
@@ -336,7 +336,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -363,8 +363,8 @@
 | **FY 2025** | `2026-03-17` | `0001628280-26-018698` | **35** | 173.57M | `0.20` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our common stock began trading on the New York Stock Exchange on May 10, 2024 under the symbol “OKLO.” Holders As of March 13, 2026, there were approximately 35 holders of record of our common stock. |
 | **FY 2024** | `2025-03-24` | `0001628280-25-014490` | **57** | 69.24M | `0.82` | Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our Common Stock began trading on the New York Stock Exchange on May 10, 2024 under the symbol “OKLO.” Holders As of March 24, 2025, there were approximately 57 holders of record of our Common Stock. |
 | **FY 2023** | `2024-03-29` | `0001410578-24-000365` | **2** | 69.24M | `0.03` | Market Information Our Class A common stock is traded on the NYSE under the symbol “ALCC.” Holders Although there are a larger number of beneficial owners, at March 29, 2024, there were two holders of record of our shares of Class A common stock. |
-| **FY 2022** | `2023-03-31` | `0001410578-23-000545` | **2** | `NR` | ``NR`` | Market Information Our Class A common stock is traded on the NYSE under the symbol “ALCC.” Holders Although there are a larger number of beneficial owners, at March 31 , 2023, there were two holders of record of our shares of Class A common stock. |
-| **FY 2021** | `2022-03-31` | `0001410578-22-000756` | **2** | `NR` | ``NR`` | Market Information Our Class A common stock is traded on the NYSE under the symbol “ALCC.” Holders Although there are a larger number of beneficial owners, at March 18, 2022, there were two holders of record of our shares of Class A common stock. |
+| **FY 2022** | `2023-03-31` | `0001410578-23-000545` | **2** | `NR` | `NR` | Market Information Our Class A common stock is traded on the NYSE under the symbol “ALCC.” Holders Although there are a larger number of beneficial owners, at March 31 , 2023, there were two holders of record of our shares of Class A common stock. |
+| **FY 2021** | `2022-03-31` | `0001410578-22-000756` | **2** | `NR` | `NR` | Market Information Our Class A common stock is traded on the NYSE under the symbol “ALCC.” Holders Although there are a larger number of beneficial owners, at March 18, 2022, there were two holders of record of our shares of Class A common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
@@ -602,7 +602,7 @@
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $-275.8M | $2,712.0M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| -$275.8M | $2,712.0M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:36 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$30.07` | **Market Cap:** `$21.67B` | **Enterprise Value:** `$36.16B`  
 > **TTM Free Cash Flow Yield:** **`-1.1%`** (SBC-Adjusted: **`-1.8%`**)
 
@@ -336,7 +336,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:36 UTC` |
+| **Generated** | `2026-10-25 18:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-06-30 -> 2026-03-31` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -360,11 +360,11 @@
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
-| **FY 2025** | `2026-02-03` | `0001751788-26-000018` | **`NR`** | 717.53M | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2024** | `2025-02-04` | `0001751788-25-000012` | **`NR`** | 703.83M | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2023** | `2024-01-31` | `0001751788-24-000010` | **`NR`** | 702.29M | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2022** | `2023-02-01` | `0001751788-23-000014` | **`NR`** | 704.88M | ``NR`` | NR (Not disclosed or held via street name) |
-| **FY 2021** | `2022-02-04` | `0001751788-22-000011` | **`NR`** | 735.75M | ``NR`` | NR (Not disclosed or held via street name) |
+| **FY 2025** | `2026-02-03` | `0001751788-26-000018` | **`NR`** | 717.53M | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2024** | `2025-02-04` | `0001751788-25-000012` | **`NR`** | 703.83M | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2023** | `2024-01-31` | `0001751788-24-000010` | **`NR`** | 702.29M | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2022** | `2023-02-01` | `0001751788-23-000014` | **`NR`** | 704.88M | `NR` | NR (Not disclosed or held via street name) |
+| **FY 2021** | `2022-02-04` | `0001751788-22-000011` | **`NR`** | 735.75M | `NR` | NR (Not disclosed or held via street name) |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
@@ -602,7 +602,7 @@
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $-232.0M | $36,164.7M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| -$232.0M | $36,164.7M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 
