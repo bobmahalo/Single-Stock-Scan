@@ -10,6 +10,7 @@ Welcome to the central hub for all deep-dive stock scans.
 ### Available Reports:
 - [AAPL Report](AAPL.html)
 - [AKAM Report](AKAM.html)
+- [ALMS Report](ALMS.html)
 - [APTV Report](APTV.html)
 - [BB Report](BB.html)
 - [CAT Report](CAT.html)
