@@ -103,7 +103,7 @@ Every stock is classified through a strict **top-down veto cascade** (`reporting
 
 ---
 
-## 2. The Asymmetric Payoff Profile Box ($R\text{x} : 1.0$ Expectancy)
+## 2. The Asymmetric Payoff Profile Box (Rx : 1.0 Expectancy)
 
 Right below the archetype pill sits the monospaced **Asymmetric Payoff Profile Box**:
 
@@ -118,7 +118,7 @@ Right below the archetype pill sits the monospaced **Asymmetric Payoff Profile B
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### A. How the Fundamental Downside Floor ($F_{\text{down}}$) Is Selected
+### A. How the Fundamental Downside Floor (F_down) Is Selected
 The engine never invents arbitrary technical support levels. It selects the highest-priority **positive balance-sheet or cash-flow backstop** in this exact order:
 1. **Net Cash Floor:** $\frac{\text{Total Cash} - \text{Total Debt}}{\text{Diluted Shares}}$ *(Pure bank cash minus 100% of total debt)*
 2. **Graham NCAV Floor:** $\frac{\text{Current Assets} - \text{Total Liabilities} - \text{Preferred Stock}}{\text{Diluted Shares}}$ *(Strict liquidation value)*
@@ -126,7 +126,7 @@ The engine never invents arbitrary technical support levels. It selects the high
 4. **Zero-Growth DCF Floor:** $\frac{\text{TTM FCF} / 0.10}{\text{Diluted Shares}}$ *(Perpetuity value at a 10% discount rate assuming 0% growth forever)*
 5. **No Hard Balance-Sheet Floor (`N/A — Franchise Operating Moat`):** Triggered when a high-ROIC compounder carries net debt and negative tangible equity due to decades of share buybacks (e.g., AutoZone/Domino's model).
 
-### B. The Reward-to-Risk Formula ($R\text{x} : 1.0$)
+### B. The Reward-to-Risk Formula (Rx : 1.0)
 $$\text{Downside \%} = \left( \frac{F_{\text{down}} - P_{\text{spot}}}{P_{\text{spot}}} \right) \times 100$$
 $$\text{Target 1 Upside \%} = \left( \frac{P_{\text{Target 1}} - P_{\text{spot}}}{P_{\text{spot}}} \right) \times 100$$
 $$\text{Asymmetry Ratio } (R\text{x}) = \frac{\text{Target 1 Upside \%}}{|\text{Downside \%}|}$$
@@ -144,7 +144,7 @@ $$\text{Asymmetry Ratio } (R\text{x}) = \frac{\text{Target 1 Upside \%}}{|\text{
 
 The 3-Pillar Convergence Card condenses 10 forensic dimensions into three $0\text{–}10$ visual meters (`🟩` for $7\text{–}10$, `🟨` for $4\text{–}6$, `🟥` for $0\text{–}3$):
 
-### Pillar 1: 🛡️ Financial Health ($0\text{ to }10\text{ Points}$)
+### Pillar 1: 🛡️ Financial Health (0 to 10 Points)
 Tests whether the balance sheet is solvent and the accounting is honest:
 $$\text{Health Score} = \text{round}\Big( \underbrace{\frac{\text{Piotroski}}{9} \times 5.0}_{\text{Max } 5.0\text{ pts}} + \underbrace{\text{Altman Pts}}_{\text{Max } 3.0\text{ pts}} + \underbrace{\text{Beneish Pts}}_{\text{Max } 2.0\text{ pts}} \Big)$$
 
@@ -156,7 +156,7 @@ $$\text{Health Score} = \text{round}\Big( \underbrace{\frac{\text{Piotroski}}{9}
 
 * **⚠️ Bank / REIT Exception Gate (`is_financial_or_reit`):** If the company's SEC SIC code falls in Banking, Insurance, or Real Estate (`SIC 6000–6799`), standard manufacturing working-capital and leverage ratios ($Z$-Score and Piotroski) produce false distress signals. The card explicitly flags `⚠️ N/A (Bank/REIT Structure)*` so you never misapply industrial debt formulas to a depository bank.
 
-### Pillar 2: 💎 Valuation Asymmetry ($0\text{ to }10\text{ Points}$)
+### Pillar 2: 💎 Valuation Asymmetry (0 to 10 Points)
 Tests how much cash flow and liquid asset backing you receive per dollar paid:
 $$\text{Valuation Score} = \text{FCF Yield Pts (0–4)} + \text{Net Cash/Price Pts (0–3)} + \text{NCAV/Price Pts (0–3)}$$
 
@@ -166,7 +166,7 @@ $$\text{Valuation Score} = \text{FCF Yield Pts (0–4)} + \text{Net Cash/Price P
 | **Net Cash / Share Price** | `3.0 pts` | $\ge 50.0\% \to \mathbf{3\text{ pts}}$<br>$25.0\%\text{–}49.9\% \to \mathbf{2\text{ pts}}$<br>$10.0\%\text{–}24.9\% \to \mathbf{1\text{ pt}}$<br>$\le 0\% \text{ (Net Debt)} \to \mathbf{0\text{ pts}}$ |
 | **Graham NCAV / Share Price** | `3.0 pts` | $\ge 100.0\% \text{ (Net-Net)} \to \mathbf{3\text{ pts}}$<br>$70.0\%\text{–}99.9\% \to \mathbf{2\text{ pts}}$<br>$40.0\%\text{–}69.9\% \to \mathbf{1\text{ pt}}$ |
 
-### Pillar 3: 🏛️ Capital Discipline ($0\text{ to }10\text{ Points}$)
+### Pillar 3: 🏛️ Capital Discipline (0 to 10 Points)
 Tests whether management treats shareholders as partners or as an ATM:
 $$\text{Discipline Score} = \text{Share Change Pts (0–4)} + \text{Insider Cluster Pts (1–4)} + \text{Capex Maintenance Pts (0–2)}$$
 
