@@ -1,7 +1,7 @@
 # IZEA — Executive Investment Card
 ### IZEA Worldwide, Inc.
 
-[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
 > **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$2.31` | **Market Cap:** `$40.2M` | **Enterprise Value:** `$-6.3M`  

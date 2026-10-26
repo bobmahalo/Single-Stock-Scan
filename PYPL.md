@@ -1,7 +1,7 @@
 # PYPL — Executive Investment Card
 ### PayPal Holdings, Inc.
 
-[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
 > **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$57.26` | **Market Cap:** `$50.51B` | **Enterprise Value:** `$51.23B`  
