@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:31 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$4.86` | **Market Cap:** `$206.1M` | **Enterprise Value:** `$239.2M`  
 > **TTM Free Cash Flow Yield:** **`16.8%`** (SBC-Adjusted: **`15.1%`**)
 
@@ -45,7 +45,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `2.74` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.19` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `16.8%`<br>• **Net Cash:** `$-0.78/sh` (-16.0% of price)<br>• **Graham NCAV:** `$-0.39/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+1.3%` (Dilution)<br>• **SBC % OCF:** `7.3%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+1.3%` (Dilution)<br>• **SBC % OCF:** `7.3%`<br>• **Insiders:** `$-693K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -193,6 +193,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -292,7 +294,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-0.7M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `32` direct registered shareholders. |
 
@@ -340,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:31 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -373,7 +375,19 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
+| **0** | 8 | 0 (0 C-Suite) | No | `$0` | `$692,876` | **`-$692,876`** |
+
+#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
+| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-08-20` | `2026-08-24` | **Young James Douglas** | SEE REMARKS | `S - Sale` | 25,716 | `$4.83` | `$124,208` |
+| `2026-08-21` | `2026-08-24` | **Young James Douglas** | SEE REMARKS | `S - Sale` | 19,078 | `$4.83` | `$92,147` |
+| `2026-08-24` | `2026-08-24` | **Young James Douglas** | SEE REMARKS | `S - Sale` | 2,236 | `$4.70` | `$10,509` |
+| `2026-08-18` | `2026-08-19` | **Young James Douglas** | SEE REMARKS | `S - Sale` | 16,301 | `$4.93` | `$80,364` |
+| `2026-08-19` | `2026-08-19` | **Young James Douglas** | SEE REMARKS | `S - Sale` | 11,669 | `$4.84` | `$56,478` |
+| `2026-08-19` | `2026-08-19` | **Beckelman Lee E** | Chief Financial Officer | `S - Sale` | 50,000 | `$4.79` | `$239,500` |
+| `2026-08-14` | `2026-08-17` | **Spurlin Sharon** | Director | `S - Sale` | 15,000 | `$5.06` | `$75,900` |
+| `2026-08-17` | `2026-08-17` | **Spurlin Sharon** | Director | `S - Sale` | 2,700 | `$5.10` | `$13,770` |
 
 ## 2. Income Statement
 

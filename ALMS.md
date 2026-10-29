@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:29 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$6.78` | **Market Cap:** `$865.7M` | **Enterprise Value:** `$399.9M`  
 > **TTM Free Cash Flow Yield:** **`-40.6%`** (SBC-Adjusted: **`-45.8%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10`</nobr> | • **Piotroski:** `2/9`<br>• **Altman Z:** `0.20` (DISTRESS (< 1.81))<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **FCF Yield:** `-40.6%`<br>• **Net Cash:** `$3.65/sh` (53.8% of price)<br>• **Graham NCAV:** `$3.18/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **1Y Shares:** `+200.0%` (Dilution)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `+$60.1M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **1Y Shares:** `+200.0%` (Dilution)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `+$9.2M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -192,6 +192,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -287,7 +289,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`+$60.1M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`+$9.2M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `47` direct registered shareholders. |
 
@@ -335,7 +337,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:29 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -365,21 +367,21 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **17** | 8 | 4 (0 C-Suite) | No | `$61,678,657` | `$1,548,339` | **`+$60,130,318`** |
+| **2** | 8 | 1 (0 C-Suite) | No | `$10,726,255` | `$1,548,339` | **`+$9,177,916`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-09-04` | `2026-09-09` | **Akkaraju Srinivas** | Dir | `P - Purchase` | 986,721 | `$10.87` | `$10,726,255` |
-| `2026-09-08` | `2026-09-09` | **Akkaraju Srinivas** | Dir | `S - Sale` | 96,131 | `$10.55` | `$1,014,028` |
-| `2026-08-03` | `2026-08-05` | **Schroer John R.** | CFO | `S - Sale` | 3,282 | `$26.37` | `$86,546` |
-| `2026-08-03` | `2026-08-05` | **Pangali Sanam** | GC | `S - Sale` | 1,364 | `$26.37` | `$35,969` |
-| `2026-08-03` | `2026-08-05` | **Hardiman Roy C.** | Chief Business, Strategy Ofcr | `S - Sale` | 2,692 | `$26.37` | `$70,988` |
+| `2026-09-04` | `2026-09-09` | **AKKARAJU SRINIVAS** | Director | `P - Purchase` | 440,140 | `$11.17` | `$4,917,684` |
+| `2026-09-08` | `2026-09-09` | **AKKARAJU SRINIVAS** | Director | `S - Sale` | 96,131 | `$10.55` | `$1,014,028` |
+| `2026-09-08` | `2026-09-09` | **AKKARAJU SRINIVAS** | Director | `P - Purchase` | 546,581 | `$10.63` | `$5,808,571` |
+| `2026-08-03` | `2026-08-05` | **Schroer John R.** | Chief Financial Officer | `S - Sale` | 3,282 | `$26.37` | `$86,546` |
+| `2026-08-03` | `2026-08-05` | **Pangali Sanam** | Chief Legal Officer | `S - Sale` | 1,364 | `$26.37` | `$35,969` |
+| `2026-08-03` | `2026-08-05` | **Hardiman Roy C.** | Chief Business & Strategy Ofcr | `S - Sale` | 2,692 | `$26.37` | `$70,988` |
 | `2026-08-03` | `2026-08-05` | **Goldstein David M** | Chief Scientific Officer | `S - Sale` | 2,596 | `$26.37` | `$68,457` |
 | `2026-08-03` | `2026-08-05` | **Drappa Jorn** | Chief Medical Officer | `S - Sale` | 2,447 | `$26.37` | `$64,527` |
 | `2026-08-03` | `2026-08-05` | **Bradley Mark Christopher** | Chief Development Officer | `S - Sale` | 2,572 | `$26.37` | `$67,824` |
-| `2026-07-06` | `2026-07-08` | **Pangali Sanam** | GC | `S - Sale+OE` | 5,000 | `$28.00` | `$140,000` |
-| `2026-01-09` | `2026-01-13` | **Akkaraju Srinivas** | Dir | `P - Purchase` | 588,235 | `$17.00` | `$9,999,995` |
+| `2026-07-06` | `2026-07-08` | **Pangali Sanam** | Chief Legal Officer | `S - Sale` | 5,000 | `$28.00` | `$140,000` |
 
 ## 2. Income Statement
 

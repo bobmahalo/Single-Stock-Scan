@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:31 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$10.03` | **Market Cap:** `$640.7M` | **Enterprise Value:** `$585.8M`  
 > **TTM Free Cash Flow Yield:** **`25.5%`** (SBC-Adjusted: **`21.2%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `6.43` (SAFE (> 2.99))<br>• **Beneish M:** `-3.30` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **FCF Yield:** `25.5%`<br>• **Net Cash:** `$0.86/sh` (8.6% of price)<br>• **Graham NCAV:** `$1.71/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **1Y Shares:** `-3.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `16.8%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **1Y Shares:** `-3.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `16.8%`<br>• **Insiders:** `$-35.7M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -106,8 +106,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$10.03** | $1,833.15 (33.3%) | 182 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$9.41** | $1,833.15 (33.3%) | 194 | -6.2% Support Retest (Volatility-Adjusted (14-Period ATR 6.2%) Limit) |
-| **T3** | `LIMIT` | **$8.78** | $1,833.70 (33.3%) | 208 | -12.4% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 6.2%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$9.42** | $1,833.15 (33.3%) | 194 | -6.1% Support Retest (Volatility-Adjusted (14-Period ATR 6.1%) Limit) |
+| **T3** | `LIMIT` | **$8.80** | $1,833.70 (33.3%) | 208 | -12.2% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 6.1%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -192,6 +192,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -245,12 +247,12 @@
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`5.8x`** | `5.6x – 11.3x – 114.4x` | `7%` | **$19.48** | `+94.2%` | 💎 Deep Value Compression |
-| **P/EBIT** | **`11.7x`** | `11.3x – 82.1x – 88.4x` | `19%` | **$70.55** | `+603.4%` | 💎 Deep Value Compression |
-| **P/TBV** | **`3.0x`** | `2.4x – 3.1x – 15.5x` | `34%` | **$10.22** | `+1.9%` | ⚖️ Historical Fair Value |
-| **P/S** | **`0.9x`** | `0.9x – 1.3x – 2.5x` | `7%` | **$14.57** | `+45.3%` | 💎 Deep Value Compression |
+| **P/FCF** | **`5.8x`** | `5.6x – 11.3x – 114.4x` | `7%` | **$19.46** | `+94.0%` | 💎 Deep Value Compression |
+| **P/EBIT** | **`11.7x`** | `11.3x – 82.0x – 88.4x` | `19%` | **$70.44** | `+602.3%` | 💎 Deep Value Compression |
+| **P/TBV** | **`3.0x`** | `2.4x – 3.1x – 15.5x` | `33%` | **$10.23** | `+2.0%` | ⚖️ Historical Fair Value |
+| **P/S** | **`0.9x`** | `0.9x – 1.3x – 2.5x` | `7%` | **$14.56** | `+45.2%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** NRDS trades at `5.8x` P/FCF (7th percentile of 5-year history). Mean reversion to historical median multiple (`11.3x`) yields an implied intrinsic target of **$19.48** (`+94.2%` upside) without relying on speculative future growth.
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** NRDS trades at `5.8x` P/FCF (7th percentile of 5-year history). Mean reversion to historical median multiple (`11.3x`) yields an implied intrinsic target of **$19.46** (`+94.0%` upside) without relying on speculative future growth.
 
 </details>
 
@@ -291,7 +293,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-35.7M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `99` direct registered shareholders. |
 
@@ -310,9 +312,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.71x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$453,168.44` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.71x 90d avg; ADDV $453,168 >= $250k). Zero retail mania. |
+| **30-Day Volume / 90-Day Average:** | `0.46x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$274,094.32` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.46x 90d avg; ADDV $274,094 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -339,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:31 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -372,7 +374,17 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
+| **0** | 6 | 0 (0 C-Suite) | No | `$0` | `$35,725,843` | **`-$35,725,843`** |
+
+#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
+| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-06-26` | `2026-06-30` | **Topline Capital Management, LLC** |  | `S - Sale` | 919,153 | `$8.95` | `$8,226,419` |
+| `2026-06-29` | `2026-06-30` | **Topline Capital Management, LLC** |  | `S - Sale` | 587,835 | `$9.22` | `$5,419,839` |
+| `2026-06-30` | `2026-06-30` | **Topline Capital Management, LLC** |  | `S - Sale` | 454,872 | `$9.27` | `$4,216,663` |
+| `2026-06-26` | `2026-06-30` | **Topline Capital Partners, LP** |  | `S - Sale` | 919,153 | `$8.95` | `$8,226,419` |
+| `2026-06-29` | `2026-06-30` | **Topline Capital Partners, LP** |  | `S - Sale` | 587,835 | `$9.22` | `$5,419,839` |
+| `2026-06-30` | `2026-06-30` | **Topline Capital Partners, LP** |  | `S - Sale` | 454,872 | `$9.27` | `$4,216,663` |
 
 ## 2. Income Statement
 

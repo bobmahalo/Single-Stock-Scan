@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:29 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$2.43` | **Market Cap:** `$26.1M` | **Enterprise Value:** `$45.3M`  
 > **TTM Free Cash Flow Yield:** **`29.1%`** (SBC-Adjusted: **`26.1%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `2.52` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.13` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **FCF Yield:** `29.1%`<br>• **Net Cash:** `$-1.78/sh` (-73.3% of price)<br>• **Graham NCAV:** `$1.78/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+2.8%` (Dilution)<br>• **SBC % OCF:** `9.0%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+2.8%` (Dilution)<br>• **SBC % OCF:** `9.0%`<br>• **Insiders:** `+$96K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -106,8 +106,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$2.43** | $933.24 (33.3%) | 384 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$2.30** | $933.24 (33.3%) | 405 | -5.3% Support Retest (Volatility-Adjusted (14-Period ATR 5.3%) Limit) |
-| **T3** | `LIMIT` | **$2.17** | $933.52 (33.3%) | 430 | -10.6% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.3%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$2.31** | $933.24 (33.3%) | 404 | -4.9% Support Retest (Volatility-Adjusted (14-Period ATR 4.9%) Limit) |
+| **T3** | `LIMIT` | **$2.19** | $933.52 (33.3%) | 426 | -9.9% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 4.9%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -129,8 +129,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$3.17** (`+30.5%` upside) | Tangible Asset / C-Suite Turnaround Target (Trim 50%) |
 | **Target 2 (Full Fair Value):** | **$4.12** (`+69.5%` upside) | Catalyst Exuberance Target (Full Exit) |
-| **Safety Stop Loss:** | **$1.84** | Turnaround Failure Stop (-20.0% from VWAP $2.30) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.72** (-25.0% from VWAP $2.30) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$1.85** | Turnaround Failure Stop (-20.0% from VWAP $2.31) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.73** (-25.0% from VWAP $2.31) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: Liquidate 50% immediately upon volume spike >= 3.0x ADDV on unconfirmed volume surge. |
 
 <details markdown="1">
@@ -192,6 +192,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -293,7 +295,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`+$0.1M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `152` direct registered shareholders. |
 
@@ -312,9 +314,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.99x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$165,842.03` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $165,842 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.5x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$70,091.65` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $70,092 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -341,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:29 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-28 -> 2026-06-28` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -374,7 +376,15 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
+| **4** | 0 | 1 (0 C-Suite) | No | `$95,850` | `$0` | **`+$95,850`** |
+
+#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
+| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2025-11-19` | `2025-11-21` | **RATAJCZAK DONALD R** | Director | `P - Purchase` | 5,000 | `$2.70` | `$13,500` |
+| `2025-11-13` | `2025-11-17` | **RATAJCZAK DONALD R** | Director | `P - Purchase` | 10,000 | `$2.75` | `$27,450` |
+| `2025-11-14` | `2025-11-17` | **RATAJCZAK DONALD R** | Director | `P - Purchase` | 10,000 | `$2.69` | `$26,900` |
+| `2025-11-17` | `2025-11-17` | **RATAJCZAK DONALD R** | Director | `P - Purchase` | 10,000 | `$2.80` | `$28,000` |
 
 ## 2. Income Statement
 

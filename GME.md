@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-26 13:59 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:30 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$24.66` | **Market Cap:** `$12.44B` | **Enterprise Value:** `$15.88B`  
 > **TTM Free Cash Flow Yield:** **`5.5%`** (SBC-Adjusted: **`5.3%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `2.63` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-4.54` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **FCF Yield:** `5.5%`<br>• **Net Cash:** `$-6.81/sh` (-27.6% of price)<br>• **Graham NCAV:** `$1.83/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+39.1%` (Dilution)<br>• **SBC % OCF:** `4.4%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+39.1%` (Dilution)<br>• **SBC % OCF:** `4.4%`<br>• **Insiders:** `+$97.9M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -192,6 +192,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -292,7 +294,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`+$97.9M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `177,522` direct registered shareholders. |
 
@@ -310,10 +312,10 @@
 
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
-| **Silent Accumulation Status:** | `NEUTRAL` |
-| **30-Day Volume / 90-Day Average:** | `1.18x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$276,963,362.88` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is average (1.18x 90d avg; ADDV $276,963,363 >= $250k). |
+| **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
+| **30-Day Volume / 90-Day Average:** | `0.86x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$1,457,591.07` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.86x 90d avg; ADDV $1,457,591 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -340,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-26 13:59 UTC` |
+| **Generated** | `2026-10-29 15:30 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -373,7 +375,21 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
+| **10** | 7 | 5 (1 C-Suite) | **YES (Active C-Suite Cluster)** | `$99,178,946` | `$1,277,250` | **`+$97,901,696`** |
+
+#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
+| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-10-12` | `2026-10-13` | **Moore Daniel William** | PFO and PAO | `S - Sale` | 15,480 | `$27.00` | `$417,960` |
+| `2026-10-13` | `2026-10-13` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 844,130 | `$26.98` | `$22,774,728` |
+| `2026-10-01` | `2026-10-05` | **Moore Daniel William** | PFO and PAO | `S - Sale` | 7,297 | `$24.26` | `$177,025` |
+| `2026-10-01` | `2026-10-05` | **Robinson Mark Haymond** | General Counsel and Secretary | `S - Sale` | 7,296 | `$24.26` | `$177,001` |
+| `2026-10-05` | `2026-10-05` | **Robinson Mark Haymond** | General Counsel and Secretary | `S - Sale` | 3,882 | `$25.42` | `$98,673` |
+| `2026-10-02` | `2026-10-02` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 700,000 | `$24.41` | `$17,084,270` |
+| `2026-10-01` | `2026-10-01` | **Turner Nat** | Director | `P - Purchase` | 10,462 | `$24.33` | `$254,540` |
+| `2026-09-29` | `2026-09-29` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 450,000 | `$23.48` | `$10,563,796` |
+| `2026-09-21` | `2026-09-21` | **Attal Alain** | Director | `P - Purchase` | 17,500 | `$22.97` | `$401,958` |
+| `2026-09-21` | `2026-09-21` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 1,150,680 | `$22.94` | `$26,393,722` |
 
 ## 2. Income Statement
 

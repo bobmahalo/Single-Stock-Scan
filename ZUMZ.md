@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:32 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$14.44` | **Market Cap:** `$221.4M` | **Enterprise Value:** `$353.9M`  
 > **TTM Free Cash Flow Yield:** **`11.3%`** (SBC-Adjusted: **`7.9%`**)
 
@@ -45,7 +45,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `2.39` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-2.92` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10`</nobr> | • **FCF Yield:** `11.3%`<br>• **Net Cash:** `$-8.64/sh` (-59.8% of price)<br>• **Graham NCAV:** `$-3.40/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **1Y Shares:** `-8.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `21.3%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **1Y Shares:** `-8.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `21.3%`<br>• **Insiders:** `$-201K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -82,7 +82,7 @@
 | **Graham NCAV Floor** | **$-3.40/sh** | `-23.5%` | Negative net current asset value |
 | **Tangible Book Value** | **$16.20/sh** | `112.2%` | Tangible physical assets cover 112.2% of price |
 | **Zero-Growth DCF Floor** | **$10.03** | `69.5%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$13.41 – $16.93** | `7th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
+| **5-Year Price Corridor** | **$13.41 – $16.93** | `8th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -107,8 +107,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$14.44** | $1,833.15 (33.3%) | 126 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$13.60** | $1,833.15 (33.3%) | 134 | -5.8% Support Retest (Volatility-Adjusted (14-Period ATR 5.8%) Limit) |
-| **T3** | `LIMIT` | **$12.77** | $1,833.70 (33.3%) | 143 | -11.6% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.8%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$13.64** | $1,833.15 (33.3%) | 134 | -5.6% Support Retest (Volatility-Adjusted (14-Period ATR 5.6%) Limit) |
+| **T3** | `LIMIT` | **$12.83** | $1,833.70 (33.3%) | 142 | -11.1% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.6%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -130,8 +130,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$18.77** (`+30.0%` upside) | Operating Expansion Target (+30% Intrinsic Re-rating, Trim 33%) |
 | **Target 2 (Full Fair Value):** | **$23.83** (`+65.0%` upside) | Full Intrinsic Multiplier (+65% Zero-Growth Convergence, Trim 33%) |
-| **Safety Stop Loss:** | **$11.60** | Structural Degradation Stop (-15.0% from VWAP $13.65) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$10.24** (-25.0% from VWAP $13.65) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$11.63** | Structural Degradation Stop (-15.0% from VWAP $13.68) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$10.26** (-25.0% from VWAP $13.68) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: If 30d volume ratio >= 3.0x ADDV while price touches upper valuation corridor bounds, scale 33% directly into elevated market liquidity. |
 
 <details markdown="1">
@@ -193,6 +193,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -236,21 +238,21 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$13.41 – $16.93`** \| `[$13.41 ─●────────────────── $16.93] (7th %-tile)` |
+| **5-Year Price Corridor:** | **`$13.41 – $16.93`** \| `[$13.41 ─●────────────────── $16.93] (8th %-tile)` |
 | **52-Week Price Range:** | `$13.41 – $15.75` (Cycle Regime: `💎 Deep Cycle Bottom (Bottom Quintile)`) |
-| **Primary Valuation Multiple:** | **`5.9x`** P/FCF vs. 5-Year Median `5.9x` (`50th %-tile` — ⚖️ Historical Fair Value) |
+| **Primary Valuation Multiple:** | **`5.9x`** P/FCF vs. 5-Year Median `5.9x` (`51th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`5.9x`** | `3.0x – 5.9x – 51.1x` | `50%` | **$14.40** | `-0.3%` | ⚖️ Historical Fair Value |
-| **P/EBIT** | **`14.6x`** | `2.3x – 9.7x – 149.2x` | `63%` | **$9.60** | `-33.5%` | ⚖️ Historical Fair Value |
-| **P/TBV** | **`0.8x`** | `0.8x – 0.9x – 1.0x` | `8%` | **$15.52** | `+7.5%` | 💎 Deep Value Compression |
-| **P/S** | **`0.3x`** | `0.3x – 0.3x – 0.4x` | `5%` | **$17.12** | `+18.6%` | 💎 Deep Value Compression |
+| **P/FCF** | **`5.9x`** | `3.0x – 5.9x – 51.1x` | `51%` | **$14.39** | `-0.3%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`14.6x`** | `2.3x – 9.7x – 149.2x` | `63%` | **$9.63** | `-33.3%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`0.8x`** | `0.8x – 0.9x – 1.0x` | `9%` | **$15.49** | `+7.3%` | 💎 Deep Value Compression |
+| **P/S** | **`0.3x`** | `0.3x – 0.3x – 0.4x` | `5%` | **$17.10** | `+18.4%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZUMZ trades at `5.9x` P/FCF (50th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `5.9x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZUMZ trades at `5.9x` P/FCF (51th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `5.9x`).
 
 </details>
 
@@ -291,7 +293,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-0.2M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `11` direct registered shareholders. |
 
@@ -310,9 +312,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.94x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$959,730.05` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.94x 90d avg; ADDV $959,730 >= $250k). Zero retail mania. |
+| **30-Day Volume / 90-Day Average:** | `0.46x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$377,106.38` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.46x 90d avg; ADDV $377,106 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -339,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:32 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -372,7 +374,17 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
+| **1** | 5 | 1 (1 C-Suite) | No | `$134,000` | `$334,532` | **`-$200,532`** |
+
+#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
+| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-09-18` | `2026-09-28` | **ELLIS ADAM CHRISTOPHER** | President International | `P - Purchase` | 10,000 | `$13.40` | `$134,000` |
+| `2026-06-15` | `2026-06-15` | **Valletta Liliana Gil** | Director | `S - Sale` | 540 | `$18.64` | `$10,064` |
+| `2026-06-11` | `2026-06-12` | **Valletta Liliana Gil** | Director | `S - Sale` | 3,841 | `$18.82` | `$72,275` |
+| `2026-06-12` | `2026-06-12` | **Valletta Liliana Gil** | Director | `S - Sale` | 1,319 | `$18.81` | `$24,810` |
+| `2026-06-09` | `2026-06-11` | **Valletta Liliana Gil** | Director | `S - Sale` | 300 | `$19.41` | `$5,822` |
+| `2026-04-01` | `2026-04-02` | **Visser Chris K.** | Chief Legal Officer & Sec. | `S - Sale` | 9,974 | `$22.21` | `$221,561` |
 
 ## 2. Income Statement
 

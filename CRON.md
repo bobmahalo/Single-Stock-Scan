@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:29 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$3.20` | **Market Cap:** `$1.18B` | **Enterprise Value:** `$383.2M`  
 > **TTM Free Cash Flow Yield:** **`4.2%`** (SBC-Adjusted: **`3.7%`**)
 
@@ -189,6 +189,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -287,7 +289,7 @@
 | :--- | :--- |
 | **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
-| **10-K Item 5 Direct Registered Holders (DRS Census):** | `Held in Street Name / NR` direct registered shareholders. |
+| **10-K Item 5 Direct Registered Holders (DRS Census):** | `140` direct registered shareholders. |
 
 <details markdown="1">
 <summary>💡 <b>Why Insider Cluster Buys & Transfer Agent DRS Matter</b></summary>
@@ -333,7 +335,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:29 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -355,7 +357,13 @@
 | **Diluted Shares Outstanding** | 386.96M | 385.31M | 384.99M | 382.52M* | 381.80M | 375.06M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
-_No 10-K Item 5 record holder history loaded._
+| Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
+| :--- | :--- | :--- | ---: | ---: | ---: | :--- |
+| **FY 2025** | `2026-02-26` | `0001656472-26-000016` | **140** | 379.05M | `0.37` | Our common shares are traded on Nasdaq and the TSX under the symbol “CRON.” Holders As of February 23, 2026, there were approximately 140 holders of record of our common shares. |
+| **FY 2024** | `2025-02-27` | `0001656472-25-000014` | **139** | 382.53M | `0.36` | Our common shares are traded on Nasdaq and the TSX under the symbol “CRON.” Holders As of February 24, 2025, there were approximately 139 holders of record of our common shares. |
+| **FY 2023** | `2024-02-29` | `0001656472-24-000021` | **131** | 381.30M | `0.34` | Our common shares are traded on Nasdaq and the TSX under the symbol “CRON.” Holders As of February 23, 2024, there were approximately 131 holders of record of our common shares. |
+| **FY 2022** | `2023-02-28` | `0001656472-23-000015` | **107** | 380.58M | `0.28` | Our common shares are traded on Nasdaq and the TSX under the symbol “CRON.” Holders As of February 24, 2023, there were approximately 107 holders of record of our common shares. |
+| **FY 2021** | `2022-03-01` | `0001656472-22-000034` | **100** | 374.95M | `0.27` | Our common shares are traded on Nasdaq and the TSX under the symbol “CRON.” Holders As of February 28, 2022, there were approximately 100 holders of record of our common shares. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:31 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$17.12` | **Market Cap:** `$1.60B` | **Enterprise Value:** `$2.96B`  
 > **TTM Free Cash Flow Yield:** **`15.0%`** (SBC-Adjusted: **`13.6%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `2.92` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-2.62` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `15.0%`<br>• **Net Cash:** `$-14.46/sh` (-84.5% of price)<br>• **Graham NCAV:** `$-7.48/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-2.9%` (Cannibal Buyback)<br>• **SBC % OCF:** `6.1%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-2.9%` (Cannibal Buyback)<br>• **SBC % OCF:** `6.1%`<br>• **Insiders:** `$-880K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -192,6 +192,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -293,9 +295,9 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$0.0M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-0.9M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
-| **10-K Item 5 Direct Registered Holders (DRS Census):** | `Held in Street Name / NR` direct registered shareholders. |
+| **10-K Item 5 Direct Registered Holders (DRS Census):** | `377` direct registered shareholders. |
 
 <details markdown="1">
 <summary>💡 <b>Why Insider Cluster Buys & Transfer Agent DRS Matter</b></summary>
@@ -341,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:31 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -363,12 +365,25 @@
 | **Diluted Shares Outstanding** | 104.44M | 103.24M | 102.72M* | 100.77M | 99.72M | 97.91M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
-_No 10-K Item 5 record holder history loaded._
+| Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
+| :--- | :--- | :--- | ---: | ---: | ---: | :--- |
+| **FY 2025** | `2025-11-13` | `0001193125-25-280122` | **377** | 97.50M | `3.87` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STO CKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Market for the Registrant’s Common Equity Market Information Our common stock is listed on the New York Stock Exchange under the symbol “SBH.” Holders As of November 7, 2025, there were 377 stockholders of record of our common stock. |
+| **FY 2024** | `2024-11-14` | `0000950170-24-127217` | **409** | 101.88M | `4.01` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STO CKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Market for the Registrant’s Common Equity Market Information Our common stock is listed on the New York Stock Exchange under the symbol “SBH.” Holders As of November 8, 2024, there were 409 stockholders of record of our common stock. |
+| **FY 2023** | `2023-11-16` | `0000950170-23-064558` | **432** | 106.28M | `4.06` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STO CKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Market for the Registrant’s Common Equity Market Information Our common stock is listed on the New York Stock Exchange under the symbol “SBH.” Holders As of November 10, 2023, there were 432 stockholders of record of our common stock. |
+| **FY 2022** | `2022-11-17` | `0001564590-22-037949` | **530** | 107.04M | `4.95` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Market for the Registrant’s Common Equity Market Information Our common stock is listed on the New York Stock Exchange under the symbol “SBH.” Holders As of November 11, 2022, there were 530 stockholders of record of our common stock. |
+| **FY 2021** | `2021-11-22` | `0001564590-21-057810` | **558** | 113.05M | `4.94` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES Market for the Registrant’s Common Equity Market Information Our common stock is listed on the New York Stock Exchange under the symbol “SBH.” Holders As of November 12, 2021, there were 558 stockholders of record of our common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
+| **0** | 3 | 0 (0 C-Suite) | No | `$0` | `$879,976` | **`-$879,976`** |
+
+#### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+| Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
+| :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-06-08` | `2026-06-09` | **Platz Marlo Michelle Cormier** | Former SVP & CFO | `S - Sale` | 42,771 | `$12.70` | `$543,192` |
+| `2025-12-11` | `2025-12-12` | **McIntosh Kim** | GVP, CONTROLLER & CAO | `S - Sale` | 5,900 | `$15.71` | `$92,698` |
+| `2025-12-01` | `2025-12-03` | **Sherman Scott C** | SVP, CLO and CHRO | `S - Sale` | 15,000 | `$16.27` | `$244,086` |
 
 ## 2. Income Statement
 

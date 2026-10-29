@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-25 18:37 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-29 15:30 UTC` | **CIK:** `N/A`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$235.5M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`** (SBC-Adjusted: **`37.6%`**)
 
@@ -82,7 +82,7 @@
 | **Graham NCAV Floor** | **$-0.99/sh** | `-24.8%` | Negative net current asset value |
 | **Tangible Book Value** | **$4.87/sh** | `121.8%` | Tangible physical assets cover 121.8% of price |
 | **Zero-Growth DCF Floor** | **$15.58** | `389.5%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$3.35 – $4.30** | `91th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
+| **5-Year Price Corridor** | **$3.35 – $4.30** | `90th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -107,8 +107,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$4.00** | $333.30 (33.3%) | 83 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$3.78** | $333.30 (33.3%) | 88 | -5.4% Support Retest (Volatility-Adjusted (14-Period ATR 5.4%) Limit) |
-| **T3** | `LIMIT` | **$3.57** | $333.40 (33.3%) | 93 | -10.9% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.4%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$3.79** | $333.30 (33.3%) | 87 | -5.3% Support Retest (Volatility-Adjusted (14-Period ATR 5.3%) Limit) |
+| **T3** | `LIMIT` | **$3.57** | $333.40 (33.3%) | 93 | -10.7% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.3%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -130,8 +130,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$4.87** (`+21.8%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
 | **Target 2 (Full Fair Value):** | **$5.60** (`+40.0%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
-| **Safety Stop Loss:** | **$3.22** | Liquidation Burn Trap Stop (-15.0% from VWAP $3.79) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$2.84** (-25.0% from VWAP $3.79) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$3.23** | Liquidation Burn Trap Stop (-15.0% from VWAP $3.80) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$2.85** (-25.0% from VWAP $3.80) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation. |
 
 <details markdown="1">
@@ -193,6 +193,8 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
+| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
 
 </details>
 
@@ -237,20 +239,20 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$3.35 – $4.30`** \| `[$3.35 ─────────────────●── $4.30] (91th %-tile)` |
+| **5-Year Price Corridor:** | **`$3.35 – $4.30`** \| `[$3.35 ─────────────────●── $4.30] (90th %-tile)` |
 | **52-Week Price Range:** | `$3.64 – $4.30` (Cycle Regime: `⚠️ Late Cycle / Momentum Zone (Top Quintile)`) |
-| **Primary Valuation Multiple:** | **`8.4x`** P/FCF vs. 5-Year Median `1.5x` (`88th %-tile` — ⚠️ Multiple Expansion) |
+| **Primary Valuation Multiple:** | **`8.4x`** P/FCF vs. 5-Year Median `2.9x` (`86th %-tile` — ⚠️ Multiple Expansion) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`8.4x`** | `1.4x – 1.5x – 8.6x` | `88%` | **$0.74** | `-81.5%` | ⚠️ Multiple Expansion |
-| **P/TBV** | **`0.8x`** | `0.5x – 0.6x – 0.8x` | `96%` | **$2.75** | `-31.2%` | ⚠️ Multiple Expansion |
-| **P/S** | **`0.2x`** | `0.2x – 0.2x – 0.3x` | `95%` | **$3.17** | `-20.8%` | ⚠️ Multiple Expansion |
+| **P/FCF** | **`8.4x`** | `1.4x – 2.9x – 8.8x` | `86%` | **$1.41** | `-64.8%` | ⚠️ Multiple Expansion |
+| **P/TBV** | **`0.8x`** | `0.5x – 0.6x – 0.9x` | `95%` | **$2.76** | `-31.0%` | ⚠️ Multiple Expansion |
+| **P/S** | **`0.2x`** | `0.2x – 0.2x – 0.3x` | `94%` | **$3.17** | `-20.8%` | ⚠️ Multiple Expansion |
 
-> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (88th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`1.5x`).
+> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (86th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`2.9x`).
 
 </details>
 
@@ -309,10 +311,10 @@
 
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
-| **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `1.02x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$281,610.80` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (1.02x 90d avg; ADDV $281,611 >= $250k). Zero retail mania. |
+| **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
+| **30-Day Volume / 90-Day Average:** | `0.37x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$76,565.40` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $76,565 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -339,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-25 18:37 UTC` |
+| **Generated** | `2026-10-29 15:30 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
