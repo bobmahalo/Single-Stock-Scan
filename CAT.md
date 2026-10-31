@@ -1,9 +1,9 @@
 # CAT — Executive Investment Card
-### CATERPILLAR INC
+### CATERPILLAR INC (NYSE: CAT) — *Construction Machinery & Equip*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000018230`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000018230` | **SIC:** `3531` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$736.33` | **Market Cap:** `$338.47B` | **Enterprise Value:** `$368.70B`  
 > **TTM Free Cash Flow Yield:** **`3.2%`**
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$736.33** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-65.75/sh** | `-8.9%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-62.58/sh** | `-8.5%` | Negative net current asset value |
-| **Tangible Book Value** | **$28.53/sh** | `3.9%` | Tangible physical assets cover 3.9% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-65.75/sh** | `-8.9%` | Net debt obligations exceed cash (`Cash $6.71B - Debt $36.94B = $-30.23B` across 459.7M sh) |
+| **Graham NCAV Floor** | **$-62.58/sh** | `-8.5%` | Negative net current asset value (`Curr. Assets $54.45B - Total Liab. $83.22B = $-28.77B`) |
+| **Tangible Book Value** | **$28.53/sh** | `3.9%` | Tangible physical assets cover 3.9% of price (`Total Tangible Equity: $13.12B`) |
 | **Zero-Growth DCF Floor** | **$199.88** | `27.1%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$679.17 – $966.85** | `6th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -357,7 +357,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

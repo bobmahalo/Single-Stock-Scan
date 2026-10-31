@@ -1,9 +1,9 @@
 # SND — Executive Investment Card
-### Smart Sand, Inc.
+### Smart Sand, Inc. (Nasdaq: SND) — *Mining & Quarrying of  Nonmetallic Minerals (No Fuels)*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001529628`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001529628` | **SIC:** `1400` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$4.86` | **Market Cap:** `$206.1M` | **Enterprise Value:** `$239.2M`  
 > **TTM Free Cash Flow Yield:** **`16.8%`** (SBC-Adjusted: **`15.1%`**)
 
@@ -78,9 +78,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$4.86** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-0.78/sh** | `-16.0%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-0.39/sh** | `-8.0%` | Negative net current asset value |
-| **Tangible Book Value** | **$5.52/sh** | `113.6%` | Tangible physical assets cover 113.6% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-0.78/sh** | `-16.0%` | Net debt obligations exceed cash (`Cash $10.2M - Debt $43.4M = $-33.2M` across 42.4M sh) |
+| **Graham NCAV Floor** | **$-0.39/sh** | `-8.0%` | Negative net current asset value (`Curr. Assets $92.6M - Total Liab. $109.0M = $-16.4M`) |
+| **Tangible Book Value** | **$5.52/sh** | `113.6%` | Tangible physical assets cover 113.6% of price (`Total Tangible Equity: $234.2M`) |
 | **Zero-Growth DCF Floor** | **$8.54** | `175.7%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$1.37 – $5.92** | `91th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

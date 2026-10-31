@@ -1,9 +1,9 @@
 # PYPL — Executive Investment Card
-### PayPal Holdings, Inc.
+### PayPal Holdings, Inc. (Nasdaq: PYPL) — *Services-Business Services, NEC*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001633917`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001633917` | **SIC:** `7389` | **FYE:** `Dec 31`  
 > **Current Price:** `$57.26` | **Market Cap:** `$47.56B` | **Enterprise Value:** `$51.52B`  
 > **TTM Free Cash Flow Yield:** **`13.2%`** (SBC-Adjusted: **`11.1%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$57.26** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-4.77/sh** | `-8.3%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-1.91/sh** | `-3.3%` | Negative net current asset value |
-| **Tangible Book Value** | **$10.07/sh** | `17.6%` | Tangible physical assets cover 17.6% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-4.77/sh** | `-8.3%` | Net debt obligations exceed cash (`Cash $10.28B - Debt $14.24B = $-3.96B` across 830.7M sh) |
+| **Graham NCAV Floor** | **$-1.91/sh** | `-3.3%` | Negative net current asset value (`Curr. Assets $60.55B - Total Liab. $62.14B = $-1.59B`) |
+| **Tangible Book Value** | **$10.07/sh** | `17.6%` | Tangible physical assets cover 17.6% of price (`Total Tangible Equity: $8.36B`) |
 | **Zero-Growth DCF Floor** | **$81.78** | `142.8%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$53.92 – $73.43** | `5th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -429,7 +429,7 @@
 | **Accounts Receivable** | $800.0M | $963.0M | $1,069.0M | $984.0M | $840.0M | $716.0M |
 | **Inventory** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Current Assets** | $52,574.0M | $57,424.0M | $62,569.0M | $58,206.0M | $59,759.0M | $60,549.0M |
-| **Property Plant and Equipment Net** | $1,909.0M | $1,730.0M | $1,488.0M | $1,508.0M | $1,700.0M | `NR` |
+| **Property Plant and Equipment Net** | $1,909.0M | $1,730.0M | $1,488.0M | $1,508.0M | $1,700.0M | $1,705.0M |
 | **Goodwill** | $11,454.0M | $11,209.0M | $11,026.0M | $10,837.0M | $10,864.0M | $10,968.0M |
 | **Intangible Assets Ex Goodwill** | $1,332.0M | $788.0M | $537.0M | $326.0M | $208.0M | $154.0M |
 | **Total Assets** | $75,803.0M | $78,624.0M | $82,166.0M | $78,725.0M | $80,173.0M | $81,622.0M |
@@ -454,7 +454,7 @@
 | **Accounts Receivable** | $1,099.0M | $973.0M | $840.0M | $843.0M | $763.0M | $716.0M |
 | **Inventory** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Current Assets** | $59,879.0M | $60,176.0M | $59,759.0M | $59,995.0M | $62,346.0M | $60,549.0M |
-| **Property Plant and Equipment Net** | `NR` | `NR` | $1,700.0M | `NR` | `NR` | `NR` |
+| **Property Plant and Equipment Net** | $1,625.0M | $1,656.0M | $1,700.0M | $1,708.0M | $1,731.0M | $1,705.0M |
 | **Goodwill** | $10,976.0M | $10,941.0M | $10,864.0M | $10,946.0M | $10,929.0M | $10,968.0M |
 | **Intangible Assets Ex Goodwill** | $271.0M | $226.0M | $208.0M | $206.0M | $178.0M | $154.0M |
 | **Total Assets** | $79,777.0M | $79,801.0M | $80,173.0M | $80,546.0M | $82,737.0M | $81,622.0M |
@@ -538,7 +538,7 @@
 | **Accounts Receivable** | 1.1% | 1.2% | 1.3% | 1.2% | 1.0% | 0.9% |
 | **Inventory** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Current Assets** | 69.4% | 73.0% | 76.1% | 73.9% | 74.5% | 74.2% |
-| **Property Plant and Equipment Net** | 2.5% | 2.2% | 1.8% | 1.9% | 2.1% | `NR` |
+| **Property Plant and Equipment Net** | 2.5% | 2.2% | 1.8% | 1.9% | 2.1% | 2.1% |
 | **Goodwill** | 15.1% | 14.3% | 13.4% | 13.8% | 13.6% | 13.4% |
 | **Intangible Assets Ex Goodwill** | 1.8% | 1.0% | 0.7% | 0.4% | 0.3% | 0.2% |
 | **Total Assets** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -651,7 +651,7 @@
 | `balance` | **Short_Term_Investments** | `2026-09-30` (I) | `FILED` | `us-gaap:ShortTermInvestments` | `0001633917-26-000088` | `2026-10-27` |
 | `balance` | **Accounts_Receivable** | `2026-09-30` (I) | `FILED` | `us-gaap:AccountsReceivableNetCurrent` | `0001633917-26-000088` | `2026-10-27` |
 | `balance` | **Total_Current_Assets** | `2026-09-30` (I) | `FILED` | `us-gaap:AssetsCurrent` | `0001633917-26-000088` | `2026-10-27` |
-| `balance` | **Property_Plant_and_Equipment_Net** | `2025-12-31` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentNet` | `0001633917-26-000024` | `2026-02-03` |
+| `balance` | **Property_Plant_and_Equipment_Net** | `2026-09-30` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization` | `0001633917-26-000088` | `2026-10-27` |
 | `balance` | **Goodwill** | `2026-09-30` (I) | `FILED` | `us-gaap:Goodwill` | `0001633917-26-000088` | `2026-10-27` |
 | `balance` | **Intangible_Assets_Ex_Goodwill** | `2026-09-30` (I) | `FILED` | `us-gaap:FiniteLivedIntangibleAssetsNet` | `0001633917-26-000088` | `2026-10-27` |
 | `balance` | **Total_Assets** | `2026-09-30` (I) | `FILED` | `us-gaap:Assets` | `0001633917-26-000088` | `2026-10-27` |

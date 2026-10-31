@@ -1,9 +1,9 @@
 # CULP — Executive Investment Card
-### CULP INC
+### CULP INC (Nasdaq: CULP) — *Broadwoven Fabric Mills, Cotton*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000723603`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000723603` | **SIC:** `2211` | **Inc:** `NC` | **FYE:** `Dec 31`  
 > **Current Price:** `$3.82` | **Market Cap:** `$48.6M` | **Enterprise Value:** `$49.9M`  
 > **TTM Free Cash Flow Yield:** **`-2.7%`** (SBC-Adjusted: **`-4.0%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$3.82** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-0.10/sh** | `-2.6%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$1.92/sh** | `50.3%` | Net liquid assets cover 50.3% of stock price |
-| **Tangible Book Value** | **$4.23/sh** | `110.7%` | Tangible physical assets cover 110.7% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-0.10/sh** | `-2.6%` | Net debt obligations exceed cash (`Cash $10.2M - Debt $11.5M = $-1.3M` across 12.7M sh) |
+| **Graham NCAV Floor** | **$1.92/sh** | `50.3%` | Net liquid assets cover 50.3% of stock price (`Curr. Assets $78.8M - Total Liab. $54.3M = +$24.5M`) |
+| **Tangible Book Value** | **$4.23/sh** | `110.7%` | Tangible physical assets cover 110.7% of price (`Total Tangible Equity: $53.9M`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
 | **5-Year Price Corridor** | **$3.60 – $4.81** | `4th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -337,7 +337,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

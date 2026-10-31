@@ -1,9 +1,9 @@
 # EXE — Executive Investment Card
-### EXPAND ENERGY Corp
+### EXPAND ENERGY Corp (Nasdaq: EXE) — *Crude Petroleum & Natural Gas*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000895126`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000895126` | **SIC:** `1311` | **Inc:** `OK` | **FYE:** `Dec 31`  
 > **Current Price:** `$94.21` | **Market Cap:** `$21.76B` | **Enterprise Value:** `$26.36B`  
 > **TTM Free Cash Flow Yield:** **`11.9%`** (SBC-Adjusted: **`11.7%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$94.21** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-19.92/sh** | `-21.1%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-30.94/sh** | `-32.8%` | Negative net current asset value |
-| **Tangible Book Value** | **$78.24/sh** | `83.0%` | Tangible physical assets cover 83.0% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-19.92/sh** | `-21.1%` | Net debt obligations exceed cash (`Cash $118.0M - Debt $4.72B = $-4.60B` across 231.0M sh) |
+| **Graham NCAV Floor** | **$-30.94/sh** | `-32.8%` | Negative net current asset value (`Curr. Assets $3.10B - Total Liab. $10.24B = $-7.15B`) |
+| **Tangible Book Value** | **$78.24/sh** | `83.0%` | Tangible physical assets cover 83.0% of price (`Total Tangible Equity: $18.07B`) |
 | **Zero-Growth DCF Floor** | **$108.18** | `114.8%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$56.75 – $126.62** | `58th %-tile` | ⚖️ Historical Midpoint |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

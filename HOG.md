@@ -1,9 +1,9 @@
 # HOG — Executive Investment Card
-### HARLEY-DAVIDSON, INC.
+### HARLEY-DAVIDSON, INC. (NYSE: HOG) — *Motorcycles, Bicycles & Parts*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000793952`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000793952` | **SIC:** `3751` | **Inc:** `WI` | **FYE:** `Dec 31`  
 > **Current Price:** `$28.73` | **Market Cap:** `$2.99B` | **Enterprise Value:** `$2.91B`  
 > **TTM Free Cash Flow Yield:** **`-4.5%`** (SBC-Adjusted: **`-5.5%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$28.73** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$0.77/sh** | `2.7%` | Bank cash backs 2.7% of stock price |
-| **Graham NCAV Floor** | **$4.25/sh** | `14.8%` | Net liquid assets cover 14.8% of stock price |
-| **Tangible Book Value** | **$29.11/sh** | `101.3%` | Tangible physical assets cover 101.3% of price |
+| **Net Cash Floor (Ex-Debt)** | **$0.77/sh** | `2.7%` | Bank cash backs 2.7% of stock price (`Cash $1.91B - Debt $1.83B = +$79.9M` across 104.1M sh) |
+| **Graham NCAV Floor** | **$4.25/sh** | `14.8%` | Net liquid assets cover 14.8% of stock price (`Curr. Assets $4.59B - Total Liab. $4.15B = +$442.6M`) |
+| **Tangible Book Value** | **$29.11/sh** | `101.3%` | Tangible physical assets cover 101.3% of price (`Total Tangible Equity: $3.03B`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
 | **5-Year Price Corridor** | **$17.09 – $51.77** | `34th %-tile` | Accumulation Zone (Below Median) |
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

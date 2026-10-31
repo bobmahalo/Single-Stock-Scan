@@ -1,9 +1,9 @@
 # LOVE — Executive Investment Card
-### Lovesac Co
+### Lovesac Co (Nasdaq: LOVE) — *Retail-Furniture Stores*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001701758`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001701758` | **SIC:** `5712` | **Inc:** `DE` | **FYE:** `Feb 04`  
 > **Current Price:** `$14.75` | **Market Cap:** `$212.7M` | **Enterprise Value:** `$427.0M`  
 > **TTM Free Cash Flow Yield:** **`21.3%`** (SBC-Adjusted: **`19.4%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$14.75** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-14.85/sh** | `-100.7%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-6.25/sh** | `-42.4%` | Negative net current asset value |
-| **Tangible Book Value** | **$14.36/sh** | `97.4%` | Tangible physical assets cover 97.4% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-14.85/sh** | `-100.7%` | Net debt obligations exceed cash (`Cash $68.8M - Debt $283.0M = $-214.2M` across 14.4M sh) |
+| **Graham NCAV Floor** | **$-6.25/sh** | `-42.4%` | Negative net current asset value (`Curr. Assets $238.8M - Total Liab. $329.0M = $-90.2M`) |
+| **Tangible Book Value** | **$14.36/sh** | `97.4%` | Tangible physical assets cover 97.4% of price (`Total Tangible Equity: $207.1M`) |
 | **Zero-Growth DCF Floor** | **$20.99** | `142.3%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$13.63 – $16.75** | `34th %-tile` | Accumulation Zone (Below Median) |
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

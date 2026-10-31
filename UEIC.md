@@ -1,9 +1,9 @@
 # UEIC — Executive Investment Card
-### UNIVERSAL ELECTRONICS INC
+### UNIVERSAL ELECTRONICS INC (Nasdaq: UEIC) — *Household Audio & Video Equipment*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0000101984`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000101984` | **SIC:** `3651` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$5.17` | **Market Cap:** `$66.6M` | **Enterprise Value:** `$43.7M`  
 > **TTM Free Cash Flow Yield:** **`12.4%`** (SBC-Adjusted: **`7.9%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$5.17** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$1.78/sh** | `34.4%` | Bank cash backs 34.4% of stock price |
-| **Graham NCAV Floor** | **$6.20/sh** | `119.9%` | Trades below liquidation value (119.9% of price, lacks Graham 33% haircut) |
-| **Tangible Book Value** | **$9.53/sh** | `184.3%` | Tangible physical assets cover 184.3% of price |
+| **Net Cash Floor (Ex-Debt)** | **$1.78/sh** | `34.4%` | Bank cash backs 34.4% of stock price (`Cash $32.4M - Debt $9.5M = +$22.9M` across 12.9M sh) |
+| **Graham NCAV Floor** | **$6.20/sh** | `119.9%` | Trades below liquidation value (119.9% of price, lacks Graham 33% haircut) (`Curr. Assets $204.2M - Total Liab. $124.4M = +$79.9M`) |
+| **Tangible Book Value** | **$9.53/sh** | `184.3%` | Tangible physical assets cover 184.3% of price (`Total Tangible Equity: $122.8M`) |
 | **Zero-Growth DCF Floor** | **$9.08** | `175.6%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$4.68 – $5.59** | `58th %-tile` | ⚖️ Historical Midpoint |
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

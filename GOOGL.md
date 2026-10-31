@@ -1,9 +1,9 @@
 # GOOGL — Executive Investment Card
-### Alphabet Inc.
+### Alphabet Inc. (Nasdaq: GOOGL) — *Services-Computer Programming, Data Processing, Etc.*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001652044`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001652044` | **SIC:** `7370` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$282.86` | **Market Cap:** `$3,477.48B` | **Enterprise Value:** `$3,359.01B`  
 > **TTM Free Cash Flow Yield:** **`0.6%`** (SBC-Adjusted: **`-0.3%`**)
 
@@ -42,7 +42,7 @@
 
 | Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
 | :--- | :---: | :--- | :--- |
-| **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `8.40` (SAFE (> 2.99))<br>• **Beneish M:** `-2.14` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
+| **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `8.40` (SAFE (> 2.99))<br>• **Beneish M:** `-2.68` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **FCF Yield:** `0.6%`<br>• **Net Cash:** `$9.64/sh` (3.4% of price)<br>• **Graham NCAV:** `$3.98/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
 | **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.7%` (Cannibal Buyback)<br>• **SBC % OCF:** `17.0%`<br>• **Insiders:** `$-52K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$282.86** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$9.64/sh** | `3.4%` | Bank cash backs 3.4% of stock price |
-| **Graham NCAV Floor** | **$3.98/sh** | `1.4%` | Net liquid assets cover 1.4% of stock price |
-| **Tangible Book Value** | **$49.67/sh** | `17.6%` | Tangible physical assets cover 17.6% of price |
+| **Net Cash Floor (Ex-Debt)** | **$9.64/sh** | `3.4%` | Bank cash backs 3.4% of stock price (`Cash $265.10B - Debt $146.63B = +$118.47B` across 12,294.0M sh) |
+| **Graham NCAV Floor** | **$3.98/sh** | `1.4%` | Net liquid assets cover 1.4% of stock price (`Curr. Assets $374.67B - Total Liab. $325.76B = +$48.90B`) |
+| **Tangible Book Value** | **$49.67/sh** | `17.6%` | Tangible physical assets cover 17.6% of price (`Total Tangible Equity: $610.62B`) |
 | **Zero-Growth DCF Floor** | **$27.97** | `9.9%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$83.34 – $408.61** | `81th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -421,7 +421,7 @@
 | **Accounts Receivable** | $39,304.0M | $40,258.0M | $47,964.0M | $52,340.0M | $62,886.0M | $72,784.0M |
 | **Inventory** | $1,170.0M | $2,670.0M | `NR` | `NR` | $2,439.0M | $13,308.0M |
 | **Total Current Assets** | $188,143.0M | $164,795.0M | $171,530.0M | $163,711.0M | $206,038.0M | $374,665.0M |
-| **Property Plant and Equipment Net** | $97,599.0M | $112,668.0M | $134,345.0M | $171,036.0M | `NR` | `NR` |
+| **Property Plant and Equipment Net** | $97,599.0M | $112,668.0M | $134,345.0M | $171,036.0M | $246,597.0M | $372,827.0M |
 | **Goodwill** | $22,956.0M | $28,960.0M | $29,198.0M | $31,885.0M | $33,380.0M | $58,117.0M |
 | **Intangible Assets Ex Goodwill** | $1,417.0M | $2,084.0M | `NR` | `NR` | $1,283.0M | $8,817.0M |
 | **Total Assets** | $359,268.0M | $365,264.0M | $402,392.0M | $450,256.0M | $595,281.0M | $1,003,312.0M |
@@ -446,7 +446,7 @@
 | **Accounts Receivable** | $55,048.0M | $57,148.0M | $62,886.0M | $62,999.0M | $69,175.0M | $72,784.0M |
 | **Inventory** | `NR` | `NR` | $2,439.0M | `NR` | $9,991.0M | $13,308.0M |
 | **Total Current Assets** | $166,216.0M | $173,947.0M | $206,038.0M | $213,753.0M | $343,524.0M | $374,665.0M |
-| **Property Plant and Equipment Net** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Property Plant and Equipment Net** | $203,231.0M | $223,787.0M | $246,597.0M | $281,020.0M | $321,212.0M | $372,827.0M |
 | **Goodwill** | $32,335.0M | $33,269.0M | $33,380.0M | $57,774.0M | $57,828.0M | $58,117.0M |
 | **Intangible Assets Ex Goodwill** | `NR` | `NR` | $1,283.0M | $9,444.0M | $9,105.0M | $8,817.0M |
 | **Total Assets** | $502,053.0M | $536,469.0M | $595,281.0M | $703,919.0M | $921,983.0M | $1,003,312.0M |
@@ -530,7 +530,7 @@
 | **Accounts Receivable** | 10.9% | 11.0% | 11.9% | 11.6% | 10.6% | 7.3% |
 | **Inventory** | 0.3% | 0.7% | `NR` | `NR` | 0.4% | 1.3% |
 | **Total Current Assets** | 52.4% | 45.1% | 42.6% | 36.4% | 34.6% | 37.3% |
-| **Property Plant and Equipment Net** | 27.2% | 30.8% | 33.4% | 38.0% | `NR` | `NR` |
+| **Property Plant and Equipment Net** | 27.2% | 30.8% | 33.4% | 38.0% | 41.4% | 37.2% |
 | **Goodwill** | 6.4% | 7.9% | 7.3% | 7.1% | 5.6% | 5.8% |
 | **Intangible Assets Ex Goodwill** | 0.4% | 0.6% | `NR` | `NR` | 0.2% | 0.9% |
 | **Total Assets** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -589,7 +589,7 @@
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **6 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
 | **Altman Z-Score (Bankruptcy / Solvency)** | **8.40** (SAFE (> 2.99)) | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
-| **Beneish M-Score (Earnings Manipulation)** | **-2.14** (CLEAN / NON-MANIPULATOR (<= -1.78)) | `<= -1.78` Clean, `> -1.78` Manipulation Risk |
+| **Beneish M-Score (Earnings Manipulation)** | **-2.68** (CLEAN / NON-MANIPULATOR (<= -1.78)) | `<= -1.78` Clean, `> -1.78` Manipulation Risk |
 | **SBC / Operating Cash Flow Spread (TTM)** | `17.00%` | `< 10%` Disciplined, `> 20%` Aggressive Stock Handouts |
 | **Serial Acquirer Roll-Up Dilution Audit** | Clean (Organic / Disciplined Capital Allocation) | 5Y M&A = `0.0%` of 5Y FCF; Goodwill+Intang = `6.7%` of Assets |
 
@@ -646,7 +646,7 @@
 | `balance` | **Accounts_Receivable** | `2026-09-30` (I) | `FILED` | `us-gaap:AccountsReceivableNetCurrent` | `0001652044-26-000084` | `2026-10-29` |
 | `balance` | **Inventory** | `2026-09-30` (I) | `FILED` | `us-gaap:InventoryNet` | `0001652044-26-000084` | `2026-10-29` |
 | `balance` | **Total_Current_Assets** | `2026-09-30` (I) | `FILED` | `us-gaap:AssetsCurrent` | `0001652044-26-000084` | `2026-10-29` |
-| `balance` | **Property_Plant_and_Equipment_Net** | `2025-03-31` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentNet` | `0001652044-25-000043` | `2025-04-25` |
+| `balance` | **Property_Plant_and_Equipment_Net** | `2026-09-30` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization` | `0001652044-26-000084` | `2026-10-29` |
 | `balance` | **Goodwill** | `2026-09-30` (I) | `FILED` | `us-gaap:Goodwill` | `0001652044-26-000084` | `2026-10-29` |
 | `balance` | **Intangible_Assets_Ex_Goodwill** | `2026-09-30` (I) | `FILED` | `us-gaap:IntangibleAssetsNetExcludingGoodwill` | `0001652044-26-000084` | `2026-10-29` |
 | `balance` | **Total_Assets** | `2026-09-30` (I) | `FILED` | `us-gaap:Assets` | `0001652044-26-000084` | `2026-10-29` |

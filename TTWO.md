@@ -1,9 +1,9 @@
 # TTWO — Executive Investment Card
-### TAKE TWO INTERACTIVE SOFTWARE INC
+### TAKE TWO INTERACTIVE SOFTWARE INC (Nasdaq: TTWO) — *Services-Prepackaged Software*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0000946581`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000946581` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Mar 31`  
 > **Current Price:** `$205.93` | **Market Cap:** `$38.50B` | **Enterprise Value:** `$39.62B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`** (SBC-Adjusted: **`-0.0%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$205.93** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-5.98/sh** | `-2.9%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-13.36/sh** | `-6.5%` | Negative net current asset value |
-| **Tangible Book Value** | **$5.64/sh** | `2.7%` | Tangible physical assets cover 2.7% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-5.98/sh** | `-2.9%` | Net debt obligations exceed cash (`Cash $1.83B - Debt $2.94B = $-1.12B` across 187.0M sh) |
+| **Graham NCAV Floor** | **$-13.36/sh** | `-6.5%` | Negative net current asset value (`Curr. Assets $2.96B - Total Liab. $5.46B = $-2.50B`) |
+| **Tangible Book Value** | **$5.64/sh** | `2.7%` | Tangible physical assets cover 2.7% of price (`Total Tangible Equity: $1.05B`) |
 | **Zero-Growth DCF Floor** | **$14.62** | `7.1%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$191.68 – $264.64** | `4th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

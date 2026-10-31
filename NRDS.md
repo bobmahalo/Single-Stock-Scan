@@ -1,9 +1,9 @@
 # NRDS — Executive Investment Card
-### NERDWALLET, INC.
+### NERDWALLET, INC. (Nasdaq: NRDS) — *Services-Computer Processing & Data Preparation*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001625278`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001625278` | **SIC:** `7374` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$10.03` | **Market Cap:** `$640.7M` | **Enterprise Value:** `$585.8M`  
 > **TTM Free Cash Flow Yield:** **`25.5%`** (SBC-Adjusted: **`21.2%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$10.03** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$0.86/sh** | `8.6%` | Bank cash backs 8.6% of stock price |
-| **Graham NCAV Floor** | **$1.71/sh** | `17.0%` | Net liquid assets cover 17.0% of stock price |
-| **Tangible Book Value** | **$2.67/sh** | `26.6%` | Tangible physical assets cover 26.6% of price |
+| **Net Cash Floor (Ex-Debt)** | **$0.86/sh** | `8.6%` | Bank cash backs 8.6% of stock price (`Cash $62.0M - Debt $7.1M = +$54.9M` across 63.9M sh) |
+| **Graham NCAV Floor** | **$1.71/sh** | `17.0%` | Net liquid assets cover 17.0% of stock price (`Curr. Assets $201.3M - Total Liab. $92.2M = +$109.1M`) |
+| **Tangible Book Value** | **$2.67/sh** | `26.6%` | Tangible physical assets cover 26.6% of price (`Total Tangible Equity: $170.4M`) |
 | **Zero-Growth DCF Floor** | **$30.06** | `299.7%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$9.28 – $11.56** | `23th %-tile` | Accumulation Zone (Below Median) |
 
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

@@ -1,9 +1,9 @@
 # CRON — Executive Investment Card
-### Cronos Group Inc.
+### Cronos Group Inc. (Nasdaq: CRON) — *Medicinal Chemicals & Botanical Products*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001656472`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001656472` | **SIC:** `2833` | **Inc:** `A1` | **FYE:** `Dec 31`  
 > **Current Price:** `$3.20` | **Market Cap:** `$1.18B` | **Enterprise Value:** `$383.2M`  
 > **TTM Free Cash Flow Yield:** **`4.2%`** (SBC-Adjusted: **`3.7%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$3.20** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$2.16/sh** | `67.5%` | Bank cash backs 67.5% of stock price |
-| **Graham NCAV Floor** | **$2.31/sh** | `72.2%` | Net liquid assets cover 72.2% of stock price |
-| **Tangible Book Value** | **$2.70/sh** | `84.4%` | Tangible physical assets cover 84.4% of price |
+| **Net Cash Floor (Ex-Debt)** | **$2.16/sh** | `67.5%` | Bank cash backs 67.5% of stock price (`Cash $797.0M - Debt $1.3M = +$795.7M` across 368.4M sh) |
+| **Graham NCAV Floor** | **$2.31/sh** | `72.2%` | Net liquid assets cover 72.2% of stock price (`Curr. Assets $912.0M - Total Liab. $62.4M = +$849.6M`) |
+| **Tangible Book Value** | **$2.70/sh** | `84.4%` | Tangible physical assets cover 84.4% of price (`Total Tangible Equity: $996.5M`) |
 | **Zero-Growth DCF Floor** | **$3.70** | `115.6%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$2.86 – $3.45** | `67th %-tile` | Elevated Cycle Range |
 
@@ -335,7 +335,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

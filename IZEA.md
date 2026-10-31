@@ -1,9 +1,9 @@
 # IZEA — Executive Investment Card
-### IZEA Worldwide, Inc.
+### IZEA Worldwide, Inc. (Nasdaq: IZEA) — *Services-Advertising*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001495231`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001495231` | **SIC:** `7310` | **Inc:** `NV` | **FYE:** `Dec 31`  
 > **Current Price:** `$2.31` | **Market Cap:** `$40.2M` | **Enterprise Value:** `$-6.3M`  
 > **TTM Free Cash Flow Yield:** **`5.9%`** (SBC-Adjusted: **`1.9%`**)
 
@@ -78,9 +78,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$2.31** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$2.67/sh** | `115.6%` | Bank cash backs 100.0% of stock price |
-| **Graham NCAV Floor** | **$2.57/sh** | `111.3%` | Trades below liquidation value (111.3% of price, lacks Graham 33% haircut) |
-| **Tangible Book Value** | **$2.58/sh** | `111.7%` | Tangible physical assets cover 111.7% of price |
+| **Net Cash Floor (Ex-Debt)** | **$2.67/sh** | `115.6%` | Bank cash backs 100.0% of stock price (`Cash $46.6M - Debt $0.1M = +$46.5M` across 17.4M sh) |
+| **Graham NCAV Floor** | **$2.57/sh** | `111.3%` | Trades below liquidation value (111.3% of price, lacks Graham 33% haircut) (`Curr. Assets $51.4M - Total Liab. $6.6M = +$44.8M`) |
+| **Tangible Book Value** | **$2.58/sh** | `111.7%` | Tangible physical assets cover 111.7% of price (`Total Tangible Equity: $44.9M`) |
 | **Zero-Growth DCF Floor** | **$4.23** | `183.1%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$1.94 – $2.49** | `89th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

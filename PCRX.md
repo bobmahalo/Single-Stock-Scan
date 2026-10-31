@@ -1,9 +1,9 @@
 # PCRX — Executive Investment Card
-### Pacira BioSciences, Inc.
+### Pacira BioSciences, Inc. (Nasdaq: PCRX) — *Pharmaceutical Preparations*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001396814`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001396814` | **SIC:** `2834` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$36.35` | **Market Cap:** `$1.45B` | **Enterprise Value:** `$1.89B`  
 > **TTM Free Cash Flow Yield:** **`12.4%`** (SBC-Adjusted: **`8.5%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$36.35** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-11.05/sh** | `-30.4%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$1.08/sh** | `3.0%` | Net liquid assets cover 3.0% of stock price |
-| **Tangible Book Value** | **$9.20/sh** | `25.3%` | Tangible physical assets cover 25.3% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-11.05/sh** | `-30.4%` | Net debt obligations exceed cash (`Cash $251.0M - Debt $691.5M = $-440.4M` across 39.9M sh) |
+| **Graham NCAV Floor** | **$1.08/sh** | `3.0%` | Net liquid assets cover 3.0% of stock price (`Curr. Assets $615.2M - Total Liab. $572.0M = +$43.2M`) |
+| **Tangible Book Value** | **$9.20/sh** | `25.3%` | Tangible physical assets cover 25.3% of price (`Total Tangible Equity: $366.9M`) |
 | **Zero-Growth DCF Floor** | **$40.35** | `111.0%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$11.16 – $82.16** | `64th %-tile` | Elevated Cycle Range |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

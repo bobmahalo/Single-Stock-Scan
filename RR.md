@@ -1,9 +1,9 @@
 # RR — Executive Investment Card
-### RICHTECH ROBOTICS INC.
+### RICHTECH ROBOTICS INC. (Nasdaq: RR) — *General Industrial Machinery & Equipment, NEC*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001963685`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001963685` | **SIC:** `3569` | **Inc:** `NV` | **FYE:** `Sep 30`  
 > **Current Price:** `$1.25` | **Market Cap:** `$280.4M` | **Enterprise Value:** `$-58.3M`  
 > **TTM Free Cash Flow Yield:** **`-10.4%`** (SBC-Adjusted: **`-13.7%`**)
 
@@ -78,9 +78,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$1.25** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$1.51/sh** | `120.8%` | Bank cash backs 100.0% of stock price |
-| **Graham NCAV Floor** | **$1.52/sh** | `121.6%` | Trades below liquidation value (121.6% of price, lacks Graham 33% haircut) |
-| **Tangible Book Value** | **$1.64/sh** | `131.2%` | Tangible physical assets cover 131.2% of price |
+| **Net Cash Floor (Ex-Debt)** | **$1.51/sh** | `120.8%` | Bank cash backs 100.0% of stock price (`Cash $339.6M - Debt $0.9M = +$338.7M` across 224.3M sh) |
+| **Graham NCAV Floor** | **$1.52/sh** | `121.6%` | Trades below liquidation value (121.6% of price, lacks Graham 33% haircut) (`Curr. Assets $344.8M - Total Liab. $4.1M = +$340.7M`) |
+| **Tangible Book Value** | **$1.64/sh** | `131.2%` | Tangible physical assets cover 131.2% of price (`Total Tangible Equity: $368.7M`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
 | **5-Year Price Corridor** | **$1.15 – $1.41** | `19th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -338,7 +338,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

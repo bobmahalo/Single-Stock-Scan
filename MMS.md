@@ -1,9 +1,9 @@
 # MMS — Executive Investment Card
-### MAXIMUS, INC.
+### MAXIMUS, INC. (NYSE: MMS) — *Services-Business Services, NEC*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001032220`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001032220` | **SIC:** `7389` | **Inc:** `VA` | **FYE:** `Sep 30`  
 > **Current Price:** `$63.28` | **Market Cap:** `$3.31B` | **Enterprise Value:** `$4.99B`  
 > **TTM Free Cash Flow Yield:** **`13.1%`** (SBC-Adjusted: **`12.0%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$63.28** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-31.99/sh** | `-50.6%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-18.81/sh** | `-29.7%` | Negative net current asset value |
-| **Tangible Book Value** | **$-9.87/sh** | `-15.6%` | Negative tangible book value |
+| **Net Cash Floor (Ex-Debt)** | **$-31.99/sh** | `-50.6%` | Net debt obligations exceed cash (`Cash $57.0M - Debt $1.73B = $-1.67B` across 52.4M sh) |
+| **Graham NCAV Floor** | **$-18.81/sh** | `-29.7%` | Negative net current asset value (`Curr. Assets $1.64B - Total Liab. $2.63B = $-984.9M`) |
+| **Tangible Book Value** | **$-9.87/sh** | `-15.6%` | Negative tangible book value (`Total Tangible Equity: $-517.0M`) |
 | **Zero-Growth DCF Floor** | **$62.45** | `98.7%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$51.04 – $100.00** | `16th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

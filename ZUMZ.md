@@ -1,9 +1,9 @@
 # ZUMZ — Executive Investment Card
-### Zumiez Inc
+### Zumiez Inc (Nasdaq: ZUMZ) — *Retail-Apparel & Accessory Stores*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:39 UTC` | **CIK:** `0001318008`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001318008` | **SIC:** `5600` | **Inc:** `WA` | **FYE:** `Feb 03`  
 > **Current Price:** `$14.44` | **Market Cap:** `$221.4M` | **Enterprise Value:** `$353.9M`  
 > **TTM Free Cash Flow Yield:** **`11.3%`** (SBC-Adjusted: **`7.9%`**)
 
@@ -78,9 +78,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$14.44** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-8.64/sh** | `-59.8%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-3.40/sh** | `-23.5%` | Negative net current asset value |
-| **Tangible Book Value** | **$16.20/sh** | `112.2%` | Tangible physical assets cover 112.2% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-8.64/sh** | `-59.8%` | Net debt obligations exceed cash (`Cash $97.3M - Debt $229.8M = $-132.5M` across 15.3M sh) |
+| **Graham NCAV Floor** | **$-3.40/sh** | `-23.5%` | Negative net current asset value (`Curr. Assets $296.3M - Total Liab. $348.4M = $-52.1M`) |
+| **Tangible Book Value** | **$16.20/sh** | `112.2%` | Tangible physical assets cover 112.2% of price (`Total Tangible Equity: $248.4M`) |
 | **Zero-Growth DCF Floor** | **$10.03** | `69.5%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$13.41 – $16.93** | `8th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:39 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

@@ -1,9 +1,9 @@
 # DLTH — Executive Investment Card
-### DULUTH HOLDINGS INC.
+### DULUTH HOLDINGS INC. (Nasdaq: DLTH) — *Retail-Apparel & Accessory Stores*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001649744`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001649744` | **SIC:** `5600` | **FYE:** `Feb 01`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$235.5M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`** (SBC-Adjusted: **`37.6%`**)
 
@@ -78,9 +78,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$4.00** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-2.47/sh** | `-61.8%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-0.99/sh** | `-24.8%` | Negative net current asset value |
-| **Tangible Book Value** | **$4.87/sh** | `121.8%` | Tangible physical assets cover 121.8% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-2.47/sh** | `-61.8%` | Net debt obligations exceed cash (`Cash $26.8M - Debt $116.7M = $-89.9M` across 36.4M sh) |
+| **Graham NCAV Floor** | **$-0.99/sh** | `-24.8%` | Negative net current asset value (`Curr. Assets $182.9M - Total Liab. $218.9M = $-35.9M`) |
+| **Tangible Book Value** | **$4.87/sh** | `121.8%` | Tangible physical assets cover 121.8% of price (`Total Tangible Equity: $177.1M`) |
 | **Zero-Growth DCF Floor** | **$15.58** | `389.5%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$3.35 – $4.35** | `90th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

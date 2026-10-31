@@ -1,9 +1,9 @@
 # CRUS — Executive Investment Card
-### CIRRUS LOGIC, INC.
+### CIRRUS LOGIC, INC. (Nasdaq: CRUS) — *Semiconductors & Related Devices*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000772406`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000772406` | **SIC:** `3674` | **Inc:** `DE` | **FYE:** `Mar 27`  
 > **Current Price:** `$110.31` | **Market Cap:** `$5.53B` | **Enterprise Value:** `$4.77B`  
 > **TTM Free Cash Flow Yield:** **`10.3%`** (SBC-Adjusted: **`8.9%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$110.31** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$15.18/sh** | `13.8%` | Bank cash backs 13.8% of stock price |
-| **Graham NCAV Floor** | **$21.99/sh** | `19.9%` | Net liquid assets cover 19.9% of stock price |
-| **Tangible Book Value** | **$34.60/sh** | `31.4%` | Tangible physical assets cover 31.4% of price |
+| **Net Cash Floor (Ex-Debt)** | **$15.18/sh** | `13.8%` | Bank cash backs 13.8% of stock price (`Cash $891.3M - Debt $130.5M = +$760.8M` across 50.1M sh) |
+| **Graham NCAV Floor** | **$21.99/sh** | `19.9%` | Net liquid assets cover 19.9% of stock price (`Curr. Assets $1.47B - Total Liab. $371.1M = +$1.10B`) |
+| **Tangible Book Value** | **$34.60/sh** | `31.4%` | Tangible physical assets cover 31.4% of price (`Total Tangible Equity: $1.73B`) |
 | **Zero-Growth DCF Floor** | **$145.47** | `131.9%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$99.76 – $118.83** | `64th %-tile` | Elevated Cycle Range |
 
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-27 -> 2026-06-27` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

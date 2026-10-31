@@ -1,9 +1,9 @@
 # APTV — Executive Investment Card
-### Aptiv PLC
+### Aptiv PLC (NYSE: APTV) — *Motor Vehicle Parts & Accessories*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001521332`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001521332` | **SIC:** `3714` | **Inc:** `Y9` | **FYE:** `Dec 31`  
 > **Current Price:** `$42.21` | **Market Cap:** `$8.76B` | **Enterprise Value:** `$13.69B`  
 > **TTM Free Cash Flow Yield:** **`7.8%`** (SBC-Adjusted: **`6.4%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$42.21** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-23.71/sh** | `-56.2%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-15.60/sh** | `-37.0%` | Negative net current asset value |
-| **Tangible Book Value** | **$14.16/sh** | `33.5%` | Tangible physical assets cover 33.5% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-23.71/sh** | `-56.2%` | Net debt obligations exceed cash (`Cash $761.0M - Debt $5.68B = $-4.92B` across 207.6M sh) |
+| **Graham NCAV Floor** | **$-15.60/sh** | `-37.0%` | Negative net current asset value (`Curr. Assets $6.00B - Total Liab. $9.24B = $-3.24B`) |
+| **Tangible Book Value** | **$14.16/sh** | `33.5%` | Tangible physical assets cover 33.5% of price (`Total Tangible Equity: $2.94B`) |
 | **Zero-Growth DCF Floor** | **$13.89** | `32.9%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$41.88 – $180.81** | `0th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

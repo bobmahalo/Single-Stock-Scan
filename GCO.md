@@ -1,9 +1,9 @@
 # GCO — Executive Investment Card
-### GENESCO INC
+### GENESCO INC (NYSE: GCO) — *Retail-Shoe Stores*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000018498`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000018498` | **SIC:** `5661` | **Inc:** `TN` | **FYE:** `Jan 30`  
 > **Current Price:** `$37.42` | **Market Cap:** `$404.9M` | **Enterprise Value:** `$931.7M`  
 > **TTM Free Cash Flow Yield:** **`18.2%`** (SBC-Adjusted: **`15.3%`**)
 
@@ -78,9 +78,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$37.42** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-48.68/sh** | `-130.1%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-25.04/sh** | `-66.9%` | Negative net current asset value |
-| **Tangible Book Value** | **$48.12/sh** | `128.6%` | Tangible physical assets cover 128.6% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-48.68/sh** | `-130.1%` | Net debt obligations exceed cash (`Cash $57.1M - Debt $583.9M = $-526.8M` across 10.8M sh) |
+| **Graham NCAV Floor** | **$-25.04/sh** | `-66.9%` | Negative net current asset value (`Curr. Assets $676.3M - Total Liab. $947.3M = $-271.0M`) |
+| **Tangible Book Value** | **$48.12/sh** | `128.6%` | Tangible physical assets cover 128.6% of price (`Total Tangible Equity: $520.7M`) |
 | **Zero-Growth DCF Floor** | **$29.20** | `78.0%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$24.55 – $39.89** | `97th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

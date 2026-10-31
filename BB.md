@@ -1,9 +1,9 @@
 # BB — Executive Investment Card
-### BLACKBERRY Ltd
+### BLACKBERRY Ltd (NYSE: BB) — *Services-Prepackaged Software*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001070235`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001070235` | **SIC:** `7372` | **FYE:** `Feb 28`  
 > **Current Price:** `$8.69` | **Market Cap:** `$5.10B` | **Enterprise Value:** `$4.95B`  
 > **TTM Free Cash Flow Yield:** **`1.8%`** (SBC-Adjusted: **`1.3%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$8.69** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$0.25/sh** | `2.9%` | Bank cash backs 2.9% of stock price |
-| **Graham NCAV Floor** | **$0.15/sh** | `1.7%` | Net liquid assets cover 1.7% of stock price |
-| **Tangible Book Value** | **$0.46/sh** | `5.3%` | Tangible physical assets cover 5.3% of price |
+| **Net Cash Floor (Ex-Debt)** | **$0.25/sh** | `2.9%` | Bank cash backs 2.9% of stock price (`Cash $377.5M - Debt $230.5M = +$147.0M` across 587.0M sh) |
+| **Graham NCAV Floor** | **$0.15/sh** | `1.7%` | Net liquid assets cover 1.7% of stock price (`Curr. Assets $561.9M - Total Liab. $471.4M = +$90.5M`) |
+| **Tangible Book Value** | **$0.46/sh** | `5.3%` | Tangible physical assets cover 5.3% of price (`Total Tangible Equity: $268.7M`) |
 | **Zero-Growth DCF Floor** | **$2.04** | `23.5%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$8.16 – $10.57** | `6th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-30 -> 2026-08-31` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

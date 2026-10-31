@@ -1,9 +1,9 @@
 # AAPL — Executive Investment Card
-### Apple Inc.
+### Apple Inc. (Nasdaq: AAPL) — *Electronic Computers*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:36 UTC` | **CIK:** `0000320193`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000320193` | **SIC:** `3571` | **Inc:** `CA` | **FYE:** `Sep 26`  
 > **Current Price:** `$342.00` | **Market Cap:** `$4,991.21B` | **Enterprise Value:** `$5,023.65B`  
 > **TTM Free Cash Flow Yield:** **`2.7%`** (SBC-Adjusted: **`2.5%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$342.00** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-2.22/sh** | `-0.6%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-8.63/sh** | `-2.5%` | Negative net current asset value |
-| **Tangible Book Value** | **$5.23/sh** | `1.5%` | Tangible physical assets cover 1.5% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-2.22/sh** | `-0.6%` | Net debt obligations exceed cash (`Cash $62.40B - Debt $94.84B = $-32.44B` across 14,594.2M sh) |
+| **Graham NCAV Floor** | **$-8.63/sh** | `-2.5%` | Negative net current asset value (`Curr. Assets $149.82B - Total Liab. $275.75B = $-125.93B`) |
+| **Tangible Book Value** | **$5.23/sh** | `1.5%` | Tangible physical assets cover 1.5% of price (`Total Tangible Equity: $76.39B`) |
 | **Zero-Growth DCF Floor** | **$104.67** | `30.6%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$229.25 – $361.26** | `96th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:36 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-27 -> 2026-06-27` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

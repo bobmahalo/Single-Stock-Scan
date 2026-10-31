@@ -1,9 +1,9 @@
 # SBH — Executive Investment Card
-### Sally Beauty Holdings, Inc.
+### Sally Beauty Holdings, Inc. (NYSE: SBH) — *Retail-Retail Stores, NEC*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001368458`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001368458` | **SIC:** `5990` | **FYE:** `Sep 30`  
 > **Current Price:** `$17.12` | **Market Cap:** `$1.60B` | **Enterprise Value:** `$2.96B`  
 > **TTM Free Cash Flow Yield:** **`15.0%`** (SBC-Adjusted: **`13.6%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$17.12** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-14.46/sh** | `-84.5%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-7.48/sh** | `-43.7%` | Negative net current asset value |
-| **Tangible Book Value** | **$3.02/sh** | `17.6%` | Tangible physical assets cover 17.6% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-14.46/sh** | `-84.5%` | Net debt obligations exceed cash (`Cash $173.1M - Debt $1.53B = $-1.35B` across 93.6M sh) |
+| **Graham NCAV Floor** | **$-7.48/sh** | `-43.7%` | Negative net current asset value (`Curr. Assets $1.31B - Total Liab. $2.01B = $-700.5M`) |
+| **Tangible Book Value** | **$3.02/sh** | `17.6%` | Tangible physical assets cover 17.6% of price (`Total Tangible Equity: $282.3M`) |
 | **Zero-Growth DCF Floor** | **$14.95** | `87.3%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$15.90 – $23.24** | `4th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

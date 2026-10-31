@@ -1,9 +1,9 @@
 # DOW — Executive Investment Card
-### DOW INC.
+### DOW INC. (NYSE: DOW) — *Plastic Materials, Synth Resins & Nonvulcan Elastomers*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001751788`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001751788` | **SIC:** `2821` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$30.07` | **Market Cap:** `$21.77B` | **Enterprise Value:** `$35.58B`  
 > **TTM Free Cash Flow Yield:** **`-6.6%`** (SBC-Adjusted: **`-7.4%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$30.07** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-19.08/sh** | `-63.5%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-34.02/sh** | `-113.1%` | Negative net current asset value |
-| **Tangible Book Value** | **$9.52/sh** | `31.7%` | Tangible physical assets cover 31.7% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-19.08/sh** | `-63.5%` | Net debt obligations exceed cash (`Cash $5.08B - Debt $18.89B = $-13.81B` across 723.9M sh) |
+| **Graham NCAV Floor** | **$-34.02/sh** | `-113.1%` | Negative net current asset value (`Curr. Assets $20.18B - Total Liab. $44.80B = $-24.62B`) |
+| **Tangible Book Value** | **$9.52/sh** | `31.7%` | Tangible physical assets cover 31.7% of price (`Total Tangible Equity: $6.89B`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
 | **5-Year Price Corridor** | **$25.70 – $32.42** | `88th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -338,7 +338,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -384,7 +384,7 @@
 | **Research and Development** | $857.0M | $851.0M | $829.0M | $810.0M | $752.0M | $725.0M* |
 | **Selling General and Admin** | $1,645.0M | $1,675.0M | $1,627.0M | $1,581.0M | $1,392.0M | $1,504.0M* |
 | **Operating Expenses** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Operating Income** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Income** | $8,946.0M* | $6,765.0M* | $1,456.0M* | $2,487.0M* | -$1,563.0M* | `NR` |
 | **Interest Expense** | $801.0M | $675.0M | $800.0M | $887.0M | $948.0M | `NR` |
 | **Pre Tax Income** | $8,145.0M | $6,090.0M | $656.0M | $1,600.0M | -$2,511.0M | -$1,226.0M* |
 | **Income Tax Expense** | $1,740.0M | $1,450.0M | -$4.0M | $399.0M | -$67.0M | $47.0M* |
@@ -510,7 +510,7 @@
 | **Research and Development** | 1.6% | 1.5% | 1.9% | 1.9% | 1.9% | 1.8% |
 | **Selling General and Admin** | 3.0% | 2.9% | 3.6% | 3.7% | 3.5% | 3.7% |
 | **Operating Expenses** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Operating Income** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Income** | 16.3% | 11.9% | 3.3% | 5.8% | -3.9% | `NR` |
 | **Interest Expense** | 1.5% | 1.2% | 1.8% | 2.1% | 2.4% | `NR` |
 | **Pre Tax Income** | 14.8% | 10.7% | 1.5% | 3.7% | -6.3% | -3.0% |
 | **Income Tax Expense** | 3.2% | 2.5% | -0.0% | 0.9% | -0.2% | 0.1% |
@@ -549,7 +549,7 @@
 | Ratio / Metric | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Gross Margin Pct** | 19.61% | 15.05% | 10.94% | 10.72% | 6.34% | 8.14% |
-| **Operating Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Margin Pct** | 16.27% | 11.89% | 3.26% | 5.79% | -3.91% | `NR` |
 | **Net Margin Pct** | 11.48% | 8.05% | 1.32% | 2.60% | -6.56% | -3.84% |
 | **FCF Margin Pct** | 10.02% | 9.93% | 6.36% | -0.06% | -3.62% | `NR` |
 | **Current Ratio** | 1.58x | 1.81x | 1.77x | 1.61x | 1.97x | 1.76x |
@@ -558,20 +558,20 @@
 | **Total Debt** | $16,135.0M | $16,706.0M | $16,330.0M | $18,007.0M | $19,508.0M | $18,892.0M |
 | **Net Debt** | $12,902.0M | $11,881.0M | $13,343.0M | $15,818.0M | $15,692.0M | $14,750.0M |
 | **Debt to Equity** | 0.89x | 0.81x | 0.88x | 1.04x | 1.22x | 1.17x |
-| **Interest Coverage** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Interest Coverage** | 11.17x | 10.02x | 1.82x | 2.80x | -1.65x | `NR` |
 | **Net Common Overhang Shares** | +13.25M | +20.72M | +6.71M | +1.27M | -5.93M | +3.52M |
 | **Net Common Overhang Pct** | 1.80% | 2.94% | 0.95% | 0.18% | -0.83% | 0.49% |
 | **ROE Pct** | 34.74% | 22.12% | 3.17% | 6.43% | -16.39% | -9.63% |
-| **ROCE Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **ROIC Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **ROCE Pct** | 17.98% | 13.73% | 3.03% | 5.29% | -3.17% | `NR` |
+| **ROIC Pct** | 22.64% | 15.81% | 4.56% | 5.63% | -3.90% | `NR` |
 | **Total Shareholder Return USD** | $2,753.0M | $4,119.0M | $2,409.0M | $2,294.0M | $1,405.0M | `NR` |
 | **Shareholder Yield Pct** | 12.65% | 18.92% | 11.07% | 10.54% | 6.45% | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
-| **ROIC Pct** | `NR` | `NR` | `NR` | `NR` |
-| **ROCE Pct** | `NR` | `NR` | `NR` | `NR` |
+| **ROIC Pct** | 5.63% | -3.90% | 6.27% | -3.90% |
+| **ROCE Pct** | 5.29% | -3.17% | 5.54% | -3.17% |
 | **ROE Pct** | 6.43% | -16.39% | 6.43% | -16.39% |
 
 ---
@@ -594,7 +594,7 @@
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **-6.65%** | **-7.15%** | **31.65%** | **186.03%** | `NR / NA` | **-4.07%** |
+| **-6.65%** | **-7.15%** | **31.65%** | **186.03%** | **-4.39%** | **-4.07%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
@@ -629,6 +629,7 @@
 | `income` | **Gross_Profit** | `2026-09-30` (Q) | `DERIVED` | `DERIVED:Revenue - Cost_of_Revenue` | `0001751788-26-000160` | `2026-10-23` |
 | `income` | **Research_and_Development** | `2026-09-30` (Q) | `FILED` | `us-gaap:ResearchAndDevelopmentExpenseExcludingAcquiredInProcessCost` | `0001751788-26-000160` | `2026-10-23` |
 | `income` | **Selling_General_and_Admin** | `2026-09-30` (Q) | `FILED` | `us-gaap:SellingGeneralAndAdministrativeExpense` | `0001751788-26-000160` | `2026-10-23` |
+| `income` | **Operating_Income** | `2025-12-31` (FY) | `DERIVED` | `DERIVED:Pre_Tax_Income + Interest_Expense` | `0001751788-26-000018` | `2026-02-03` |
 | `income` | **Interest_Expense** | `2025-12-31` (FY) | `FILED` | `us-gaap:InterestPaidNet` | `0001751788-26-000018` | `2026-02-03` |
 | `income` | **Pre_Tax_Income** | `2026-09-30` (Q) | `FILED` | `us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest` | `0001751788-26-000160` | `2026-10-23` |
 | `income` | **Income_Tax_Expense** | `2026-09-30` (Q) | `FILED` | `us-gaap:IncomeTaxExpenseBenefit` | `0001751788-26-000160` | `2026-10-23` |

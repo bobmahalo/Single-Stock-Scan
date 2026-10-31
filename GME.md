@@ -1,9 +1,9 @@
 # GME — Executive Investment Card
-### GameStop Corp.
+### GameStop Corp. (NYSE: GME) — *Retail-Computer & Computer Software Stores*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001326380`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001326380` | **SIC:** `5734` | **FYE:** `Jan 30`  
 > **Current Price:** `$23.53` | **Market Cap:** `$11.87B` | **Enterprise Value:** `$15.31B`  
 > **TTM Free Cash Flow Yield:** **`5.8%`** (SBC-Adjusted: **`5.5%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$23.53** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-6.81/sh** | `-28.9%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$1.83/sh** | `7.8%` | Net liquid assets cover 7.8% of stock price |
-| **Tangible Book Value** | **$12.11/sh** | `51.5%` | Tangible physical assets cover 51.5% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-6.81/sh** | `-28.9%` | Net debt obligations exceed cash (`Cash $5.06B - Debt $8.50B = $-3.44B` across 504.5M sh) |
+| **Graham NCAV Floor** | **$1.83/sh** | `7.8%` | Net liquid assets cover 7.8% of stock price (`Curr. Assets $5.93B - Total Liab. $5.00B = +$922.2M`) |
+| **Tangible Book Value** | **$12.11/sh** | `51.5%` | Tangible physical assets cover 51.5% of price (`Total Tangible Equity: $6.11B`) |
 | **Zero-Growth DCF Floor** | **$8.75** | `37.2%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$9.95 – $64.83** | `55th %-tile` | ⚖️ Historical Midpoint |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:37 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

@@ -1,9 +1,9 @@
 # AKAM — Executive Investment Card
-### AKAMAI TECHNOLOGIES INC
+### AKAMAI TECHNOLOGIES INC (Nasdaq: AKAM) — *Services-Business Services, NEC*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:36 UTC` | **CIK:** `0001086222`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001086222` | **SIC:** `7389` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$92.32` | **Market Cap:** `$13.27B` | **Enterprise Value:** `$17.55B`  
 > **TTM Free Cash Flow Yield:** **`7.2%`** (SBC-Adjusted: **`3.4%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$92.32** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-29.77/sh** | `-32.2%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-39.49/sh** | `-42.8%` | Negative net current asset value |
-| **Tangible Book Value** | **$6.83/sh** | `7.4%` | Tangible physical assets cover 7.4% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-29.77/sh** | `-32.2%` | Net debt obligations exceed cash (`Cash $3.36B - Debt $7.63B = $-4.28B` across 143.7M sh) |
+| **Graham NCAV Floor** | **$-39.49/sh** | `-42.8%` | Negative net current asset value (`Curr. Assets $4.65B - Total Liab. $10.32B = $-5.67B`) |
+| **Tangible Book Value** | **$6.83/sh** | `7.4%` | Tangible physical assets cover 7.4% of price (`Total Tangible Equity: $981.4M`) |
 | **Zero-Growth DCF Floor** | **$46.16** | `50.0%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$62.69 – $98.83** | `98th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:36 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

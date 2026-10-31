@@ -1,9 +1,9 @@
 # ULS — Executive Investment Card
-### UL Solutions Inc.
+### UL Solutions Inc. (NYSE: ULS) — *Services-Testing Laboratories*
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001901440`  
+> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001901440` | **SIC:** `8734` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$74.86` | **Market Cap:** `$15.05B` | **Enterprise Value:** `$15.09B`  
 > **TTM Free Cash Flow Yield:** **`2.9%`** (SBC-Adjusted: **`2.5%`**)
 
@@ -77,9 +77,9 @@
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
 | **Current Market Price** | **$74.86** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$-0.21/sh** | `-0.3%` | Net debt obligations exceed cash |
-| **Graham NCAV Floor** | **$-1.32/sh** | `-1.8%` | Negative net current asset value |
-| **Tangible Book Value** | **$4.54/sh** | `6.1%` | Tangible physical assets cover 6.1% of price |
+| **Net Cash Floor (Ex-Debt)** | **$-0.21/sh** | `-0.3%` | Net debt obligations exceed cash (`Cash $434.0M - Debt $476.0M = $-42.0M` across 201.0M sh) |
+| **Graham NCAV Floor** | **$-1.32/sh** | `-1.8%` | Negative net current asset value (`Curr. Assets $1.23B - Total Liab. $1.50B = $-265.0M`) |
+| **Tangible Book Value** | **$4.54/sh** | `6.1%` | Tangible physical assets cover 6.1% of price (`Total Tangible Equity: $912.0M`) |
 | **Zero-Growth DCF Floor** | **$24.55** | `32.8%` | Intrinsic value assuming zero future earnings growth |
 | **5-Year Price Corridor** | **$48.59 – $78.71** | `100th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:38 UTC` |
+| **Generated** | `2026-10-31 14:57 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -421,7 +421,7 @@
 | **Accounts Receivable** | `NR` | $362.0M | $380.0M | $422.0M | $471.0M |
 | **Inventory** | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Current Assets** | `NR` | $953.0M | $921.0M | $1,000.0M | $1,234.0M |
-| **Property Plant and Equipment Net** | `NR` | $555.0M | $631.0M | $699.0M | `NR` |
+| **Property Plant and Equipment Net** | `NR` | $555.0M | $631.0M | $699.0M | $766.0M |
 | **Goodwill** | $647.0M | $623.0M | $633.0M | $656.0M | $642.0M |
 | **Intangible Assets Ex Goodwill** | `NR` | $72.0M | $58.0M | $48.0M | $41.0M |
 | **Total Assets** | `NR` | $2,736.0M | $2,800.0M | $2,921.0M | $3,119.0M |
@@ -446,7 +446,7 @@
 | **Accounts Receivable** | $463.0M | $424.0M | $386.0M | $422.0M | $497.0M | $471.0M |
 | **Inventory** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Current Assets** | $998.0M | $1,009.0M | $995.0M | $1,000.0M | $1,047.0M | $1,234.0M |
-| **Property Plant and Equipment Net** | `NR` | `NR` | `NR` | $699.0M | `NR` | `NR` |
+| **Property Plant and Equipment Net** | $631.0M | $649.0M | $663.0M | $699.0M | $711.0M | $766.0M |
 | **Goodwill** | $641.0M | $656.0M | $655.0M | $656.0M | $643.0M | $642.0M |
 | **Intangible Assets Ex Goodwill** | $56.0M | $55.0M | $52.0M | $48.0M | $44.0M | $41.0M |
 | **Total Assets** | $2,878.0M | $2,922.0M | $2,898.0M | $2,921.0M | $2,955.0M | $3,119.0M |
@@ -530,7 +530,7 @@
 | **Accounts Receivable** | `NR` | 13.2% | 13.6% | 14.4% | 15.1% |
 | **Inventory** | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Current Assets** | `NR` | 34.8% | 32.9% | 34.2% | 39.6% |
-| **Property Plant and Equipment Net** | `NR` | 20.3% | 22.5% | 23.9% | `NR` |
+| **Property Plant and Equipment Net** | `NR` | 20.3% | 22.5% | 23.9% | 24.6% |
 | **Goodwill** | `NR` | 22.8% | 22.6% | 22.5% | 20.6% |
 | **Intangible Assets Ex Goodwill** | `NR` | 2.6% | 2.1% | 1.6% | 1.3% |
 | **Total Assets** | `NR` | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -642,7 +642,7 @@
 | `balance` | **Cash_and_Equivalents** | `2026-06-30` (I) | `FILED` | `us-gaap:CashAndCashEquivalentsAtCarryingValue` | `0001901440-26-000023` | `2026-08-04` |
 | `balance` | **Accounts_Receivable** | `2026-06-30` (I) | `FILED` | `us-gaap:AccountsReceivableNetCurrent` | `0001901440-26-000023` | `2026-08-04` |
 | `balance` | **Total_Current_Assets** | `2026-06-30` (I) | `FILED` | `us-gaap:AssetsCurrent` | `0001901440-26-000023` | `2026-08-04` |
-| `balance` | **Property_Plant_and_Equipment_Net** | `2025-12-31` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentNet` | `0001901440-26-000005` | `2026-02-19` |
+| `balance` | **Property_Plant_and_Equipment_Net** | `2026-06-30` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization` | `0001901440-26-000023` | `2026-08-04` |
 | `balance` | **Goodwill** | `2026-06-30` (I) | `FILED` | `us-gaap:Goodwill` | `0001901440-26-000023` | `2026-08-04` |
 | `balance` | **Intangible_Assets_Ex_Goodwill** | `2026-06-30` (I) | `FILED` | `us-gaap:FiniteLivedIntangibleAssetsNet` | `0001901440-26-000023` | `2026-08-04` |
 | `balance` | **Total_Assets** | `2026-06-30` (I) | `FILED` | `us-gaap:Assets` | `0001901440-26-000023` | `2026-08-04` |
