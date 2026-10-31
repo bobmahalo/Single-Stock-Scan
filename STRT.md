@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000933034` | **SIC:** `3714` | **Inc:** `WI` | **FYE:** `Jun 28`  
+> **Generated:** `2026-10-31 15:01 UTC` | **CIK:** `0000933034` | **SIC:** `3714` | **Inc:** `WI` | **FYE:** `Jun 28`  
 > **Current Price:** `$61.98` | **Market Cap:** `$249.8M` | **Enterprise Value:** `$140.5M`  
 > **TTM Free Cash Flow Yield:** **`15.5%`** (SBC-Adjusted: **`14.2%`**)
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:57 UTC` |
+| **Generated** | `2026-10-31 15:01 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-28 -> 2026-09-27` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

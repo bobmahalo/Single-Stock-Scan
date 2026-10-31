@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0000946581` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Mar 31`  
+> **Generated:** `2026-10-31 15:01 UTC` | **CIK:** `0000946581` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Mar 31`  
 > **Current Price:** `$205.93` | **Market Cap:** `$38.50B` | **Enterprise Value:** `$39.62B`  
 > **TTM Free Cash Flow Yield:** **`0.9%`** (SBC-Adjusted: **`-0.0%`**)
 
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:57 UTC` |
+| **Generated** | `2026-10-31 15:01 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -401,7 +401,7 @@
 | **Selling General and Admin** | $510.9M | $839.5M | $716.1M | $883.3M | $874.4M | $893.7M* |
 | **Operating Expenses** | $1,495.8M | $3,450.5M | $5,832.4M | $7,453.3M | $3,913.9M | $3,908.5M* |
 | **Operating Income** | $473.6M | -$1,165.2M | -$3,590.6M | -$4,391.1M | -$104.2M | -$161.3M* |
-| **Interest Expense** | $0 | $129.6M | $140.6M | $167.3M | $151.4M | `NR` |
+| **Interest Expense** | $0 | $129.6M | $140.6M | $167.3M | $151.4M | $145.3M* |
 | **Pre Tax Income** | $465.4M | -$1,338.1M | -$3,702.8M | -$4,491.3M | -$197.8M | -$233.3M* |
 | **Income Tax Expense** | $47.4M | -$213.4M | $41.4M | -$12.4M | $100.4M | $87.1M* |
 | **Net Income** | $418.0M | -$1,124.7M | -$3,744.2M | -$4,478.9M | -$298.2M | -$320.4M* |
@@ -416,7 +416,7 @@
 | **Selling General and Admin** | $230.2M* | $207.4M | $225.0M | $218.6M | $223.8M* | $226.3M |
 | **Operating Expenses** | $4,580.2M* | $923.4M | $1,078.5M | $984.2M | $927.8M* | $918.0M |
 | **Operating Income** | -$3,776.9M* | $21.6M | -$98.0M | -$38.7M | $10.9M* | -$35.5M |
-| **Interest Expense** | `NR` | $38.9M | `NR` | `NR` | `NR` | $30.4M |
+| **Interest Expense** | $51.2M* | $38.9M | $35.4M | $35.7M | $43.8M* | $30.4M |
 | **Pre Tax Income** | -$3,801.9M* | -$13.8M | -$115.5M | -$55.8M | -$12.7M* | -$49.3M |
 | **Income Tax Expense** | -$75.7M* | -$1.9M | $18.4M | $37.1M | $46.8M* | -$15.2M |
 | **Net Income** | -$3,726.2M* | -$11.9M | -$133.9M | -$92.9M | -$59.5M* | -$34.1M |
@@ -527,7 +527,7 @@
 | **Selling General and Admin** | 14.6% | 15.7% | 13.4% | 15.7% | 13.1% | 13.4% |
 | **Operating Expenses** | 42.7% | 64.5% | 109.0% | 132.3% | 58.8% | 58.5% |
 | **Operating Income** | 13.5% | -21.8% | -67.1% | -77.9% | -1.6% | -2.4% |
-| **Interest Expense** | 0.0% | 2.4% | 2.6% | 3.0% | 2.3% | `NR` |
+| **Interest Expense** | 0.0% | 2.4% | 2.6% | 3.0% | 2.3% | 2.2% |
 | **Pre Tax Income** | 13.3% | -25.0% | -69.2% | -79.7% | -3.0% | -3.5% |
 | **Income Tax Expense** | 1.4% | -4.0% | 0.8% | -0.2% | 1.5% | 1.3% |
 | **Net Income** | 11.9% | -21.0% | -70.0% | -79.5% | -4.5% | -4.8% |
@@ -574,7 +574,7 @@
 | **Total Debt** | $250.2M | $3,487.0M | $3,534.0M | $4,105.9M | $2,958.3M | $2,944.7M |
 | **Net Debt** | -$2,302.0M | $2,472.6M | $2,758.0M | $2,640.4M | $969.0M | $1,118.1M |
 | **Debt to Equity** | 0.07x | 0.39x | 0.62x | 1.92x | 0.84x | 0.82x |
-| **Interest Coverage** | `NR` | -8.99x | -25.54x | -26.25x | -0.69x | `NR` |
+| **Interest Coverage** | `NR` | -8.99x | -25.54x | -26.25x | -0.69x | -1.11x |
 | **Net Common Overhang Shares** | +991,186 | -9.43M | -1.29M | -2.32M | -1.77M | -780,443 |
 | **Net Common Overhang Pct** | 0.86% | -5.57% | -0.75% | -1.31% | -0.95% | -0.42% |
 | **ROE Pct** | 10.97% | -12.44% | -66.06% | -209.52% | -8.49% | -8.88% |
@@ -615,7 +615,7 @@
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| $2,944.7M | $1,826.6M | $1,826.6M | **$1,118.1M** | **`3.31 yrs`** | $93.9M |
+| $2,944.7M | $1,826.6M | $1,826.6M | **$1,118.1M** | **`3.31 yrs`** | $90.1M |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |

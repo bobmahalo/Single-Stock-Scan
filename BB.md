@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 14:57 UTC` | **CIK:** `0001070235` | **SIC:** `7372` | **FYE:** `Feb 28`  
+> **Generated:** `2026-10-31 15:01 UTC` | **CIK:** `0001070235` | **SIC:** `7372` | **FYE:** `Feb 28`  
 > **Current Price:** `$8.69` | **Market Cap:** `$5.10B` | **Enterprise Value:** `$4.95B`  
 > **TTM Free Cash Flow Yield:** **`1.8%`** (SBC-Adjusted: **`1.3%`**)
 
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 14:57 UTC` |
+| **Generated** | `2026-10-31 15:01 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-30 -> 2026-08-31` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -647,7 +647,7 @@
 | `income` | **Selling_General_and_Admin** | `2026-08-31` (Q) | `FILED` | `us-gaap:GeneralAndAdministrativeExpense` | `0001070235-26-000115` | `2026-09-24` |
 | `income` | **Operating_Expenses** | `2026-08-31` (Q) | `FILED` | `us-gaap:OperatingExpenses` | `0001070235-26-000115` | `2026-09-24` |
 | `income` | **Operating_Income** | `2026-08-31` (Q) | `FILED` | `us-gaap:OperatingIncomeLoss` | `0001070235-26-000115` | `2026-09-24` |
-| `income` | **Interest_Expense** | `2026-08-31` (Q) | `FILED` | `us-gaap:InterestPaidNet` | `0001070235-26-000115` | `2026-09-24` |
+| `income` | **Interest_Expense** | `2026-08-31` (Q) | `FILED` | `us-gaap:InterestExpenseDebt` | `0001070235-26-000115` | `2026-09-24` |
 | `income` | **Pre_Tax_Income** | `2026-08-31` (Q) | `FILED` | `us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest` | `0001070235-26-000115` | `2026-09-24` |
 | `income` | **Income_Tax_Expense** | `2026-08-31` (Q) | `FILED` | `us-gaap:IncomeTaxExpenseBenefit` | `0001070235-26-000115` | `2026-09-24` |
 | `income` | **Net_Income** | `2026-08-31` (Q) | `FILED` | `us-gaap:NetIncomeLoss` | `0001070235-26-000115` | `2026-09-24` |
