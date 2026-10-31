@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:31 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0000316709`  
 > **Current Price:** `$94.16` | **Market Cap:** `$162.83B` | **Enterprise Value:** `$162.88B`  
 > **TTM Free Cash Flow Yield:** **`6.6%`** (SBC-Adjusted: **`6.4%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **Piotroski:** `⚠️ N/A (Bank/REIT Structure)*`<br>• **Altman Z:** `⚠️ N/A (Bank/REIT Structure)*`<br>• **Beneish M:** `-2.28` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **FCF Yield:** `6.6%`<br>• **Net Cash:** `$-0.02/sh` (-0.0% of price)<br>• **Graham NCAV:** `N/A` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.4%` (Cannibal Buyback)<br>• **SBC % OCF:** `3.1%`<br>• **Insiders:** `$-43.8M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.4%` (Cannibal Buyback)<br>• **SBC % OCF:** `3.1%`<br>• **Insiders:** `$-61.8M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -289,7 +289,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$-43.8M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-61.8M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `4,132` direct registered shareholders. |
 
@@ -337,7 +337,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:31 UTC` |
+| **Generated** | `2026-10-31 14:38 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -370,11 +370,13 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 8 | 0 (0 C-Suite) | No | `$0` | `$43,785,088` | **`-$43,785,088`** |
+| **0** | 9 | 0 (0 C-Suite) | No | `$0` | `$61,779,382` | **`-$61,779,382`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-10-28` | `2026-10-29` | **Schwab Charles R.** | Co-Chairman | `S - Sale` | 66,750 | `$88.36` | `$5,897,756` |
+| `2026-10-29` | `2026-10-29` | **Schwab Charles R.** | Co-Chairman | `S - Sale` | 136,400 | `$89.50` | `$12,207,868` |
 | `2026-10-01` | `2026-10-05` | **Hathi Neesha** | MD, Head Wealth Adv, Bnk, Tst | `S - Sale` | 5,000 | `$97.80` | `$489,007` |
 | `2026-09-01` | `2026-09-02` | **Hathi Neesha** | MD, Head Wealth Adv, Bnk, Tst | `S - Sale` | 3,177 | `$109.04` | `$346,428` |
 | `2026-08-28` | `2026-08-31` | **Bettinger Walter W** | Co-Chairman | `S - Sale` | 74,388 | `$110.91` | `$8,250,648` |
@@ -382,7 +384,6 @@
 | `2026-08-26` | `2026-08-27` | **Schwab-Pomerantz Carolyn** | Director | `S - Sale` | 9,175 | `$109.25` | `$1,002,397` |
 | `2026-08-24` | `2026-08-26` | **Schwab Charles R.** | Co-Chairman | `S - Sale` | 117,000 | `$113.20` | `$13,244,412` |
 | `2026-08-24` | `2026-08-26` | **Bettinger Walter W** | Co-Chairman | `S - Sale` | 176,210 | `$113.49` | `$19,997,368` |
-| `2026-08-17` | `2026-08-18` | **Beatty Jonathan S** | MD, Head of Advisor Services | `S - Sale` | 1,000 | `$111.33` | `$111,330` |
 
 ## 2. Income Statement
 

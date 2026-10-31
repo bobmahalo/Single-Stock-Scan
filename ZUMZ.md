@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:32 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:39 UTC` | **CIK:** `0001318008`  
 > **Current Price:** `$14.44` | **Market Cap:** `$221.4M` | **Enterprise Value:** `$353.9M`  
 > **TTM Free Cash Flow Yield:** **`11.3%`** (SBC-Adjusted: **`7.9%`**)
 
@@ -107,8 +107,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$14.44** | $1,833.15 (33.3%) | 126 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$13.64** | $1,833.15 (33.3%) | 134 | -5.6% Support Retest (Volatility-Adjusted (14-Period ATR 5.6%) Limit) |
-| **T3** | `LIMIT` | **$12.83** | $1,833.70 (33.3%) | 142 | -11.1% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.6%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$13.69** | $1,833.15 (33.3%) | 133 | -5.2% Support Retest (Volatility-Adjusted (14-Period ATR 5.2%) Limit) |
+| **T3** | `LIMIT` | **$12.95** | $1,833.70 (33.3%) | 141 | -10.3% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.2%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -130,8 +130,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$18.77** (`+30.0%` upside) | Operating Expansion Target (+30% Intrinsic Re-rating, Trim 33%) |
 | **Target 2 (Full Fair Value):** | **$23.83** (`+65.0%` upside) | Full Intrinsic Multiplier (+65% Zero-Growth Convergence, Trim 33%) |
-| **Safety Stop Loss:** | **$11.63** | Structural Degradation Stop (-15.0% from VWAP $13.68) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$10.26** (-25.0% from VWAP $13.68) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$11.69** | Structural Degradation Stop (-15.0% from VWAP $13.75) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$10.31** (-25.0% from VWAP $13.75) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: If 30d volume ratio >= 3.0x ADDV while price touches upper valuation corridor bounds, scale 33% directly into elevated market liquidity. |
 
 <details markdown="1">
@@ -240,19 +240,19 @@
 | :--- | :--- |
 | **5-Year Price Corridor:** | **`$13.41 – $16.93`** \| `[$13.41 ─●────────────────── $16.93] (8th %-tile)` |
 | **52-Week Price Range:** | `$13.41 – $15.75` (Cycle Regime: `💎 Deep Cycle Bottom (Bottom Quintile)`) |
-| **Primary Valuation Multiple:** | **`5.9x`** P/FCF vs. 5-Year Median `5.9x` (`51th %-tile` — ⚖️ Historical Fair Value) |
+| **Primary Valuation Multiple:** | **`5.9x`** P/FCF vs. 5-Year Median `5.9x` (`50th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`5.9x`** | `3.0x – 5.9x – 51.1x` | `51%` | **$14.39** | `-0.3%` | ⚖️ Historical Fair Value |
-| **P/EBIT** | **`14.6x`** | `2.3x – 9.7x – 149.2x` | `63%` | **$9.63** | `-33.3%` | ⚖️ Historical Fair Value |
-| **P/TBV** | **`0.8x`** | `0.8x – 0.9x – 1.0x` | `9%` | **$15.49** | `+7.3%` | 💎 Deep Value Compression |
+| **P/FCF** | **`5.9x`** | `3.0x – 5.9x – 51.1x` | `50%` | **$14.40** | `-0.3%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`14.6x`** | `2.3x – 9.8x – 149.2x` | `63%` | **$9.63** | `-33.3%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`0.8x`** | `0.8x – 0.9x – 1.0x` | `9%` | **$15.48** | `+7.2%` | 💎 Deep Value Compression |
 | **P/S** | **`0.3x`** | `0.3x – 0.3x – 0.4x` | `5%` | **$17.10** | `+18.4%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZUMZ trades at `5.9x` P/FCF (51th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `5.9x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZUMZ trades at `5.9x` P/FCF (50th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `5.9x`).
 
 </details>
 
@@ -311,10 +311,10 @@
 
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
-| **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.46x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$377,106.38` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.46x 90d avg; ADDV $377,106 >= $250k). Zero retail mania. |
+| **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
+| **30-Day Volume / 90-Day Average:** | `0.08x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$61,777.21` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $61,777 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:32 UTC` |
+| **Generated** | `2026-10-31 14:39 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:36 UTC` | **CIK:** `0000320193`  
 > **Current Price:** `$342.00` | **Market Cap:** `$4,991.21B` | **Enterprise Value:** `$5,023.65B`  
 > **TTM Free Cash Flow Yield:** **`2.7%`** (SBC-Adjusted: **`2.5%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜]  9/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `13.45` (SAFE (> 2.99))<br>• **Beneish M:** `-2.30` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **FCF Yield:** `2.7%`<br>• **Net Cash:** `$-2.22/sh` (-0.6% of price)<br>• **Graham NCAV:** `$-8.63/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-2.6%` (Cannibal Buyback)<br>• **SBC % OCF:** `9.3%`<br>• **Insiders:** `$-91.9M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-2.6%` (Cannibal Buyback)<br>• **SBC % OCF:** `9.3%`<br>• **Insiders:** `$-92.8M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -295,7 +295,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$-91.9M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-92.8M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `22,429` direct registered shareholders. |
 
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:29 UTC` |
+| **Generated** | `2026-10-31 14:36 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-27 -> 2026-06-27` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -376,11 +376,12 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 9 | 0 (0 C-Suite) | No | `$0` | `$91,941,318` | **`-$91,941,318`** |
+| **0** | 10 | 0 (0 C-Suite) | No | `$0` | `$92,765,039` | **`-$92,765,039`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-10-27` | `2026-10-29` | **Newstead Jennifer** | SVP, GC and Government Affairs | `S - Sale` | 2,399 | `$343.36` | `$823,721` |
 | `2026-10-20` | `2026-10-22` | **Newstead Jennifer** | SVP, GC and Government Affairs | `S - Sale` | 2,399 | `$339.62` | `$814,748` |
 | `2026-10-16` | `2026-10-19` | **Borders Ben** | Principal Accounting Officer | `S - Sale` | 1,280 | `$345.40` | `$442,108` |
 | `2026-10-16` | `2026-10-19` | **Parekh Kevan** | Senior Vice President,  CFO | `S - Sale` | 1,392 | `$345.05` | `$480,315` |

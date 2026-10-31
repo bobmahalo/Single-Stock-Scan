@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:31 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001625278`  
 > **Current Price:** `$10.03` | **Market Cap:** `$640.7M` | **Enterprise Value:** `$585.8M`  
 > **TTM Free Cash Flow Yield:** **`25.5%`** (SBC-Adjusted: **`21.2%`**)
 
@@ -81,7 +81,7 @@
 | **Graham NCAV Floor** | **$1.71/sh** | `17.0%` | Net liquid assets cover 17.0% of stock price |
 | **Tangible Book Value** | **$2.67/sh** | `26.6%` | Tangible physical assets cover 26.6% of price |
 | **Zero-Growth DCF Floor** | **$30.06** | `299.7%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$9.28 – $11.24** | `23th %-tile` | Accumulation Zone (Below Median) |
+| **5-Year Price Corridor** | **$9.28 – $11.56** | `23th %-tile` | Accumulation Zone (Below Median) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -107,7 +107,7 @@
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$10.03** | $1,833.15 (33.3%) | 182 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
 | **T2** | `LIMIT` | **$9.42** | $1,833.15 (33.3%) | 194 | -6.1% Support Retest (Volatility-Adjusted (14-Period ATR 6.1%) Limit) |
-| **T3** | `LIMIT` | **$8.80** | $1,833.70 (33.3%) | 208 | -12.2% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 6.1%) Deep Liquidity Limit) |
+| **T3** | `LIMIT` | **$8.81** | $1,833.70 (33.3%) | 208 | -12.1% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 6.1%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -238,8 +238,8 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$9.28 – $11.24`** \| `[$9.28 ────●─────────────── $11.24] (23th %-tile)` |
-| **52-Week Price Range:** | `$9.28 – $10.91` (Cycle Regime: `Accumulation Zone (Below Median)`) |
+| **5-Year Price Corridor:** | **`$9.28 – $11.56`** \| `[$9.28 ────●─────────────── $11.56] (23th %-tile)` |
+| **52-Week Price Range:** | `$9.28 – $11.56` (Cycle Regime: `Accumulation Zone (Below Median)`) |
 | **Primary Valuation Multiple:** | **`5.8x`** P/FCF vs. 5-Year Median `11.3x` (`7th %-tile` — 💎 Deep Value Compression) |
 
 <details markdown="1">
@@ -247,12 +247,12 @@
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`5.8x`** | `5.6x – 11.3x – 114.4x` | `7%` | **$19.46** | `+94.0%` | 💎 Deep Value Compression |
-| **P/EBIT** | **`11.7x`** | `11.3x – 82.0x – 88.4x` | `19%` | **$70.44** | `+602.3%` | 💎 Deep Value Compression |
+| **P/FCF** | **`5.8x`** | `5.6x – 11.3x – 114.4x` | `7%` | **$19.45** | `+93.9%` | 💎 Deep Value Compression |
+| **P/EBIT** | **`11.7x`** | `11.3x – 81.9x – 88.4x` | `18%` | **$70.34** | `+601.3%` | 💎 Deep Value Compression |
 | **P/TBV** | **`3.0x`** | `2.4x – 3.1x – 15.5x` | `33%` | **$10.23** | `+2.0%` | ⚖️ Historical Fair Value |
 | **P/S** | **`0.9x`** | `0.9x – 1.3x – 2.5x` | `7%` | **$14.56** | `+45.2%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** NRDS trades at `5.8x` P/FCF (7th percentile of 5-year history). Mean reversion to historical median multiple (`11.3x`) yields an implied intrinsic target of **$19.46** (`+94.0%` upside) without relying on speculative future growth.
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** NRDS trades at `5.8x` P/FCF (7th percentile of 5-year history). Mean reversion to historical median multiple (`11.3x`) yields an implied intrinsic target of **$19.45** (`+93.9%` upside) without relying on speculative future growth.
 
 </details>
 
@@ -311,10 +311,10 @@
 
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
-| **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.46x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$274,094.32` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.46x 90d avg; ADDV $274,094 >= $250k). Zero retail mania. |
+| **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
+| **30-Day Volume / 90-Day Average:** | `0.28x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$157,735.79` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $157,736 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:31 UTC` |
+| **Generated** | `2026-10-31 14:38 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 17:46 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001652044`  
 > **Current Price:** `$282.86` | **Market Cap:** `$3,477.48B` | **Enterprise Value:** `$3,359.01B`  
 > **TTM Free Cash Flow Yield:** **`0.6%`** (SBC-Adjusted: **`-0.3%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `8.40` (SAFE (> 2.99))<br>• **Beneish M:** `-2.14` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **FCF Yield:** `0.6%`<br>• **Net Cash:** `$9.64/sh` (3.4% of price)<br>• **Graham NCAV:** `$3.98/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.7%` (Cannibal Buyback)<br>• **SBC % OCF:** `17.0%`<br>• **Insiders:** `$-121.9M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.7%` (Cannibal Buyback)<br>• **SBC % OCF:** `17.0%`<br>• **Insiders:** `$-52K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -292,7 +292,7 @@
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`$-121.9M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`$-0.1M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `Held in Street Name / NR` direct registered shareholders. |
 
@@ -311,9 +311,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `1.05x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$8,040,009,457.83` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (1.05x 90d avg; ADDV $8,040,009,458 >= $250k). Zero retail mania. |
+| **30-Day Volume / 90-Day Average:** | `0.94x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$6,203,892,714.95` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.94x 90d avg; ADDV $6,203,892,715 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 17:46 UTC` |
+| **Generated** | `2026-10-31 14:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -371,21 +371,13 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 41 | 0 (0 C-Suite) | No | `$0` | `$121,868,731` | **`-$121,868,731`** |
+| **0** | 2 | 0 (0 C-Suite) | No | `$0` | `$51,545` | **`-$51,545`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-09-30` | `2026-10-02` | **Arnold Frances** | Dir | `S - Sale` | 83 | `$340.45` | `$28,257` |
-| `2026-08-28` | `2026-08-31` | **Arnold Frances** | Dir | `S - Sale` | 82 | `$337.71` | `$27,692` |
-| `2026-07-30` | `2026-07-30` | **Arnold Frances** | Dir | `S - Sale` | 82 | `$333.39` | `$27,338` |
-| `2026-07-29` | `2026-07-29` | **Saraci Marsida** | VP, Chief Accounting Officer | `S - Sale` | 449 | `$333.20` | `$149,607` |
-| `2026-06-29` | `2026-07-01` | **Walker John Kent** | Pres, Global Affairs, CLO | `S - Sale` | 8,998 | `$349.29` | `$3,142,916` |
-| `2026-06-30` | `2026-06-30` | **Arnold Frances** | Dir | `S - Sale` | 112 | `$351.28` | `$39,343` |
-| `2026-06-26` | `2026-06-29` | **Saraci Marsida** | VP, Chief Accounting Officer | `S - Sale` | 449 | `$341.72` | `$153,432` |
-| `2026-06-15` | `2026-06-18` | **Hennessy John L.** | Dir | `S - Sale` | 1,050 | `$368.63` | `$387,063` |
-| `2026-05-29` | `2026-06-01` | **Arnold Frances** | Dir | `S - Sale` | 102 | `$381.00` | `$38,862` |
-| `2026-05-15` | `2026-05-19` | **Hennessy John L.** | Dir | `S - Sale` | 1,050 | `$393.26` | `$412,920` |
+| `2026-10-29` | `2026-10-30` | **ARNOLD FRANCES** | Director | `S - Sale` | 82 | `$284.00` | `$23,288` |
+| `2026-09-30` | `2026-10-02` | **ARNOLD FRANCES** | Director | `S - Sale` | 83 | `$340.45` | `$28,257` |
 
 ## 2. Income Statement
 

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:30 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001649744`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$235.5M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`** (SBC-Adjusted: **`37.6%`**)
 
@@ -82,7 +82,7 @@
 | **Graham NCAV Floor** | **$-0.99/sh** | `-24.8%` | Negative net current asset value |
 | **Tangible Book Value** | **$4.87/sh** | `121.8%` | Tangible physical assets cover 121.8% of price |
 | **Zero-Growth DCF Floor** | **$15.58** | `389.5%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$3.35 – $4.30** | `90th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
+| **5-Year Price Corridor** | **$3.35 – $4.35** | `90th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -239,20 +239,20 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$3.35 – $4.30`** \| `[$3.35 ─────────────────●── $4.30] (90th %-tile)` |
-| **52-Week Price Range:** | `$3.64 – $4.30` (Cycle Regime: `⚠️ Late Cycle / Momentum Zone (Top Quintile)`) |
-| **Primary Valuation Multiple:** | **`8.4x`** P/FCF vs. 5-Year Median `2.9x` (`86th %-tile` — ⚠️ Multiple Expansion) |
+| **5-Year Price Corridor:** | **`$3.35 – $4.35`** \| `[$3.35 ─────────────────●── $4.35] (90th %-tile)` |
+| **52-Week Price Range:** | `$3.64 – $4.35` (Cycle Regime: `⚠️ Late Cycle / Momentum Zone (Top Quintile)`) |
+| **Primary Valuation Multiple:** | **`8.4x`** P/FCF vs. 5-Year Median `2.9x` (`85th %-tile` — ⚠️ Multiple Expansion) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`8.4x`** | `1.4x – 2.9x – 8.8x` | `86%` | **$1.41** | `-64.8%` | ⚠️ Multiple Expansion |
+| **P/FCF** | **`8.4x`** | `1.4x – 2.9x – 8.9x` | `85%` | **$1.41** | `-64.8%` | ⚠️ Multiple Expansion |
 | **P/TBV** | **`0.8x`** | `0.5x – 0.6x – 0.9x` | `95%` | **$2.76** | `-31.0%` | ⚠️ Multiple Expansion |
 | **P/S** | **`0.2x`** | `0.2x – 0.2x – 0.3x` | `94%` | **$3.17** | `-20.8%` | ⚠️ Multiple Expansion |
 
-> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (86th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`2.9x`).
+> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (85th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`2.9x`).
 
 </details>
 
@@ -312,9 +312,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.37x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$76,565.40` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $76,565 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.04x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$7,861.60` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $7,862 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:30 UTC` |
+| **Generated** | `2026-10-31 14:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

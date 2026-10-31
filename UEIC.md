@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:32 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0000101984`  
 > **Current Price:** `$5.17` | **Market Cap:** `$66.6M` | **Enterprise Value:** `$43.7M`  
 > **TTM Free Cash Flow Yield:** **`12.4%`** (SBC-Adjusted: **`7.9%`**)
 
@@ -106,8 +106,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$5.17** | $333.30 (33.3%) | 64 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$4.90** | $333.30 (33.3%) | 68 | -5.2% Support Retest (Volatility-Adjusted (14-Period ATR 5.2%) Limit) |
-| **T3** | `LIMIT` | **$4.63** | $333.40 (33.3%) | 72 | -10.5% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.2%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$4.89** | $333.30 (33.3%) | 68 | -5.4% Support Retest (Volatility-Adjusted (14-Period ATR 5.4%) Limit) |
+| **T3** | `LIMIT` | **$4.61** | $333.40 (33.3%) | 72 | -10.8% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.4%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -240,18 +240,18 @@
 | :--- | :--- |
 | **5-Year Price Corridor:** | **`$4.68 – $5.59`** \| `[$4.68 ───────────●──────── $5.59] (58th %-tile)` |
 | **52-Week Price Range:** | `$4.76 – $5.59` (Cycle Regime: `⚖️ Historical Midpoint`) |
-| **Primary Valuation Multiple:** | **`3.4x`** P/FCF vs. 5-Year Median `3.6x` (`38th %-tile` — ⚖️ Historical Fair Value) |
+| **Primary Valuation Multiple:** | **`3.4x`** P/FCF vs. 5-Year Median `3.6x` (`39th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`3.4x`** | `1.2x – 3.6x – 6.8x` | `38%` | **$5.35** | `+3.5%` | ⚖️ Historical Fair Value |
+| **P/FCF** | **`3.4x`** | `1.2x – 3.6x – 6.8x` | `39%` | **$5.35** | `+3.5%` | ⚖️ Historical Fair Value |
 | **P/TBV** | **`0.5x`** | `0.3x – 0.4x – 0.5x` | `90%` | **$4.07** | `-21.3%` | ⚠️ Multiple Expansion |
 | **P/S** | **`0.2x`** | `0.1x – 0.2x – 0.2x` | `90%` | **$4.36** | `-15.7%` | ⚠️ Multiple Expansion |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** UEIC trades at `3.4x` P/FCF (38th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `3.6x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** UEIC trades at `3.4x` P/FCF (39th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `3.6x`).
 
 </details>
 
@@ -311,9 +311,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.15x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$43,413.52` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $43,414 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.01x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$3,704.30` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $3,704 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:32 UTC` |
+| **Generated** | `2026-10-31 14:38 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

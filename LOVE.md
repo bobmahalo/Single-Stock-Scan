@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:30 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001701758`  
 > **Current Price:** `$14.75` | **Market Cap:** `$212.7M` | **Enterprise Value:** `$427.0M`  
 > **TTM Free Cash Flow Yield:** **`21.3%`** (SBC-Adjusted: **`19.4%`**)
 
@@ -81,7 +81,7 @@
 | **Graham NCAV Floor** | **$-6.25/sh** | `-42.4%` | Negative net current asset value |
 | **Tangible Book Value** | **$14.36/sh** | `97.4%` | Tangible physical assets cover 97.4% of price |
 | **Zero-Growth DCF Floor** | **$20.99** | `142.3%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$13.63 – $16.12** | `34th %-tile` | Accumulation Zone (Below Median) |
+| **5-Year Price Corridor** | **$13.63 – $16.75** | `34th %-tile` | Accumulation Zone (Below Median) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -106,8 +106,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$14.75** | $933.24 (33.3%) | 63 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$13.82** | $933.24 (33.3%) | 67 | -6.3% Support Retest (Volatility-Adjusted (14-Period ATR 6.3%) Limit) |
-| **T3** | `LIMIT` | **$12.88** | $933.52 (33.3%) | 72 | -12.7% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 6.3%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$13.83** | $933.24 (33.3%) | 67 | -6.3% Support Retest (Volatility-Adjusted (14-Period ATR 6.3%) Limit) |
+| **T3** | `LIMIT` | **$12.90** | $933.52 (33.3%) | 72 | -12.5% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 6.3%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -237,21 +237,21 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$13.63 – $16.12`** \| `[$13.63 ───────●──────────── $16.12] (34th %-tile)` |
-| **52-Week Price Range:** | `$13.77 – $15.95` (Cycle Regime: `Accumulation Zone (Below Median)`) |
-| **Primary Valuation Multiple:** | **`8.3x`** P/FCF vs. 5-Year Median `8.7x` (`39th %-tile` — ⚖️ Historical Fair Value) |
+| **5-Year Price Corridor:** | **`$13.63 – $16.75`** \| `[$13.63 ──────●───────────── $16.75] (34th %-tile)` |
+| **52-Week Price Range:** | `$13.77 – $16.75` (Cycle Regime: `Accumulation Zone (Below Median)`) |
+| **Primary Valuation Multiple:** | **`8.3x`** P/FCF vs. 5-Year Median `8.8x` (`39th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`8.3x`** | `4.9x – 8.7x – 14.4x` | `39%` | **$15.52** | `+5.2%` | ⚖️ Historical Fair Value |
-| **P/EBIT** | **`40.4x`** | `5.7x – 8.1x – 43.1x` | `91%` | **$2.96** | `-79.9%` | ⚠️ Multiple Expansion |
-| **P/TBV** | **`1.0x`** | `1.0x – 1.2x – 2.2x` | `6%` | **$17.41** | `+18.0%` | 💎 Deep Value Compression |
-| **P/S** | **`0.3x`** | `0.3x – 0.4x – 0.7x` | `6%` | **$17.27** | `+17.1%` | 💎 Deep Value Compression |
+| **P/FCF** | **`8.3x`** | `4.9x – 8.8x – 14.4x` | `39%` | **$15.73** | `+6.6%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`40.4x`** | `5.7x – 8.1x – 45.5x` | `90%` | **$2.96** | `-79.9%` | ⚠️ Multiple Expansion |
+| **P/TBV** | **`1.0x`** | `1.0x – 1.2x – 2.2x` | `6%` | **$17.39** | `+17.9%` | 💎 Deep Value Compression |
+| **P/S** | **`0.3x`** | `0.3x – 0.4x – 0.7x` | `6%` | **$17.25** | `+16.9%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** LOVE trades at `8.3x` P/FCF (39th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `8.7x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** LOVE trades at `8.3x` P/FCF (39th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `8.8x`).
 
 </details>
 
@@ -310,10 +310,10 @@
 
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
-| **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.35x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$363,327.16` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.35x 90d avg; ADDV $363,327 >= $250k). Zero retail mania. |
+| **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
+| **30-Day Volume / 90-Day Average:** | `0.11x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$106,056.19` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $106,056 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -340,7 +340,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:30 UTC` |
+| **Generated** | `2026-10-31 14:38 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

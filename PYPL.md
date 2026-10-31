@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:31 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:38 UTC` | **CIK:** `0001633917`  
 > **Current Price:** `$57.26` | **Market Cap:** `$47.56B` | **Enterprise Value:** `$51.52B`  
 > **TTM Free Cash Flow Yield:** **`13.2%`** (SBC-Adjusted: **`11.1%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `1.91` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-2.66` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `13.2%`<br>• **Net Cash:** `$-4.77/sh` (-8.3% of price)<br>• **Graham NCAV:** `$-1.91/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **1Y Shares:** `-6.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `14.5%`<br>• **Insiders:** `$-806K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜]  7/10`</nobr> | • **1Y Shares:** `-6.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `14.5%`<br>• **Insiders:** `$-768K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:31 UTC` |
+| **Generated** | `2026-10-31 14:38 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -376,16 +376,16 @@
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 5 | 0 (0 C-Suite) | No | `$0` | `$805,591` | **`-$805,591`** |
+| **0** | 5 | 0 (0 C-Suite) | No | `$0` | `$768,442` | **`-$768,442`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
+| `2026-10-28` | `2026-10-30` | **Keller Frank** | Pres., Checkout Sol. & PayPal | `S - Sale` | 732 | `$55.37` | `$40,531` |
 | `2026-09-03` | `2026-09-08` | **Natali Chris** | SVP, Chief Accounting Officer | `S - Sale` | 552 | `$54.80` | `$30,250` |
 | `2026-09-03` | `2026-09-08` | **Kereere Suzan** | President, Global Markets | `S - Sale` | 3,379 | `$55.72` | `$188,283` |
 | `2026-09-03` | `2026-09-08` | **Keller Frank** | Pres., Checkout Sol. & PayPal | `S - Sale` | 4,612 | `$55.43` | `$255,656` |
 | `2026-08-18` | `2026-08-19` | **Kereere Suzan** | President, Global Markets | `S - Sale` | 4,162 | `$60.96` | `$253,723` |
-| `2026-07-29` | `2026-07-30` | **Natali Chris** | SVP, Chief Accounting Officer | `S - Sale` | 1,337 | `$58.10` | `$77,680` |
 
 ## 2. Income Statement
 

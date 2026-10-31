@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:29 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0000025895`  
 > **Current Price:** `$2.43` | **Market Cap:** `$26.1M` | **Enterprise Value:** `$45.3M`  
 > **TTM Free Cash Flow Yield:** **`29.1%`** (SBC-Adjusted: **`26.1%`**)
 
@@ -106,8 +106,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$2.43** | $933.24 (33.3%) | 384 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$2.31** | $933.24 (33.3%) | 404 | -4.9% Support Retest (Volatility-Adjusted (14-Period ATR 4.9%) Limit) |
-| **T3** | `LIMIT` | **$2.19** | $933.52 (33.3%) | 426 | -9.9% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 4.9%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$2.31** | $933.24 (33.3%) | 404 | -4.8% Support Retest (Volatility-Adjusted (14-Period ATR 4.8%) Limit) |
+| **T3** | `LIMIT` | **$2.20** | $933.52 (33.3%) | 424 | -9.6% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 4.8%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -314,9 +314,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.5x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$70,091.65` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $70,092 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.44x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$57,886.85` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $57,887 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:29 UTC` |
+| **Generated** | `2026-10-31 14:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-28 -> 2026-06-28` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

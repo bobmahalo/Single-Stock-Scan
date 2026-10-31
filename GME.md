@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-30 17:42 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001326380`  
 > **Current Price:** `$23.53` | **Market Cap:** `$11.87B` | **Enterprise Value:** `$15.31B`  
 > **TTM Free Cash Flow Yield:** **`5.8%`** (SBC-Adjusted: **`5.5%`**)
 
@@ -313,9 +313,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `1.06x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$225,852,800.30` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (1.06x 90d avg; ADDV $225,852,800 >= $250k). Zero retail mania. |
+| **30-Day Volume / 90-Day Average:** | `0.85x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$158,596,605.99` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.85x 90d avg; ADDV $158,596,606 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-30 17:42 UTC` |
+| **Generated** | `2026-10-31 14:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |

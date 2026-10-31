@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-29 15:30 UTC` | **CIK:** `N/A`  
+> **Generated:** `2026-10-31 14:37 UTC` | **CIK:** `0001495231`  
 > **Current Price:** `$2.31` | **Market Cap:** `$40.2M` | **Enterprise Value:** `$-6.3M`  
 > **TTM Free Cash Flow Yield:** **`5.9%`** (SBC-Adjusted: **`1.9%`**)
 
@@ -107,8 +107,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$2.31** | $333.30 (33.3%) | 144 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$2.18** | $333.30 (33.3%) | 152 | -5.6% Support Retest (Volatility-Adjusted (14-Period ATR 5.6%) Limit) |
-| **T3** | `LIMIT` | **$2.05** | $333.40 (33.3%) | 162 | -11.1% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.6%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$2.19** | $333.30 (33.3%) | 152 | -5.3% Support Retest (Volatility-Adjusted (14-Period ATR 5.3%) Limit) |
+| **T3** | `LIMIT` | **$2.07** | $333.40 (33.3%) | 161 | -10.6% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.3%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -130,8 +130,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$2.57** (`+11.3%` upside) | 100% Graham NCAV Convergence (Sell 50% Position) |
 | **Target 2 (Full Fair Value):** | **$3.08** (`+33.3%` upside) | Tangible Book Value (TBV) Convergence (Sell Final 50%) |
-| **Safety Stop Loss:** | **$1.74** | Operational Burn Stop (-20.0% from VWAP $2.18) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.64** (-25.0% from VWAP $2.18) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$1.75** | Operational Burn Stop (-20.0% from VWAP $2.19) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.64** (-25.0% from VWAP $2.19) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: If 30d volume ratio >= 3.0x ADDV at Target 1 or Target 2, execute market sell into elevated liquidity. |
 
 <details markdown="1">
@@ -241,18 +241,18 @@
 | :--- | :--- |
 | **5-Year Price Corridor:** | **`$1.94 – $2.49`** \| `[$1.94 ─────────────────●── $2.49] (89th %-tile)` |
 | **52-Week Price Range:** | `$2.09 – $2.49` (Cycle Regime: `⚠️ Late Cycle / Momentum Zone (Top Quintile)`) |
-| **Primary Valuation Multiple:** | **`17.8x`** P/FCF vs. 5-Year Median `17.6x` (`57th %-tile` — ⚖️ Historical Fair Value) |
+| **Primary Valuation Multiple:** | **`17.8x`** P/FCF vs. 5-Year Median `17.6x` (`56th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`17.8x`** | `16.8x – 17.6x – 18.4x` | `57%` | **$2.28** | `-1.3%` | ⚖️ Historical Fair Value |
+| **P/FCF** | **`17.8x`** | `16.8x – 17.6x – 18.4x` | `56%` | **$2.28** | `-1.3%` | ⚖️ Historical Fair Value |
 | **P/TBV** | **`0.9x`** | `0.5x – 0.8x – 4.6x` | `69%` | **$2.10** | `-9.1%` | ⚖️ Historical Fair Value |
 | **P/S** | **`1.4x`** | `0.8x – 1.1x – 7.1x` | `69%` | **$1.83** | `-20.8%` | ⚖️ Historical Fair Value |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** IZEA trades at `17.8x` P/FCF (57th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `17.6x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** IZEA trades at `17.8x` P/FCF (56th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `17.6x`).
 
 </details>
 
@@ -312,9 +312,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.82x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$116,263.46` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $116,263 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.42x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$57,308.91` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $57,309 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-29 15:30 UTC` |
+| **Generated** | `2026-10-31 14:37 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
