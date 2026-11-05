@@ -32,6 +32,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [M Report](M.html)
 - [MMS Report](MMS.html)
 - [MU Report](MU.html)
+- [NKE Report](NKE.html)
 - [NRDS Report](NRDS.html)
 - [OKLO Report](OKLO.html)
 - [PCRX Report](PCRX.html)
