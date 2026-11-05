@@ -111,6 +111,14 @@ Derived from the Darius Dale / 42 Macro framework, tracking growth momentum ($\D
   * If $\text{Spread} \ge 40\text{ bps}$: `🟢 Normal Upward Sloping — Expansionary`
 * **The Economic Insight:** Inversions do not cause recessions; they precede late-cycle transitions. Evaluating both the 2-Year and 10-Year legs distinguishes a **Bull Steepener** (front-end yields falling as the Fed cuts into slowing growth) from a **Bear Steepener** (long-end yields rising due to fiscal term-premium pressure).
 
+### 3.1 10Y Real Yield (TIPS) & 30Y Mortgage Convexity Radar
+* **10Y Real Yield (TIPS) — The Institutional Hurdle Rate:**
+  $$\text{Real Yield}_{10\text{Y}} = \text{Nominal 10Y Yield} - \text{10Y Breakeven Inflation}$$
+  The true inflation-adjusted return hurdle demanded by institutional capital. When real yields remain elevated ($> +2.00\%$), long-duration speculative equity multiples compress, and equity valuation models demand substantial current free cash flow yields.
+* **30Y Mortgage Spread — MBS Negative Convexity & Rate-Volatility Tax:**
+  $$\text{Mortgage Spread (bps)} = (\text{30Y Fixed Mortgage Yield} - \text{10Y Treasury Yield}) \times 100$$
+  Tracks duration-hedging friction across the mortgage-backed securities (MBS) ecosystem. While historical norms hover near $\sim 170\text{ bps}$, elevated spreads ($> +230\text{ bps}$) measure primary-secondary mortgage origination friction, dealer negative convexity hedging demand, and Federal Reserve balance-sheet MBS runoff drag.
+
 ---
 
 ## 4. Federal Reserve Net Liquidity Proxy & Reserve Plumbing
@@ -157,6 +165,20 @@ The system tracks 7 deterministic market-moving releases within a 45-day horizon
 
 ---
 
+## 7. FINRA Rule 4521(d) Customer Margin Leverage & Dry-Tinder Amplifier Mechanics
+* **Data Source & Oracle:** FINRA Monthly Margin Statistics (`ingestion/macro_vitals.py` & `data_lake/finra_margin_history.json`), reported monthly under FINRA Rule 4521(d) with an approximate 3-week publication lag.
+* **Formula & Ratio Definition:**
+  $$\text{Total Free Credit Cash} = \text{Free Credit Balances in Cash Accounts} + \text{Free Credit Balances in Margin Accounts}$$
+  $$\text{Debt-to-Free-Cash Ratio} = \frac{\text{Margin Debit Balances (Borrowed Debt)}}{\text{Total Free Credit Cash}}$$
+* **The Munger Plumbing Rule — Dry Tinder vs. The Spark:**
+  Nominal margin debt naturally expands alongside S&P 500 market capitalization and has limited standalone timing value during calm uptrends. Instead, **Margin Debt vs. Free Cash (`3.41x`)** measures the **pile of dry brush**, while **VIX / HY OAS Credit Spreads / GEX Put Walls** act as the **spark**. When brokerage accounts carry `$3.41` of borrowed margin debt per `$1.00` of uninvested cash, maintenance margin calls (`FINRA Rule 4210`) act as a mechanical **downside amplifier** once a catalyst triggers a real pullback—forcing price-insensitive liquidations that fill our deep-value Tranche 2 and Tranche 3 limit orders.
+* **The 3 Margin Leverage Regimes (`models/macro_regime.py`):**
+  * **`🟢 Healthy Cash Buffer` ($< 3.0\times\text{ Free Cash}$):** Uninvested brokerage cash cushions routine pullbacks; dips are absorbed by organic buying rather than forced margin calls.
+  * **`🟡 Elevated Tinder (Amplifier Armed)` ($\ge 3.0\times\text{ Free Cash}$):** Benign while VIX and HY OAS remain calm, but acts as a downside liquidation amplifier if spot breaks below structural GEX put walls.
+  * **`🔴 Active Deleveraging Roll-Over` ($\ge 3.0\times\text{ Free Cash}$ and $\text{MoM } \Delta\% \le -2.5\%$):** Margin calls are actively flushing levered accounts; avoid chasing early bounces and let lower limit tranches (`T2` / `T3`) catch the forced unwind.
+
+---
+
 # MODULE 2: Engine 1 — The Yield Stacker (Cash-Secured Puts)
 
 ```
@@ -192,6 +214,41 @@ $$\text{Stacked Annual Yield} = \text{Annualized Option Yield} + r_{\text{Treasu
   * *Outcome 1 (Stock stays flat, rallies, or drops slightly):* Put expires worthless. You keep the $\$390$ premium plus $\$127$ in Treasury interest. Net gain: $\$517$ on $\$28,000$ in 37 days (18.24% annualized).
   * *Outcome 2 (Stock plunges below \$280):* You are assigned shares at a net cost basis of $\$280.00 - \$3.90 = \mathbf{\$276.10}$ (a **$17.4\%$ discount** to the original spot price), backed by cash already in your account.
 
+### 4. Two-Tier Microstructure Architecture & Execution Guardrails
+To prevent execution slippage, portfolio concentration, or binary earnings traps, Engine 1 partitions candidates into two distinct operational tiers:
+
+```
+                            ENGINE 1 CANDIDATE SCREENING
+                                         │
+                                         ▼
+                      ┌──────────────────────────────────────┐
+                      │    Microstructure & Safety Sieve     │
+                      │  • Open Interest >= 25               │
+                      │  • Bid-Ask Spread <= 25% (or <=$0.25)│
+                      │  • Strike <= $200 (<= $20k Collat)   │
+                      │  • Earnings Outside DTE Window       │
+                      └──────────────────┬───────────────────┘
+                                         │
+                    ┌────────────────────┴────────────────────┐
+                    ▼                                         ▼
+       🏆 TIER 1: PRIME-CUT LIQUID CSPs         ⚠️ TIER 2: WATCHLIST & DEFINED-RISK
+       • Top 5 Highlighted                      • Retains 100% of Fundamental Setups
+       • Collateral <= $20k per contract        • 🐂 Bull Put Credit Spreads (Strike > $200)
+       • Tight Spread / Liquid Dealer Books     • ⚠️ Thin OI (<25) / 📐 Wide Spread (>25%)
+       • 🟢 Clear Earnings (> DTE Window)       • 🚨 In-DTE Binary Earnings Quarantine
+```
+
+* **Tier 1 (Prime-Cut Liquid CSPs):** Meets all four microstructure hurdles:
+  1. **Open Interest:** $\text{OI} \ge 25$ contracts (ensures active dealer participation and tight order matching).
+  2. **Bid-Ask Spread Width:** $\frac{\text{Ask} - \text{Bid}}{\text{Bid}} \le 25\%$ (with sub-\$1 options permitted if spread width is $\le \$0.25$ tick width, keeping liquid contracts like `CCL` or `PYPL` in Tier 1).
+  3. **Collateral Concentration Limit:** $\text{Strike} \le \$200.00$ ($\le \$20,000$ cash collateral per contract). Prevents a single option contract from dominating $> 20\%$ of a standard $\$100,000$ portfolio.
+  4. **Earnings Timeline:** $\text{Days to Earnings} > \text{DTE}$ (`🟢 Clear`). Ensures the position expires before the company's next earnings report.
+* **Tier 2 (Watchlist / Defined-Risk / Binary Event Quarantine):** Preserves 100% of fundamentally attractive names while isolating specific execution caveats in a collapsible drawer:
+  1. **High Collateral Strikes (`Strike > $200`):** Flagged as **Bull Put Credit Spread (`🐂 Put Spread ($XXk Collat)`)** setups (e.g., `ADBE`, `INTU`, `AZO`, `ULTA`). Allocators can buy a protective long put 1–2 strikes below to cap collateral at $\$500–\$1,000$ instead of reserving $\$20,000–\$290,000$.
+  2. **Binary Earnings Quarantine (`0 <= Days to Earnings <= DTE`):** Flagged as `🚨 Earnings in {N}d`. Selling naked puts across earnings invites severe binary gap risk (such as post-earnings gap-downs).
+  3. **Microstructure Friction:** Flagged with `⚠️ Thin OI (< 25)` or `📐 Wide Spread (> 25%)`. Requires patient limit orders rather than aggressive market fills.
+* **Excision of the Dead `Mean Tested` Column:** Replaced the legacy `Mean Tested` column (which displayed `N/A` across 98% of rows due to contradictory SMA-50 and FINRA short acceleration gates) with actionable columns: **`Spread %`**, **`Earnings`**, and **`Structure / Caveat`**.
+
 ---
 
 # MODULE 3: Engine 2 — Deep-Value & Multi-Bucket Convergence Radar
@@ -199,12 +256,12 @@ $$\text{Stacked Annual Yield} = \text{Annualized Option Yield} + r_{\text{Treasu
 ```
                       THE MULTI-BUCKET ADVERSARIAL SIEVE
                   ┌────────────────────────────────────────┐
-                  │ 5,349 U.S. Operating Companies (EDGAR) │
+                  │ 5,350 U.S. Operating Companies (EDGAR) │
                   └────────────────────────────────────────┘
                                       │
                                       ▼
                   ┌────────────────────────────────────────┐
-                  │   STEP A: Dilution Vampire Quarantine  │
+                  │   STEP A: Dilution Sieve Quarantine    │
                   │   Eliminates cash-burn & share printers│
                   └────────────────────────────────────────┘
                                       │
@@ -225,6 +282,11 @@ $$\text{Stacked Annual Yield} = \text{Annualized Option Yield} + r_{\text{Treasu
                   │ 38 STRICT SURVIVORS (99.3% Attrition)  │
                   └────────────────────────────────────────┘
 ```
+
+> **📐 Dynamic Funnel Selectivity Formula (`reporting/morning_briefing_section.py`):**  
+> Both the total operating universe ($N_{\text{Operating}}$) and the surviving cohort ($N_{\text{Survivors}}$) are dynamically queried from `master_universe.sqlite` on every weekend bulk scan (Option 14) and daily briefing refresh (Option 6)—never fixed to a static quota:
+> $$\text{Funnel Selectivity (\%)} = \left(1 - \frac{N_{\text{Survivors}}}{N_{\text{Operating}}}\right) \times 100$$
+> *(Current Snapshot: $1 - \frac{38}{5,350} = 99.29\% \approx \mathbf{99.3\%}$ Attrition Rate).*
 
 ## 1. Step A: The Dilution Vampire Sieve (Quarantine Rules)
 Before computing valuation multiples, every company must survive 4 mathematical liquidation gates:
@@ -329,7 +391,13 @@ Positions are accumulated across three tranches scaled to 14-day Average True Ra
 
 ## 4. Valuation Exits & Multi-Trigger Stop Architecture
 * **Net-Nets & Sub-NCAV Arbitrage (`Tier 2`):** Target 1 scales 50% at `100% Graham NCAV`; Target 2 scales the remaining 50% at `Tangible Book Value` (enforcing a minimum `+15%` spread above Target 1).
-* **Compounders & Turnarounds (`Tiers 1 & 3`):** Continuous hold while `TTM FCF Yield >= 10.0%` and share count declines; scales out into `Zero-Growth Intrinsic Value` / `+30%` (Target 1, triggering breakeven stop ratchet on remaining half) and `+65%` (Target 2, 100% cleanout).
+* **Compounders (`Tier 1` — Formula-Driven Anchors, Zero Hardcoded Percentages):** Continuous hold while `TTM FCF Yield >= 10.0%` and share repurchases persist. Exits are dynamically calculated directly from SEC XBRL cash flows:
+  * **Target 1 (Scale 50%):** Anchored to the **10.0% Ex-Cash FCF Yield boundary**:
+    $$P_{\text{Target 1}} = \frac{\text{FCF}_{\text{TTM/Sh}}}{0.10} + \max(0, \text{Net Cash/Sh})$$
+  * **Target 2 (Scale 50% Cleanout):** Anchored to the **8.0% FCF Yield exit trigger or Zero-Growth Intrinsic Value**:
+    $$P_{\text{Target 2}} = \max\left(P_{\text{Zero-Growth DCF}},\; \frac{\text{FCF}_{\text{TTM/Sh}}}{0.08} + \max(0, \text{Net Cash/Sh})\right)$$
+  *(Note: `+30.0% / +65.0%` is reserved strictly as a fallback in the rare event that SEC XBRL cash flow tags are unverified).*
+* **Turnarounds (`Tier 3`):** Target 1 scales 50% at Tangible Asset value (`+30% to +35%`); Target 2 scales remaining 50% at Catalyst Exuberance (`+70% to +75%`).
 * **Three-Tier Stop Discipline (Anchored to Filled VWAP):**
   1. **Fundamental Thesis Break:** Exit if `TTM FCF Yield < 8.0%`, operating cash flow turns negative for 2 consecutive quarters, or quarterly operational burn erodes `> 20%` of Net Current Assets.
   2. **Structural Price Stop:** `-15.0%` from VWAP for Compounders; `-20.0%` from VWAP for Net-Nets and Turnarounds.
