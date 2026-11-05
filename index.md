@@ -28,6 +28,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [GOOGL Report](GOOGL.html)
 - [HOG Report](HOG.html)
 - [IZEA Report](IZEA.html)
+- [KULR Report](KULR.html)
 - [LOVE Report](LOVE.html)
 - [M Report](M.html)
 - [MMS Report](MMS.html)
