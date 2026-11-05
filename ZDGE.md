@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-01 14:37 UTC` | **CIK:** `0001667313` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Jul 31`  
+> **Generated:** `2026-11-05 14:47 UTC` | **CIK:** `0001667313` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Jul 31`  
 > **Current Price:** `$2.50` | **Market Cap:** `$32.5M` | **Enterprise Value:** `$14.4M`  
 > **TTM Free Cash Flow Yield:** **`13.9%`** (SBC-Adjusted: **`12.3%`**)
 
@@ -280,9 +280,9 @@
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
 | **ZDGE** (Zedge, Inc.) | `[Subject Firm]` | **$32.5M** | **13.9%** | **+$1.39** | **6/9** | **2.77 (Grey)** |
-| **MSFT** (MICROSOFT CORP) | `[Industry Leader: 121136x larger]` | $3,936.9B | 1.5% | +$0.82 | 6/9 | 9.47 (Safe) |
-| **PLTR** (Palantir Technologies ..) | `[Industry Leader: 14522x larger]` | $472.0B | 0.7% | +$3.81 | 8/9 | 159.94 (Safe) |
-| **ORCL** (ORACLE CORP) | `[Industry Leader: 12984x larger]` | $422.0B | -6.8% | -$42.17 | 5/9 | 1.59 (Distress) |
+| **MSFT** (MICROSOFT CORP) | `[Industry Leader: 119256x larger]` | $3,875.8B | 1.6% | +$0.82 | 6/9 | 9.35 (Safe) |
+| **PLTR** (Palantir Technologies ..) | `[Industry Leader: 13612x larger]` | $442.4B | 0.8% | +$3.81 | 8/9 | 150.04 (Safe) |
+| **ORCL** (ORACLE CORP) | `[Industry Leader: 12157x larger]` | $395.1B | -7.3% | -$42.17 | 5/9 | 1.52 (Distress) |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-01 14:37 UTC` |
+| **Generated** | `2026-11-05 14:47 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-10-31 -> 2026-07-31` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -351,18 +351,21 @@
 ## 1. Share Count & Ownership Consensus (Page 1 DEI, Diluted, DRS Record Holders & Insiders)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Diluted Shares Outstanding** | 14.86M | 14.10M | 14.09M | 13.74M | 12.99M | 13.00M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-04-30 | 2025-07-31 | 2025-10-31 | 2026-01-31 | 2026-04-30 | 2026-07-31 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Diluted Shares Outstanding** | 13.94M | 13.44M* | 13.33M | 12.95M | 13.27M | 13.00M* |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
+
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2026** | `2026-10-28` | `0001213900-26-113312` | **242** | `NR` | `NR` | On October 26, 2026, there were 242 holders of record of our Class B common stock and 1 holder of record of our Class A common stock. |
@@ -372,11 +375,13 @@
 | **FY 2022** | `2022-11-14` | `0001213900-22-072153` | **270** | `NR` | `NR` | On October 25, 2022, there were 270 holders of record of our Class B common stock and 1 holder of record of our Class A common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
+
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
 | **2** | 0 | 2 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
 | `2026-09-25` | `2026-09-29` | **JONAS HOWARD S** | Director | `P - Purchase` | 2,218,430 | `$0.00` | `$0` |
@@ -387,6 +392,7 @@
 ## 2. Income Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $26.5M | $27.2M | $30.1M | $29.4M | $31.6M | $31.6M* |
@@ -402,6 +408,7 @@
 | **Net Income** | $9.7M | -$6.1M | -$9.2M | -$2.4M | -$131,000 | -$131,000* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-04-30 | 2025-07-31 | 2025-10-31 | 2026-01-31 | 2026-04-30 | 2026-07-31 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $7.8M | $7.5M* | $7.6M | $8.3M | $8.0M | $7.8M* |
@@ -419,6 +426,7 @@
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $17.1M | $18.1M | $20.0M | $18.6M | $20.3M | $20.3M |
@@ -444,6 +452,7 @@
 | **Total Liabilities and Equity** | $54.6M | $46.8M | $38.2M | $35.7M | $33.9M | $33.9M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-04-30 | 2025-07-31 | 2025-10-31 | 2026-01-31 | 2026-04-30 | 2026-07-31 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $20.4M | $18.6M | $18.5M | $19.1M | $19.7M | $20.3M |
@@ -471,6 +480,7 @@
 ## 4. Cash Flow Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | $11.5M | $3.2M | $5.8M | $3.4M | $4.6M | $4.6M* |
@@ -486,6 +496,7 @@
 | **Dividends Paid** | `NR` | `NR` | `NR` | `NR` | $940,000 | `NR` |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-04-30 | 2025-07-31 | 2025-10-31 | 2026-01-31 | 2026-04-30 | 2026-07-31 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | $870,000* | $674,000* | $825,000 | $858,000* | $1.2M* | $1.7M* |
@@ -505,6 +516,7 @@
 ## 5. Multi-Horizon Growth (CAGRs) & Common-Size Statements
 
 ### 5Y, 10Y, and 15Y Compound Annual Growth Rates (CAGR)
+
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | +10.08% | +11.03% | `NA` |
@@ -513,6 +525,7 @@
 | **Cover Page Shares Outstanding** | `NA` | `NA` | `NA` |
 
 ### Common-Size Income Statement (`% of Revenue`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -528,6 +541,7 @@
 | **Net Income** | 36.6% | -22.4% | -30.5% | -8.1% | -0.4% | -0.4% |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | 31.3% | 38.7% | 52.4% | 52.2% | 60.0% | 60.0% |
@@ -557,6 +571,7 @@
 ## 6. Financial Ratios, Solvency & Return on Capital Consistency
 
 ### Margins, Liquidity, Solvency & Net Common Overhang
+
 | Ratio / Metric | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Gross Margin Pct** | `NR` | `NR` | 6.95% | 99.50% | 99.95% | `NR` |
@@ -579,6 +594,7 @@
 | **Shareholder Yield Pct** | 0.71% | 4.91% | 1.99% | 13.64% | 8.78% | 5.89% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
+
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
 | **ROIC Pct** | -28.93% | -83.27% | -23.52% | -83.27% |
@@ -590,6 +606,7 @@
 ## 7. Quantitative Forensics (Piotroski, Altman, Beneish & Roll-Up Audit)
 
 ### Institutional Forensic Scorecard
+
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **6 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
@@ -603,16 +620,19 @@
 ## 8. Valuation: Inverted Yield Multiples, Synthetic Deleveraging & Reverse DCF
 
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
+
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | **13.94%** | **-0.40%** | **64.41%** | **97.34%** | **-4.50%** | **31.52%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
+
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | $2.2M | $20.3M | $2.2M | **$0** | **`0.0 yrs`** | $198,000 |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
+
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
 | $4.5M | $14.4M | `-19.71%` | **`$5.37`** |

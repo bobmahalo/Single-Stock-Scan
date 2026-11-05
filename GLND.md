@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 15:01 UTC` | **CIK:** `0002093507` | **SIC:** `1381` | **Inc:** `TX` | **FYE:** `Dec 31`  
+> **Generated:** `2026-11-05 14:45 UTC` | **CIK:** `0002093507` | **SIC:** `1381` | **Inc:** `TX` | **FYE:** `Dec 31`  
 > **Current Price:** `$3.19` | **Market Cap:** `$139.5M` | **Enterprise Value:** `$139.5M`  
 > **TTM Free Cash Flow Yield:** `N/A`
 > 🚨 **AUDIT WARNING: Unverified Debt Tags (NR)** | Short/Long-Term Debt tags unpopulated in filing while liabilities exist. Verify notes/leases in Vault before sizing.
@@ -264,9 +264,9 @@
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
 | **GLND** (Greenland Energy Co) | `[Subject Firm]` | **$139.5M** | **N/A** | **+$0.86** | **N/A** | **N/A** |
-| **NE** (Noble Corp plc) | `[Industry Leader: 50x larger]` | $7.0B | N/A | -$8.97 | 5/9 | 2.24 (Grey) |
-| **RIG** (Transocean Ltd.) | `[Industry Leader: 49x larger]` | $6.8B | 13.3% | -$3.72 | 5/9 | 0.04 (Distress) |
-| **VAL** (Valaris Ltd) | `[Industry Leader: 46x larger]` | $6.4B | -0.4% | -$7.87 | 7/9 | 2.97 (Grey) |
+| **NE** (Noble Corp plc) | `[Industry Leader: 56x larger]` | $7.8B | N/A | -$10.13 | 5/9 | 2.31 (Grey) |
+| **RIG** (Transocean Ltd.) | `[Industry Leader: 56x larger]` | $7.8B | 11.7% | -$3.81 | 5/9 | 0.13 (Distress) |
+| **VAL** (Valaris Ltd) | `[Industry Leader: 52x larger]` | $7.3B | -0.3% | -$8.99 | 7/9 | 3.22 (Safe) |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -325,7 +325,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 15:01 UTC` |
+| **Generated** | `2026-11-05 14:45 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-06-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -335,26 +335,31 @@
 ## 1. Share Count & Ownership Consensus (Page 1 DEI, Diluted, DRS Record Holders & Insiders)
 
 ### Annual History & TTM
+
 | Line Item | TTM |
 | :--- | ---: |
 | **Cover Page Shares Outstanding** | 43.73M |
 | **Diluted Shares Outstanding** | 38.27M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | `NR` | 43.73M | 43.73M |
 | **Diluted Shares Outstanding** | 7.52M | 20.08M | 38.27M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
+
 _No 10-K Item 5 record holder history loaded._
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
+
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
 | **6** | 0 | 2 (0 C-Suite) | No | `$335,321` | `$0` | **`+$335,321`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
 | `2026-06-25` | `2026-06-26` | **SWETS LARRY G JR** | Director | `P - Purchase` | 15,000 | `$2.56` | `$38,358` |
@@ -367,6 +372,7 @@ _No 10-K Item 5 record holder history loaded._
 ## 2. Income Statement
 
 ### Annual History & TTM
+
 | Line Item | TTM |
 | :--- | ---: |
 | **Revenue** | `NA` |
@@ -382,6 +388,7 @@ _No 10-K Item 5 record holder history loaded._
 | **Net Income** | `NA` |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | `NR` | `NR` | `NR` |
@@ -399,6 +406,7 @@ _No 10-K Item 5 record holder history loaded._
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
 ### Annual History & TTM
+
 | Line Item | TTM |
 | :--- | ---: |
 | **Cash and Equivalents** | $37.4M |
@@ -424,6 +432,7 @@ _No 10-K Item 5 record holder history loaded._
 | **Total Liabilities and Equity** | $67.6M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: |
 | **Cash and Equivalents** | $216,137 | $3.1M | $37.4M |
@@ -451,6 +460,7 @@ _No 10-K Item 5 record holder history loaded._
 ## 4. Cash Flow Statement
 
 ### Annual History & TTM
+
 | Line Item | TTM |
 | :--- | ---: |
 | **Operating Cash Flow** | `NA` |
@@ -466,6 +476,7 @@ _No 10-K Item 5 record holder history loaded._
 | **Dividends Paid** | `NA` |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: |
 | **Operating Cash Flow** | `NR` | -$2.5M | -$2.1M* |
@@ -485,6 +496,7 @@ _No 10-K Item 5 record holder history loaded._
 ## 5. Multi-Horizon Growth (CAGRs) & Common-Size Statements
 
 ### 5Y, 10Y, and 15Y Compound Annual Growth Rates (CAGR)
+
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | `NA` | `NA` | `NA` |
@@ -493,6 +505,7 @@ _No 10-K Item 5 record holder history loaded._
 | **Cover Page Shares Outstanding** | `NA` | `NA` | `NA` |
 
 ### Common-Size Income Statement (`% of Revenue`)
+
 | Line Item | TTM |
 | :--- | ---: |
 | **Revenue** | `NR` |
@@ -508,6 +521,7 @@ _No 10-K Item 5 record holder history loaded._
 | **Net Income** | `NR` |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
+
 | Line Item | TTM |
 | :--- | ---: |
 | **Cash and Equivalents** | 55.4% |
@@ -537,6 +551,7 @@ _No 10-K Item 5 record holder history loaded._
 ## 6. Financial Ratios, Solvency & Return on Capital Consistency
 
 ### Margins, Liquidity, Solvency & Net Common Overhang
+
 | Ratio / Metric | TTM |
 | :--- | ---: |
 | **Gross Margin Pct** | `NR` |
@@ -559,6 +574,7 @@ _No 10-K Item 5 record holder history loaded._
 | **Shareholder Yield Pct** | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
+
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
 | **ROIC Pct** | `NR` | `NR` | `NR` | `NR` |
@@ -570,6 +586,7 @@ _No 10-K Item 5 record holder history loaded._
 ## 7. Quantitative Forensics (Piotroski, Altman, Beneish & Roll-Up Audit)
 
 ### Institutional Forensic Scorecard
+
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | `NR` | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
@@ -583,16 +600,19 @@ _No 10-K Item 5 record holder history loaded._
 ## 8. Valuation: Inverted Yield Multiples, Synthetic Deleveraging & Reverse DCF
 
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
+
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | `NR / NA` | `NR / NA` | **47.46%** | `NR / NA` | `NR / NA` | `NR / NA` |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
+
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | `NR` | $37.4M | $0 | **`NR`** | **`None yrs`** | $0 |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
+
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
 | `NR` | $139.5M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |

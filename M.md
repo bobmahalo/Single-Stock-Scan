@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-01 14:37 UTC` | **CIK:** `0000794367` | **SIC:** `5311` | **Inc:** `DE` | **FYE:** `Feb 01`  
+> **Generated:** `2026-11-05 14:46 UTC` | **CIK:** `0000794367` | **SIC:** `5311` | **Inc:** `DE` | **FYE:** `Feb 01`  
 > **Current Price:** `$24.72` | **Market Cap:** `$6.46B` | **Enterprise Value:** `$10.72B`  
 > **TTM Free Cash Flow Yield:** **`21.9%`** (SBC-Adjusted: **`20.9%`**)
 
@@ -44,7 +44,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜]  8/10`</nobr> | • **Piotroski:** `8/9`<br>• **Altman Z:** `2.70` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `-3.64` (CLEAN / NON-MANIPULATOR (<= -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **FCF Yield:** `21.9%`<br>• **Net Cash:** `$-16.31/sh` (-66.0% of price)<br>• **Graham NCAV:** `$-16.88/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `3.6%`<br>• **Insiders:** `$-810K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `-1.8%` (Cannibal Buyback)<br>• **SBC % OCF:** `3.6%`<br>• **Insiders:** `$-797K` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -281,9 +281,9 @@
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
 | **M** (Macy's, Inc.) | `[Subject Firm]` | **$6.5B** | **21.9%** | **-$16.31** | **8/9** | **2.70 (Grey)** |
-| **BURL** (Burlington Stores, Inc.) | `[Direct Peer: ~2.4x]` | $15.2B | 2.7% | -$82.82 | 8/9 | 3.04 (Safe) |
-| **KSS** (KOHLS Corp) | `[Direct Peer: ~0.4x]` | $2.8B | 37.2% | -$28.34 | 6/9 | 1.73 (Distress) |
-| **WMT** (Walmart Inc.) | `[Industry Leader: 149x larger]` | $962.0B | 1.4% | -$6.54 | 7/9 | 6.20 (Safe) |
+| **BURL** (Burlington Stores, Inc.) | `[Direct Peer: ~2.3x]` | $14.9B | 2.8% | -$82.82 | 8/9 | 3.02 (Safe) |
+| **KSS** (KOHLS Corp) | `[Direct Peer: ~0.4x]` | $2.8B | 37.5% | -$28.34 | 6/9 | 1.73 (Distress) |
+| **WMT** (Walmart Inc.) | `[Industry Leader: 152x larger]` | $979.9B | 1.4% | -$6.54 | 7/9 | 6.25 (Safe) |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -342,7 +342,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-01 14:37 UTC` |
+| **Generated** | `2026-11-05 14:46 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -352,18 +352,21 @@
 ## 1. Share Count & Ownership Consensus (Page 1 DEI, Diluted, DRS Record Holders & Insiders)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | 292.41M | 271.40M | 274.27M | 277.72M | 263.74M | 261.18M |
 | **Diluted Shares Outstanding** | 314.00M | 281.10M | 278.20M | 281.60M | 276.50M | 271.90M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-03 | 2025-08-02 | 2025-11-01 | 2026-01-31 | 2026-05-02 | 2026-08-01 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | 271.54M | 268.51M | 265.88M | 263.74M | 263.04M | 261.18M |
 | **Diluted Shares Outstanding** | 280.70M | 275.90M | 274.60M | 274.70M* | 272.70M | 271.90M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
+
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2026** | `2026-03-27` | `0001628280-26-021721` | **10,840** | 263.74M | `41.10` | The Company's common stock is listed on the New York Stock Exchange under the trading symbol “M.” As of January 31, 2026, the Company had approximately 10,840 stockholders of record. |
@@ -373,21 +376,23 @@
 | **FY 2022** | `2022-03-25` | `0001564590-22-011726` | **13,037** | 292.41M | `44.58` | The Company's common stock is listed on the New York Stock Exchange under the trading symbol “M.” As of January 29, 2022, the Company had approximately 13,037 stockholders of record. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
+
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 4 | 0 (0 C-Suite) | No | `$0` | `$809,913` | **`-$809,913`** |
+| **0** | 3 | 0 (0 C-Suite) | No | `$0` | `$796,559` | **`-$796,559`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
 | `2026-06-25` | `2026-06-26` | **Griscom Paul** | SVP and Controller | `S - Sale` | 10,077 | `$25.63` | `$258,278` |
 | `2026-06-24` | `2026-06-24` | **Edwards Thomas Jr.** | EVP, COO & CFO | `S - Sale` | 16,419 | `$24.89` | `$408,726` |
 | `2026-04-06` | `2026-04-07` | **Bron Olivier** | CEO, Bloomingdale's | `S - Sale` | 7,228 | `$17.92` | `$129,555` |
-| `2026-04-06` | `2026-04-07` | **Griscom Paul** | SVP and Controller | `S - Sale` | 745 | `$17.92` | `$13,353` |
 
 ## 2. Income Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $25,399.0M | $25,449.0M | $23,866.0M | $23,006.0M | $22,621.0M | $22,780.0M* |
@@ -403,6 +408,7 @@
 | **Net Income** | $1,419.0M | $1,146.0M | $45.0M | $582.0M | $642.0M | $750.0M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-03 | 2025-08-02 | 2025-11-01 | 2026-01-31 | 2026-05-02 | 2026-08-01 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $4,793.0M | $4,999.0M | $4,913.0M | $7,916.0M* | $4,892.0M | $5,059.0M |
@@ -420,6 +426,7 @@
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $1,712.0M | $862.0M | $1,034.0M | $1,306.0M | $1,246.0M | $1,294.0M |
@@ -445,6 +452,7 @@
 | **Total Liabilities and Equity** | $17,590.0M | $16,866.0M | $16,246.0M | $16,402.0M | $16,238.0M | $15,726.0M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-03 | 2025-08-02 | 2025-11-01 | 2026-01-31 | 2026-05-02 | 2026-08-01 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $932.0M | $829.0M | $447.0M | $1,246.0M | $1,294.0M | $1,294.0M |
@@ -472,6 +480,7 @@
 ## 4. Cash Flow Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | $2,712.0M | $1,615.0M | $1,305.0M | $1,278.0M | $1,430.0M | $1,761.0M* |
@@ -487,6 +496,7 @@
 | **Dividends Paid** | $90.0M | $173.0M | $181.0M | $192.0M | $197.0M | $198.0M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-03 | 2025-08-02 | 2025-11-01 | 2026-01-31 | 2026-05-02 | 2026-08-01 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | -$64.0M | $319.0M* | -$8.0M* | $1,183.0M* | $292.0M | $294.0M* |
@@ -506,6 +516,7 @@
 ## 5. Multi-Horizon Growth (CAGRs) & Common-Size Statements
 
 ### 5Y, 10Y, and 15Y Compound Annual Growth Rates (CAGR)
+
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | +5.45% | -1.78% | -0.67% |
@@ -514,6 +525,7 @@
 | **Cover Page Shares Outstanding** | -3.22% | -1.62% | -3.11% |
 
 ### Common-Size Income Statement (`% of Revenue`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -529,6 +541,7 @@
 | **Net Income** | 5.6% | 4.5% | 0.2% | 2.5% | 2.8% | 3.3% |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | 9.7% | 5.1% | 6.4% | 8.0% | 7.7% | 8.2% |
@@ -558,6 +571,7 @@
 ## 6. Financial Ratios, Solvency & Return on Capital Consistency
 
 ### Margins, Liquidity, Solvency & Net Common Overhang
+
 | Ratio / Metric | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Gross Margin Pct** | 41.06% | 39.70% | 40.40% | 40.28% | 40.33% | 40.69% |
@@ -580,6 +594,7 @@
 | **Shareholder Yield Pct** | 9.03% | 11.99% | 3.39% | 2.99% | 6.92% | 6.24% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
+
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
 | **ROIC Pct** | 8.50% | 3.23% | 8.75% | -39.24% |
@@ -591,6 +606,7 @@
 ## 7. Quantitative Forensics (Piotroski, Altman, Beneish & Roll-Up Audit)
 
 ### Institutional Forensic Scorecard
+
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **8 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
@@ -604,16 +620,19 @@
 ## 8. Valuation: Inverted Yield Multiples, Synthetic Deleveraging & Reverse DCF
 
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
+
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | **21.90%** | **11.62%** | **57.05%** | **352.83%** | **10.67%** | **13.19%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
+
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | $5,555.0M | $1,294.0M | $1,294.0M | **$4,261.0M** | **`3.01 yrs`** | $22.6M |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
+
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
 | $1,414.0M | $10,717.3M | `-5.83%` | **`$45.48`** |

@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 15:01 UTC` | **CIK:** `0001649744` | **SIC:** `5600` | **FYE:** `Feb 01`  
+> **Generated:** `2026-11-05 14:45 UTC` | **CIK:** `0001649744` | **SIC:** `5600` | **FYE:** `Feb 01`  
 > **Current Price:** `$4.00` | **Market Cap:** `$145.5M` | **Enterprise Value:** `$235.5M`  
 > **TTM Free Cash Flow Yield:** **`39.5%`** (SBC-Adjusted: **`37.6%`**)
 
@@ -82,7 +82,7 @@
 | **Graham NCAV Floor** | **$-0.99/sh** | `-24.8%` | Negative net current asset value (`Curr. Assets $182.9M - Total Liab. $218.9M = $-35.9M`) |
 | **Tangible Book Value** | **$4.87/sh** | `121.8%` | Tangible physical assets cover 121.8% of price (`Total Tangible Equity: $177.1M`) |
 | **Zero-Growth DCF Floor** | **$15.58** | `389.5%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$3.35 – $4.35** | `90th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
+| **5-Year Price Corridor** | **$3.35 – $4.49** | `89th %-tile` | ⚠️ Late Cycle / Momentum Zone (Top Quintile) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -107,8 +107,8 @@
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
 | **T1** | `MARKET` | **$4.00** | $333.30 (33.3%) | 83 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$3.79** | $333.30 (33.3%) | 87 | -5.3% Support Retest (Volatility-Adjusted (14-Period ATR 5.3%) Limit) |
-| **T3** | `LIMIT` | **$3.57** | $333.40 (33.3%) | 93 | -10.7% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 5.3%) Deep Liquidity Limit) |
+| **T2** | `LIMIT` | **$3.82** | $333.30 (33.3%) | 87 | -4.6% Support Retest (Volatility-Adjusted (14-Period ATR 4.6%) Limit) |
+| **T3** | `LIMIT` | **$3.63** | $333.40 (33.3%) | 91 | -9.2% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 4.6%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -130,8 +130,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$4.87** (`+21.8%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
 | **Target 2 (Full Fair Value):** | **$5.60** (`+40.0%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
-| **Safety Stop Loss:** | **$3.23** | Liquidation Burn Trap Stop (-15.0% from VWAP $3.80) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$2.85** (-25.0% from VWAP $3.80) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$3.26** | Liquidation Burn Trap Stop (-15.0% from VWAP $3.83) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$2.87** (-25.0% from VWAP $3.83) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation. |
 
 <details markdown="1">
@@ -239,20 +239,20 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$3.35 – $4.35`** \| `[$3.35 ─────────────────●── $4.35] (90th %-tile)` |
-| **52-Week Price Range:** | `$3.64 – $4.35` (Cycle Regime: `⚠️ Late Cycle / Momentum Zone (Top Quintile)`) |
-| **Primary Valuation Multiple:** | **`8.4x`** P/FCF vs. 5-Year Median `2.9x` (`85th %-tile` — ⚠️ Multiple Expansion) |
+| **5-Year Price Corridor:** | **`$3.35 – $4.49`** \| `[$3.35 ─────────────────●── $4.49] (89th %-tile)` |
+| **52-Week Price Range:** | `$3.64 – $4.49` (Cycle Regime: `⚠️ Late Cycle / Momentum Zone (Top Quintile)`) |
+| **Primary Valuation Multiple:** | **`8.4x`** P/FCF vs. 5-Year Median `3.0x` (`83th %-tile` — ⚠️ Multiple Expansion) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`8.4x`** | `1.4x – 2.9x – 8.9x` | `85%` | **$1.41** | `-64.8%` | ⚠️ Multiple Expansion |
-| **P/TBV** | **`0.8x`** | `0.5x – 0.6x – 0.9x` | `95%` | **$2.76** | `-31.0%` | ⚠️ Multiple Expansion |
-| **P/S** | **`0.2x`** | `0.2x – 0.2x – 0.3x` | `94%` | **$3.17** | `-20.8%` | ⚠️ Multiple Expansion |
+| **P/FCF** | **`8.4x`** | `1.4x – 3.0x – 9.4x` | `83%` | **$1.44** | `-64.0%` | ⚠️ Multiple Expansion |
+| **P/TBV** | **`0.8x`** | `0.5x – 0.6x – 0.9x` | `94%` | **$2.76** | `-31.0%` | ⚠️ Multiple Expansion |
+| **P/S** | **`0.2x`** | `0.2x – 0.2x – 0.3x` | `93%` | **$3.17** | `-20.8%` | ⚠️ Multiple Expansion |
 
-> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (85th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`2.9x`).
+> **Forensic Mean Reversion Verdict:** **Elevated Valuation Multiple.** DLTH trades at `8.4x` P/FCF (83th percentile of 5-year history), representing multiple expansion above its 5-year historical median (`3.0x`).
 
 </details>
 
@@ -280,9 +280,9 @@
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
 | **DLTH** (DULUTH HOLDINGS INC.) | `[Subject Firm]` | **$145.5M** | **39.5%** | **-$2.47** | **7/9** | **2.38 (Grey)** |
-| **CTRN** (Citi Trends Inc) | `[Industry Leader: 2.6x larger]` | $383.6M | 1.7% | +$10.01 | 6/9 | 3.35 (Safe) |
-| **ZUMZ** (Zumiez Inc) | `[Direct Peer: ~1.5x]` | $220.3M | 11.4% | +$6.18 | 8/9 | 2.38 (Grey) |
-| **CURV** (Torrid Holdings Inc.) | `[Direct Peer: ~1.5x]` | $214.4M | -6.2% | -$2.43 | 2/9 | 1.53 (Distress) |
+| **CTRN** (Citi Trends Inc) | `[Industry Leader: 2.8x larger]` | $401.6M | 1.6% | -$16.95 | 5/9 | 3.38 (Safe) |
+| **CURV** (Torrid Holdings Inc.) | `[Direct Peer: ~1.7x]` | $243.3M | -5.5% | -$3.57 | 2/9 | 1.56 (Distress) |
+| **ZUMZ** (Zumiez Inc) | `[Direct Peer: ~1.6x]` | $232.6M | 10.8% | -$8.64 | 8/9 | 2.40 (Grey) |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -312,9 +312,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.04x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$7,861.60` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $7,862 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.05x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$6,408.40` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $6,408 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -341,7 +341,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 15:01 UTC` |
+| **Generated** | `2026-11-05 14:45 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -351,18 +351,21 @@
 ## 1. Share Count & Ownership Consensus (Page 1 DEI, Diluted, DRS Record Holders & Insiders)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Diluted Shares Outstanding** | 32.85M | 32.99M | 32.95M | 33.37M | 34.62M | 36.38M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-04 | 2025-08-03 | 2025-11-02 | 2026-02-01 | 2026-05-03 | 2026-08-02 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Diluted Shares Outstanding** | 33.71M | 34.66M | 34.52M | 35.80M* | 34.71M | 36.38M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
+
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2026** | `2026-03-20` | `0001193125-26-117508` | **`NR`** | `NR` | `NR` | NR (Not disclosed or held via street name) |
@@ -372,6 +375,7 @@
 | **FY 2022** | `2022-03-25` | `0001649744-22-000008` | **82** | `NR` | `NR` | Shareholders of Record As of March 15, 2022, there were approximately 82 holders of record, based upon data provided by our transfer agent, of our Class B common stock, one of whom is the sole holder of our Class A common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
+
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
 | **0** | 0 | 0 (0 C-Suite) | No | `$0` | `$0` | **`$0`** |
@@ -379,6 +383,7 @@
 ## 2. Income Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $698.6M | $653.3M | $646.7M | $626.6M | $565.2M | $550.7M* |
@@ -394,6 +399,7 @@
 | **Net Income** | $29.7M | $2.3M | -$9.9M | -$43.7M | -$16.4M | $5.9M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-04 | 2025-08-03 | 2025-11-02 | 2026-02-01 | 2026-05-03 | 2026-08-02 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $102.7M | $131.7M | $114.9M | $215.9M* | $98.6M | $121.4M |
@@ -411,6 +417,7 @@
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $77.1M | $45.5M | $32.2M | $3.3M | $16.3M | $26.8M |
@@ -436,6 +443,7 @@
 | **Total Liabilities and Equity** | $515.5M | $527.5M | $491.2M | $452.4M | $402.6M | $394.0M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-04 | 2025-08-03 | 2025-11-02 | 2026-02-01 | 2026-05-03 | 2026-08-02 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $8.6M | $5.7M | $8.2M | $16.3M | $6.1M | $26.8M |
@@ -463,6 +471,7 @@
 ## 4. Cash Flow Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | $92.0M | -$1.4M | $38.7M | -$16.9M | $24.2M | $64.1M* |
@@ -478,6 +487,7 @@
 | **Dividends Paid** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-05-04 | 2025-08-03 | 2025-11-02 | 2026-02-01 | 2026-05-03 | 2026-08-02 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | -$56.5M | $32.0M* | -$6.7M* | $55.3M* | -$13.4M | $28.9M* |
@@ -497,6 +507,7 @@
 ## 5. Multi-Horizon Growth (CAGRs) & Common-Size Statements
 
 ### 5Y, 10Y, and 15Y Compound Annual Growth Rates (CAGR)
+
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | -2.42% | +6.39% | `NA` |
@@ -505,6 +516,7 @@
 | **Cover Page Shares Outstanding** | `NA` | `NA` | `NA` |
 
 ### Common-Size Income Statement (`% of Revenue`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -520,6 +532,7 @@
 | **Net Income** | 4.3% | 0.4% | -1.5% | -7.0% | -2.9% | 1.1% |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | 14.9% | 8.6% | 6.5% | 0.7% | 4.1% | 6.8% |
@@ -549,6 +562,7 @@
 ## 6. Financial Ratios, Solvency & Return on Capital Consistency
 
 ### Margins, Liquidity, Solvency & Net Common Overhang
+
 | Ratio / Metric | FY 2022 | FY 2023 | FY 2024 | FY 2025 | FY 2026 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Gross Margin Pct** | 54.01% | 52.57% | 50.25% | 49.23% | 53.37% | 58.33% |
@@ -571,6 +585,7 @@
 | **Shareholder Yield Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
+
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
 | **ROIC Pct** | -2.41% | -10.22% | 6.80% | -10.22% |
@@ -582,6 +597,7 @@
 ## 7. Quantitative Forensics (Piotroski, Altman, Beneish & Roll-Up Audit)
 
 ### Institutional Forensic Scorecard
+
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **7 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
@@ -595,16 +611,19 @@
 ## 8. Valuation: Inverted Yield Multiples, Synthetic Deleveraging & Reverse DCF
 
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
+
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | **39.54%** | **4.06%** | **121.73%** | **378.46%** | **4.00%** | **24.44%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
+
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | $116.7M | $26.8M | $26.8M | **$89.9M** | **`1.56 yrs`** | $874,577 |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
+
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
 | $57.5M | $235.5M | `-15.35%` | **`$15.58`** |

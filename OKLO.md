@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-04 16:55 UTC` | **CIK:** `0001849056` | **SIC:** `4911` | **Inc:** `DE` | **FYE:** `Dec 31`  
+> **Generated:** `2026-11-05 14:46 UTC` | **CIK:** `0001849056` | **SIC:** `4911` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$22.24` | **Market Cap:** `$4.14B` | **Enterprise Value:** `$1.68B`  
 > **TTM Free Cash Flow Yield:** **`-6.7%`** (SBC-Adjusted: **`-8.1%`**)
 
@@ -309,9 +309,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.92x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$198,174,248.22` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.92x 90d avg; ADDV $198,174,248 >= $250k). Zero retail mania. |
+| **30-Day Volume / 90-Day Average:** | `0.61x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$112,654,887.42` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.61x 90d avg; ADDV $112,654,887 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -338,7 +338,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-04 16:55 UTC` |
+| **Generated** | `2026-11-05 14:46 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -348,18 +348,21 @@
 ## 1. Share Count & Ownership Consensus (Page 1 DEI, Diluted, DRS Record Holders & Insiders)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | `NR` | 69.24M | 139.02M | 173.57M | 186.02M |
 | **Diluted Shares Outstanding** | `NR` | 68.89M | 98.91M | 146.35M | 176.22M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | 139.21M | 147.61M | 156.25M | 173.57M | 173.99M | 186.02M |
 | **Diluted Shares Outstanding** | 138.11M | 140.09M | 150.36M | 156.71M* | 170.33M | 176.22M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
+
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2025** | `2026-03-17` | `0001628280-26-018698` | **35** | 173.57M | `0.20` | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities Market Information Our common stock began trading on the New York Stock Exchange on May 10, 2024 under the symbol “OKLO.” Holders As of March 13, 2026, there were approximately 35 holders of record of our common stock. |
@@ -369,11 +372,13 @@
 | **FY 2021** | `2022-03-31` | `0001410578-22-000756` | **2** | `NR` | `NR` | Market Information Our Class A common stock is traded on the NYSE under the symbol “ALCC.” Holders Although there are a larger number of beneficial owners, at March 18, 2022, there were two holders of record of our shares of Class A common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
+
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
 | **0** | 67 | 0 (0 C-Suite) | No | `$0` | `$480,681,076` | **`-$480,681,076`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
 | `2026-10-29` | `2026-11-02` | **Hanson John** | Chief of Staff | `S - Sale` | 1,034 | `$26.71` | `$27,616` |
@@ -390,6 +395,7 @@
 ## 2. Income Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | `NR` | `NR` | `NR` | `NR` | `NR` |
@@ -405,6 +411,7 @@
 | **Net Income** | $3.9M | -$32.2M | -$73.6M | -$105.7M | -$152.8M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | `NR` | $0 | `NR` | `NR` | `NR` | $1.2M |
@@ -422,6 +429,7 @@
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $3.6M | $9.9M | $97.1M | $788.4M | $1,644.7M |
@@ -447,6 +455,7 @@
 | **Total Liabilities and Equity** | $510.1M | $14.9M | $281.7M | $1,528.5M | $3,357.9M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $90.1M | $226.8M | $410.0M | $788.4M | $1,594.1M | $1,644.7M |
@@ -474,6 +483,7 @@
 ## 4. Cash Flow Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | -$954,691 | -$16.0M | -$38.4M | -$82.2M | -$116.9M* |
@@ -489,6 +499,7 @@
 | **Dividends Paid** | `NR` | `NR` | `NR` | `NR` | `NR` |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | -$12.2M | -$18.5M* | -$18.0M* | -$33.4M* | -$17.9M | -$47.6M* |
@@ -508,6 +519,7 @@
 ## 5. Multi-Horizon Growth (CAGRs) & Common-Size Statements
 
 ### 5Y, 10Y, and 15Y Compound Annual Growth Rates (CAGR)
+
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | `NA` | `NA` | `NA` |
@@ -516,6 +528,7 @@
 | **Cover Page Shares Outstanding** | `NA` | `NA` | `NA` |
 
 ### Common-Size Income Statement (`% of Revenue`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | `NR` | `NR` | `NR` | `NR` | `NR` |
@@ -531,6 +544,7 @@
 | **Net Income** | `NR` | `NR` | `NR` | `NR` | `NR` |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
+
 | Line Item | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | 0.7% | 66.3% | 34.5% | 51.6% | 49.0% |
@@ -560,6 +574,7 @@
 ## 6. Financial Ratios, Solvency & Return on Capital Consistency
 
 ### Margins, Liquidity, Solvency & Net Common Overhang
+
 | Ratio / Metric | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | **Gross Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` |
@@ -582,6 +597,7 @@
 | **Shareholder Yield Pct** | `NR` | 5.22% | 0.00% | -30.54% | -64.63% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
+
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
 | **ROIC Pct** | -108.70% | -173.32% | -108.70% | -173.32% |
@@ -593,6 +609,7 @@
 ## 7. Quantitative Forensics (Piotroski, Altman, Beneish & Roll-Up Audit)
 
 ### Institutional Forensic Scorecard
+
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **4 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
@@ -606,16 +623,19 @@
 ## 8. Valuation: Inverted Yield Multiples, Synthetic Deleveraging & Reverse DCF
 
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
+
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | **-6.67%** | **-3.69%** | **77.66%** | `NR / NA` | **-13.00%** | **-16.46%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
+
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | $4.0M | $2,465.2M | $4.0M | **$0** | **`0.0 yrs`** | $197,950 |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
+
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
 | -$275.8M | $1,675.8M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |

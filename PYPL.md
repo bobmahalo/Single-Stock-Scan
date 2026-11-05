@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-10-31 15:01 UTC` | **CIK:** `0001633917` | **SIC:** `7389` | **FYE:** `Dec 31`  
+> **Generated:** `2026-11-05 14:46 UTC` | **CIK:** `0001633917` | **SIC:** `7389` | **FYE:** `Dec 31`  
 > **Current Price:** `$57.26` | **Market Cap:** `$47.56B` | **Enterprise Value:** `$51.52B`  
 > **TTM Free Cash Flow Yield:** **`13.2%`** (SBC-Adjusted: **`11.1%`**)
 
@@ -282,9 +282,9 @@
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
 | **PYPL** (PayPal Holdings, Inc.) | `[Subject Firm]` | **$47.6B** | **13.2%** | **-$4.77** | **8/9** | **1.91 (Grey)** |
-| **V** (VISA INC.) | `[Industry Leader: 16x larger]` | $740.3B | N/A | -$4.46 | 5/9 | 9.07 (Safe) |
-| **MA** (Mastercard Inc) | `[Industry Leader: 12x larger]` | $559.1B | 3.0% | -$15.12 | 7/9 | 10.48 (Safe) |
-| **RPAY** (Repay Holdings Corp) | `[Industry Leader: 7.6x larger]` | $360.6B | 0.0% | -$0.01 | 4/9 | 189.46 (Safe) |
+| **V** (VISA INC.) | `[Industry Leader: 16x larger]` | $739.0B | N/A | -$4.97 | 5/9 | 9.06 (Safe) |
+| **MA** (Mastercard Inc) | `[Industry Leader: 12x larger]` | $558.9B | 2.9% | -$16.69 | 7/9 | 10.66 (Safe) |
+| **RPAY** (Repay Holdings Corp) | `[Industry Leader: 8.0x larger]` | $381.4B | 0.0% | -$0.01 | 4/9 | 200.43 (Safe) |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -343,7 +343,7 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-10-31 15:01 UTC` |
+| **Generated** | `2026-11-05 14:46 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -353,18 +353,21 @@
 ## 1. Share Count & Ownership Consensus (Page 1 DEI, Diluted, DRS Record Holders & Insiders)
 
 ### Annual History & TTM
+
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | 1,165.00M | 1,131.37M | 1,071.74M | 989.24M | 920.66M | 830.66M |
 | **Diluted Shares Outstanding** | 1,186.00M | 1,158.00M | 1,107.00M | 1,039.00M | 968.00M | 858.00M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cover Page Shares Outstanding** | 955.38M | 935.65M | 920.66M | 882.11M | 855.46M | 830.66M |
 | **Diluted Shares Outstanding** | 977.00M | 960.00M | 938.00M* | 920.00M | 882.00M | 858.00M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
+
 | Fiscal Year | Filing Date | Accession | Record Holders | Cover Page Shares | Holders per 1M Shares | Verbatim 10-K Item 5 Disclosure |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- |
 | **FY 2025** | `2026-02-03` | `0001633917-26-000024` | **3,567** | 920.66M | `3.87` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES COMMON STOCK PayPal common stock is quoted on the Nasdaq Global Select Market under the ticker symbol “PYPL.” As of January 28, 2026, there were 3,567 holders of record of our common stock. |
@@ -374,11 +377,13 @@
 | **FY 2021** | `2022-02-03` | `0001633917-22-000027` | **4,103** | 1,165.00M | `3.52` | MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES OF EQUITY SECURITIES COMMON STOCK PayPal common stock is quoted on the NASDAQ Global Select Market under the ticker symbol “PYPL.” As of January 28, 2022, there were 4,103 holders of record of our common stock. |
 
 ### Insider Open-Market Activity (12-Month Form 4 Surveillance)
+
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
 | **0** | 5 | 0 (0 C-Suite) | No | `$0` | `$768,442` | **`-$768,442`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
+
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
 | `2026-10-28` | `2026-10-30` | **Keller Frank** | Pres., Checkout Sol. & PayPal | `S - Sale` | 732 | `$55.37` | `$40,531` |
@@ -390,6 +395,7 @@
 ## 2. Income Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $25,371.0M | $27,518.0M | $29,771.0M | $31,797.0M | $33,172.0M | $34,295.0M* |
@@ -405,6 +411,7 @@
 | **Net Income** | $4,169.0M | $2,419.0M | $4,246.0M | $4,147.0M | $5,233.0M | $4,727.0M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | $8,288.0M | $8,417.0M | $8,676.0M* | $8,353.0M | $8,682.0M | $8,584.0M |
@@ -422,6 +429,7 @@
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
 ### Annual History & TTM
+
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $5,197.0M | $7,776.0M | $9,081.0M | $6,662.0M | $8,049.0M | $7,160.0M |
@@ -447,6 +455,7 @@
 | **Total Liabilities and Equity** | $75,803.0M | $78,624.0M | $82,166.0M | $78,725.0M | $80,173.0M | $81,622.0M |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | $6,688.0M | $8,995.0M | $8,049.0M | $6,977.0M | $8,306.0M | $7,160.0M |
@@ -474,6 +483,7 @@
 ## 4. Cash Flow Statement
 
 ### Annual History & TTM
+
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | $5,797.0M | $5,813.0M | $4,843.0M | $7,450.0M | $6,416.0M | $7,093.0M* |
@@ -489,6 +499,7 @@
 | **Dividends Paid** | `NR` | `NR` | $0 | $0 | $130.0M | $500.0M* |
 
 ### Recent Discrete Quarters
+
 | Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Operating Cash Flow** | $898.0M* | $1,974.0M* | $2,384.0M* | $1,134.0M | $1,983.0M* | $1,592.0M* |
@@ -508,6 +519,7 @@
 ## 5. Multi-Horizon Growth (CAGRs) & Common-Size Statements
 
 ### 5Y, 10Y, and 15Y Compound Annual Growth Rates (CAGR)
+
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
 | **Revenue** | +9.11% | +13.62% | `NA` |
@@ -516,6 +528,7 @@
 | **Cover Page Shares Outstanding** | -4.70% | -2.80% | `NA` |
 
 ### Common-Size Income Statement (`% of Revenue`)
+
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Revenue** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
@@ -531,6 +544,7 @@
 | **Net Income** | 16.4% | 8.8% | 14.3% | 13.0% | 15.8% | 13.8% |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
+
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Cash and Equivalents** | 6.9% | 9.9% | 11.1% | 8.5% | 10.0% | 8.8% |
@@ -560,6 +574,7 @@
 ## 6. Financial Ratios, Solvency & Return on Capital Consistency
 
 ### Margins, Liquidity, Solvency & Net Common Overhang
+
 | Ratio / Metric | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Gross Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
@@ -582,6 +597,7 @@
 | **Shareholder Yield Pct** | 6.75% | 8.53% | 10.25% | 12.51% | 12.75% | 13.78% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
+
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
 | **ROIC Pct** | 13.71% | 13.22% | 14.98% | 13.22% |
@@ -593,6 +609,7 @@
 ## 7. Quantitative Forensics (Piotroski, Altman, Beneish & Roll-Up Audit)
 
 ### Institutional Forensic Scorecard
+
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **8 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
@@ -606,16 +623,19 @@
 ## 8. Valuation: Inverted Yield Multiples, Synthetic Deleveraging & Reverse DCF
 
 ### Roaring Kitty Inverted Yield Multiples (Higher Yield = Cheaper Valuation)
+
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | **13.24%** | **9.94%** | **17.58%** | **72.10%** | **11.31%** | **12.23%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
+
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
 | $14,240.0M | $10,280.0M | $10,280.0M | **$3,960.0M** | **`0.63 yrs`** | $350.8M |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
+
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
 | $6,299.0M | $51,523.5M | `-4.73%` | **`$81.78`** |
