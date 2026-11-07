@@ -1,7 +1,7 @@
 # 🗂️ Antigravity: Single Stock Reports Directory
 Welcome to the central hub for all deep-dive stock scans.
 
-[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
+[☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
 > **🏛️ True Stock Ownership & Custody Education:** Holding shares in broker "Street Name" means you only hold a beneficial entitlement while Cede & Co. holds legal title. Learn how Direct Registration (DRS) protects your shares from broker insolvency and short-lending at **[WhyDRS.org](https://www.whydrs.org)** ([Advocacy](https://www.whydrs.org/advocacy) | [Free Resources](https://www.whydrs.org/free-resources)).
 
@@ -14,7 +14,9 @@ Welcome to the central hub for all deep-dive stock scans.
 - [APTV Report](APTV.html)
 - [BB Report](BB.html)
 - [CAT Report](CAT.html)
+- [CRMD Report](CRMD.html)
 - [CRON Report](CRON.html)
+- [CRTO Report](CRTO.html)
 - [CRUS Report](CRUS.html)
 - [CRWS Report](CRWS.html)
 - [CULP Report](CULP.html)
@@ -30,6 +32,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [IZEA Report](IZEA.html)
 - [KULR Report](KULR.html)
 - [LOVE Report](LOVE.html)
+- [LRN Report](LRN.html)
 - [M Report](M.html)
 - [MMS Report](MMS.html)
 - [MU Report](MU.html)
