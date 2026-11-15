@@ -3,9 +3,9 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-05 17:06 UTC` | **CIK:** `0001662684` | **SIC:** `3670` | **Inc:** `DE` | **FYE:** `Dec 31`  
-> **Current Price:** `$1.43` | **Market Cap:** `$66.2M` | **Enterprise Value:** `$56.9M`  
-> **TTM Free Cash Flow Yield:** **`-66.7%`** (SBC-Adjusted: **`-75.3%`**)
+> **Generated:** `2026-11-15 18:09 UTC` | **CIK:** `0001662684` | **SIC:** `3670` | **Inc:** `DE` | **FYE:** `Dec 31`  
+> **Current Price:** `$1.72` | **Market Cap:** `$79.6M` | **Enterprise Value:** `$28.0M`  
+> **TTM Free Cash Flow Yield:** **`-60.1%`** (SBC-Adjusted: **`-67.1%`**)
 
 ---
 
@@ -16,10 +16,10 @@
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │              VERDICT: QUARANTINED / REGULATORY & AUDIT RED FLAG              │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│ ASYMMETRIC PAYOFF PROFILE: 0.1x : 1.0 (Unfavorable Skew <1.0x)*              │
-│ • Downside to Net Cash Floor:        -86.0% ($0.20 vs $1.43)*                │
-│ • Upside to Intrinsic Fair Value:    +9.1% ($1.56 Target 1)                  │
-│ • Catalytic Convergence Target:      +25.2% ($1.79 Target 2)                 │
+│ ASYMMETRIC PAYOFF PROFILE: 0.6x : 1.0 (Unfavorable Skew <1.0x)*              │
+│ • Downside to Net Cash Floor:        -34.9% ($1.12 vs $1.72)*                │
+│ • Upside to Intrinsic Fair Value:    +19.8% ($2.06 Target 1)                 │
+│ • Catalytic Convergence Target:      +37.8% ($2.37 Target 2)                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -34,6 +34,7 @@
 | **⚖️ Moderate Asymmetry** | `1.0x – 2.5x` | Upside exceeds liquidation risk; disciplined position sizing and limit-order entry required. |
 | **⚠️ Unfavorable Skew** | `< 1.0x : 1.0` | Downside to asset liquidation floor exceeds upside to Target 1. For asset-light compounders, protection relies on operating cash flow rather than liquidation floors. |
 | **N/A (Franchise Moat)** | `No Asset Floor` | Net debt and negative tangible equity from share buybacks; valuation relies on structural operating cash flow stability rather than liquidation cushions. |
+| **Unavailable (`N/A`)** | `Share Price Missing` | Live or cached verified share price is unavailable; targets, upside/downside ratios, and Stage 3 limit ladders are withheld rather than filled with synthetic prices. |
 | **🚨 Audit Check** | `Spot < Cash Floor` | Flagged whenever market price trades at or below net cash per share to ensure unpopulated XBRL debt disclosures are verified in the audit vault before sizing. |
 
 </details>
@@ -42,9 +43,9 @@
 
 | Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
 | :--- | :---: | :--- | :--- |
-| **🛡️ Financial Health:** | <nobr>`[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10`</nobr> | • **Piotroski:** `3/9`<br>• **Altman Z:** `-1.84` (DISTRESS (< 1.81))<br>• **Beneish M:** `2.56` (WARNING: POTENTIAL EARNINGS MANIPULATION (> -1.78)) | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
-| **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `-66.7%`<br>• **Net Cash:** `$0.20/sh` (14.0% of price)<br>• **Graham NCAV:** `$1.24/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+70.3%` (Dilution)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🛡️ Financial Health:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **Piotroski:** `N/A`<br>• **Altman Z:** `N/A`<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
+| **💎 Valuation Asymmetry:** | <nobr>`[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10`</nobr> | • **FCF Yield:** `-60.1%`<br>• **Net Cash:** `$1.12/sh` (65.1% of price)<br>• **Graham NCAV:** `$1.34/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **1Y Shares:** `+70.3%` (Dilution)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -54,6 +55,7 @@
 | **⚠️ Dilutive Burn (OCF ≤ $0)** | `OCF ≤ $0` & `SBC > $0` | When operating cash flow is negative or zero, stock-based compensation cannot be evaluated as an operating expense ratio—it is a pure dilution drain subsidizing payroll with shareholder equity. |
 | **⚠️ Bank/REIT Structure** | `SIC 6000–6799` | Altman Z and Piotroski F scores were calibrated for industrial manufacturing firms. Financial institutions and REITs operate with structural balance-sheet leverage by design; standard industrial distress formulas produce false insolvency signals. |
 | **Beneish M-Score** | `< -1.78 (Clean)` | Mathematical 8-factor forensic index tracking aggressive accruals, receivable bloat, and asset quality to flag earnings manipulation (`> -1.78` = Manipulation Risk). |
+| **Zero-Midpoint Radar** | `Missing Metric → 0 Verified Pts` | Unpopulated metrics (F-Score, Z-Score, M-Score, FCF Yield, Share Change, CapEx/D&A, Insiders) contribute `0` points with explicit `NR` status strings instead of synthetic neutral midpoints. |
 
 </details>
 
@@ -76,12 +78,12 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$1.43** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$0.20/sh** | `14.0%` | Bank cash backs 14.0% of stock price (`Cash $12.8M - Debt $3.5M = +$9.3M` across 46.3M sh) |
-| **Graham NCAV Floor** | **$1.24/sh** | `86.7%` | Net liquid assets cover 86.7% of stock price (`Curr. Assets $84.7M - Total Liab. $27.5M = +$57.2M`) |
-| **Tangible Book Value** | **$1.56/sh** | `109.1%` | Tangible physical assets cover 109.1% of price (`Total Tangible Equity: $72.3M`) |
+| **Current Market Price** | **$1.72** | `100.0%` | Baseline entry quote |
+| **Net Cash Floor (Ex-Debt)** | **$1.12/sh** | `65.1%` | Bank cash backs 65.1% of stock price (`Cash $54.5M - Debt $2.8M = +$51.6M` across 46.3M sh) |
+| **Graham NCAV Floor** | **$1.34/sh** | `77.9%` | Net liquid assets cover 77.9% of stock price (`Curr. Assets $70.3M - Total Liab. $8.2M = +$62.1M`) |
+| **Tangible Book Value** | **$1.68/sh** | `97.7%` | Tangible physical assets cover 97.7% of price (`Total Tangible Equity: $78.0M`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
-| **5-Year Price Corridor** | **$0.80 – $43.92** | `3th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
+| **5-Year Price Corridor** | **$0.80 – $43.92** | `6th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -105,9 +107,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$1.43** | $333.30 (33.3%) | 233 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$1.22** | $333.30 (33.3%) | 273 | -15.0% Support Retest (Volatility-Adjusted (14-Period ATR 22.6%) Limit) |
-| **T3** | `LIMIT` | **$1.00** | $333.40 (33.3%) | 333 | -30.0% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 22.6%) Deep Liquidity Limit) |
+| **T1** | `MARKET` | **$1.72** | $333.30 (33.3%) | 193 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$1.46** | $333.30 (33.3%) | 228 | -15.0% Support Retest (Volatility-Adjusted (14-Period ATR 19.1%) Limit) |
+| **T3** | `LIMIT` | **$1.20** | $333.40 (33.3%) | 277 | -30.0% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 19.1%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -127,10 +129,10 @@
 
 | Exit / Stop Parameter | Target Price & Upside | Deterministic Execution Rule |
 | :--- | :--- | :--- |
-| **Target 1 (Lock in Capital):** | **$1.56** (`+9.1%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
-| **Target 2 (Full Fair Value):** | **$1.79** (`+25.2%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
-| **Safety Stop Loss:** | **$1.01** | Liquidation Burn Trap Stop (-15.0% from VWAP $1.19) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$0.89** (-25.0% from VWAP $1.19) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Target 1 (Lock in Capital):** | **$2.06** (`+19.8%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
+| **Target 2 (Full Fair Value):** | **$2.37** (`+37.8%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
+| **Safety Stop Loss:** | **$1.22** | Liquidation Burn Trap Stop (-15.0% from VWAP $1.43) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.07** (-25.0% from VWAP $1.43) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation. |
 
 <details markdown="1">
@@ -154,11 +156,11 @@
 
 ### 1. The Cash Flow Engine (Structural Profits vs. Inventory Mirage)
 
-| Cash Flow Audit Dimension | Audited Reading & Plumber's Verdict |
+| Cash Flow Audit Dimension | Audited Reading & Context |
 | :--- | :--- |
 | **Cash Origin Classification:** | `OPERATING_CASH_BURN` |
 | **Forensic Verdict:** | Business is actively burning cash from operations. |
-| **Capex Starvation Check:** | ✅ Normal equipment maintenance (No capex starvation) |
+| **Capex Starvation Check:** | ℹ️ N/A (CapEx or D&A unpopulated / unverified in audit statements) |
 
 <details markdown="1">
 <summary>💡 <b>Free Cash Flow Can Lie: Structural Profits vs. Inventory Liquidation</b></summary>
@@ -172,6 +174,7 @@
 | **3. A/R Collection Squeeze** | `ΔReceivables > 20% of OCF` | **Mirage Warning:** Collecting old customer invoices while top-line sales decline. |
 | **4. Stretched Payables (A/P)** | `ΔPayables > 20% of OCF` | **Distress Warning:** Delaying supplier payments to artificially preserve cash on the balance sheet. |
 | **5. Capex Starvation** | `CapEx / D&A < 35.0%` | **Starvation Warning:** Slashing maintenance capital expenditures below 35% of Depreciation & Amortization to manufacture short-term reported FCF. |
+| **6. Unverified / Stale (`UNAVAILABLE`)** | `Missing Input or > 1Y Lag` | **Fail-Closed Posture:** When canonical OCF, EBIT, CapEx, or D&A is absent (or older than the 1-fiscal-year recency cap), cash origin and CapEx starvation remain `UNAVAILABLE` rather than defaulting to `$0` or firing false starvation flags. |
 
 </details>
 
@@ -179,11 +182,11 @@
 
 | Balance Sheet Solvency Metric | Audited Reading & Maturity Stress Test |
 | :--- | :--- |
-| **Total Bank Cash vs. Total Debt:** | Cash: `$12.8M` vs. Total Debt: `$3.5M` |
+| **Total Bank Cash vs. Total Debt:** | Cash: `$54.5M` vs. Total Debt: `$2.8M` |
 | **Remaining Net Debt:** | **`$0.0M`** |
-| **Years of FCF to Extinguish Debt:** | **`0.0 years`** *(Zero bankruptcy risk — Net Cash Surplus)* |
-| **Contractual Debt Maturity Wall (12–24M):** | Due in Year 1: `$0.5M` \| Due in Year 2: `$0.0M` (Total 24M Due: **`$0.5M`**) |
-| **Maturity Wall Risk Verdict:** | `FULLY_COVERED_BY_CASH` — Cash reserves ($12.8M) cover 25.8x of 12-24M debt maturities ($0.5M). Can extinguish near-term debt without operational cash. |
+| **Years of FCF to Extinguish Debt:** | **`0.0 years`** *(Net cash on reported inputs; liquidity availability and obligations require review)* |
+| **Contractual Debt Maturity Wall (12–24M):** | Due in Year 1: `N/A` \| Due in Year 2: `N/A` (Total 24M Due: **`N/A`**) |
+| **Maturity Wall Risk Verdict:** | `UNVERIFIED_MATURITY_SCHEDULE` — Total funded debt is $2.8M, but 10-K debt maturity footnote schedules (12–24M) are NR/unmapped; contractual maturity wall verdict withheld. |
 
 <details markdown="1">
 <summary>💡 <b>Why the Debt Extinguishment Clock Matters</b></summary>
@@ -192,8 +195,39 @@
 | :--- | :--- | :--- |
 | **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
 | **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
-| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Calculates market-implied Yield-to-Maturity and credit spread (bps over Treasuries). High yields (>10%+) or blown-out spreads (>500 bps) reveal debt restructuring risk long before equity markets react. |
-| **Duration vs. Default Risk** | `Price vs. Option-Adjusted Spread (OAS)` | Distinguishes bonds trading at discount due to rising interest rates (benign duration math) from bonds discounted due to insolvency risk (distressed credit canary). |
+| **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Requires verified bond observations and matching Treasury yields. Elevated or widening spreads may warrant closer review; no universal threshold establishes restructuring or equity timing. Legacy prototype snapshots are withheld. |
+| **Duration vs. Default Risk** | `Yield, Treasury spread and instrument terms` | Rate changes, credit, liquidity and embedded options can all affect price. A simple Treasury yield difference is not OAS. Missing data remain explicitly unavailable. |
+
+</details>
+
+
+#### Credit & Refinancing Watch
+
+**Data status:** No bond snapshot available. Credit conditions cannot be assessed from this section.
+
+**Debt coverage:** A positive debt input is present; bond coverage is assessed separately.
+
+**Yield to Maturity (%):** N/A — verified observations unavailable.
+
+**Credit Spread (bps over matching Treasury):** N/A — verified observations unavailable.
+
+No credit-based monitoring verdict is assigned while these inputs are unverified.
+
+<details markdown="1">
+<summary>How to interpret credit data and missing coverage</summary>
+
+| Coverage state | Meaning |
+| :--- | :--- |
+| Unavailable | No usable verified market observations. |
+| Unvalidated | A legacy snapshot exists, but has not met source and calculation checks. |
+
+Bond observations require issuer/security identity, maturity, source and actual observation time. A cache refresh time is not a trade time. Existing prototype snapshots are excluded from investment interpretation.
+
+For comparable conventional bonds, Treasury spread (bps) = (bond YTM in percent - same-date maturity-matched Treasury yield in percent) × 100. This simple spread is not an option-adjusted spread (OAS). Callable, convertible and other complex debt need separate treatment.
+
+A market price is quoted as a percentage of par and should not be interpreted in isolation. Missing coverage is not evidence of no debt or low risk. A zero upstream debt input needs filing validation. Healthy credit conditions would not establish an attractive equity valuation.
+
+Future monitoring will distinguish the issuer's own debt, documented customer exposure and broad credit conditions. Historical layout and source selection remain under review.
 
 </details>
 
@@ -230,6 +264,7 @@
 | **🍕 Cannibal Compounder (Good)** | `< -1.0% / yr` (Shrinking) | Management uses organic Free Cash Flow to buy back and retire shares. Your ownership slice grows automatically without spending another dollar. |
 | **⚖️ Stable Share Count (Neutral)** | `-1.0% to +1.0% / yr` | Share count remains flat; returns track underlying operating earnings and dividends. |
 | **⚠️ Equity Dilution (Bad)** | `> +1.0% / yr` (Expanding) | Management issues new stock or excessive executive options (`SBC`), slicing the pizza into smaller pieces and diluting existing shareholders. |
+| **Unavailable (`NR`)** | `Unpopulated OCF / Shares` | Missing share counts or cumulative Operating Cash Flow remain `NR` rather than defaulting to `1.0` shares or mislabeling cash-flow gaps as negative cash burn. |
 
 </details>
 
@@ -237,19 +272,18 @@
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$0.80 – $43.92`** \| `[$0.80 ─●────────────────── $43.92] (3th %-tile)` |
+| **5-Year Price Corridor:** | **`$0.80 – $43.92`** \| `[$0.80 ─●────────────────── $43.92] (6th %-tile)` |
 | **52-Week Price Range:** | `$1.40 – $5.43` (Cycle Regime: `💎 Deep Cycle Bottom (Bottom Quintile)`) |
-| **Primary Valuation Multiple:** | **`0.5x`** P/TBV vs. 5-Year Median `1.7x` (`1th %-tile` — 💎 Deep Value Compression) |
+| **Primary Valuation Multiple:** | **`0.6x`** P/TBV vs. 5-Year Median `1.7x` (`3th %-tile` — 💎 Deep Value Compression) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/TBV** | **`0.5x`** | `0.5x – 1.7x – 49.9x` | `1%` | **$5.28** | `+269.2%` | 💎 Deep Value Compression |
-| **P/S** | **`3.5x`** | `3.5x – 13.5x – 45.1x` | `1%` | **$5.48** | `+283.2%` | 💎 Deep Value Compression |
+| **P/TBV** | **`0.6x`** | `0.5x – 1.7x – 49.9x` | `3%` | **$5.27** | `+206.4%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** KULR trades at `0.5x` P/TBV (1th percentile of 5-year history). Mean reversion to historical median multiple (`1.7x`) yields an implied intrinsic target of **$5.28** (`+269.2%` upside) without relying on speculative future growth.
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** KULR trades at `0.6x` P/TBV (3th percentile of 5-year history). Mean reversion to historical median multiple (`1.7x`) yields an implied intrinsic target of **$5.27** (`+206.4%` upside) without relying on speculative future growth.
 
 </details>
 
@@ -263,6 +297,7 @@
 | **💎 Multiple Compression** | `< 25th %-tile` | Trades at a steep discount to its own 5-year historical multiple norms. Multiple mean reversion toward the 5Y median provides asymmetric upside without heroic growth assumptions. |
 | **⚖️ Fair Value Corridor** | `25th – 75th %-tile` | Valuation aligns with multi-year historical norms. Investment returns depend primarily on organic free cash flow and book value compounding. |
 | **⚠️ Multiple Expansion** | `> 75th %-tile` | Valuation multiple is historically stretched relative to 5-year norms. Multiple contraction can erode investment returns even if underlying earnings grow. |
+| **Unavailable (`N/A`)** | `Price History Missing` | Live/verified non-synthetic weekly price history is unavailable; derived corridor and multiple bands are explicitly withheld. |
 
 </details>
 
@@ -276,10 +311,10 @@
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **KULR** (KULR Technology Group,..) | `[Subject Firm]` | **$66.2M** | **-66.7%** | **+$0.20** | **3/9** | **-1.84 (Distress)** |
-| **HUBB** (HUBBELL INC) | `[Industry Leader: 337x larger]` | $22.3B | 4.2% | -$93.72 | 5/9 | 5.12 (Safe) |
-| **MRCY** (MERCURY SYSTEMS INC) | `[Industry Leader: 70x larger]` | $4.7B | 1.5% | -$0.62 | 6/9 | 4.24 (Safe) |
-| **VSH** (VISHAY INTERTECHNOLOGY..) | `[Industry Leader: 60x larger]` | $4.0B | -0.2% | -$0.20 | 4/9 | 2.30 (Grey) |
+| **KULR** (KULR Technology Group,..) | `[Subject Firm]` | **$79.6M** | **-60.1%** | **+$1.12** | **N/A** | **N/A** |
+| **HUBB** (HUBBELL INC) | `[Industry Leader: 278x larger]` | $22.2B | N/A | -$93.72 | N/A | N/A |
+| **MRCY** (MERCURY SYSTEMS INC) | `[Industry Leader: 50x larger]` | $4.0B | 1.2% | +$0.89 | 6/9 | 4.30 (Safe) |
+| **OLED** (UNIVERSAL DISPLAY CORP..) | `[Industry Leader: 49x larger]` | $3.9B | 5.9% | +$9.15 | 6/9 | 13.15 (Safe) |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -309,9 +344,9 @@
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `PASS (Silent Accumulation Bonus +1)` |
-| **30-Day Volume / 90-Day Average:** | `0.93x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$1,035,743.67` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is dry and quiet (0.93x 90d avg; ADDV $1,035,744 >= $250k). Zero retail mania. |
+| **30-Day Volume / 90-Day Average:** | `0.97x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$1,159,067.06` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is dry and quiet (0.97x 90d avg; ADDV $1,159,067 >= $250k). Zero retail mania. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -320,6 +355,7 @@
 | :--- | :---: | :--- |
 | **🤫 Silent Accumulation Zone** | `0.40x – 1.25x` (Quiet) | Institutional value desks accumulate quietly when retail sentiment is dormant and daily dollar volume clears the `≥ $250k` ADDV liquidity hurdle. |
 | **🚨 Elevated Volume Exit Zone** | `≥ 2.5x – 3.0x ADDV` | When volume spikes 3x–5x normal daily average into upper valuation corridor targets, institutions scale limit sales into elevated retail liquidity. |
+| **Unavailable (`N/A`)** | `Volume Cache Missing` | When verified 20d/90d volume history is unavailable, Turnover Ratio and 30d ADDV remain `N/A` rather than assuming synthetic baseline share counts. |
 
 </details>
 
@@ -338,8 +374,8 @@
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-05 17:06 UTC` |
-| **TTM Window (4 Discrete Quarters)** | `2025-09-30 -> 2026-06-30` |
+| **Generated** | `2026-11-15 18:09 UTC` |
+| **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
 
@@ -351,15 +387,15 @@
 
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Cover Page Shares Outstanding** | 104.86M | 116.23M | 172.87M | 284.39M | 46.24M | 46.28M |
-| **Diluted Shares Outstanding** | 95.75M | 105.66M | 117.82M | 23.32M | 39.73M | 46.30M |
+| **Cover Page Shares Outstanding** | `NR` | `NR` | `NR` | `NR` | `NR` | 46.28M |
+| **Diluted Shares Outstanding** | 95.75M | 105.66M | 117.82M | 23.32M | 39.73M | 46.44M |
 
 ### Recent Discrete Quarters
 
-| Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
+| Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Cover Page Shares Outstanding** | 298.47M | 41.11M | 45.67M | 46.24M | 46.26M | 46.28M |
-| **Diluted Shares Outstanding** | 34.92M | 37.59M | 41.14M | 45.51M* | 46.25M | 46.30M |
+| **Cover Page Shares Outstanding** | 41.11M | 45.67M | `NR` | 46.26M | 46.28M | 46.28M |
+| **Diluted Shares Outstanding** | 37.59M | 41.14M | `NR` | 46.25M | 46.30M | 46.44M |
 
 ### 10-K Item 5 Registered Record Holders (Transfer Agent / DRS Census)
 
@@ -389,33 +425,33 @@
 
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Revenue** | $2.4M | $4.0M | $9.8M | $10.7M | $16.2M | $15.8M* |
-| **Cost of Revenue** | $1.1M | $1.6M | $6.2M | $5.3M | $15.4M | $16.0M* |
-| **Gross Profit** | $1.3M | $2.4M | $3.7M | $5.5M | $770,972 | -$270,724* |
-| **Research and Development** | $1.7M | $4.2M | $7.1M | $4.7M | $10.8M | $10.6M* |
-| **Selling General and Admin** | $11.2M | $16.5M | $18.9M | $16.0M | $27.7M | $27.0M* |
-| **Operating Expenses** | $12.8M | $20.7M | $26.1M | $20.7M | $43.8M | $43.3M* |
-| **Operating Income** | -$11.5M | -$18.3M | -$22.4M | -$15.2M | -$43.0M | -$42.7M* |
-| **Interest Expense** | $1,635 | $282,054 | $714,117 | $209,817 | $159,944 | $381,911* |
-| **Pre Tax Income** | -$11.9M* | `NR` | `NR` | -$17.5M | -$61.9M | `NR` |
+| **Revenue** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Cost of Revenue** | $1.1M | $1.6M | $6.2M | $5.3M | $15.4M | $22.9M* |
+| **Gross Profit** | $1.3M | $2.4M | $3.7M | $5.5M | $770,972 | -$496,661* |
+| **Research and Development** | $1.7M | $4.2M | $7.1M | $4.7M | $10.8M | $13.3M* |
+| **Selling General and Admin** | $11.2M | $16.5M | $18.9M | $16.0M | $27.7M | $26.9M* |
+| **Operating Expenses** | $12.8M | $20.7M | $26.1M | $20.7M | $43.8M | $45.5M* |
+| **Operating Income** | -$11.5M | -$18.3M | -$22.4M | -$15.2M | -$43.0M | -$45.1M* |
+| **Interest Expense** | `NR` | $282,054 | $714,117 | `NR` | `NR` | `NR` |
+| **Pre Tax Income** | `NR` | `NR` | `NR` | -$17.5M | -$61.9M | `NR` |
 | **Income Tax Expense** | $0 | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Net Income** | -$11.9M | -$19.4M | -$23.7M | -$17.5M | -$61.9M | -$102.2M* |
+| **Net Income** | -$11.9M | -$19.4M | -$23.7M | -$17.5M | -$61.9M | -$90.8M* |
 
 ### Recent Discrete Quarters
 
-| Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
+| Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Revenue** | $2.4M | $3.7M | $6.9M | $2.9M* | $3.9M | $2.1M |
-| **Cost of Revenue** | $2.2M | $2.9M | $6.3M | $3.6M* | $3.4M | $2.7M |
-| **Gross Profit** | $206,345 | $713,710 | $628,880 | -$777,963* | $517,292 | -$638,933 |
-| **Research and Development** | $2.4M | $2.4M | $2.3M | $3.5M* | $1.8M | $3.0M |
-| **Selling General and Admin** | $7.2M | $6.9M | $6.3M | $7.9M* | $6.5M | $6.3M |
-| **Operating Expenses** | $9.7M | $10.2M | $9.4M | $14.6M* | $8.8M | $10.6M |
-| **Operating Income** | -$9.4M | -$9.5M | -$8.7M | -$15.4M* | -$7.4M | -$11.2M |
-| **Interest Expense** | $10,397 | $2,124 | $135,390 | $12,033* | $5,441 | $229,047 |
+| **Revenue** | $3.7M | $2.5M | `NR` | $3.9M | $2.1M | $7.4M |
+| **Cost of Revenue** | $2.9M | $2.1M | $9.6M* | $3.4M | $2.7M | $7.1M |
+| **Gross Profit** | $713,710 | $421,350 | -$644,848* | $517,292 | -$638,933 | $269,828 |
+| **Research and Development** | $2.4M | $2.3M | $3.5M* | $1.8M | $3.0M | $5.0M |
+| **Selling General and Admin** | $6.9M | $6.1M | $8.2M* | $6.5M | $6.3M | $5.9M |
+| **Operating Expenses** | $10.2M | $9.2M | $14.9M* | $8.8M | $10.6M | $11.3M |
+| **Operating Income** | -$9.5M | -$8.7M | -$15.5M* | -$7.4M | -$11.2M | -$11.0M |
+| **Interest Expense** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Pre Tax Income** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Income Tax Expense** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Net Income** | -$18.8M | $8.1M | -$7.0M | -$44.3M* | -$29.0M | -$22.0M |
+| **Net Income** | $8.1M | -$7.0M | -$44.3M* | -$29.0M | -$22.0M | $4.5M |
 
 ## 3. Balance Sheet (Point-in-Time Snapshots)
 
@@ -423,53 +459,53 @@
 
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Cash and Equivalents** | $14.9M | $10.3M | $1.2M | $29.8M | $13.3M | $12.8M |
+| **Cash and Equivalents** | $14.9M | $10.3M | $1.2M | $29.8M | $13.3M | $54.5M |
 | **Short Term Investments** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Accounts Receivable** | `NR` | `NR` | $901,672 | $2.6M | $2.1M | $1.9M |
-| **Inventory** | $191,311 | $2.0M | $1.1M | $545,467 | $581,156 | $1.5M |
-| **Total Current Assets** | $15.8M | $15.7M | $3.9M | $34.2M | $25.6M | $84.7M |
-| **Property Plant and Equipment Net** | $374,475 | $3.2M | $4.7M | $3.7M | $5.5M | $7.3M |
+| **Accounts Receivable** | `NR` | `NR` | $901,672 | $2.6M | $2.1M | $6.9M |
+| **Inventory** | $191,311 | $2.0M | $1.1M | $545,467 | $581,156 | $4.4M |
+| **Total Current Assets** | $15.8M | $15.7M | $3.9M | $34.2M | $25.6M | $70.3M |
+| **Property Plant and Equipment Net** | $374,475 | $3.2M | $4.7M | $3.7M | $5.5M | $7.8M |
 | **Goodwill** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Intangible Assets Ex Goodwill** | $216,952 | $720,768 | $719,395 | $577,099 | $370,925 | $304,931 |
-| **Total Assets** | $19.2M | $23.6M | $10.9M | $62.9M | $129.0M | $100.1M |
-| **Accounts Payable** | $454,507 | $1.4M | $2.8M | $2.1M | $3.2M | $1.6M |
-| **Deferred Revenue** | $132,303 | $23,000 | $551,021 | $32,768 | $107,267 | $89,522 |
-| **Short Term Debt** | $0 | $0 | `NR` | $494,796 | `NR` | `NR` |
-| **Operating Lease Liability Current** | $262,379 | $223,645 | $102,186 | $493,468 | $366,937 | $341,724 |
-| **Total Current Liabilities** | $2.5M | $9.7M | $6.9M | $4.7M | $6.3M | $25.1M |
-| **Long Term Debt** | `NR` | `NR` | $250,000 | `NR` | `NR` | `NR` |
-| **Operating Lease Liability Noncurrent** | $407,898 | $97,958 | $102,186 | $818,750 | $1.1M | $2.4M |
+| **Intangible Assets Ex Goodwill** | $216,952 | $720,768 | $719,395 | $577,099 | $370,925 | $271,934 |
+| **Total Assets** | $19.2M | $23.6M | $10.9M | $62.9M | $129.0M | $86.4M |
+| **Accounts Payable** | $454,507 | $1.4M | $2.8M | $2.1M | $3.2M | $1.9M |
+| **Deferred Revenue** | $132,303 | $23,000 | $551,021 | $32,768 | $107,267 | $334,188 |
+| **Short Term Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Lease Liability Current** | $262,379 | $223,645 | $102,186 | $493,468 | $366,937 | $556,011 |
+| **Total Current Liabilities** | $2.5M | $9.7M | $6.9M | $4.7M | $6.3M | $5.9M |
+| **Long Term Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Lease Liability Noncurrent** | $407,898 | $97,958 | `NR` | $818,750 | $1.1M | $2.3M |
 | **Convertible Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Total Liabilities** | $2.9M | $13.1M | $13.0M | $5.5M | $7.4M | $27.5M |
-| **Retained Earnings** | -$23.2M | -$42.6M | -$66.3M | -$83.8M | -$145.7M | -$196.7M |
-| **Total Equity** | $16.4M | $10.5M | -$2.2M | $57.4M | $121.6M | $72.6M |
-| **Total Liabilities and Equity** | $19.2M | $23.6M | $10.9M | $62.9M | $129.0M | $100.1M |
+| **Total Liabilities** | $2.9M | $13.1M | $13.0M | $5.5M | $7.4M | $8.2M |
+| **Retained Earnings** | -$23.2M | -$42.6M | -$66.3M | -$83.8M | -$145.7M | -$192.2M |
+| **Total Equity** | $16.4M | $10.5M | -$2.2M | $57.4M | $121.6M | $78.2M |
+| **Total Liabilities and Equity** | $19.2M | $23.6M | $10.9M | $62.9M | $129.0M | $86.4M |
 
 ### Recent Discrete Quarters
 
-| Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
+| Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Cash and Equivalents** | $24.4M | $20.6M | $20.6M | $13.3M | $7.7M | $12.8M |
+| **Cash and Equivalents** | $20.6M | $20.6M | $13.3M | $7.7M | $12.8M | $54.5M |
 | **Short Term Investments** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Accounts Receivable** | $2.9M | $3.9M | $3.0M | $2.1M | $2.0M | $1.9M |
-| **Inventory** | $485,791 | $772,123 | $784,609 | $581,156 | $1.4M | $1.5M |
-| **Total Current Assets** | $30.8M | $31.0M | $28.5M | $25.6M | $15.9M | $84.7M |
-| **Property Plant and Equipment Net** | $3.7M | $3.5M | $3.5M | $5.5M | $5.5M | $7.3M |
+| **Accounts Receivable** | $3.9M | $3.0M | $2.1M | $2.0M | $1.9M | $6.9M |
+| **Inventory** | $772,123 | $784,609 | $581,156 | $1.4M | $1.5M | $4.4M |
+| **Total Current Assets** | $31.0M | $28.5M | $25.6M | $15.9M | $84.7M | $70.3M |
+| **Property Plant and Equipment Net** | $3.5M | $3.5M | $5.5M | $5.5M | $7.3M | $7.8M |
 | **Goodwill** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Intangible Assets Ex Goodwill** | $541,525 | $505,951 | $470,377 | $370,925 | $342,246 | $304,931 |
-| **Total Assets** | $93.8M | $141.5M | $156.1M | $129.0M | $104.6M | $100.1M |
-| **Accounts Payable** | $1.2M | $1.8M | $1.2M | $3.2M | $1.6M | $1.6M |
-| **Deferred Revenue** | $21,141 | $23,641 | $21,489 | $107,267 | $2,789 | $89,522 |
+| **Intangible Assets Ex Goodwill** | $505,951 | $470,377 | $370,925 | $342,246 | $304,931 | $271,934 |
+| **Total Assets** | $141.5M | $156.1M | $129.0M | $104.6M | $100.1M | $86.4M |
+| **Accounts Payable** | $1.8M | $1.2M | $3.2M | $1.6M | $1.6M | $1.9M |
+| **Deferred Revenue** | $23,641 | $21,489 | $107,267 | $2,789 | $89,522 | $334,188 |
 | **Short Term Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Operating Lease Liability Current** | $419,227 | $490,556 | $414,436 | $366,937 | $379,923 | $341,724 |
-| **Total Current Liabilities** | $3.3M | $3.7M | $6.9M | $6.3M | $10.0M | $25.1M |
+| **Operating Lease Liability Current** | $490,556 | $414,436 | $366,937 | $379,923 | $341,724 | $556,011 |
+| **Total Current Liabilities** | $3.7M | $6.9M | $6.3M | $10.0M | $25.1M | $5.9M |
 | **Long Term Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Operating Lease Liability Noncurrent** | $769,036 | $1.3M | $1.2M | $1.1M | $977,752 | $2.4M |
+| **Operating Lease Liability Noncurrent** | $1.3M | $1.2M | $1.1M | $977,752 | $2.4M | $2.3M |
 | **Convertible Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Total Liabilities** | $4.1M | $5.0M | $8.1M | $7.4M | $10.9M | $27.5M |
-| **Retained Earnings** | -$102.6M | -$94.5M | -$101.4M | -$145.7M | -$173.8M | -$196.7M |
-| **Total Equity** | $89.7M | $136.4M | $148.0M | $121.6M | $93.7M | $72.6M |
-| **Total Liabilities and Equity** | $93.8M | $141.5M | $156.1M | $129.0M | $105.5M | $100.1M |
+| **Total Liabilities** | $5.0M | $8.1M | $7.4M | $10.9M | $27.5M | $8.2M |
+| **Retained Earnings** | -$94.5M | -$101.4M | -$145.7M | -$173.8M | -$196.7M | -$192.2M |
+| **Total Equity** | $136.4M | $148.0M | $121.6M | $93.7M | $72.6M | $78.2M |
+| **Total Liabilities and Equity** | $141.5M | $156.1M | $129.0M | $105.5M | $100.1M | $86.4M |
 
 ## 4. Cash Flow Statement
 
@@ -477,11 +513,11 @@
 
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Operating Cash Flow** | -$6.8M | -$17.4M | -$12.0M | -$17.3M | -$44.9M | -$41.1M* |
-| **Depreciation and Amortization** | $67,715 | $259,399 | $2.2M | $1.8M | $1.4M | $1.4M* |
-| **Stock Based Compensation** | $4.2M | $4.2M | $3.5M | $2.7M | $6.5M | $5.7M* |
-| **Capital Expenditures** | $383,285 | $2.7M | $266,150 | $573,444 | $3.0M | $3.0M* |
-| **Free Cash Flow** | -$7.2M* | -$20.0M* | -$12.2M* | -$17.9M* | -$47.9M* | -$44.2M* |
+| **Operating Cash Flow** | -$6.8M | -$17.4M | -$12.0M | -$17.3M | -$44.9M | `NR` |
+| **Depreciation and Amortization** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Stock Based Compensation** | $4.2M | $4.2M | $3.5M | $2.7M | $6.5M | $5.6M* |
+| **Capital Expenditures** | $383,285 | $2.7M | $266,150 | $573,444 | $3.0M | $3.4M* |
+| **Free Cash Flow** | -$7.2M* | -$20.0M* | -$12.2M* | -$17.9M* | -$47.9M* | `NR` |
 | **Cash Acquisitions** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Debt Issued** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Debt Repaid** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
@@ -491,17 +527,17 @@
 
 ### Recent Discrete Quarters
 
-| Line Item | 2025-03-31 | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 |
+| Line Item | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Operating Cash Flow** | -$9.6M | -$11.8M* | -$9.6M* | -$13.8M* | -$8.7M | -$9.0M* |
-| **Depreciation and Amortization** | $294,365 | $295,358* | $330,971* | $477,485* | $307,489 | $269,223* |
-| **Stock Based Compensation** | $1.6M | $1.6M | $1.3M | $2.0M* | $1.5M | $908,045 |
-| **Capital Expenditures** | $120,229 | $214,419* | $247,054* | $2.4M* | $173,608 | $223,953* |
-| **Free Cash Flow** | -$9.7M* | -$12.0M* | -$9.8M* | -$16.2M* | -$8.9M* | -$9.2M* |
+| **Operating Cash Flow** | -$11.8M* | -$9.6M* | -$13.8M* | -$8.7M | -$9.0M* | `NR` |
+| **Depreciation and Amortization** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Stock Based Compensation** | $1.6M* | $1.3M* | $2.0M* | $1.5M | $908,045* | $1.2M* |
+| **Capital Expenditures** | $214,419* | $247,054* | $2.4M* | $173,608 | $223,953* | $552,449* |
+| **Free Cash Flow** | -$12.0M* | -$9.8M* | -$16.2M* | -$8.9M* | -$9.2M* | `NR` |
 | **Cash Acquisitions** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Debt Issued** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Debt Repaid** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Stock Issued** | $51.2M | $38.3M* | $17.8M* | $15.9M* | `NR` | `NR` |
+| **Stock Issued** | $38.3M* | $17.8M* | $15.9M* | `NR` | `NR` | `NR` |
 | **Stock Buybacks** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Dividends Paid** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 
@@ -513,51 +549,51 @@
 
 | Metric | 5Y CAGR | 10Y CAGR | 15Y CAGR |
 | :--- | ---: | ---: | ---: |
-| **Revenue** | +91.74% | `NA` | `NA` |
+| **Revenue** | `NA` | `NA` | `NA` |
 | **Operating Income** | `NA` | `NA` | `NA` |
 | **Free Cash Flow** | `NA` | `NA` | `NA` |
-| **Cover Page Shares Outstanding** | -12.97% | `NA` | `NA` |
+| **Cover Page Shares Outstanding** | `NA` | `NA` | `NA` |
 
 ### Common-Size Income Statement (`% of Revenue`)
 
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Revenue** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
-| **Cost of Revenue** | 45.7% | 40.8% | 62.7% | 48.9% | 95.2% | 101.7% |
-| **Gross Profit** | 54.3% | 59.2% | 37.3% | 51.1% | 4.8% | -1.7% |
-| **Research and Development** | 68.9% | 105.0% | 72.6% | 44.1% | 66.5% | 67.3% |
-| **Selling General and Admin** | 462.6% | 411.9% | 192.7% | 148.8% | 171.3% | 170.9% |
-| **Operating Expenses** | 531.5% | 516.9% | 265.3% | 193.0% | 270.7% | 274.6% |
-| **Operating Income** | -477.2% | -457.8% | -228.0% | -141.9% | -265.9% | -270.6% |
-| **Interest Expense** | 0.1% | 7.1% | 7.3% | 2.0% | 1.0% | 2.4% |
-| **Pre Tax Income** | -493.7% | `NR` | `NR` | -163.2% | -382.8% | `NR` |
-| **Income Tax Expense** | 0.0% | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Net Income** | -493.7% | -486.6% | -241.0% | -163.2% | -382.8% | -648.0% |
+| **Revenue** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Cost of Revenue** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Gross Profit** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Research and Development** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Selling General and Admin** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Expenses** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Income** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Interest Expense** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Pre Tax Income** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Income Tax Expense** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Net Income** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 
 ### Common-Size Balance Sheet (`% of Total Assets`)
 
 | Line Item | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Cash and Equivalents** | 77.3% | 43.7% | 11.0% | 47.4% | 10.3% | 12.8% |
+| **Cash and Equivalents** | 77.3% | 43.7% | 11.0% | 47.4% | 10.3% | 63.0% |
 | **Short Term Investments** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Accounts Receivable** | `NR` | `NR` | 8.3% | 4.2% | 1.6% | 1.9% |
-| **Inventory** | 1.0% | 8.3% | 10.6% | 0.9% | 0.5% | 1.5% |
-| **Total Current Assets** | 82.0% | 66.6% | 35.9% | 54.3% | 19.8% | 84.6% |
-| **Property Plant and Equipment Net** | 1.9% | 13.5% | 43.2% | 5.8% | 4.3% | 7.3% |
+| **Accounts Receivable** | `NR` | `NR` | 8.3% | 4.2% | 1.6% | 8.0% |
+| **Inventory** | 1.0% | 8.3% | 10.6% | 0.9% | 0.5% | 5.1% |
+| **Total Current Assets** | 82.0% | 66.6% | 35.9% | 54.3% | 19.8% | 81.3% |
+| **Property Plant and Equipment Net** | 1.9% | 13.5% | 43.2% | 5.8% | 4.3% | 9.0% |
 | **Goodwill** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Intangible Assets Ex Goodwill** | 1.1% | 3.1% | 6.6% | 0.9% | 0.3% | 0.3% |
 | **Total Assets** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
-| **Accounts Payable** | 2.4% | 6.0% | 25.5% | 3.3% | 2.5% | 1.6% |
-| **Deferred Revenue** | 0.7% | 0.1% | 5.1% | 0.1% | 0.1% | 0.1% |
-| **Short Term Debt** | 0.0% | 0.0% | `NR` | 0.8% | `NR` | `NR` |
-| **Operating Lease Liability Current** | 1.4% | 0.9% | 0.9% | 0.8% | 0.3% | 0.3% |
-| **Total Current Liabilities** | 12.8% | 41.0% | 63.5% | 7.4% | 4.9% | 25.1% |
-| **Long Term Debt** | `NR` | `NR` | 2.3% | `NR` | `NR` | `NR` |
-| **Operating Lease Liability Noncurrent** | 2.1% | 0.4% | 0.9% | 1.3% | 0.8% | 2.4% |
+| **Accounts Payable** | 2.4% | 6.0% | 25.5% | 3.3% | 2.5% | 2.3% |
+| **Deferred Revenue** | 0.7% | 0.1% | 5.1% | 0.1% | 0.1% | 0.4% |
+| **Short Term Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Lease Liability Current** | 1.4% | 0.9% | 0.9% | 0.8% | 0.3% | 0.6% |
+| **Total Current Liabilities** | 12.8% | 41.0% | 63.5% | 7.4% | 4.9% | 6.8% |
+| **Long Term Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Lease Liability Noncurrent** | 2.1% | 0.4% | `NR` | 1.3% | 0.8% | 2.6% |
 | **Convertible Debt** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Total Liabilities** | 14.9% | 55.6% | 120.1% | 8.7% | 5.7% | 27.5% |
-| **Retained Earnings** | -120.4% | -180.3% | -610.1% | -133.2% | -113.0% | -196.6% |
-| **Total Equity** | 85.1% | 44.4% | -20.1% | 91.3% | 94.3% | 72.5% |
+| **Total Liabilities** | 14.9% | 55.6% | 120.1% | 8.7% | 5.7% | 9.4% |
+| **Retained Earnings** | -120.4% | -180.3% | -610.1% | -133.2% | -113.0% | -222.5% |
+| **Total Equity** | 85.1% | 44.4% | -20.1% | 91.3% | 94.3% | 90.6% |
 | **Total Liabilities and Equity** | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% | 100.0% |
 
 ---
@@ -568,30 +604,30 @@
 
 | Ratio / Metric | FY 2021 | FY 2022 | FY 2023 | FY 2024 | FY 2025 | TTM |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Gross Margin Pct** | 54.33% | 59.18% | 37.29% | 51.07% | 4.77% | -1.72% |
-| **Operating Margin Pct** | -477.17% | -457.76% | -227.99% | -141.89% | -265.92% | -270.65% |
-| **Net Margin Pct** | -493.65% | -486.56% | -241.03% | -163.20% | -382.80% | -648.01% |
-| **FCF Margin Pct** | -297.94% | -501.60% | -124.43% | -166.85% | -296.04% | -279.95% |
-| **Current Ratio** | 6.41x | 1.63x | 0.57x | 7.32x | 4.07x | 3.38x |
-| **Quick Ratio** | 6.33x | 1.42x | 0.40x | 7.21x | 3.98x | 3.32x |
-| **Cash Ratio** | 6.05x | 1.07x | 0.17x | 6.39x | 2.12x | 0.51x |
-| **Total Debt** | $670,277 | $321,603 | $454,372 | $1.8M | $1.4M | $2.8M |
-| **Net Debt** | -$14.2M | -$10.0M | -$740,392 | -$28.0M | -$11.9M | -$10.0M |
-| **Debt to Equity** | 0.04x | 0.03x | `NR` | 0.03x | 0.01x | 0.04x |
-| **Interest Coverage** | -7041.84x | -64.83x | -31.38x | -72.61x | -268.85x | -111.79x |
-| **Net Common Overhang Shares** | -9.12M | -10.57M | -55.05M | -261.06M | -6.51M | +23,334 |
-| **Net Common Overhang Pct** | -8.69% | -9.10% | -31.84% | -91.80% | -14.08% | 0.05% |
-| **ROE Pct** | -72.78% | -185.22% | `NR` | -30.51% | -50.90% | -140.86% |
-| **ROCE Pct** | -68.64% | -131.13% | -565.21% | -26.15% | -35.05% | -56.93% |
-| **ROIC Pct** | -418.76% | -2998.49% | `NR` | -40.93% | -30.95% | -53.92% |
+| **Gross Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Operating Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Net Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **FCF Margin Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Current Ratio** | 6.41x | 1.63x | 0.57x | 7.32x | 4.07x | 11.95x |
+| **Quick Ratio** | 6.33x | 1.42x | 0.40x | 7.21x | 3.98x | 11.21x |
+| **Cash Ratio** | 6.05x | 1.07x | 0.17x | 6.39x | 2.12x | 9.26x |
+| **Total Debt** | $670,277 | $321,603 | $102,186 | $1.3M | $1.4M | $2.8M |
+| **Net Debt** | -$14.2M | -$10.0M | -$1.1M | -$28.5M | -$11.9M | -$51.6M |
+| **Debt to Equity** | 0.04x | 0.03x | `NR` | 0.02x | 0.01x | 0.04x |
+| **Interest Coverage** | `NR` | -64.83x | -31.38x | `NR` | `NR` | `NR` |
+| **Net Common Overhang Shares** | `NR` | `NR` | `NR` | `NR` | `NR` | +154,527 |
+| **Net Common Overhang Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | 0.33% |
+| **ROE Pct** | -72.78% | -185.22% | `NR` | -30.51% | -50.90% | -116.04% |
+| **ROCE Pct** | -68.64% | -131.13% | -565.21% | -26.15% | -35.05% | -56.04% |
+| **ROIC Pct** | -418.76% | -2998.49% | `NR` | -41.63% | -30.95% | -133.95% |
 | **Total Shareholder Return USD** | -$18,000 | `NR` | -$3.7M | -$61.4M | -$123.1M | `NR` |
-| **Shareholder Yield Pct** | -0.03% | `NR` | -5.56% | -92.80% | -185.98% | `NR` |
+| **Shareholder Yield Pct** | -0.02% | `NR` | -4.62% | -77.15% | -154.62% | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 
 | Return Metric | 5Y Median | 5Y Min (Trough) | 10Y Median | 10Y Min (Trough) |
 | :--- | ---: | ---: | ---: | ---: |
-| **ROIC Pct** | -229.85% | -2998.49% | -229.85% | -2998.49% |
+| **ROIC Pct** | -230.20% | -2998.49% | -230.20% | -2998.49% |
 | **ROCE Pct** | -68.64% | -565.21% | -68.64% | -565.21% |
 | **ROE Pct** | -61.84% | -185.22% | -61.84% | -327.77% |
 
@@ -603,11 +639,11 @@
 
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
-| **Piotroski F-Score (9-Point Quality)** | **3 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
-| **Altman Z-Score (Bankruptcy / Solvency)** | **-1.84** (DISTRESS (< 1.81)) | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
-| **Beneish M-Score (Earnings Manipulation)** | **2.56** (WARNING: POTENTIAL EARNINGS MANIPULATION (> -1.78)) | `<= -1.78` Clean, `> -1.78` Manipulation Risk |
+| **Piotroski F-Score (9-Point Quality)** | `NR` | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
+| **Altman Z-Score (Bankruptcy / Solvency)** | `NR` | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
+| **Beneish M-Score (Earnings Manipulation)** | `NR` | `<= -1.78` Clean, `> -1.78` Manipulation Risk |
 | **SBC / Operating Cash Flow Spread (TTM)** | `NR` | `< 10%` Disciplined, `> 20%` Aggressive Stock Handouts |
-| **Serial Acquirer Roll-Up Dilution Audit** | Clean (Organic / Disciplined Capital Allocation) | 5Y M&A = `0.0%` of 5Y FCF; Goodwill+Intang = `0.3%` of Assets |
+| **Serial Acquirer Roll-Up Dilution Audit** | Clean (Organic / Disciplined Capital Allocation) | 5Y M&A = `NR` of 5Y FCF; Goodwill+Intang = `0.3%` of Assets |
 
 ---
 
@@ -617,19 +653,19 @@
 
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **-66.73%** | **-154.46%** | **109.20%** | **23.84%** | **-75.02%** | **-77.60%** |
+| **-60.14%** | **-114.05%** | **97.94%** | `NR / NA` | **-161.28%** | **-171.10%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 
 | Total Debt | Total Cash | Excess Cash Applied to Debt | Remaining Net Debt | Years of TTM FCF to Extinguish Net Debt | Est. Annual Interest Saved |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| $3.5M | $12.8M | $3.5M | **$0** | **`0.0 yrs`** | $381,911 |
+| $2.8M | $54.5M | $2.8M | **$0** | **`0.0 yrs`** | `NR` |
 
 ### Reverse DCF & Zero-Growth Intrinsic Floor (`r = 10.0%`, `g_term = 2.5%`)
 
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| -$44.2M | $56.9M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| -$47.9M | $28.0M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 
@@ -649,45 +685,40 @@
 
 | Statement | Canonical Field | Latest Period | Status | SEC XBRL Tag / Formula | Accession Number | Filed Date |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `income` | **Revenue** | `2026-06-30` (Q) | `FILED` | `us-gaap:Revenues` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Cost_of_Revenue** | `2026-06-30` (Q) | `FILED` | `us-gaap:CostOfGoodsAndServicesSold` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Gross_Profit** | `2026-06-30` (Q) | `FILED` | `us-gaap:GrossProfit` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Research_and_Development** | `2026-06-30` (Q) | `FILED` | `us-gaap:ResearchAndDevelopmentExpense` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Selling_General_and_Admin** | `2026-06-30` (Q) | `FILED` | `us-gaap:SellingGeneralAndAdministrativeExpense` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Operating_Expenses** | `2026-06-30` (Q) | `FILED` | `us-gaap:OperatingExpenses` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Operating_Income** | `2026-06-30` (Q) | `FILED` | `us-gaap:OperatingIncomeLoss` | `0001104659-26-095924` | `2026-08-13` |
-| `income` | **Interest_Expense** | `2026-06-30` (Q) | `FILED` | `us-gaap:InterestExpenseNonoperating` | `0001104659-26-095924` | `2026-08-13` |
+| `income` | **Revenue** | `2026-09-30` (Q) | `FILED` | `us-gaap:Revenues` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Cost_of_Revenue** | `2026-09-30` (Q) | `FILED` | `us-gaap:CostOfGoodsAndServicesSold` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Gross_Profit** | `2026-09-30` (Q) | `FILED` | `us-gaap:GrossProfit` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Research_and_Development** | `2026-09-30` (Q) | `FILED` | `us-gaap:ResearchAndDevelopmentExpense` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Selling_General_and_Admin** | `2026-09-30` (Q) | `FILED` | `us-gaap:SellingGeneralAndAdministrativeExpense` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Operating_Expenses** | `2026-09-30` (Q) | `FILED` | `us-gaap:OperatingExpenses` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Operating_Income** | `2026-09-30` (Q) | `FILED` | `us-gaap:OperatingIncomeLoss` | `0001104659-26-124824` | `2026-11-10` |
+| `income` | **Interest_Expense** | `2023-12-31` (Q) | `DERIVED` | `us-gaap:InterestExpense` | `0001410578-25-000551` | `2025-03-31` |
 | `income` | **Pre_Tax_Income** | `2025-12-31` (FY) | `FILED` | `us-gaap:IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest` | `0001104659-26-037918` | `2026-03-31` |
 | `income` | **Income_Tax_Expense** | `2021-12-31` (FY) | `FILED` | `us-gaap:IncomeTaxExpenseBenefit` | `0001410578-22-000548` | `2022-03-28` |
-| `income` | **Net_Income** | `2026-06-30` (Q) | `FILED` | `us-gaap:NetIncomeLoss` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Cash_and_Equivalents** | `2026-06-30` (I) | `FILED` | `us-gaap:CashAndCashEquivalentsAtCarryingValue` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Short_Term_Investments** | `2017-03-31` (I) | `FILED` | `us-gaap:MarketableSecuritiesCurrent` | `0001144204-17-028850` | `2017-05-22` |
-| `balance` | **Accounts_Receivable** | `2026-06-30` (I) | `FILED` | `us-gaap:AccountsReceivableNetCurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Inventory** | `2026-06-30` (I) | `FILED` | `us-gaap:InventoryNet` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Total_Current_Assets** | `2026-06-30` (I) | `FILED` | `us-gaap:AssetsCurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Property_Plant_and_Equipment_Net** | `2026-06-30` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentNet` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Intangible_Assets_Ex_Goodwill** | `2026-06-30` (I) | `FILED` | `us-gaap:IntangibleAssetsNetExcludingGoodwill` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Total_Assets** | `2026-06-30` (I) | `FILED` | `us-gaap:Assets` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Accounts_Payable** | `2026-06-30` (I) | `FILED` | `us-gaap:AccountsPayableCurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Deferred_Revenue** | `2026-06-30` (I) | `FILED` | `us-gaap:ContractWithCustomerLiabilityCurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Short_Term_Debt** | `2024-12-31` (I) | `FILED` | `us-gaap:NotesPayableCurrent` | `0001104659-26-037918` | `2026-03-31` |
-| `balance` | **Operating_Lease_Liability_Current** | `2026-06-30` (I) | `FILED` | `us-gaap:OperatingLeaseLiabilityCurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Total_Current_Liabilities** | `2026-06-30` (I) | `FILED` | `us-gaap:LiabilitiesCurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Long_Term_Debt** | `2023-12-31` (I) | `FILED` | `us-gaap:LongTermNotesPayable` | `0001410578-24-000454` | `2024-04-12` |
-| `balance` | **Operating_Lease_Liability_Noncurrent** | `2026-06-30` (I) | `FILED` | `us-gaap:OperatingLeaseLiabilityNoncurrent` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Total_Liabilities** | `2026-06-30` (I) | `FILED` | `us-gaap:Liabilities` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Retained_Earnings** | `2026-06-30` (I) | `FILED` | `us-gaap:RetainedEarningsAccumulatedDeficit` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Total_Equity** | `2026-06-30` (I) | `FILED` | `us-gaap:StockholdersEquity` | `0001104659-26-095924` | `2026-08-13` |
-| `balance` | **Total_Liabilities_and_Equity** | `2026-06-30` (I) | `FILED` | `us-gaap:LiabilitiesAndStockholdersEquity` | `0001104659-26-095924` | `2026-08-13` |
-| `shares` | **Cover_Page_Shares_Outstanding** | `2026-06-30` (I) | `FILED` | `dei:EntityCommonStockSharesOutstanding` | `0001104659-26-095924` | `2026-08-13` |
-| `shares` | **Diluted_Shares_Outstanding** | `2026-06-30` (Q) | `FILED` | `us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding` | `0001104659-26-095924` | `2026-08-13` |
+| `income` | **Net_Income** | `2026-09-30` (Q) | `FILED` | `us-gaap:NetIncomeLoss` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Cash_and_Equivalents** | `2026-09-30` (I) | `FILED` | `us-gaap:CashAndCashEquivalentsAtCarryingValue` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Accounts_Receivable** | `2026-09-30` (I) | `FILED` | `us-gaap:AccountsReceivableNetCurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Inventory** | `2026-09-30` (I) | `FILED` | `us-gaap:InventoryNet` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Total_Current_Assets** | `2026-09-30` (I) | `FILED` | `us-gaap:AssetsCurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Property_Plant_and_Equipment_Net** | `2026-09-30` (I) | `FILED` | `us-gaap:PropertyPlantAndEquipmentNet` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Intangible_Assets_Ex_Goodwill** | `2026-09-30` (I) | `FILED` | `us-gaap:IntangibleAssetsNetExcludingGoodwill` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Total_Assets** | `2026-09-30` (I) | `FILED` | `us-gaap:Assets` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Accounts_Payable** | `2026-09-30` (I) | `FILED` | `us-gaap:AccountsPayableCurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Deferred_Revenue** | `2026-09-30` (I) | `FILED` | `us-gaap:ContractWithCustomerLiabilityCurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Operating_Lease_Liability_Current** | `2026-09-30` (I) | `FILED` | `us-gaap:OperatingLeaseLiabilityCurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Total_Current_Liabilities** | `2026-09-30` (I) | `FILED` | `us-gaap:LiabilitiesCurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Operating_Lease_Liability_Noncurrent** | `2026-09-30` (I) | `FILED` | `us-gaap:OperatingLeaseLiabilityNoncurrent` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Total_Liabilities** | `2026-09-30` (I) | `FILED` | `us-gaap:Liabilities` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Retained_Earnings** | `2026-09-30` (I) | `FILED` | `us-gaap:RetainedEarningsAccumulatedDeficit` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Total_Equity** | `2026-09-30` (I) | `FILED` | `us-gaap:StockholdersEquity` | `0001104659-26-124824` | `2026-11-10` |
+| `balance` | **Total_Liabilities_and_Equity** | `2026-09-30` (I) | `FILED` | `us-gaap:LiabilitiesAndStockholdersEquity` | `0001104659-26-124824` | `2026-11-10` |
+| `shares` | **Cover_Page_Shares_Outstanding** | `2026-09-30` (I) | `FILED` | `dei:EntityCommonStockSharesOutstanding` | `0001104659-26-124824` | `2026-11-10` |
+| `shares` | **Diluted_Shares_Outstanding** | `2026-09-30` (Q) | `FILED` | `us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding` | `0001104659-26-124824` | `2026-11-10` |
 | `cashflow` | **Operating_Cash_Flow** | `2026-06-30` (Q) | `DERIVED` | `us-gaap:NetCashProvidedByUsedInOperatingActivities` | `0001104659-26-095924` | `2026-08-13` |
-| `cashflow` | **Depreciation_and_Amortization** | `2026-06-30` (Q) | `DERIVED` | `us-gaap:DepreciationAndAmortization` | `0001104659-26-095924` | `2026-08-13` |
-| `cashflow` | **Stock_Based_Compensation** | `2026-06-30` (Q) | `FILED` | `us-gaap:AllocatedShareBasedCompensationExpense` | `0001104659-26-095924` | `2026-08-13` |
-| `cashflow` | **Capital_Expenditures** | `2026-06-30` (Q) | `DERIVED` | `us-gaap:PaymentsToAcquirePropertyPlantAndEquipment` | `0001104659-26-095924` | `2026-08-13` |
+| `cashflow` | **Stock_Based_Compensation** | `2026-09-30` (Q) | `DERIVED` | `us-gaap:ShareBasedCompensation` | `0001104659-26-124824` | `2026-11-10` |
+| `cashflow` | **Capital_Expenditures** | `2026-09-30` (Q) | `DERIVED` | `us-gaap:PaymentsToAcquirePropertyPlantAndEquipment` | `0001104659-26-124824` | `2026-11-10` |
 | `cashflow` | **Free_Cash_Flow** | `2026-06-30` (Q) | `DERIVED` | `DERIVED:Operating_Cash_Flow - Capital_Expenditures` | `0001104659-26-095924` | `2026-08-13` |
-| `cashflow` | **Debt_Issued** | `2021-09-30` (Q) | `DERIVED` | `us-gaap:ProceedsFromIssuanceOfDebt` | `0001104659-21-139201` | `2021-11-15` |
-| `cashflow` | **Stock_Issued** | `2025-12-31` (Q) | `DERIVED` | `us-gaap:ProceedsFromIssuanceOfCommonStock` | `0001104659-26-037918` | `2026-03-31` |
+| `cashflow` | **Stock_Issued** | `2025-12-31` (Q) | `DERIVED` | `us-gaap:ProceedsFromIssuanceOfCommonStock` | `0001104659-26-124824` | `2026-11-10` |
 | `cashflow` | **Stock_Buybacks** | `2025-12-31` (FY) | `FILED` | `us-gaap:PaymentsForRepurchaseOfCommonStock` | `0001104659-26-037918` | `2026-03-31` |
 
 </details>
@@ -698,6 +729,8 @@
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand Complete System Methodology, Mathematical Formulas & SEC Data Sources</b></summary>
+
+**XBRL & Fail-Closed Scope:** Canonical fields select explicitly defined concepts; alternate terms remain in a separate review inventory until equivalence is verified. Missing disclosures remain `NR` / `UNAVAILABLE`—never defaulted to `$0.0`, `1.0` shares, synthetic share prices, synthetic `50,000`-share volumes, or `VIX 18.5`. Current flow and balance-sheet extractions cap lookbacks at `≤ 1` fiscal year (`≤ 2` fiscal years for share-count lookbacks) so stale multi-year observations cannot leak into current floors or CapEx checks. Monetary normalization selects USD without implicit conversion. See the curriculum’s XBRL concept-integrity and Phase C sections for full rules. Existing cached statements may predate this policy.
 
 ### 1. Primary SEC EDGAR Data Sources
 
@@ -718,14 +751,14 @@
 | **Graham NCAV Per Share** | $(\text{Total Current Assets} - \text{Total Liabilities} - \text{Preferred Stock}) / \text{Diluted Shares}$ | Net-Net Arbitrage requires $P \le 0.67 \times \text{NCAV}$ (33% Haircut) |
 | **Tangible Book Value (TBV)** | $(\text{Total Equity} - \text{Goodwill} - \text{Intangibles}) / \text{Diluted Shares}$ | Hard physical liquidation net worth per share |
 | **Zero-Growth DCF Floor** | $V_0 = (\text{TTM Free Cash Flow} / 0.10) / \text{Diluted Shares}$ | 10% discount rate perpetuity assuming 0% terminal growth |
-| **Working Capital Audit** | Evaluates $\Delta\text{A/R}$, $\Delta\text{Inventory}$, $\Delta\text{A/P}$ vs. $\text{OCF}$ & $\text{CapEx}/\text{D\&A}$ | Quarantines working capital liquidation (`>20% OCF`) & capex starvation (`<35% D&A`) |
-| **3-Pillar Convergence Radar** | Weighted 0–10 scoring across Health, Valuation Asymmetry, and Capital Discipline | Ranks survivors after mandatory binary forensic gates pass |
+| **Working Capital Audit** | Evaluates $\Delta\text{A/R}$, $\Delta\text{Inventory}$, $\Delta\text{A/P}$ vs. $\text{OCF}$ & $\text{CapEx}/\text{D\&A}$ | Quarantines working capital liquidation (`>20% OCF`) & capex starvation (`<35% D&A`); emits `UNAVAILABLE` when canonical inputs are missing or stale (`>1Y`) |
+| **3-Pillar Convergence Radar** | Weighted 0–10 scoring across Health, Valuation Asymmetry, and Capital Discipline | Ranks survivors after mandatory binary forensic gates pass using zero-midpoint scoring (missing metrics contribute `0` points with explicit `NR` labels) |
 
 ### 3. Execution & Risk Management Disciplines
 
 | Execution Rule | Quantitative Parameter | Risk Management Function |
 | :--- | :---: | :--- |
-| **ADDV Liquidity Guardrail** | `1.0% – 2.0%` of 30-Day ADDV (`Min $250k`) | Ensures complete position exit within 1–2 trading sessions without market impact. |
+| **ADDV Liquidity Guardrail** | `1.0% – 2.0%` of 30-Day ADDV (`Min $250k`) | Ensures complete position exit within 1–2 trading sessions without market impact. Finalists missing verified price or 30d volume are withheld in Treasury Dry Powder. |
 | **The Dry Powder Mandate** | `≥ 10.0%` Cash Floor + Trimmed Overflow | Routes unallocated sleeve capacity into 13-week U.S. Treasury Bills (`^IRX`) rather than forcing capital into marginal equities. |
 | **GICS Sector Concentration Cap** | `≤ 20.0%` Per GICS Sector | Scales excess sector exposure pro-rata into Treasury Dry Powder to prevent correlated industry drawdowns. |
 | **3-Tranche Limit Order Ladder** | `33.3%` Market \| `33.3%` `-1x ATR` \| `33.4%` `-2x ATR` | Lowers blended VWAP entry basis during volatility pullbacks without chasing price. |
