@@ -329,15 +329,16 @@ Before computing valuation multiples, every company must survive 4 mathematical 
 
 ---
 
-## 2. Step B: The 4 Hunting Buckets (Excluding Financials/REITs `SIC 6000–6799`)
+## 2. Step B: The 4 Hunting Buckets (Fresh Operating Companies; Excluding Financials/REITs `SIC 6000–6799`)
 * **`1_CASH` / `1_TBV` (Balance-Sheet Backing):** Distinguishes liquid Net Cash / NCAV floors (`1_CASH`) from tangible asset / inventory book floors (`1_TBV`):
   $$\text{1\_CASH: } \text{Net Cash Yield} \ge 50\% \text{ or } \text{Graham NCAV Yield} \ge 50\% \quad \Big| \quad \text{1\_TBV: } \text{Tangible Book Yield} \ge 80\%$$
 * **`2_FCF` (High-FCF Turnarounds):** High structural cash generation with rapid debt payback:
   $$\text{TTM FCF Yield} \ge 12.0\% \quad \text{AND} \quad \frac{\text{Total Debt} - \text{Cash}}{\text{TTM FCF}} \le 4.0\text{ years}$$
-* **`3_BUYBACK` (Cannibal Repurchases Net of SBC):** Retires common equity using genuine free cash flow:
+* **`3_BUYBACK` (Cannibal Repurchases Net of SBC — Non-Fin/REIT Operating Only):** Retires common equity using genuine free cash flow:
   $$\text{TTM FCF} > 0, \quad \text{TTM Repurchases} > \text{Stock Issued}, \quad \text{1Y or 5Y Share Count down } -3.0\% \text{ to } -35.0\%$$
-* **`4_INSIDER` (C-Suite Skin in the Game):** Open-market purchases on SEC Form 4 (Transaction Code `P`):
+* **`4_INSIDER` (C-Suite Skin in the Game — Non-Fin/REIT Operating Only):** Open-market purchases on SEC Form 4 (Transaction Code `P`):
   $$\ge 2 \text{ C-Suite officers buying over 12 months} \quad \text{OR} \quad (\ge 2 \text{ buyers and Net buying} \ge \$50,000)$$
+* **Stale-Filer & Separate Fin/REIT Cohort Hygiene:** Operating Hunting Buckets and Stage 1 Convergence Shortlist exclude stale/deregistered/regime-shifted filers (`latest_10kq_filed` / `Latest_Period_End` $> 550$ days old or superseding `15-12G`/`15-15D`/`40-8F-2`/`20-F`/`NPORT-P` shifts) and `SIC 6000–6799` entities (`select_operating_hunting_buckets_df()`, `select_stage1_convergence_df()`). Active Financials & REITs retain full 68-column coverage inside `Master_Universe_All_Stocks.csv` (`Is_Financial_Or_REIT = True`), while qualifying buyback/insider names are pinned separately in `Financial_REIT_Signals.csv` and the `Financials & REITs` workbook tab via `select_financial_reit_signals_df()` pending dedicated Fin/REIT metrics (`P/TBV`, `ROE`, `FFO`).
 
 ---
 
@@ -503,3 +504,19 @@ Legacy synthetic defaults and multi-year staleness leaks have been excised acros
 * **No Synthetic Defaults (`NR` / `UNAVAILABLE`):** Static price and volume fallback tables (`BASELINE_VOLUME_PARAMS`, `ALL_TICKER_PRICES`), `or 1.0` share-count fallbacks, `or 0.0` cash-flow/capex defaults, `$10.00` placeholder prices, `50,000`-share volume stubs, and `VIX 18.5` assumptions are removed. Unpopulated canonical metrics render `NR` or `UNAVAILABLE`, and SSR v2 withholds limit-order ladders and forward ledger writes whenever verified spot price is missing.
 * **Recency Cap on Latest Extractions:** Current annual flow and balance-sheet extractions in `reporting/ssr_executive.py` enforce a `max_lookback_fys=1` cap (`max_lookback_fys=2` for share-count fallbacks) so decade-old unpopulated rows cannot leak into current valuation floors or CapEx starvation checks.
 * **Zero-Midpoint Scoring & Fail-Closed Stage 3:** `models/convergence_radar.py` awards `0` points with `NR` status tags for missing inputs rather than neutral midpoints. `strategies/position_sizing_and_execution.py` withholds finalists missing verified price or 30-day volume in `unverified_finalists` (retaining capacity in Treasury Dry Powder) and dynamically interpolates specialized exit bullets strictly from active positions.
+
+
+### Candidate historical lake validation & archive boundaries — November 15, 2026
+
+Backlog Task 4 validates the full archived SEC bulk universe in an isolated staging area (`data_lake/candidate/historical_lake.sqlite` and `data_lake/candidate/master_universe.sqlite`) without overwriting production `data_lake/bulk/master_universe.sqlite`:
+
+* **Universe Separation & Survivorship Boundaries:** Audits active listed (`_cik_map.json`) vs. delisted/inactive (`companyfacts.zip`-only) issuers, financial/REIT exclusions (`SIC 6000–6799`), unknown-SIC entities, and non-`10-K`/`10-Q` filers separately; pre-2009 SGML/HTML filings fall outside `companyfacts.zip` (`Pre-XBRL` floor), and context-gated tags (`RevenueFromContractWithCustomerExcludingAssessedTax`, `InterestExpenseNonoperating`, `CostOfGoodsSold`, Batch 4 HTML reconciliations) execute strictly on locally cached HTML/XML (`unknown_unavailable:filing_review_required` when uncached).
+* **Overflow Submissions & Future-Date Typo Guard:** Merges `submissions.zip` overflow arrays (`CIK*-submissions-*.json`) prior to `/A` amendment resolution and cover-page share alignment (`[-7, +75]` days, `<= filed`), and rejects corrupted future `period_end > filed + 7` days (across both GAAP and DEI cover-page facts) or GAAP `> reportDate + 14` days (`date_anomaly_end_after_filed`).
+* **Lossless Period Views & Tri-State Applicability:** Stores separate `FY`, `Q`, `YTD2`/`YTD3`, `I`, `TTM` (requiring 4 contiguous quarters within `240..315` days via `inspect_ttm_contiguity()`), `is_latest_revised`, `is_original`, and `restatement_diffs` tables, preserving `evidenced_non_applicable` states (`pre_asc842_operating_lease`, `single_step_income_statement`, `zero_total_liabilities_debt_free`, `non_operating_or_non_10kq`) separately from `unknown_unavailable` gaps.
+
+### Incremental maintenance, share-count & cohort hygiene (Backlog Task 5) — November 16, 2026
+
+* **Incremental Refresh & Indexed SQLite Speed:** `ingestion/candidate_lake.py` (`incremental_update_candidate_lake`, `scripts/rebuild_candidate_lake.py --incremental`) fingerprints ZIP `(CRC, file_size)` / file SHA-256 metadata per CIK in `issuer_maintenance_state`, separates XBRL changes from quote/insider snapshot refreshes, reuses validated HTML/XML mappings in `verified_context_cache` under explicit `(cik, accession, source_sha256, aliases_sha256, validator_version)` invalidation (`VALIDATOR_VERSION = "2026-11-16.v1"`), logs taxonomy/restatement/presentation/regime-shift deltas in `maintenance_events`, and adds composite `(cik, is_latest_revised, ...)` and `(ticker, is_latest_revised, ...)` indexes + `ANALYZE;` (reducing unchanged `21,573`-CIK refreshes from `359.25s` to `14.22s`, `25.3x` faster).
+* **Share-Count, Scale & Period-End Guards:** `_pick_latest_shares()` in `models/valuation.py` requires `>= 10,000` shares across `TTM` + `fy_cols[-2:]` before falling back to sub-10k stubs (`VTIX`/`QVCG`), while `models/wide_net_scoreboard.py` downscales `1,000x` XBRL share overstatements and applies `shares_override` for `< 10,000` stubs or `>= 25x` Nasdaq divergence (`AVXL`/`TBLA`/`RPAY`). `Latest_Period_End` takes the newest valid period across `TTM`/`FY`/`Q` (`ALPE`), and `run_bulk_scan.py` shares Task 1–4 normalization and operating/Fin-REIT selection helpers.
+* **Master Workbook Refresh:** `scripts/build_master_spreadsheet.py` builds `Logic_Engines_Master_Review.xlsx` directly from structured `data_lake/candidate/` exports and `SSR v2` stock vaults across 4 sheets (`Executive Watchlist`, `Stage 1 Shortlist`, `Hunting Buckets`, `Financials & REITs`), preserving `None` instead of zero-coercing missing values.
+
