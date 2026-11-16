@@ -3,8 +3,8 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-15 18:09 UTC` | **CIK:** `0001495231` | **SIC:** `7310` | **Inc:** `NV` | **FYE:** `Dec 31`  
-> **Current Price:** `$2.49` | **Market Cap:** `$43.1M` | **Enterprise Value:** `N/A`  
+> **Generated:** `2026-11-16 17:35 UTC` | **CIK:** `0001495231` | **SIC:** `7310` | **Inc:** `NV` | **FYE:** `Dec 31`  
+> **Current Price:** `$2.50` | **Market Cap:** `$43.2M` | **Enterprise Value:** `N/A`  
 > **TTM Free Cash Flow Yield:** **`5.5%`**
 > 🚨 **AUDIT WARNING: Unverified Debt Tags (NR)** | Short/Long-Term Debt tags unpopulated in filing while liabilities exist. Verify notes/leases in Vault before sizing.
 
@@ -18,9 +18,9 @@
 │                  VERDICT: BENJAMIN GRAHAM NET-NET ARBITRAGE                  │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ ASYMMETRIC PAYOFF PROFILE: >10.0x : 1.0 (NCAV Asset Arbitrage Cushion)*      │
-│ • Downside to Graham NCAV Floor:     +1.6% Surplus ($2.53 vs $2.49)*         │
-│ • Upside to Intrinsic Fair Value:    +1.6% ($2.53 Target 1)                  │
-│ • Catalytic Convergence Target:      +22.1% ($3.04 Target 2)                 │
+│ • Downside to Graham NCAV Floor:     +1.2% Surplus ($2.53 vs $2.50)*         │
+│ • Upside to Intrinsic Fair Value:    +1.2% ($2.53 Target 1)                  │
+│ • Catalytic Convergence Target:      +21.6% ($3.04 Target 2)                 │
 │ • AUDIT CHECK: Spot < Cash Floor. Verify debt & burn in Vault before sizing. │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -80,12 +80,12 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$2.49** | `100.0%` | Baseline entry quote |
+| **Current Market Price** | **$2.50** | `100.0%` | Baseline entry quote |
 | **Net Cash Floor (Ex-Debt)** | **N/A/sh** | `N/A` | Data unavailable |
-| **Graham NCAV Floor** | **$2.53/sh** | `101.6%` | Trades below liquidation value (101.6% of price, lacks Graham 33% haircut) (`Curr. Assets $50.7M - Total Liab. $7.0M = +$43.7M`) |
-| **Tangible Book Value** | **$2.69/sh** | `108.0%` | Tangible physical assets cover 108.0% of price (`Total Tangible Equity: $46.5M`) |
+| **Graham NCAV Floor** | **$2.53/sh** | `101.2%` | Trades below liquidation value (101.2% of price, lacks Graham 33% haircut) (`Curr. Assets $50.7M - Total Liab. $7.0M = +$43.7M`) |
+| **Tangible Book Value** | **$2.69/sh** | `107.6%` | Tangible physical assets cover 107.6% of price (`Total Tangible Equity: $46.5M`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
-| **5-Year Price Corridor** | **$1.68 – $10.20** | `33th %-tile` | Accumulation Zone (Below Median) |
+| **5-Year Price Corridor** | **$1.68 – $9.92** | `33th %-tile` | Accumulation Zone (Below Median) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -109,9 +109,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$2.49** | $333.30 (33.3%) | 133 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$2.26** | $333.30 (33.3%) | 147 | -9.4% Support Retest (Volatility-Adjusted (14-Period ATR 9.4%) Limit) |
-| **T3** | `LIMIT` | **$2.02** | $333.40 (33.3%) | 165 | -18.8% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 9.4%) Deep Liquidity Limit) |
+| **T1** | `MARKET` | **$2.50** | $333.30 (33.3%) | 133 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$2.27** | $333.30 (33.3%) | 146 | -9.1% Support Retest (Volatility-Adjusted (14-Period ATR 9.1%) Limit) |
+| **T3** | `LIMIT` | **$2.04** | $333.40 (33.3%) | 163 | -18.3% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 9.1%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -131,10 +131,10 @@
 
 | Exit / Stop Parameter | Target Price & Upside | Deterministic Execution Rule |
 | :--- | :--- | :--- |
-| **Target 1 (Lock in Capital):** | **$2.53** (`+1.6%` upside) | 100% Graham NCAV Convergence (Sell 50% Position) |
-| **Target 2 (Full Fair Value):** | **$3.04** (`+22.1%` upside) | Tangible Book Value (TBV) Convergence (Sell Final 50%) |
-| **Safety Stop Loss:** | **$1.80** | Operational Burn Stop (-20.0% from VWAP $2.25) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.69** (-25.0% from VWAP $2.25) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Target 1 (Lock in Capital):** | **$2.53** (`+1.2%` upside) | 100% Graham NCAV Convergence (Sell 50% Position) |
+| **Target 2 (Full Fair Value):** | **$3.04** (`+21.6%` upside) | Tangible Book Value (TBV) Convergence (Sell Final 50%) |
+| **Safety Stop Loss:** | **$1.81** | Operational Burn Stop (-20.0% from VWAP $2.26) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.69** (-25.0% from VWAP $2.26) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: If 30d volume ratio >= 3.0x ADDV at Target 1 or Target 2, execute market sell into elevated liquidity. |
 
 <details markdown="1">
@@ -274,19 +274,19 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$1.68 – $10.20`** \| `[$1.68 ──────●───────────── $10.20] (33th %-tile)` |
+| **5-Year Price Corridor:** | **`$1.68 – $9.92`** \| `[$1.68 ──────●───────────── $9.92] (33th %-tile)` |
 | **52-Week Price Range:** | `$2.13 – $5.16` (Cycle Regime: `Accumulation Zone (Below Median)`) |
-| **Primary Valuation Multiple:** | **`19.2x`** P/FCF vs. 5-Year Median `27.3x` (`13th %-tile` — 💎 Deep Value Compression) |
+| **Primary Valuation Multiple:** | **`19.3x`** P/FCF vs. 5-Year Median `27.3x` (`15th %-tile` — 💎 Deep Value Compression) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`19.2x`** | `17.0x – 27.3x – 33.8x` | `13%` | **$3.54** | `+42.2%` | 💎 Deep Value Compression |
-| **P/TBV** | **`0.9x`** | `0.5x – 0.8x – 2.0x` | `64%` | **$2.02** | `-18.9%` | ⚖️ Historical Fair Value |
+| **P/FCF** | **`19.3x`** | `17.0x – 27.3x – 33.8x` | `15%` | **$3.54** | `+41.6%` | 💎 Deep Value Compression |
+| **P/TBV** | **`0.9x`** | `0.5x – 0.8x – 2.0x` | `64%` | **$2.02** | `-19.2%` | ⚖️ Historical Fair Value |
 
-> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** IZEA trades at `19.2x` P/FCF (13th percentile of 5-year history). Mean reversion to historical median multiple (`27.3x`) yields an implied intrinsic target of **$3.54** (`+42.2%` upside) without relying on speculative future growth.
+> **Forensic Mean Reversion Verdict:** **Asymmetric Multiple Compression.** IZEA trades at `19.3x` P/FCF (15th percentile of 5-year history). Mean reversion to historical median multiple (`27.3x`) yields an implied intrinsic target of **$3.54** (`+41.6%` upside) without relying on speculative future growth.
 
 </details>
 
@@ -314,10 +314,10 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **IZEA** (IZEA Worldwide, Inc.) | `[Subject Firm]` | **$43.1M** | **5.5%** | **N/A** | **N/A** | **N/A** |
-| **IBTA** (Ibotta, Inc.) | `[Industry Leader: 31x larger]` | $1.4B | 6.0% | +$5.34 | N/A | N/A |
-| **MNTN** (MNTN, Inc.) | `[Industry Leader: 8.7x larger]` | $373.9M | N/A | N/A | N/A | N/A |
-| **ANGI** (Angi Inc.) | `[Industry Leader: 7.0x larger]` | $301.4M | N/A | -$5.69 | N/A | N/A |
+| **IZEA** (IZEA Worldwide, Inc.) | `[Subject Firm]` | **$43.2M** | **5.5%** | **N/A** | **N/A** | **N/A** |
+| **IBTA** (Ibotta, Inc.) | `[Industry Leader: 31x larger]` | $1.3B | 6.1% | +$5.34 | N/A | N/A |
+| **MNTN** (MNTN, Inc.) | `[Industry Leader: 9.4x larger]` | $405.2M | N/A | N/A | N/A | N/A |
+| **ANGI** (Angi Inc.) | `[Industry Leader: 6.2x larger]` | $266.4M | N/A | -$5.69 | N/A | N/A |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -347,9 +347,9 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.82x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$76,661.87` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $76,662 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.76x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$68,827.38` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $68,827 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -377,7 +377,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-15 18:09 UTC` |
+| **Generated** | `2026-11-16 17:35 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -624,7 +624,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | **ROCE Pct** | -7.16% | -8.01% | -15.01% | -39.93% | -3.80% | -10.06% |
 | **ROIC Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Shareholder Return USD** | -$46.5M | $0 | `NR` | `NR` | `NR` | `NR` |
-| **Shareholder Yield Pct** | -108.10% | 0.00% | `NR` | `NR` | `NR` | `NR` |
+| **Shareholder Yield Pct** | -107.67% | 0.00% | `NR` | `NR` | `NR` | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 
@@ -656,7 +656,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **5.51%** | **-7.14%** | **107.90%** | `NR / NA` | `NR / NA` | `NR / NA` |
+| **5.49%** | **-7.11%** | **107.47%** | `NR / NA` | `NR / NA` | `NR / NA` |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 

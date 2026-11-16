@@ -3,9 +3,9 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-15 18:10 UTC` | **CIK:** `0001667313` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Jul 31`  
-> **Current Price:** `$2.82` | **Market Cap:** `$36.6M` | **Enterprise Value:** `N/A`  
-> **TTM Free Cash Flow Yield:** **`12.4%`** (SBC-Adjusted: **`10.9%`**)
+> **Generated:** `2026-11-16 17:35 UTC` | **CIK:** `0001667313` | **SIC:** `7372` | **Inc:** `DE` | **FYE:** `Jul 31`  
+> **Current Price:** `$2.79` | **Market Cap:** `$36.3M` | **Enterprise Value:** `N/A`  
+> **TTM Free Cash Flow Yield:** **`12.5%`** (SBC-Adjusted: **`11.0%`**)
 > 🚨 **AUDIT WARNING: Unverified Debt Tags (NR)** | Short/Long-Term Debt tags unpopulated in filing while liabilities exist. Verify notes/leases in Vault before sizing.
 
 ---
@@ -18,9 +18,9 @@
 │                  VERDICT: MICRO-TURNAROUND & VALUE CATALYST                  │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ ASYMMETRIC PAYOFF PROFILE: 0.6x : 1.0 (Unfavorable Skew <1.0x)*              │
-│ • Downside to Graham NCAV Floor:     -61.0% ($1.10 vs $2.82)*                │
-│ • Upside to Intrinsic Fair Value:    +35.1% ($3.81 Target 1)                 │
-│ • Catalytic Convergence Target:      +75.5% ($4.95 Target 2)                 │
+│ • Downside to Graham NCAV Floor:     -60.6% ($1.10 vs $2.79)*                │
+│ • Upside to Intrinsic Fair Value:    +35.1% ($3.77 Target 1)                 │
+│ • Catalytic Convergence Target:      +75.6% ($4.90 Target 2)                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,8 +44,8 @@
 
 | Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
 | :--- | :---: | :--- | :--- |
-| **🛡️ Financial Health:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `3.02` (SAFE (> 2.99))<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
-| **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `12.4%`<br>• **Net Cash:** `N/A`<br>• **Graham NCAV:** `$1.10/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
+| **🛡️ Financial Health:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `3.00` (SAFE (> 2.99))<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
+| **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `12.5%`<br>• **Net Cash:** `N/A`<br>• **Graham NCAV:** `$1.10/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
 | **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10`</nobr> | • **1Y Shares:** `-5.4%` (Cannibal Buyback)<br>• **SBC % OCF:** `11.6%`<br>• **Insiders:** `0 Cluster / Quiet` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
@@ -79,12 +79,12 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$2.82** | `100.0%` | Baseline entry quote |
+| **Current Market Price** | **$2.79** | `100.0%` | Baseline entry quote |
 | **Net Cash Floor (Ex-Debt)** | **N/A/sh** | `N/A` | Data unavailable |
-| **Graham NCAV Floor** | **$1.10/sh** | `39.0%` | Net liquid assets cover 39.0% of stock price (`Curr. Assets $24.1M - Total Liab. $9.9M = +$14.2M`) |
-| **Tangible Book Value** | **$1.61/sh** | `57.1%` | Tangible physical assets cover 57.1% of price (`Total Tangible Equity: $20.9M`) |
+| **Graham NCAV Floor** | **$1.10/sh** | `39.4%` | Net liquid assets cover 39.4% of stock price (`Curr. Assets $24.1M - Total Liab. $9.9M = +$14.2M`) |
+| **Tangible Book Value** | **$1.61/sh** | `57.7%` | Tangible physical assets cover 57.7% of price (`Total Tangible Equity: $20.9M`) |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
-| **5-Year Price Corridor** | **$1.62 – $12.27** | `48th %-tile` | ⚖️ Historical Midpoint |
+| **5-Year Price Corridor** | **$1.62 – $11.70** | `46th %-tile` | ⚖️ Historical Midpoint |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -108,9 +108,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$2.82** | $933.24 (33.3%) | 330 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$2.48** | $933.24 (33.3%) | 376 | -12.2% Support Retest (Volatility-Adjusted (14-Period ATR 12.2%) Limit) |
-| **T3** | `LIMIT` | **$2.13** | $933.52 (33.3%) | 438 | -24.3% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 12.2%) Deep Liquidity Limit) |
+| **T1** | `MARKET` | **$2.79** | $933.24 (33.3%) | 334 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$2.45** | $933.24 (33.3%) | 380 | -12.1% Support Retest (Volatility-Adjusted (14-Period ATR 12.1%) Limit) |
+| **T3** | `LIMIT` | **$2.11** | $933.52 (33.3%) | 442 | -24.3% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 12.1%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -130,10 +130,10 @@
 
 | Exit / Stop Parameter | Target Price & Upside | Deterministic Execution Rule |
 | :--- | :--- | :--- |
-| **Target 1 (Lock in Capital):** | **$3.81** (`+35.1%` upside) | Tangible Asset / C-Suite Turnaround Target (Trim 50%) |
-| **Target 2 (Full Fair Value):** | **$4.95** (`+75.5%` upside) | Catalyst Exuberance Target (Full Exit) |
-| **Safety Stop Loss:** | **$1.96** | Turnaround Failure Stop (-20.0% from VWAP $2.45) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.84** (-25.0% from VWAP $2.45) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Target 1 (Lock in Capital):** | **$3.77** (`+35.1%` upside) | Tangible Asset / C-Suite Turnaround Target (Trim 50%) |
+| **Target 2 (Full Fair Value):** | **$4.90** (`+75.6%` upside) | Catalyst Exuberance Target (Full Exit) |
+| **Safety Stop Loss:** | **$1.94** | Turnaround Failure Stop (-20.0% from VWAP $2.42) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$1.81** (-25.0% from VWAP $2.42) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: Liquidate 50% immediately upon volume spike >= 3.0x ADDV on unconfirmed volume surge. |
 
 <details markdown="1">
@@ -275,20 +275,20 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$1.62 – $12.27`** \| `[$1.62 ─────────●────────── $12.27] (48th %-tile)` |
+| **5-Year Price Corridor:** | **`$1.62 – $11.70`** \| `[$1.62 ─────────●────────── $11.70] (46th %-tile)` |
 | **52-Week Price Range:** | `$2.13 – $4.70` (Cycle Regime: `⚖️ Historical Midpoint`) |
-| **Primary Valuation Multiple:** | **`8.1x`** P/FCF vs. 5-Year Median `8.6x` (`42th %-tile` — ⚖️ Historical Fair Value) |
+| **Primary Valuation Multiple:** | **`8.0x`** P/FCF vs. 5-Year Median `8.6x` (`42th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`8.1x`** | `2.3x – 8.6x – 21.5x` | `42%` | **$3.00** | `+6.4%` | ⚖️ Historical Fair Value |
-| **P/TBV** | **`1.7x`** | `0.7x – 1.3x – 4.6x` | `63%` | **$2.27** | `-19.5%` | ⚖️ Historical Fair Value |
-| **P/S** | **`1.2x`** | `0.9x – 1.4x – 7.3x` | `21%` | **$3.36** | `+19.1%` | 💎 Deep Value Compression |
+| **P/FCF** | **`8.0x`** | `2.3x – 8.6x – 21.5x` | `42%` | **$3.00** | `+7.5%` | ⚖️ Historical Fair Value |
+| **P/TBV** | **`1.7x`** | `0.7x – 1.3x – 4.6x` | `62%` | **$2.27** | `-18.6%` | ⚖️ Historical Fair Value |
+| **P/S** | **`1.1x`** | `0.9x – 1.4x – 7.3x` | `20%` | **$3.36** | `+20.4%` | 💎 Deep Value Compression |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZDGE trades at `8.1x` P/FCF (42th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `8.6x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** ZDGE trades at `8.0x` P/FCF (42th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `8.6x`).
 
 </details>
 
@@ -316,10 +316,10 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **ZDGE** (Zedge, Inc.) | `[Subject Firm]` | **$36.6M** | **12.4%** | **N/A** | **6/9** | **3.02 (Safe)** |
-| **MSFT** (MICROSOFT CORP) | `[Industry Leader: 109101x larger]` | $3,993.1B | 1.5% | +$1.58 | N/A | N/A |
-| **PLTR** (Palantir Technologies ..) | `[Industry Leader: 10929x larger]` | $400.0B | 1.0% | +$1.30 | N/A | N/A |
-| **ORCL** (ORACLE CORP) | `[Industry Leader: 9517x larger]` | $348.3B | -8.2% | -$1.80 | 4/9 | N/A |
+| **ZDGE** (Zedge, Inc.) | `[Subject Firm]` | **$36.3M** | **12.5%** | **N/A** | **6/9** | **3.00 (Safe)** |
+| **MSFT** (MICROSOFT CORP) | `[Industry Leader: 107175x larger]` | $3,890.4B | 1.5% | +$1.58 | N/A | N/A |
+| **PLTR** (Palantir Technologies ..) | `[Industry Leader: 11912x larger]` | $432.4B | 0.9% | +$1.30 | N/A | N/A |
+| **ORCL** (ORACLE CORP) | `[Industry Leader: 10443x larger]` | $379.1B | -7.6% | -$1.80 | 4/9 | N/A |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -350,8 +350,8 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | :--- | :--- |
 | **Silent Accumulation Status:** | `NEUTRAL` |
 | **30-Day Volume / 90-Day Average:** | `2.32x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$1,148,238.29` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | Volume is average (2.32x 90d avg; ADDV $1,148,238 >= $250k). |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$1,151,594.54` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | Volume is average (2.32x 90d avg; ADDV $1,151,595 >= $250k). |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -379,7 +379,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-15 18:10 UTC` |
+| **Generated** | `2026-11-16 17:35 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-10-31 -> 2026-07-31` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -632,7 +632,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | **ROCE Pct** | 25.75% | -16.83% | -36.95% | -11.59% | -2.44% | -2.48% |
 | **ROIC Pct** | `NR` | -23.90% | -84.91% | -34.34% | `NR` | `NR` |
 | **Total Shareholder Return USD** | $232,000 | $1.6M | $646,000 | $4.4M | $1.9M | $1.9M |
-| **Shareholder Yield Pct** | 0.63% | 4.36% | 1.76% | 12.10% | 5.22% | 5.22% |
+| **Shareholder Yield Pct** | 0.64% | 4.40% | 1.78% | 12.23% | 5.28% | 5.28% |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 
@@ -651,7 +651,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **6 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
-| **Altman Z-Score (Bankruptcy / Solvency)** | **3.02** (SAFE (> 2.99)) | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
+| **Altman Z-Score (Bankruptcy / Solvency)** | **3.00** (SAFE (> 2.99)) | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
 | **Beneish M-Score (Earnings Manipulation)** | `NR` | `<= -1.78` Clean, `> -1.78` Manipulation Risk |
 | **SBC / Operating Cash Flow Spread (TTM)** | `11.64%` | `< 10%` Disciplined, `> 20%` Aggressive Stock Handouts |
 | **Serial Acquirer Roll-Up Dilution Audit** | Clean (Organic / Disciplined Capital Allocation) | 5Y M&A = `75.9%` of 5Y FCF; Goodwill+Intang = `9.1%` of Assets |
@@ -664,7 +664,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **12.36%** | **-0.36%** | **57.11%** | **86.31%** | `NR / NA` | `NR / NA` |
+| **12.49%** | **-0.36%** | **57.73%** | **87.24%** | `NR / NA` | `NR / NA` |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 

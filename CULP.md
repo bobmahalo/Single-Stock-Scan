@@ -3,8 +3,8 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-15 18:09 UTC` | **CIK:** `0000723603` | **SIC:** `2211` | **Inc:** `NC` | **FYE:** `Dec 31`  
-> **Current Price:** `$3.46` | **Market Cap:** `$44.1M` | **Enterprise Value:** `$35.5M`  
+> **Generated:** `2026-11-16 17:35 UTC` | **CIK:** `0000723603` | **SIC:** `2211` | **Inc:** `NC` | **FYE:** `Dec 31`  
+> **Current Price:** `$3.36` | **Market Cap:** `$42.8M` | **Enterprise Value:** `$34.2M`  
 > **TTM Free Cash Flow Yield:** `N/A`
 
 ---
@@ -17,9 +17,9 @@
 │              VERDICT: QUARANTINED / REGULATORY & AUDIT RED FLAG              │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ ASYMMETRIC PAYOFF PROFILE: 0.2x : 1.0 (Unfavorable Skew <1.0x)*              │
-│ • Downside to Net Cash Floor:        -80.6% ($0.67 vs $3.46)*                │
-│ • Upside to Intrinsic Fair Value:    +19.9% ($4.15 Target 1)                 │
-│ • Catalytic Convergence Target:      +37.9% ($4.77 Target 2)                 │
+│ • Downside to Net Cash Floor:        -80.1% ($0.67 vs $3.36)*                │
+│ • Upside to Intrinsic Fair Value:    +19.9% ($4.03 Target 1)                 │
+│ • Catalytic Convergence Target:      +37.8% ($4.63 Target 2)                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,7 +44,7 @@
 | Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **Piotroski:** `N/A`<br>• **Altman Z:** `N/A`<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
-| **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10`</nobr> | • **FCF Yield:** `N/A`<br>• **Net Cash:** `$0.67/sh` (19.4% of price)<br>• **Graham NCAV:** `$1.92/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
+| **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜]  2/10`</nobr> | • **FCF Yield:** `N/A`<br>• **Net Cash:** `$0.67/sh` (19.9% of price)<br>• **Graham NCAV:** `$1.92/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
 | **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜]  6/10`</nobr> | • **1Y Shares:** `+0.8%` (Stable)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `+$169K` (Cluster Buy) | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
@@ -78,12 +78,12 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$3.46** | `100.0%` | Baseline entry quote |
-| **Net Cash Floor (Ex-Debt)** | **$0.67/sh** | `19.4%` | Bank cash backs 19.4% of stock price (`Cash $10.2M - Debt $1.7M = +$8.6M` across 12.7M sh) |
-| **Graham NCAV Floor** | **$1.92/sh** | `55.5%` | Net liquid assets cover 55.5% of stock price (`Curr. Assets $78.8M - Total Liab. $54.3M = +$24.5M`) |
+| **Current Market Price** | **$3.36** | `100.0%` | Baseline entry quote |
+| **Net Cash Floor (Ex-Debt)** | **$0.67/sh** | `19.9%` | Bank cash backs 19.9% of stock price (`Cash $10.2M - Debt $1.7M = +$8.6M` across 12.7M sh) |
+| **Graham NCAV Floor** | **$1.92/sh** | `57.1%` | Net liquid assets cover 57.1% of stock price (`Curr. Assets $78.8M - Total Liab. $54.3M = +$24.5M`) |
 | **Tangible Book Value** | **N/A/sh** | `N/A` | Data unavailable |
 | **Zero-Growth DCF Floor** | **N/A** | `N/A` | Unprofitable or negative trailing cash flow |
-| **5-Year Price Corridor** | **$2.70 – $12.76** | `9th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
+| **5-Year Price Corridor** | **$2.70 – $12.76** | `7th %-tile` | 💎 Deep Cycle Bottom (Bottom Quintile) |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -107,9 +107,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$3.46** | $333.30 (33.3%) | 96 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$3.11** | $333.30 (33.3%) | 107 | -10.2% Support Retest (Volatility-Adjusted (14-Period ATR 10.2%) Limit) |
-| **T3** | `LIMIT` | **$2.75** | $333.40 (33.3%) | 121 | -20.4% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 10.2%) Deep Liquidity Limit) |
+| **T1** | `MARKET` | **$3.36** | $333.30 (33.3%) | 99 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$3.01** | $333.30 (33.3%) | 110 | -10.5% Support Retest (Volatility-Adjusted (14-Period ATR 10.5%) Limit) |
+| **T3** | `LIMIT` | **$2.66** | $333.40 (33.3%) | 125 | -21.0% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 10.5%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -129,10 +129,10 @@
 
 | Exit / Stop Parameter | Target Price & Upside | Deterministic Execution Rule |
 | :--- | :--- | :--- |
-| **Target 1 (Lock in Capital):** | **$4.15** (`+19.9%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
-| **Target 2 (Full Fair Value):** | **$4.77** (`+37.9%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
-| **Safety Stop Loss:** | **$2.63** | Liquidation Burn Trap Stop (-15.0% from VWAP $3.09) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$2.32** (-25.0% from VWAP $3.09) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Target 1 (Lock in Capital):** | **$4.03** (`+19.9%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
+| **Target 2 (Full Fair Value):** | **$4.63** (`+37.8%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
+| **Safety Stop Loss:** | **$2.54** | Liquidation Burn Trap Stop (-15.0% from VWAP $2.99) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$2.24** (-25.0% from VWAP $2.99) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation. |
 
 <details markdown="1">
@@ -271,7 +271,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$2.70 – $12.76`** \| `[$2.70 ──●───────────────── $12.76] (9th %-tile)` |
+| **5-Year Price Corridor:** | **`$2.70 – $12.76`** \| `[$2.70 ─●────────────────── $12.76] (7th %-tile)` |
 | **52-Week Price Range:** | `$2.70 – $4.17` (Cycle Regime: `💎 Deep Cycle Bottom (Bottom Quintile)`) |
 | **Primary Valuation Multiple:** | N/A |
 
@@ -310,10 +310,10 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **CULP** (CULP INC) | `[Subject Firm]` | **$44.1M** | **N/A** | **+$0.67** | **N/A** | **N/A** |
-| **CRWS** (CROWN CRAFTS INC) | `[Direct Peer: ~0.6x]` | $27.7M | 50.6% | -$1.07 | N/A | N/A |
-| **MHK** (MOHAWK INDUSTRIES INC) | `[Industry Leader: 199x larger]` | $8.8B | 10.2% | -$13.26 | N/A | N/A |
-| **TILE** (INTERFACE INC) | `[Industry Leader: 50x larger]` | $2.2B | 6.2% | -$2.34 | N/A | N/A |
+| **CULP** (CULP INC) | `[Subject Firm]` | **$42.8M** | **N/A** | **+$0.67** | **N/A** | **N/A** |
+| **CRWS** (CROWN CRAFTS INC) | `[Direct Peer: ~0.6x]` | $27.4M | 51.2% | -$1.07 | N/A | N/A |
+| **MHK** (MOHAWK INDUSTRIES INC) | `[Industry Leader: 200x larger]` | $8.6B | 10.4% | -$13.26 | N/A | N/A |
+| **AIN** (ALBANY INTERNATIONAL C..) | `[Industry Leader: 45x larger]` | $1.9B | 3.6% | -$12.49 | N/A | N/A |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
 > - **Asymmetry Edge:** Highlights when a small-cap subject company commands higher FCF yields and positive net cash cushions compared to debt-laden mega-cap industry leaders.
@@ -343,9 +343,9 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | Microstructure & Liquidity Metric | Audited Reading & Hurdle Status |
 | :--- | :--- |
 | **Silent Accumulation Status:** | `FAIL (Illiquid Order Book — ADDV < $250k)` |
-| **30-Day Volume / 90-Day Average:** | `0.34x` normal volume |
-| **30-Day Average Daily Dollar Volume (ADDV):** | `$112,760.71` (Hurdle: ≥ $250k) |
-| **Signal Detail:** | 30-day ADDV of $112,761 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
+| **30-Day Volume / 90-Day Average:** | `0.35x` normal volume |
+| **30-Day Average Daily Dollar Volume (ADDV):** | `$113,035.78` (Hurdle: ≥ $250k) |
+| **Signal Detail:** | 30-day ADDV of $113,036 falls below the $250k liquidity hurdle. Illiquid order books cannot be classified as silent accumulation. |
 
 <details markdown="1">
 <summary>💡 <b>Silent Accumulation: How Smart Money Enters</b></summary>
@@ -373,7 +373,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-15 18:09 UTC` |
+| **Generated** | `2026-11-16 17:35 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-02 -> 2026-08-02` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -629,7 +629,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | **ROCE Pct** | 0.47% | -26.33% | -12.04% | -24.05% | -10.72% | -3.28% |
 | **ROIC Pct** | `NR` | `NR` | `NR` | `NR` | `NR` | `NR` |
 | **Total Shareholder Return USD** | $1.8M | `NR` | `NR` | `NR` | `NR` | `NR` |
-| **Shareholder Yield Pct** | 3.98% | `NR` | `NR` | `NR` | `NR` | `NR` |
+| **Shareholder Yield Pct** | 4.09% | `NR` | `NR` | `NR` | `NR` | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 
@@ -661,7 +661,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| `NR / NA` | `NR / NA` | `NR / NA` | `NR / NA` | **-6.01%** | `NR / NA` |
+| `NR / NA` | `NR / NA` | `NR / NA` | `NR / NA` | **-6.23%** | `NR / NA` |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 
@@ -673,7 +673,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| `NR` | $35.5M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
+| `NR` | $34.2M | `NA (Negative FCF / EV)` | **`NA (Negative FCF)`** |
 
 ---
 
