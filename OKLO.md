@@ -3,7 +3,7 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-16 17:35 UTC` | **CIK:** `0001849056` | **SIC:** `4911` | **Inc:** `DE` | **FYE:** `Dec 31`  
+> **Generated:** `2026-11-20 16:06 UTC` | **CIK:** `0001849056` | **SIC:** `4911` | **Inc:** `DE` | **FYE:** `Dec 31`  
 > **Current Price:** `$23.02` | **Market Cap:** `$4.50B` | **Enterprise Value:** `$2.95B`  
 > **TTM Free Cash Flow Yield:** **`-10.1%`** (SBC-Adjusted: **`-11.6%`**)
 
@@ -45,7 +45,7 @@
 | :--- | :---: | :--- | :--- |
 | **🛡️ Financial Health:** | <nobr>`[⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜]  0/10`</nobr> | • **Piotroski:** `N/A`<br>• **Altman Z:** `N/A`<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
 | **💎 Valuation Asymmetry:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **FCF Yield:** `-10.1%`<br>• **Net Cash:** `$7.92/sh` (34.4% of price)<br>• **Graham NCAV:** `$13.39/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+48.0%` (Dilution)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `$-485.1M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🏛️ Capital Discipline:** | <nobr>`[🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜]  3/10`</nobr> | • **1Y Shares:** `+48.0%` (Dilution)<br>• **SBC % OCF:** `⚠️ Dilutive Burn (OCF ≤ $0)*`<br>• **Insiders:** `$-5.0M` | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -69,7 +69,7 @@
 | **3. Micro-Turnaround & Catalyst** | `20% – 25%` | `2.8%` / `3.5% Cap` | Beaten-down operator where verified C-suite executive cluster buying (open-market Form 4 `P` purchases) or 13D activist stakes signal inflection. |
 | **4. Graham Net-Net Arbitrage** | `≤ 5.0% Strict` | `1.0%` / `1.5% Cap` | Classic Benjamin Graham *cigar butt* trading at a strict 33% discount to Net Current Asset Value ($P \le 0.67 \times \text{NCAV}$). Capped to immunize against burn. |
 | **5. Quarantined / Trap** | `Excluded / ≤ 1%` | `≤ 1.0% Cap` | Working capital liquidation (> 20% of OCF), capex starvation (< 35% of D&A), earnings manipulation ($M > -1.78$), or active SEC regulatory red flags. |
-| **6. Unsuitable / Pass** | `0.0%` | `0.0%` | Fails minimum liquidation floor, structural earnings power, or return-on-capital hurdle criteria. Capital preserved in Treasury T-Bills. |
+| **6. Unsuitable / Pass** | `0.0%` | `0.0%` | Fails minimum liquidation floor, incomplete forensic math (`Piotroski` / `Altman Z` / `FCF` missing), or return-on-capital hurdle. Capital preserved in Treasury T-Bills. |
 | **🏛️ T-Bills / Dry Powder** | `≥ 10.0% Floor` | `Unallocated Reserve` | Held in 13-week U.S. Treasury Bills (Tobin's Separation Theorem) to back cash-secured puts (CSPs) and opportunistic capitulation wicks. |
 
 </details>
@@ -103,7 +103,7 @@
 ### B. Deterministic 3-Tranche Limit Order Ladder
 
 > **Position Sizing Benchmark:** `$1,000.00` (1.0% portfolio target | Hard risk ceiling: 1.0%).  
-> **Rule:** Never market-buy 100% at once. Establish baseline immediately; let panic sell-offs fill your lower bids.
+> **Rule:** Never market-buy 100% at once. Max 1 tranche fill per trading day; `T2`/`T3` re-anchor to actual `T1` fill.
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
@@ -119,8 +119,8 @@
 | Tranche | Position Weight | Order Type & Pricing Anchor | Institutional Execution Purpose |
 | :---: | :---: | :--- | :--- |
 | **Tranche 1 (T1)** | `33.3%` | `MARKET` at Spot Price | Immediate baseline exposure upon passing Stage 2 forensic triage; eliminates FOMO if the stock rallies immediately. |
-| **Tranche 2 (T2)** | `33.3%` | `LIMIT` at `-1.0x ATR / IV` (`min -6.0%`) | Scaled dynamically to 14-period ATR or implied volatility at consolidation support retest levels. |
-| **Tranche 3 (T3)** | `33.4%` | `LIMIT` at `-2.0x ATR / IV` (`min -12.5%`) | Deep liquidity bid placed below normal trading noise to catch panic capitulation wicks and lower blended VWAP cost basis. |
+| **Tranche 2 (T2)** | `33.3%` | `LIMIT` at `-1.0x ATR / IV` (`min -6.0%`) from `T1` fill | Scaled dynamically to 14-period ATR or implied volatility, re-anchored to actual `T1` fill price; max 1 tranche fill per trading day. |
+| **Tranche 3 (T3)** | `33.4%` | `LIMIT` at `-2.0x ATR / IV` (`min -12.5%`) from `T1` fill | Deep liquidity bid placed below normal trading noise (never filled same-day as `T1`/`T2`) to catch panic wicks and lower VWAP basis. |
 | **ADDV Guardrail** | `≤ 2.0% ADDV` | `30-Day Avg Daily Dollar Volume` | Caps total position size at 1%–2% of 30-day ADDV so the entire position can be exited in 1–2 sessions without moving the tape. |
 
 </details>
@@ -131,8 +131,8 @@
 | :--- | :--- | :--- |
 | **Target 1 (Lock in Capital):** | **$27.62** (`+20.0%` upside) | Tangible Book Recovery Target (Exit 75% Position) |
 | **Target 2 (Full Fair Value):** | **$31.76** (`+38.0%` upside) | Speculative Liquidation Cleanout (Exit 100%) |
-| **Safety Stop Loss:** | **$16.67** | Liquidation Burn Trap Stop (-15.0% from VWAP $19.61) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$14.71** (-25.0% from VWAP $19.61) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Safety Stop Loss:** | **$16.29** | Liquidation Burn Trap Stop (-15.0% from VWAP $19.16) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$14.37** (-25.0% from VWAP $19.16) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Retail Exit Liquidity Trigger: Full exit at market if volume surges >= 2.5x ADDV on short squeeze speculation. |
 
 <details markdown="1">
@@ -186,16 +186,18 @@
 | **Remaining Net Debt:** | **`$0.0M`** |
 | **Years of FCF to Extinguish Debt:** | **`0.0 years`** *(Net cash on reported inputs; liquidity availability and obligations require review)* |
 | **Contractual Debt Maturity Wall (12–24M):** | Due in Year 1: `N/A` \| Due in Year 2: `N/A` (Total 24M Due: **`N/A`**) |
-| **Maturity Wall Risk Verdict:** | `UNVERIFIED_MATURITY_SCHEDULE` — Total funded debt is $4.2M, but 10-K debt maturity footnote schedules (12–24M) are NR/unmapped; contractual maturity wall verdict withheld. |
+| **Maturity Wall Risk Verdict:** | `UNVERIFIED_MATURITY_SCHEDULE` — Total funded debt is $4.2M, but 10-K/10-Q debt maturity footnote schedules are NR/unmapped; contractual maturity wall verdict withheld. |
 
 <details markdown="1">
 <summary>💡 <b>Why the Debt Extinguishment Clock Matters</b></summary>
 
 | Solvency & Maturity Metric | Forensic Formula / Source | Why It Protects Against Insolvency |
 | :--- | :--- | :--- |
-| **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (Net Cash Surplus). |
-| **12–24M Debt Maturity Wall** | `SEC 10-K Footnote Contractual Schedule` | Extracts principal repayments due in Year 1 (next 12M) and Year 2 (13–24M) and stress-tests them against available cash and 2-year organic FCF to spot refinancing traps. |
+| **Debt Extinguishment Clock** | `(Total Debt - Total Cash) / TTM FCF` | Measures how many years of current Free Cash Flow are required to pay off 100% of net debt. When **Total Cash > Total Debt**, the clock reads **`0.0 years`** (liquidity availability and off-balance-sheet obligations still require review). |
+| **12–24M Debt Maturity Wall** | `SEC 10-K / 10-Q Footnote Contractual Schedule` | Anchors strictly to a single periodic filing (`10-K` or latest `10-Q` incl. `RemainderOfFiscalYear`, never mixing outer buckets across filings) and stress-tests near-term principal maturities against available cash and 2-year organic FCF. |
+| **Revolver Liquidity Headroom** | `SEC 10-K / 10-Q LineOfCreditFacilityRemainingBorrowingCapacity` | Reports undrawn committed credit facility availability separately from balance-sheet cash (`Cash Coverage Ratio` never folds revolver capacity into cash). |
 | **Secondary Bond YTM & Spreads** | `FINRA TRACE / Secondary OTC Bond Tape` | Requires verified bond observations and matching Treasury yields. Elevated or widening spreads may warrant closer review; no universal threshold establishes restructuring or equity timing. Legacy prototype snapshots are withheld. |
+| **Macro Credit Benchmark** | `US Treasury Curve & FRED ICE BofA Indices` | Surfaces prevailing Treasury yields and `BBB` / `HY` effective yields as broad market-regime borrowing context—explicitly separate from issuer-specific secondary bond quotes. |
 | **Duration vs. Default Risk** | `Yield, Treasury spread and instrument terms` | Rate changes, credit, liquidity and embedded options can all affect price. A simple Treasury yield difference is not OAS. Missing data remain explicitly unavailable. |
 
 </details>
@@ -212,6 +214,8 @@
 **Credit Spread (bps over matching Treasury):** N/A — verified observations unavailable.
 
 No credit-based monitoring verdict is assigned while these inputs are unverified.
+
+**Macro Credit Benchmark (Broad Regime Index, 2026-11-19 — Not Issuer Quote):** Treasury 2Y `4.76%` / 5Y `4.86%` / 10Y `5.04%` | ICE BofA BBB `6.14%` (`117 bps` OAS) | US HY `8.35%` (`352 bps` OAS).
 
 <details markdown="1">
 <summary>How to interpret credit data and missing coverage</summary>
@@ -326,7 +330,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`-$485.1M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`-$5.0M`** |
 | **C-Suite Cluster Buy Alert:** | None detected in trailing 12 months |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `35` direct registered shareholders. |
 
@@ -375,7 +379,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-16 17:35 UTC` |
+| **Generated** | `2026-11-20 16:06 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-12-31 -> 2026-09-30` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -412,22 +416,22 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **0** | 70 | 0 (0 C-Suite) | No | `$0` | `$485,050,837` | **`-$485,050,837`** |
+| **0** | 14 | 0 (0 C-Suite) | No | `$0` | `$4,963,729` | **`-$4,963,729`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-11-02` | `2026-11-04` | **Bealmear Richard Craig** | CFO | `S - Sale+OE` | 16,727 | `$25.55` | `$427,375` |
-| `2026-11-02` | `2026-11-04` | **Dewitte Jacob** | Co-Founder, CEO, 10% | `S - Sale` | 80,000 | `$24.64` | `$1,971,193` |
-| `2026-11-02` | `2026-11-04` | **Cochran Caroline** | Co-Founder, COO, 10% | `S - Sale` | 80,000 | `$24.64` | `$1,971,193` |
-| `2026-10-29` | `2026-11-02` | **Hanson John** | Chief of Staff | `S - Sale` | 1,034 | `$26.71` | `$27,616` |
-| `2026-10-29` | `2026-11-02` | **Renner Alexandra** | Chief Product Officer | `S - Sale` | 1,068 | `$26.71` | `$28,524` |
-| `2026-10-20` | `2026-10-22` | **Narayanadas Vivek** | GC, Secretary | `S - Sale` | 1,021 | `$26.50` | `$27,057` |
-| `2026-10-19` | `2026-10-20` | **Narayanadas Vivek** | GC, Secretary | `S - Sale+OE` | 2,359 | `$27.63` | `$65,179` |
-| `2026-10-14` | `2026-10-15` | **Renner Alexandra** | Chief Product Officer | `S - Sale+OE` | 688 | `$30.75` | `$21,156` |
-| `2026-10-09` | `2026-10-13` | **Narayanadas Vivek** | GC, Secretary | `S - Sale+OE` | 364 | `$34.69` | `$12,627` |
-| `2026-10-06` | `2026-10-08` | **Narayanadas Vivek** | GC, Secretary | `S - Sale` | 288 | `$37.29` | `$10,740` |
+| `2026-11-18` | `2026-11-19` | **Narayanadas Vivek** | General Counsel & Secretary | `S - Sale` | 188 | `$23.18` | `$4,358` |
+| `2026-11-13` | `2026-11-17` | **Webster Ryan** | VP of Fuel Fabrication | `S - Sale` | 5,213 | `$23.29` | `$121,434` |
+| `2026-11-16` | `2026-11-17` | **Renner Alexandra** | Chief Product Officer | `S - Sale` | 530 | `$23.73` | `$12,575` |
+| `2026-11-16` | `2026-11-17` | **Hanson John** | Chief of Staff | `S - Sale` | 513 | `$23.73` | `$12,172` |
+| `2026-11-13` | `2026-11-17` | **Narayanadas Vivek** | General Counsel & Secretary | `S - Sale` | 936 | `$23.56` | `$22,055` |
+| `2026-11-16` | `2026-11-17` | **Narayanadas Vivek** | General Counsel & Secretary | `S - Sale` | 229 | `$22.61` | `$5,178` |
+| `2026-11-13` | `2026-11-16` | **Goodwin William Carroll Murphy** | Chief Strategy Officer | `S - Sale` | 11,366 | `$23.56` | `$267,820` |
+| `2026-11-02` | `2026-11-04` | **Bealmear Richard Craig** | Chief Financial Officer | `S - Sale` | 16,727 | `$25.55` | `$427,375` |
+| `2026-11-02` | `2026-11-04` | **DeWitte Jacob** | Co-Founder, CEO | `S - Sale` | 80,000 | `$24.64` | `$1,971,193` |
+| `2026-11-02` | `2026-11-04` | **Cochran Caroline** | Co-Founder, COO | `S - Sale` | 80,000 | `$24.64` | `$1,971,193` |
 
 ## 2. Income Statement
 
