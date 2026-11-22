@@ -3,9 +3,9 @@
 
 [☕ Daily Morning Briefing](https://bobmahalo.github.io/morning-briefing/) | [📈 $100K Model Portfolio](https://bobmahalo.github.io/morning-briefing/PORTFOLIO.html) | [🗄️ Open SEC Data Lake](https://bobmahalo.github.io/morning-briefing/DATA_LAKE.html) | [🏛️ S&P 1500 Screen](https://bobmahalo.github.io/morning-briefing/SP1500_SCREEN.html) | [🎓 Master Curriculum](https://bobmahalo.github.io/morning-briefing/CURRICULUM.html) | [🔬 SSR Executive Curriculum](https://bobmahalo.github.io/morning-briefing/SSR_CURRICULUM.html) | [🗂️ Single Stock Directory](https://bobmahalo.github.io/Single-Stock-Scan/)
 
-> **Generated:** `2026-11-20 16:05 UTC` | **CIK:** `0001326380` | **SIC:** `5734` | **FYE:** `Jan 30`  
-> **Current Price:** `$26.13` | **Market Cap:** `$13.18B` | **Enterprise Value:** `$12.66B`  
-> **TTM Free Cash Flow Yield:** **`5.2%`** (SBC-Adjusted: **`5.0%`**)
+> **Generated:** `2026-11-22 18:12 UTC` | **CIK:** `0001326380` | **SIC:** `5734` | **FYE:** `Jan 30`  
+> **Current Price:** `$26.71` | **Market Cap:** `$13.48B` | **Enterprise Value:** `$12.95B`  
+> **TTM Free Cash Flow Yield:** **`5.1%`** (SBC-Adjusted: **`4.9%`**)
 
 ---
 
@@ -17,9 +17,9 @@
 │                  VERDICT: MICRO-TURNAROUND & VALUE CATALYST                  │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ ASYMMETRIC PAYOFF PROFILE: 0.4x : 1.0 (Unfavorable Skew <1.0x)*              │
-│ • Downside to Net Cash Floor:        -96.1% ($1.03 vs $26.13)*               │
-│ • Upside to Intrinsic Fair Value:    +35.0% ($35.28 Target 1)                │
-│ • Catalytic Convergence Target:      +75.5% ($45.86 Target 2)                │
+│ • Downside to Net Cash Floor:        -96.1% ($1.03 vs $26.71)*               │
+│ • Upside to Intrinsic Fair Value:    +35.0% ($36.06 Target 1)                │
+│ • Catalytic Convergence Target:      +75.5% ($46.88 Target 2)                │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -43,9 +43,9 @@
 
 | Convergence Pillar | Factor Score & Visual Meter | Key Forensic Metrics | Strict Value Threshold |
 | :--- | :---: | :--- | :--- |
-| **🛡️ Financial Health:** | <nobr>`[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `2.72` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
-| **💎 Valuation Asymmetry:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **FCF Yield:** `5.2%`<br>• **Net Cash:** `$1.03/sh` (3.9% of price)<br>• **Graham NCAV:** `$1.83/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
-| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **1Y Shares:** `+39.1%` (Dilution)<br>• **SBC % OCF:** `4.4%`<br>• **Insiders:** `+$97.9M` (Cluster Buy) | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
+| **🛡️ Financial Health:** | <nobr>`[🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜]  5/10`</nobr> | • **Piotroski:** `6/9`<br>• **Altman Z:** `2.75` (GREY ZONE (1.81 - 2.99))<br>• **Beneish M:** `N/A` | • Piotroski ≥ 7<br>• Altman Z ≥ 3.0 (Safe Zone)<br>• Beneish M < -1.78 (Clean) |
+| **💎 Valuation Asymmetry:** | <nobr>`[🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜]  1/10`</nobr> | • **FCF Yield:** `5.1%`<br>• **Net Cash:** `$1.03/sh` (3.9% of price)<br>• **Graham NCAV:** `$1.83/sh` | • FCF Yield ≥ 10.0%<br>• Net Cash > $0 (Ex-Debt)<br>• Price ≤ 0.67 × NCAV (Net-Net) |
+| **🏛️ Capital Discipline:** | <nobr>`[🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜]  4/10`</nobr> | • **1Y Shares:** `+39.1%` (Dilution)<br>• **SBC % OCF:** `4.4%`<br>• **Insiders:** `+$118.9M` (Cluster Buy) | • Cannibal Buybacks ≤ 0.0% Dilution<br>• SBC ≤ 30.0% of OCF<br>• C-Suite Cluster Buying |
 
 <details markdown="1">
 <summary>💡 <b>[*] Forensic Factor Radar & Warning Guide (Why the flags matter)</b></summary>
@@ -78,12 +78,12 @@
 
 | Balance Sheet Metric | Per-Share Value | % of Share Price | Forensic Margin of Safety |
 | :--- | ---: | ---: | :--- |
-| **Current Market Price** | **$26.13** | `100.0%` | Baseline entry quote |
+| **Current Market Price** | **$26.71** | `100.0%` | Baseline entry quote |
 | **Net Cash Floor (Ex-Debt)** | **$1.03/sh** | `3.9%` | Bank cash backs 3.9% of stock price (`Cash $4.85B - Debt $4.33B = +$521.1M` across 504.5M sh) |
-| **Graham NCAV Floor** | **$1.83/sh** | `7.0%` | Net liquid assets cover 7.0% of stock price (`Curr. Assets $5.93B - Total Liab. $5.00B = +$922.2M`) |
-| **Tangible Book Value** | **$12.17/sh** | `46.6%` | Tangible physical assets cover 46.6% of price (`Total Tangible Equity: $6.14B`) |
-| **Zero-Growth DCF Floor** | **$16.60** | `63.5%` | Intrinsic value assuming zero future earnings growth |
-| **5-Year Price Corridor** | **$9.95 – $64.83** | `72th %-tile` | Elevated Cycle Range |
+| **Graham NCAV Floor** | **$1.83/sh** | `6.9%` | Net liquid assets cover 6.9% of stock price (`Curr. Assets $5.93B - Total Liab. $5.00B = +$922.2M`) |
+| **Tangible Book Value** | **$12.17/sh** | `45.6%` | Tangible physical assets cover 45.6% of price (`Total Tangible Equity: $6.14B`) |
+| **Zero-Growth DCF Floor** | **$16.60** | `62.1%` | Intrinsic value assuming zero future earnings growth |
+| **5-Year Price Corridor** | **$9.95 – $64.83** | `76th %-tile` | Elevated Cycle Range |
 
 <details markdown="1">
 <summary>💡 <b>What is the "Downside Floor" & Margin of Safety?</b></summary>
@@ -107,9 +107,9 @@
 
 | Tranche | Order Type | Target Price | Allocation USD | Target Shares | Trigger Condition |
 | :---: | :---: | ---: | ---: | ---: | :--- |
-| **T1** | `MARKET` | **$26.13** | $933.24 (33.3%) | 35 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
-| **T2** | `LIMIT` | **$24.25** | $933.24 (33.3%) | 38 | -7.2% Support Retest (Volatility-Adjusted (14-Period ATR 7.2%) Limit) |
-| **T3** | `LIMIT` | **$22.38** | $933.52 (33.3%) | 41 | -14.4% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 7.2%) Deep Liquidity Limit) |
+| **T1** | `MARKET` | **$26.71** | $933.24 (33.3%) | 34 | Stage 2 Forensic Triage Pass (Immediate Baseline Exposure) |
+| **T2** | `LIMIT` | **$24.83** | $933.24 (33.3%) | 37 | -7.0% Support Retest (Volatility-Adjusted (14-Period ATR 7.0%) Limit) |
+| **T3** | `LIMIT` | **$22.96** | $933.52 (33.3%) | 40 | -14.1% Capitulation Wick / Liquidity Flush (Volatility-Adjusted (14-Period ATR 7.0%) Deep Liquidity Limit) |
 
 <details markdown="1">
 <summary>💡 <b>Why 3 Tranches? (How pros buy without getting chopped up)</b></summary>
@@ -129,10 +129,10 @@
 
 | Exit / Stop Parameter | Target Price & Upside | Deterministic Execution Rule |
 | :--- | :--- | :--- |
-| **Target 1 (Lock in Capital):** | **$35.28** (`+35.0%` upside) | Tangible Asset / C-Suite Turnaround Target (Trim 50%) |
-| **Target 2 (Full Fair Value):** | **$45.86** (`+75.5%` upside) | Catalyst Exuberance Target (Full Exit) |
-| **Safety Stop Loss:** | **$19.32** | Turnaround Failure Stop (-20.0% from VWAP $24.15) |
-| **Catastrophic Stop Loss (Non-Negotiable):** | **$18.11** (-25.0% from VWAP $24.15) | Mandatory immediate liquidation overriding any delay for periodic filings. |
+| **Target 1 (Lock in Capital):** | **$36.06** (`+35.0%` upside) | Tangible Asset / C-Suite Turnaround Target (Trim 50%) |
+| **Target 2 (Full Fair Value):** | **$46.88** (`+75.5%` upside) | Catalyst Exuberance Target (Full Exit) |
+| **Safety Stop Loss:** | **$19.78** | Turnaround Failure Stop (-20.0% from VWAP $24.73) |
+| **Catastrophic Stop Loss (Non-Negotiable):** | **$18.55** (-25.0% from VWAP $24.73) | Mandatory immediate liquidation overriding any delay for periodic filings. |
 | **Elevated Volume Exit Trigger:** | `≥ 2.5x – 3.0x ADDV` | Elevated Volume Exit Trigger: Liquidate 50% immediately upon volume spike >= 3.0x ADDV on unconfirmed volume surge. |
 
 <details markdown="1">
@@ -279,21 +279,21 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Valuation Corridor Metric | Audited Reading & Historical Context |
 | :--- | :--- |
-| **5-Year Price Corridor:** | **`$9.95 – $64.83`** \| `[$9.95 ──────────────●───── $64.83] (72th %-tile)` |
+| **5-Year Price Corridor:** | **`$9.95 – $64.83`** \| `[$9.95 ──────────────●───── $64.83] (76th %-tile)` |
 | **52-Week Price Range:** | `$17.79 – $28.30` (Cycle Regime: `Elevated Cycle Range`) |
-| **Primary Valuation Multiple:** | **`24.0x`** P/FCF vs. 5-Year Median `72.7x` (`25th %-tile` — ⚖️ Historical Fair Value) |
+| **Primary Valuation Multiple:** | **`24.6x`** P/FCF vs. 5-Year Median `72.7x` (`27th %-tile` — ⚖️ Historical Fair Value) |
 
 <details markdown="1">
 <summary>🔎 <b>Click to Expand 5-Year Historical Valuation Multiples & Mean Reversion Targets</b></summary>
 
 | Valuation Multiple | Current Multiple | 5Y Historical Range (Min – Med – Max) | 5Y %-tile | Mean Reversion Target | Upside to 5Y Median | Valuation Posture |
 | :--- | ---: | :---: | ---: | ---: | ---: | :--- |
-| **P/FCF** | **`24.0x`** | `16.4x – 72.7x – 143.5x` | `25%` | **$79.11** | `+202.8%` | ⚖️ Historical Fair Value |
-| **P/EBIT** | **`61.8x`** | `42.3x – 54.5x – 63.4x` | `90%` | **$23.02** | `-11.9%` | ⚠️ Multiple Expansion |
-| **P/TBV** | **`2.6x`** | `1.6x – 3.1x – 34.1x` | `44%` | **$30.60** | `+17.1%` | ⚖️ Historical Fair Value |
-| **P/S** | **`4.0x`** | `0.6x – 1.6x – 4.1x` | `98%` | **$10.28** | `-60.7%` | ⚠️ Multiple Expansion |
+| **P/FCF** | **`24.6x`** | `16.4x – 72.7x – 143.5x` | `27%` | **$79.11** | `+196.2%` | ⚖️ Historical Fair Value |
+| **P/EBIT** | **`63.2x`** | `42.3x – 54.5x – 63.4x` | `98%` | **$23.02** | `-13.8%` | ⚠️ Multiple Expansion |
+| **P/TBV** | **`2.7x`** | `1.6x – 3.1x – 34.1x` | `46%` | **$30.60** | `+14.6%` | ⚖️ Historical Fair Value |
+| **P/S** | **`4.0x`** | `0.6x – 1.6x – 4.1x` | `100%` | **$10.28** | `-61.5%` | ⚠️ Multiple Expansion |
 
-> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** GME trades at `24.0x` P/FCF (25th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `72.7x`).
+> **Forensic Mean Reversion Verdict:** **Historical Fair Value Multiple.** GME trades at `24.6x` P/FCF (27th percentile of 5-year history). Valuation aligns with historical norms (5-year median: `72.7x`).
 
 </details>
 
@@ -321,9 +321,9 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Company & Ticker | Relative Scale | Market Cap | FCF Yield | Net Cash / Share | Piotroski F | Altman Z |
 | :--- | :---: | ---: | ---: | ---: | :---: | :---: |
-| **GME** (GameStop Corp.) | `[Subject Firm]` | **$13.2B** | **5.2%** | **+$1.03** | **6/9** | **2.72 (Grey)** |
-| **WSM** (WILLIAMS SONOMA INC) | `[Direct Peer: ~2.3x]` | $29.9B | 4.5% | -$4.24 | N/A | N/A |
-| **BBY** (BEST BUY CO INC) | `[Direct Peer: ~1.7x]` | $21.8B | 8.1% | -$3.38 | 8/9 | N/A |
+| **GME** (GameStop Corp.) | `[Subject Firm]` | **$13.5B** | **5.1%** | **+$1.03** | **6/9** | **2.75 (Grey)** |
+| **WSM** (WILLIAMS SONOMA INC) | `[Direct Peer: ~2.2x]` | $29.9B | 4.5% | -$4.24 | N/A | N/A |
+| **BBY** (BEST BUY CO INC) | `[Direct Peer: ~1.6x]` | $21.8B | 8.1% | -$3.38 | 8/9 | N/A |
 | **BOBS** (Bob's Discount Furnitu..) | `[Smaller Peer: 0.2x]` | $2.7B | 6.6% | -$5.55 | N/A | N/A |
 
 > - `*` = Financial institution / REIT where industrial debt formulas (Altman Z, Piotroski) are not applicable.
@@ -335,7 +335,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Insider & Custody Metric | Audited 12-Month Reading |
 | :--- | :--- |
-| **12-Month Form 4 Open-Market Insider Flow:** | **`+$97.9M`** |
+| **12-Month Form 4 Open-Market Insider Flow:** | **`+$118.9M`** |
 | **C-Suite Cluster Buy Alert:** | 🔥 **YES (CEO/C-Suite actively buying personal shares)** |
 | **10-K Item 5 Direct Registered Holders (DRS Census):** | `177,522` direct registered shareholders. |
 
@@ -384,7 +384,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Audit Vault Parameter | Specification |
 | :--- | :--- |
-| **Generated** | `2026-11-20 16:05 UTC` |
+| **Generated** | `2026-11-22 18:12 UTC` |
 | **TTM Window (4 Discrete Quarters)** | `2025-11-01 -> 2026-08-01` |
 | **Display Units** | USD in `$ Millions` (`$M`), Shares in `Millions` (`M`). Full unrounded precision is stored in `facts.csv` and `statements/*.csv`. |
 | **Cell Codes** | `*` = `DERIVED` (exact filing arithmetic: YTD subtraction, `Gross Profit`, `Free Cash Flow`, or 4Q `TTM` sum) \| `NR` = Not Reported in SEC XBRL \| `NA` = Mathematically Not Applicable. |
@@ -421,22 +421,22 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | Open-Market Buys (`P`) | Open-Market Sales (`S`) | Unique Buyers (C-Suite) | C-Suite Cluster Signal | 12M Total Bought | 12M Total Sold | 12M Net Insider Flow |
 | ---: | ---: | ---: | :--- | ---: | ---: | ---: |
-| **10** | 7 | 5 (1 C-Suite) | **YES (Active C-Suite Cluster)** | `$99,178,946` | `$1,277,250` | **`+$97,901,696`** |
+| **13** | 11 | 5 (1 C-Suite) | **YES (Active C-Suite Cluster)** | `$121,062,891` | `$2,178,893` | **`+$118,883,998`** |
 
 #### Recent Open-Market Form 4 Transactions (`P` / `S` Only)
 
 | Trade Date | Filing Date | Insider Name | Title | Type | Shares | Price | Value (USD) |
 | :--- | :--- | :--- | :--- | :--- | ---: | ---: | ---: |
-| `2026-10-12` | `2026-10-13` | **Moore Daniel William** | PFO and PAO | `S - Sale` | 15,480 | `$27.00` | `$417,960` |
-| `2026-10-13` | `2026-10-13` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 844,130 | `$26.98` | `$22,774,728` |
-| `2026-10-01` | `2026-10-05` | **Moore Daniel William** | PFO and PAO | `S - Sale` | 7,297 | `$24.26` | `$177,025` |
-| `2026-10-01` | `2026-10-05` | **Robinson Mark Haymond** | General Counsel and Secretary | `S - Sale` | 7,296 | `$24.26` | `$177,001` |
-| `2026-10-05` | `2026-10-05` | **Robinson Mark Haymond** | General Counsel and Secretary | `S - Sale` | 3,882 | `$25.42` | `$98,673` |
-| `2026-10-02` | `2026-10-02` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 700,000 | `$24.41` | `$17,084,270` |
-| `2026-10-01` | `2026-10-01` | **Turner Nat** | Director | `P - Purchase` | 10,462 | `$24.33` | `$254,540` |
-| `2026-09-29` | `2026-09-29` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 450,000 | `$23.48` | `$10,563,796` |
-| `2026-09-21` | `2026-09-21` | **Attal Alain** | Director | `P - Purchase` | 17,500 | `$22.97` | `$401,958` |
-| `2026-09-21` | `2026-09-21` | **Cohen Ryan** | President, CEO and Chairman | `P - Purchase` | 1,150,680 | `$22.94` | `$26,393,722` |
+| `2026-10-12` | `2026-10-13` | **Moore Daniel William** | PFO, PAO | `S - Sale` | 15,480 | `$27.00` | `$417,960` |
+| `2026-10-13` | `2026-10-13` | **Cohen Ryan** | Pres, CEO, COB | `P - Purchase` | 844,130 | `$26.98` | `$22,774,728` |
+| `2026-10-01` | `2026-10-05` | **Moore Daniel William** | PFO, PAO | `S - Sale` | 7,297 | `$24.26` | `$177,025` |
+| `2026-10-01` | `2026-10-05` | **Robinson Mark Haymond** | GC, Secretary | `S - Sale` | 11,178 | `$24.66` | `$275,674` |
+| `2026-10-02` | `2026-10-02` | **Cohen Ryan** | Pres, CEO, COB | `P - Purchase` | 700,000 | `$24.41` | `$17,084,270` |
+| `2026-10-01` | `2026-10-01` | **Turner Nat** | Dir | `P - Purchase` | 10,462 | `$24.33` | `$254,540` |
+| `2026-09-29` | `2026-09-29` | **Cohen Ryan** | Pres, CEO, COB | `P - Purchase` | 450,000 | `$23.48` | `$10,563,796` |
+| `2026-09-21` | `2026-09-21` | **Attal Alain** | Dir | `P - Purchase` | 17,500 | `$22.97` | `$401,958` |
+| `2026-09-21` | `2026-09-21` | **Cohen Ryan** | Pres, CEO, COB | `P - Purchase` | 1,150,680 | `$22.94` | `$26,393,723` |
+| `2026-09-10` | `2026-09-10` | **Cohen Ryan** | Pres, CEO, COB | `P - Purchase` | 1,000,000 | `$20.38` | `$20,375,900` |
 
 ## 2. Income Statement
 
@@ -640,7 +640,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | **ROCE Pct** | -17.18% | -17.56% | -1.94% | -0.50% | 2.38% | 4.59% |
 | **ROIC Pct** | `NR` | -31.92% | -1.75% | -4.42% | 6.63% | 7.01% |
 | **Total Shareholder Return USD** | -$1,672.8M | $0 | $0 | -$3,453.8M | $0 | `NR` |
-| **Shareholder Yield Pct** | -12.69% | 0.00% | 0.00% | -26.20% | 0.00% | `NR` |
+| **Shareholder Yield Pct** | -12.41% | 0.00% | 0.00% | -25.63% | 0.00% | `NR` |
 
 ### 5-Year & 10-Year Return on Capital Consistency (`ROIC`, `ROCE`, `ROE`)
 
@@ -659,7 +659,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 | Forensic Model | Score / Reading | Status / Threshold |
 | :--- | :--- | :--- |
 | **Piotroski F-Score (9-Point Quality)** | **6 / 9** | `8-9` Strong, `5-7` Neutral, `<=4` Weak |
-| **Altman Z-Score (Bankruptcy / Solvency)** | **2.72** (GREY ZONE (1.81 - 2.99)) | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
+| **Altman Z-Score (Bankruptcy / Solvency)** | **2.75** (GREY ZONE (1.81 - 2.99)) | `> 2.99` Safe, `1.81 - 2.99` Grey, `< 1.81` Distress |
 | **Beneish M-Score (Earnings Manipulation)** | `NR` | `<= -1.78` Clean, `> -1.78` Manipulation Risk |
 | **SBC / Operating Cash Flow Spread (TTM)** | `4.36%` | `< 10%` Disciplined, `> 20%` Aggressive Stock Handouts |
 | **Serial Acquirer Roll-Up Dilution Audit** | Clean (Organic / Disciplined Capital Allocation) | 5Y M&A = `NR` of 5Y FCF; Goodwill+Intang = `0.0%` of Assets |
@@ -672,7 +672,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | FCF / Price (`FCF/P`) | Earnings / Price (`E/P`) | Tangible Book / Price (`TBV/P`) | Sales / Price (`Sales/P`) | EBIT / EV (`EBIT/EV`) | FCF / EV (`FCF/EV`) |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| **5.22%** | **6.78%** | **46.59%** | **26.94%** | **3.79%** | **5.43%** |
+| **5.11%** | **6.63%** | **45.58%** | **26.35%** | **3.71%** | **5.31%** |
 
 ### Synthetic Deleveraging Calculator (Balance Sheet Debt Paydown Capacity)
 
@@ -684,7 +684,7 @@ Future monitoring will distinguish the issuer's own debt, documented customer ex
 
 | TTM Free Cash Flow | Current Enterprise Value | Implied 10Y FCF CAGR Priced In | Zero-Growth Intrinsic Share Price Floor |
 | ---: | ---: | ---: | ---: |
-| $688.0M | $12,661.5M | `+6.58%` | **`$16.60`** |
+| $688.0M | $12,954.1M | `+6.89%` | **`$16.60`** |
 
 ---
 
