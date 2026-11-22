@@ -7,50 +7,60 @@ Welcome to the central hub for all deep-dive stock scans.
 
 > **Disclaimer:** *These reports are for educational and informational purposes only and do not constitute financial advice. The author is not a licensed financial advisor. All investments carry risk, and you should conduct your own due diligence before making any financial decisions.*
 
-### Available Reports:
+### 🟢 Active Surveillance Roster (31 Live Operating & Portfolio Cards):
 - [AAPL Report](AAPL.html)
 - [AKAM Report](AKAM.html)
-- [ALMS Report](ALMS.html)
 - [APTV Report](APTV.html)
 - [BB Report](BB.html)
 - [CAT Report](CAT.html)
-- [CRMD Report](CRMD.html)
 - [CRON Report](CRON.html)
 - [CRTO Report](CRTO.html)
 - [CRUS Report](CRUS.html)
 - [CRWS Report](CRWS.html)
-- [CULP Report](CULP.html)
 - [DINO Report](DINO.html)
 - [DLTH Report](DLTH.html)
-- [DOW Report](DOW.html)
-- [DXC Report](DXC.html)
 - [EXE Report](EXE.html)
 - [GCO Report](GCO.html)
-- [GLND Report](GLND.html)
 - [GME Report](GME.html)
 - [GOOGL Report](GOOGL.html)
-- [GROW Report](GROW.html)
-- [HOG Report](HOG.html)
 - [IZEA Report](IZEA.html)
-- [KULR Report](KULR.html)
 - [LOVE Report](LOVE.html)
 - [LRN Report](LRN.html)
 - [M Report](M.html)
 - [MMS Report](MMS.html)
-- [MU Report](MU.html)
 - [NKE Report](NKE.html)
-- [NRDS Report](NRDS.html)
 - [NVDA Report](NVDA.html)
-- [OKLO Report](OKLO.html)
-- [PCRX Report](PCRX.html)
 - [PYPL Report](PYPL.html)
-- [RR Report](RR.html)
 - [SBH Report](SBH.html)
 - [SCHW Report](SCHW.html)
 - [SND Report](SND.html)
 - [STRT Report](STRT.html)
-- [TTWO Report](TTWO.html)
 - [UEIC Report](UEIC.html)
 - [ULS Report](ULS.html)
 - [ZDGE Report](ZDGE.html)
 - [ZUMZ Report](ZUMZ.html)
+
+---
+
+<details markdown="1">
+<summary>🗄️ <b>Cold Archive — Quarantined Passes & Closed / Aged (&gt;30D) Historical Snapshots (15 Frozen Cards — Click to Expand)</b></summary>
+
+> **Lifecycle Policy:** Cards in the Cold Archive remain permanently accessible at their frozen snapshot date and are excluded from routine daily batch refreshes until they re-qualify on a Stage 1 convergence screen or are explicitly re-queried.
+
+- [ALMS Report](ALMS.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-25*
+- [CRMD Report](CRMD.html) — *Quarantined Pass | 2026-11-07*
+- [CULP Report](CULP.html) — *Quarantined Pass | 2026-10-29*
+- [DOW Report](DOW.html) — *Quarantined Pass | 2026-11-05*
+- [DXC Report](DXC.html) — *Quarantined Pass | 2026-11-15*
+- [GLND Report](GLND.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
+- [GROW Report](GROW.html) — *Quarantined Pass | 2026-11-15*
+- [HOG Report](HOG.html) — *Closed Lifecycle: TARGET_2_HIT | 2026-10-29*
+- [KULR Report](KULR.html) — *Quarantined Pass | 2026-11-05*
+- [MU Report](MU.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
+- [NRDS Report](NRDS.html) — *Closed Lifecycle: CATASTROPHIC_STOP | 2026-10-29*
+- [OKLO Report](OKLO.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
+- [PCRX Report](PCRX.html) — *Quarantined Pass | 2026-10-29*
+- [RR Report](RR.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
+- [TTWO Report](TTWO.html) — *Quarantined Pass | 2026-11-22*
+
+</details>
