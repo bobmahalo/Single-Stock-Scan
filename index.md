@@ -7,7 +7,7 @@ Welcome to the central hub for all deep-dive stock scans.
 
 > **Disclaimer:** *These reports are for educational and informational purposes only and do not constitute financial advice. The author is not a licensed financial advisor. All investments carry risk, and you should conduct your own due diligence before making any financial decisions.*
 
-### 🟢 Active Surveillance Roster (31 Live Operating & Portfolio Cards):
+### 🟢 Active Surveillance Roster (32 Live Operating & Portfolio Cards):
 - [AAPL Report](AAPL.html)
 - [AKAM Report](AKAM.html)
 - [APTV Report](APTV.html)
@@ -23,6 +23,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [GCO Report](GCO.html)
 - [GME Report](GME.html)
 - [GOOGL Report](GOOGL.html)
+- [HOG Report](HOG.html)
 - [IZEA Report](IZEA.html)
 - [LOVE Report](LOVE.html)
 - [LRN Report](LRN.html)
@@ -54,7 +55,6 @@ Welcome to the central hub for all deep-dive stock scans.
 - [DXC Report](DXC.html) — *Quarantined Pass | 2026-11-15*
 - [GLND Report](GLND.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
 - [GROW Report](GROW.html) — *Quarantined Pass | 2026-11-15*
-- [HOG Report](HOG.html) — *Closed Lifecycle: TARGET_2_HIT | 2026-10-29*
 - [KULR Report](KULR.html) — *Quarantined Pass | 2026-11-05*
 - [MU Report](MU.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
 - [NRDS Report](NRDS.html) — *Closed Lifecycle: CATASTROPHIC_STOP | 2026-10-29*
@@ -62,5 +62,6 @@ Welcome to the central hub for all deep-dive stock scans.
 - [PCRX Report](PCRX.html) — *Quarantined Pass | 2026-10-29*
 - [RR Report](RR.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
 - [TTWO Report](TTWO.html) — *Quarantined Pass | 2026-11-22*
+- [UFI Report](UFI.html) — *Quarantined Pass | 2026-11-25*
 
 </details>
