@@ -13,6 +13,7 @@ Welcome to the central hub for all deep-dive stock scans.
 - [APTV Report](APTV.html)
 - [BB Report](BB.html)
 - [CAT Report](CAT.html)
+- [CRMD Report](CRMD.html)
 - [CRON Report](CRON.html)
 - [CRTO Report](CRTO.html)
 - [CRUS Report](CRUS.html)
@@ -21,7 +22,6 @@ Welcome to the central hub for all deep-dive stock scans.
 - [DLTH Report](DLTH.html)
 - [EXE Report](EXE.html)
 - [GCO Report](GCO.html)
-- [GME Report](GME.html)
 - [GOOGL Report](GOOGL.html)
 - [HOG Report](HOG.html)
 - [IZEA Report](IZEA.html)
@@ -49,11 +49,11 @@ Welcome to the central hub for all deep-dive stock scans.
 > **Lifecycle Policy:** Cards in the Cold Archive remain permanently accessible at their frozen snapshot date and are excluded from routine daily batch refreshes until they re-qualify on a Stage 1 convergence screen or are explicitly re-queried.
 
 - [ALMS Report](ALMS.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-25*
-- [CRMD Report](CRMD.html) — *Quarantined Pass | 2026-11-07*
 - [CULP Report](CULP.html) — *Quarantined Pass | 2026-10-29*
 - [DOW Report](DOW.html) — *Quarantined Pass | 2026-11-05*
 - [DXC Report](DXC.html) — *Quarantined Pass | 2026-11-15*
 - [GLND Report](GLND.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
+- [GME Report](GME.html) — *Aged >30D Snapshot | 2026-10-26*
 - [GROW Report](GROW.html) — *Quarantined Pass | 2026-11-15*
 - [KULR Report](KULR.html) — *Quarantined Pass | 2026-11-05*
 - [MU Report](MU.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
@@ -62,6 +62,6 @@ Welcome to the central hub for all deep-dive stock scans.
 - [PCRX Report](PCRX.html) — *Quarantined Pass | 2026-10-29*
 - [RR Report](RR.html) — *Closed Lifecycle: STOPPED_OUT | 2026-10-29*
 - [TTWO Report](TTWO.html) — *Quarantined Pass | 2026-11-22*
-- [UFI Report](UFI.html) — *Quarantined Pass | 2026-11-25*
+- [UFI Report](UFI.html) — *Quarantined Pass | 2026-11-27*
 
 </details>
